@@ -8,7 +8,7 @@
 |---|--------|----------|---------|
 | 1 | Van-e UNAS API-hozzáférés (Premium/VIP)? Ki generálja a kulcsot? | a tulajdonos generálja az UNAS fiókban | **lezárva** – van hozzáférés |
 | 2 | Az UNAS API visszaadja-e a „kapcsolódó termékek"-et és az alaptartozékokat strukturáltan? | a csatolt (kompatibilis) kiegészítők az UNAS-ban megvannak; a pontos API-mező a mintaválaszból derül ki | részben lezárva – adat van, mező ellenőrzendő |
-| 3 | Az UNAS áruház többnyelvű-e (van-e angol termékleírás)? | ha nincs: fordítás az adminban | nyitott |
+| 3 | Az UNAS áruház többnyelvű-e? | 5 nyelv (hu, en, sk, de, nl) egy adatbázisban, 5 domainen | **lezárva** |
 | 4 | Technológia: React Native/Expo + Payload CMS (javasolt) vagy Flutter / más CMS? | javaslat elfogadása | nyitott |
 | 5 | Kell-e webes nézet az MVP-ben (univerzális link a webshopról)? | igen, olcsó az Expo web-buildből / Next.js | nyitott |
 | 6 | Ki a szakmai jóváhagyó a `risks` témakörhöz? | Dr. Zátrok Zsolt | **lezárva** |
@@ -30,3 +30,4 @@
 | 2026-11-19 | Publikus katalógus statikus JSON-ként generálva | sebesség, költség, offline, CMS-függetlenség |
 | 2026-11-19 | UNAS API-kulcsot a tulajdonos generál; a termékinformációk, a csatolt (kompatibilis) kiegészítők és a kockázat/ellenjavallat adatok forrása az UNAS | az adat már az UNAS-ban van, nem duplikáljuk |
 | 2026-11-19 | A `risks` témakör és minden orvosi tartalom szakmai jóváhagyója Dr. Zátrok Zsolt; az UNAS-ból átvett kockázat-szövegek már validáltak, importáláskor `published` státuszt kaphatnak, kézi módosítás után újra jóváhagyás kell | minden Medimarket-tartalmat ő validált |
+| 2026-11-19 | Induló nyelvek: hu, en, sk, de, nl – az UNAS 5 nyelvi domainje szerint; a terméktörzs nyelvi változatai az UNAS-ból jönnek | egységes UNAS-adatbázis 5 domainnel |

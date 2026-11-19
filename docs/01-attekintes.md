@@ -39,7 +39,7 @@ A tartalom gerince a rövid videó, amelyet szöveges ismertető (és szükség 
 - YouTube-videók beágyazása; szöveges ismertetők; képek.
 - Admin felület: készülékek, kiegészítők, kompatibilitás, tartalmak, videók, nyelvek, publikálás.
 - UNAS-szinkron a terméktörzs-adatokra.
-- Magyar és angol nyelv, bővíthető nyelvlista.
+- Öt nyelv indulástól (magyar, angol, szlovák, német, holland – az UNAS 5 nyelvi domainje szerint), bővíthető nyelvlista.
 - iOS és Android (egy kódbázis), opcionálisan webes nézet (link az UNAS termékoldalról).
 
 **Nincs benne (MVP-n kívül, lásd 10. fejezet)**

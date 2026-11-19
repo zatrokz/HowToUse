@@ -45,15 +45,19 @@ Az UNAS-képeket nem hotlinkeljük: letöltés, saját tárhelyre (S3-kompatibil
 CDN. Így az app gyors és nem függ az UNAS CDN-től; az eredeti URL megőrzött.
 
 ## 5.6 Többnyelvű UNAS-tartalom
-Ha az UNAS áruház többnyelvű, a nyelvi változatok külön lekérhetők (nyelvparaméter / külön áruház-példány);
-ha nem, az UNAS csak `hu` forrás, a többi nyelv az adminban készül (gépi fordítás-javaslat + jóváhagyás, 06. fejezet).
+A Medimarket UNAS-rendszere **egy adatbázisra épülő, 5 domaines, 5 nyelvű** áruház:
+medimarket.hu (hu), medimarket.com (en), zdravezitie.sk (sk), lymphpumpe.de (de), jouwzorgwinkel.nl (nl).
+A szinkron ezért nyelvenként kéri le a terméktörzset (az UNAS API nyelvparaméterével / nyelvi változat szerint –
+a pontos mód a mintaválaszból véglegesítendő), és a `Product.name/short_description/long_description[lang]`,
+valamint a kockázat-szekció mind az 5 nyelven az UNAS-ból töltődik. A termék `unas_url` mezője nyelvenként a megfelelő
+domain termékoldalára mutat. Az adminban csak az app-specifikus szövegek fordítása marad (06. fejezet).
 
 ## 5.7 Ellenőrzendő pontok (a fejlesztés első hetében)
 1. ~~Van-e API-hozzáférés~~ – van; a tulajdonos generálja a kulcsot (lásd 5.8).
 2. A `getProduct` tényleges XML-sémája (mezőnevek), különösen: **kapcsolódó/hozzárendelt termékek** – ha az API nem adja vissza, alternatíva: dedikált UNAS-paraméter („Kompatibilis készülék: SKU-lista") vagy kézi kapcsolás az adminban.
 3. Alaptartozékok forrása: szerepelnek-e strukturáltan (paraméter / kapcsolódó termék) vagy csak a leírás szövegében → ha csak szövegben, az adminban kézi lista.
 4. Hívásszám-korlát és a `TimeStart` delta pontos viselkedése.
-5. Többnyelvű mezők elérhetősége.
+5. Többnyelvű mezők lekérésének módja az API-ban (nyelvparaméter vs. nyelvi változat), mind az 5 nyelvre.
 
 ## 5.8 Az API-kulcs kezelése
 - A kulcs **titok**: soha nem kerül a repóba, chatüzenetbe vagy dokumentumba. Tárolás: a fejlesztői felhő-környezet

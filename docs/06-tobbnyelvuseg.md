@@ -1,11 +1,23 @@
 # 06 – Többnyelvűség
 
-> Verzió: 0.1.0 · Dátum: 2026-11-19 · Állapot: tervezet
+> Verzió: 0.2.1 · Dátum: 2026-11-19 · Állapot: tervezet
 
 ## 6.1 Elvek
 - Nyelv **adat, nem kód**: új nyelv felvétele az adminban (kód, név, fallback), sémaváltozás és app-kiadás nélkül.
 - Három réteg, mind lokalizált: **felületi szövegek** (gombok, címkék), **tartalom** (cím, ismertető, kompatibilitás-funkció), **videó** (nyelvenként eltérő YouTube-azonosító vagy közös videó felirattal).
-- Induló nyelvek: `hu` (alapértelmezett, forrásnyelv), `en`. Fallback-lánc: `xx → en → hu`.
+- Nyelvek induláskor – a Medimarket UNAS-rendszerének 5 nyelvi domainje szerint:
+
+| Kód | Nyelv | Webáruház-domain |
+|-----|-------|------------------|
+| `hu` | magyar (alapértelmezett, forrásnyelv) | medimarket.hu |
+| `en` | angol | medimarket.com |
+| `sk` | szlovák | zdravezitie.sk |
+| `de` | német | lymphpumpe.de |
+| `nl` | holland | jouwzorgwinkel.nl |
+
+  Fallback-lánc: `xx → en → hu`. További nyelv felvétele az adminban, kód nélküli bővítéssel.
+- A **terméktörzs nyelvi változatai** (név, leírás, kockázatok) az egységes UNAS-adatbázisból érkeznek mind az 5 nyelven;
+  az app-specifikus szövegeket (témakör-címek, funkció-leírások, felületi szövegek) az adminban fordítjuk.
 
 ## 6.2 Felületi szövegek
 - Kulcs-alapú i18n (`i18next`/ICU formátum, többes szám, dátum). A fordítások a CMS-ben szerkeszthetők és a

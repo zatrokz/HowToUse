@@ -55,7 +55,7 @@ Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TART
 | Felhasználói app | Kereső (kategória + terméknév), eszköz-oldal 7 témakörrel, több videó/ismertető témakörönként, nyelvváltás |
 | Admin felület | Készülékek, kompatibilis kiegészítők, YouTube-videók és szöveges ismertetők hozzárendelése, többnyelvű szerkesztés, publikálás |
 | UNAS szinkron | Terméknév, leírás, képek, kategóriák, alaptartozékok, kapcsolódó termékek automatikus átvétele |
-| Többnyelvűség | Magyar + angol induláskor; tetszőleges nyelv felvehető az adminban, fallback-lánccal |
+| Többnyelvűség | 5 nyelv induláskor (hu, en, sk, de, nl – az UNAS 5 domainje); tetszőleges nyelv felvehető az adminban, fallback-lánccal |
 | Videók | YouTube beágyazás, nyelvenkénti videóváltozat, playlist-alapú rendezés |
 
 ## Verziókezelés
