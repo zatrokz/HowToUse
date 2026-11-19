@@ -1,6 +1,6 @@
 # Részletes tartalomjegyzék
 
-> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.5.0, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
+> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.5.1, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
 
 - [README](../README.md)
 - [CHANGELOG](../CHANGELOG.md)

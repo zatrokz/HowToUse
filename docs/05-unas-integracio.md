@@ -1,6 +1,6 @@
 # 05 – UNAS integráció
 
-> Verzió: 0.4.0 · Dátum: 2026-11-19 · Állapot: **mezőleképezés véglegesítve, teljes terméktörzs letöltve** (437 termék × 5 nyelv, [../data/unas/](../data/unas/README.md); minták: [samples/](samples/))
+> Verzió: 0.4.1 · Dátum: 2026-11-19 · Állapot: **mezőleképezés véglegesítve, teljes terméktörzs letöltve** (437 termék × 5 nyelv, [../data/unas/](../data/unas/README.md); minták: [samples/](samples/))
 
 ## 5.1 Cél
 A terméktörzs (név, leírás, képek, kategória, alaptartozékok, kapcsolódó termékek, paraméterek)
@@ -50,7 +50,7 @@ A terméktörzs (név, leírás, képek, kategória, alaptartozékok, kapcsolód
 | `AdditionalProducts.AdditionalProduct[]` (`Id`, `Sku`, `Name`) | Compatibility(source=unas_related, accepted=true) | **irány: a készüléknél vannak felsorolva a kiegészítők** (pl. Luna Plus → fülcsipesz-elektródák); a tartozéknál nincs visszamutatás. A lista vegyes: tartozék, fogyóanyag (gél, kősó-adalék), elektródák (Dolito: 30 tétel, PeroBravo: 13, SaltDome: 2, DermaDry: 0). Kivétel: elektródáknál keveredik (más elektródák + készülék) → az import mindkét irányban rögzíti, a típus (alaptartozék/opcionális/fogyóanyag) és a funkció-szöveg az adminban egészül ki. A `Name` nyelvfüggő, de a párosítás `Sku` szerint történik |
 | `SimilarProducts`, `CrossSale`, `UpSale`, `Variants`, `Prices`, `Stocks`, `Statistics` | – | nem használjuk; a szinkron **el sem tárolja** (ár, készlet, forgalom nem kerül az appba) |
 | `Url`, `SefUrl` | Product.unas_url[lang] | **a válaszban minden nyelven a .hu URL jön** → nyelvenként összeállítjuk: `https://www.<domain>/<SefUrl>` (medimarket.com, zdravezitie.sk, lymphpumpe.de, jouwzorgwinkel.nl); a slug minden domainen azonos (ellenőrizve: mind a 4 külföldi URL 200-at ad) |
-| `NotVisibleInLanguage.Language[]` | Product.hidden_in_langs[] | ha egy nyelven nem látható, az app sem mutatja ott. **Az érték angol nyelvnév, nem ISO-kód** (pl. `German`; Dolito és PeroBravo németül nem látható) → leképezés: Hungarian→hu, English→en, Slovak→sk, German→de, Dutch→nl. A mező minden nyelvű válaszban ugyanaz |
+| `NotVisibleInLanguage.Language[]` | Product.unas_hidden_in_langs[] (csak információ) | **Tulajdonosi döntés (2026-11-19): az app minden terméket minden nyelven megjelenít**, mert a leírások minden nyelven megvannak; az UNAS nyelvi rejtettsége a webshop értékesítési korlátja, nem az appé. Az érték angol nyelvnév (`German`), leképezés: Hungarian→hu, English→en, Slovak→sk, German→de, Dutch→nl |
 | `Meta.Title`, `Meta.Description` | Product.seo[lang] (opcionális) | nyelvfüggő; az app megosztási/kereső-előnézetéhez használható |
 | `LastModTime` | UnasProductSnapshot.unas_modified_at | delta-szinkron ellenőrzéséhez |
 
@@ -92,6 +92,13 @@ A nem magyar leírások `<!HTML KOD>` előtaggal, kódolt HTML-ként érkeznek; 
 Új teendő a fejlesztésnek: `<!HTML KOD>` dekódoló, „A csomag tartalma” és ellenjavallat-szekció kinyerő (HTML-parser, a `pp-*` CSS-osztályok alapján), `enummore` paraméter-felbontó (`&comma;`), nyelvnév→ISO leképezés.
 
 **Teljes betöltés (2026-11-19):** `data/unas/` – 437 termék, 159 kategória, 5 nyelv, anonimizálva; ez az app adatbázisának induló töltése.
+
+**Változatok összevonása (tulajdonosi döntés, 2026-11-19):** a felszereltség-változatok (nyirokmasszázs gépeknél a mandzsetta-méret és
+-összeállítás szerinti „készlet” termékek, pl. `PQ1000Pl-ll-am`) **nem külön készülékek** az appban. Szabály: egy modell (Power Q-1000 Plus,
+Power Q-1000 Premium, Power Q-2200, PressCare G250/G280/G400) egyetlen készülék-oldalt kap; a fő termék az UNAS alapkészüléke (`WJPQ-…`),
+ahol nincs ilyen, a legteljesebb leírású változat (PressCare: S készlet), a modellnévre rövidítve. A változatok `Product.variants[]`-ként
+(SKU, név, webshop-URL) kapcsolódnak; az adminban a csoportosítás felülbírálható. Más kategóriákban (Moves Loop színek, Mambo Max méretek)
+ugyanez a szabály alkalmazandó, ha azok bekerülnek az appba.
 
 **Hívásszám-fegyelem (a tulajdonos kérése):** a blokkolási szintet soha nem közelítjük meg. Szabály: hívások között legalább 3 mp szünet, egy futásban max. 300 hívás, új paraméter-kombinációt először egyetlen `LimitNum=1` hívással próbálunk; a szinkron számolja a sikeres/sikertelen hívásokat és 3 sikertelen után leáll. A teljes aktív terméktörzs 438 termék (2026-11-19) → 5 nyelv × 5 lap (100/lap) = 25 hívás egy teljes szinkronhoz.
 

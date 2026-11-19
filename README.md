@@ -41,7 +41,7 @@ Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TART
 
 ### Prototípus
 
-- [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus 0.4.0 (5 nyelv, a teljes UNAS-terméktörzs 172 készüléke, YouTube-videók); **élő nézet: https://claude.ai/artifact/Wuk4GrB6fxuYgU8kjvWR3n**
+- [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus 0.4.1 (5 nyelv, a teljes UNAS-terméktörzs 110 készüléke változatok nélkül, YouTube-videók); **élő nézet: https://claude.ai/artifact/Wuk4GrB6fxuYgU8kjvWR3n**
   (a GitHub csak a kódot mutatja, működő nézetet nem; a régi, mintaadatos 0.2.0 változat: https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM)
 - [docs/samples/youtube-csatorna-videok.md](docs/samples/youtube-csatorna-videok.md) – Dr. Zátrok Zsolt YouTube-csatornájának 90 videója és párosításuk az 5 készülékhez (`.json` is)
 - `docs/prototype/data/products.json` – a prototípus adatai, a `docs/samples/` UNAS-válaszokból kinyerve; `docs/prototype/img/` – termékképek

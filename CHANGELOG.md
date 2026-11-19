@@ -2,6 +2,14 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.5.1] – 2026-11-19
+
+### Módosítva
+- Tulajdonosi döntések: **minden termék minden nyelven megjelenik** (az UNAS nyelvi rejtettségét az app nem veszi át);
+  a **felszereltség-változatok nem külön készülékek** – nyirokmasszázs gépeknél 69 tételből 7 fő készülék (Power Q-1000 Plus / Premium,
+  Q-2200, Q-8060, PressCare G250 / G280 / G400), a változatok a készülék-oldalon listázva webshop-linkkel. Szabály a `docs/05` 5.7-ben.
+- Prototípus 0.4.1: 110 készülék, változat-lista a Bemutatás témakörben, nyelvi szűrés megszüntetve.
+
 ## [0.5.0] – 2026-11-19
 
 ### Hozzáadva
