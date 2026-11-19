@@ -36,10 +36,22 @@
 
 - Felül: keresőmező (terméknév, típusszám, kiegészítő neve, szinonima – pl. „myolito", „EMS", „izomstimulátor").
   Keresés **helyben**, a letöltött katalóguson, írás közben szűkül (prefix + fuzzy).
-- Alatta **kategória-csempék** ikonnal (pl. Lézerterápia, Mágnesterápia, Elektroterápia / TENS-EMS,
-  Pneumatikus kompresszió, Inhalátorok, Izzadásgátló (iontoforézis), …). A kategória-lista az
-  UNAS kategóriafából származik, de az adminban kijelölhető, mely kategóriák jelenjenek meg, milyen
-  néven és sorrendben.
+- Alatta **kategória-csempék** ikonnal. A kategória-lista az UNAS kategóriafából származik, de az adminban
+  kijelölhető, mely kategóriák jelenjenek meg, milyen néven és sorrendben. A medimarket.hu főmenüje (2026-11-19)
+  alapján az appban várhatóan releváns főkategóriák:
+
+  | UNAS-kategória (medimarket.hu) | Appban |
+  |-------------------------------|--------|
+  | Elektromos kezelés (`/elektromos-kezeles`) | igen – TENS/EMS stimulátorok |
+  | Lágylézer készülék (`/lagylezer-keszulek`) | igen |
+  | Mágnesterápia (`/magnesterapias-keszulek`) | igen |
+  | Nyirokmasszázs gépek (`/nyirokmasszazs-gep`) | igen – pneumatikus kompresszió |
+  | Sóterápia (`/soterapia`) | igen |
+  | Kezelőeszközök otthonra (`/otthoni-orvostechnologiai-eszkozok`) | igen (gyűjtő) |
+  | Rendelői felszerelés (`/rendeloi-felszereles`) | igen (szakmai) |
+  | Tartozékok és kiegészítők (`/tartozekok-es-kiegeszitok`), TENS elektróda (`/tens-elektroda`) | kiegészítőként, nem csempeként |
+  | Szépségápolás, Fitnesz és Sport, Állatgyógyászat | eldöntendő |
+  | Betegség kezelés, Újracsomagolt termék, Végkiárusítás, Blog, Info | nem (tartalmi / kereskedelmi kategóriák) |
 - „Legutóbb megnyitott" sor (lokálisan tárolva, max. 5).
 - Találati lista elem: kép, név, kategória, „X videó" jelző, nyelvi lefedettség-jelző (ha az adott nyelven
   nincs tartalom, kis jelzés: „angol tartalom").

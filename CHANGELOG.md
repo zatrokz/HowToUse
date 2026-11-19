@@ -9,6 +9,7 @@ Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás
   forrása az UNAS; szakmai jóváhagyó Dr. Zátrok Zsolt.
 - UNAS integráció: mezőleképezés bővítve (csatolt termékek, ellenjavallat-szekció), új 5.8 fejezet az API-kulcs kezeléséről.
 - Admin felület: jóváhagyó szerepkör nevesítve.
+- Felhasználói felület: a medimarket.hu valós főkategóriái és app-relevanciájuk; YouTube-csatorna hivatkozás.
 - Többnyelvűség: induló nyelvek hu, en, sk, de, nl az UNAS 5 nyelvi domainje szerint; a terméktörzs nyelvi változatai az UNAS-ból.
 - `CLAUDE.md`: a felhasználó laikus, lépésről lépésre útmutatók.
 

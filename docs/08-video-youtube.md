@@ -8,6 +8,7 @@ a webshop termékoldalain is felhasználhatók. Hátrány: hálózat kell, rekl�
 (unlisted) videók és `rel=0`, `modestbranding`, lehetőleg YouTube-fiókhoz kötött „embed only" beállítások.
 
 ## 8.2 Csatorna-szervezés
+A Medimarket csatornája: https://www.youtube.com/c/drzatrokzsolt (a webáruház lábléce hivatkozik rá).
 - Playlist készülékenként: `[Készülék neve] – Használati útmutató`.
 - Cím-konvenció a tömeges importhoz: `Készülék · Témakör · Cím` – pl. `Myolito · Üzembe helyezés · Akkumulátor töltése`.
   Az import a második tagot témakör-kódra képezi.
