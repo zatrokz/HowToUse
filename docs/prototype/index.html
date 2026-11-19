@@ -129,21 +129,21 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var
 // ---------- Felületi szövegek, 5 nyelven (ezek az app saját fordításai; a terméktartalom az UNAS-ból jön) ----------
 const LANGS = ["hu","en","sk","de","nl"];
 const UI = {
-  hu:{app:"HowToUse", video:"Videó", openYt:"Megnyitás YouTube-on", openVimeo:"Megnyitás Vimeón", videos:"Videók", unasVid:"a webshop leírásában is", related:"kapcsolódó", search:"Keresés: készülék, kiegészítő, panasz…", cats:"Kategóriák", recent:"Legutóbb megnyitott", results:"Találatok",
+  hu:{app:"HowToUse", prof:"Csak eü. szakembernek", video:"Videó", openYt:"Megnyitás YouTube-on", openVimeo:"Megnyitás Vimeón", videos:"Videók", unasVid:"a webshop leírásában is", related:"kapcsolódó", search:"Keresés: készülék, kiegészítő, panasz…", cats:"Kategóriák", recent:"Legutóbb megnyitott", results:"Találatok",
       noResult:"Nincs találat. Böngéssz a kategóriák között.", devices:"készülék", shop:"Webshop", manual:"Használati útmutató (PDF)",
       topics:"Mit szeretnél megnézni?", soon:"Hamarosan – az adminban készül", items:"tétel", fallback:"Ezen a nyelven még nincs tartalom – magyar változat",
       pick:"Válassz kiegészítőt", acc:"kiegészítő", compat:"Ehhez a készülékhez az UNAS-ban rögzített kiegészítők:", also:"Kompatibilis még:",
       useful:"Hasznos volt?", yes:"Igen", no:"Nem", thanks:"Köszönjük!",
       ifu:"A gyártó használati útmutatója az irányadó. Az app annak kiegészítője, nem orvosi tanács.",
-      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.3.1 · valós UNAS-adatok + YouTube-videók, 5 készülék",
+      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.0 · teljes UNAS-terméktörzs, 172 készülék",
       tabSearch:"Kereső", tabRecent:"Legutóbbiak", tabSettings:"Beállítások", empty:"Még nem nyitottál meg készüléket.",
-      proto:"Kattintható prototípus. A terméktartalom a Medimarket UNAS-rendszeréből származik (2026-11-19-i lekérés), a videók Dr. Zátrok Zsolt YouTube-csatornájáról és a termékleírásokból valók.",
+      proto:"Kattintható prototípus. A terméktartalom a Medimarket UNAS-rendszerének teljes terméktörzse (172 készülék, 2026-11-19-i lekérés), a videók Dr. Zátrok Zsolt YouTube-csatornájáról és a termékleírásokból valók.",
       pkg:"A csomag tartalma", modes:"Kezelési módok", ind:"Mire javasolt", forwho:"Panaszok, amelyeknél a webshop ajánlja", hidden:"Ez a készülék nem elérhető ezen a nyelven.",
       src:"Forrás: UNAS termékleírás", stepsTitle:"Lépésről lépésre", contraTitle:"Mikor ne használd?", warnTitle:"Orvosi figyelmeztetés",
       t_intro:"Bemutatás", d_intro:"Mire való, mi van a dobozban", t_acc:"Kompatibilis kiegészítők", d_acc:"Az UNAS-ban kapcsolt termékek",
       t_steps:"Használat lépésről lépésre", d_steps:"Előkészítés, felhelyezés, kezelés", t_pair:"Készülék + kiegészítő használata", d_pair:"Válassz tartozékot",
       t_faq:"Gyakori kérdések", d_faq:"A webshop leírásából", t_risk:"Kockázatok", d_risk:"Mikor tilos vagy óvatosságot igényel", t_mist:"Gyakori hibák", d_mist:"Tipikus felhasználói hibák"},
-  en:{app:"HowToUse", video:"Video", openYt:"Open on YouTube", openVimeo:"Open on Vimeo", videos:"Videos", unasVid:"also in the webshop description", related:"related", search:"Search: device, accessory, complaint…", cats:"Categories", recent:"Recently opened", results:"Results",
+  en:{app:"HowToUse", prof:"Professionals only", video:"Video", openYt:"Open on YouTube", openVimeo:"Open on Vimeo", videos:"Videos", unasVid:"also in the webshop description", related:"related", search:"Search: device, accessory, complaint…", cats:"Categories", recent:"Recently opened", results:"Results",
       noResult:"No results. Browse the categories.", devices:"device(s)", shop:"Webshop", manual:"Instructions for use (PDF)",
       topics:"What would you like to see?", soon:"Coming soon – being prepared in the admin", items:"items", fallback:"Not yet available in English – showing Hungarian",
       pick:"Choose an accessory", acc:"accessory", compat:"Accessories linked to this device in UNAS:", also:"Also compatible with:",
@@ -157,7 +157,7 @@ const UI = {
       t_intro:"Overview", d_intro:"What it is for, what is in the box", t_acc:"Compatible accessories", d_acc:"Products linked in UNAS",
       t_steps:"How to use, step by step", d_steps:"Preparation, placement, treatment", t_pair:"Device + accessory use", d_pair:"Pick an accessory",
       t_faq:"Frequently asked questions", d_faq:"From the webshop description", t_risk:"Risks", d_risk:"When use is prohibited or needs care", t_mist:"Common mistakes", d_mist:"Typical user errors"},
-  sk:{app:"HowToUse", video:"Video", openYt:"Otvoriť na YouTube", openVimeo:"Otvoriť na Vimeo", videos:"Videá", unasVid:"aj v popise e-shopu", related:"súvisiace", search:"Hľadať: prístroj, príslušenstvo, ťažkosti…", cats:"Kategórie", recent:"Naposledy otvorené", results:"Výsledky",
+  sk:{app:"HowToUse", prof:"Len pre zdravotníkov", video:"Video", openYt:"Otvoriť na YouTube", openVimeo:"Otvoriť na Vimeo", videos:"Videá", unasVid:"aj v popise e-shopu", related:"súvisiace", search:"Hľadať: prístroj, príslušenstvo, ťažkosti…", cats:"Kategórie", recent:"Naposledy otvorené", results:"Výsledky",
       noResult:"Žiadne výsledky. Prezrite si kategórie.", devices:"prístroj(e)", shop:"E-shop", manual:"Návod na použitie (PDF)",
       topics:"Čo si chcete pozrieť?", soon:"Čoskoro – pripravuje sa", items:"položiek", fallback:"V slovenčine zatiaľ nie je k dispozícii – maďarská verzia",
       pick:"Vyberte príslušenstvo", acc:"príslušenstvo", compat:"Príslušenstvo prepojené s prístrojom v UNAS:", also:"Kompatibilné aj s:",
@@ -171,7 +171,7 @@ const UI = {
       t_intro:"Predstavenie", d_intro:"Na čo slúži, čo je v balení", t_acc:"Kompatibilné príslušenstvo", d_acc:"Produkty prepojené v UNAS",
       t_steps:"Použitie krok za krokom", d_steps:"Príprava, umiestnenie, ošetrenie", t_pair:"Prístroj + príslušenstvo", d_pair:"Vyberte príslušenstvo",
       t_faq:"Časté otázky", d_faq:"Z popisu v e-shope", t_risk:"Riziká", d_risk:"Kedy je použitie zakázané alebo vyžaduje opatrnosť", t_mist:"Časté chyby", d_mist:"Typické chyby používateľov"},
-  de:{app:"HowToUse", video:"Video", openYt:"Auf YouTube öffnen", openVimeo:"Auf Vimeo öffnen", videos:"Videos", unasVid:"auch in der Shop-Beschreibung", related:"verwandt", search:"Suche: Gerät, Zubehör, Beschwerde…", cats:"Kategorien", recent:"Zuletzt geöffnet", results:"Ergebnisse",
+  de:{app:"HowToUse", prof:"Nur für Fachpersonal", video:"Video", openYt:"Auf YouTube öffnen", openVimeo:"Auf Vimeo öffnen", videos:"Videos", unasVid:"auch in der Shop-Beschreibung", related:"verwandt", search:"Suche: Gerät, Zubehör, Beschwerde…", cats:"Kategorien", recent:"Zuletzt geöffnet", results:"Ergebnisse",
       noResult:"Keine Treffer. Stöbern Sie in den Kategorien.", devices:"Gerät(e)", shop:"Webshop", manual:"Gebrauchsanweisung (PDF)",
       topics:"Was möchten Sie sehen?", soon:"Demnächst – wird im Admin vorbereitet", items:"Einträge", fallback:"Auf Deutsch noch nicht verfügbar – ungarische Fassung",
       pick:"Zubehör wählen", acc:"Zubehör", compat:"In UNAS mit diesem Gerät verknüpftes Zubehör:", also:"Auch kompatibel mit:",
@@ -185,7 +185,7 @@ const UI = {
       t_intro:"Überblick", d_intro:"Wofür es ist, was in der Box liegt", t_acc:"Kompatibles Zubehör", d_acc:"In UNAS verknüpfte Produkte",
       t_steps:"Anwendung Schritt für Schritt", d_steps:"Vorbereitung, Anlegen, Behandlung", t_pair:"Gerät + Zubehör", d_pair:"Zubehör wählen",
       t_faq:"Häufige Fragen", d_faq:"Aus der Shop-Beschreibung", t_risk:"Risiken", d_risk:"Wann die Anwendung verboten ist oder Vorsicht braucht", t_mist:"Häufige Fehler", d_mist:"Typische Anwenderfehler"},
-  nl:{app:"HowToUse", video:"Video", openYt:"Openen op YouTube", openVimeo:"Openen op Vimeo", videos:"Video's", unasVid:"ook in de webshopbeschrijving", related:"gerelateerd", search:"Zoeken: apparaat, accessoire, klacht…", cats:"Categorieën", recent:"Laatst geopend", results:"Resultaten",
+  nl:{app:"HowToUse", prof:"Alleen voor zorgprofessionals", video:"Video", openYt:"Openen op YouTube", openVimeo:"Openen op Vimeo", videos:"Video's", unasVid:"ook in de webshopbeschrijving", related:"gerelateerd", search:"Zoeken: apparaat, accessoire, klacht…", cats:"Categorieën", recent:"Laatst geopend", results:"Resultaten",
       noResult:"Geen resultaten. Blader door de categorieën.", devices:"apparaat/apparaten", shop:"Webshop", manual:"Gebruiksaanwijzing (PDF)",
       topics:"Wat wilt u bekijken?", soon:"Binnenkort – wordt in de admin voorbereid", items:"items", fallback:"Nog niet in het Nederlands – Hongaarse versie",
       pick:"Kies een accessoire", acc:"accessoire", compat:"Accessoires die in UNAS aan dit apparaat zijn gekoppeld:", also:"Ook compatibel met:",
@@ -209,7 +209,7 @@ const TOPICS = [
   {code:"risks", n:"!", t:"t_risk", d:"d_risk", risk:true},
   {code:"mistakes", n:"6", t:"t_mist", d:"d_mist"},
 ];
-const ICON = {"zw-luna-plus-kit":"◠","dolito":"⚡","dermadry-total":"💧","saltdome":"☁","perobravo":"⚡"};
+const ICON = {"Elektromos kezelés":"⚡","Nyirokmasszázs gép":"≋","Rehabilitációs eszközök":"✚","Mágnesterápiás készülék":"◎","Lágylézer készülék":"✦","Terápiás lézer":"✦","Terápiás ultrahang":"◍","Kozmetikai ultrahang":"◍","Sóterápiás készülék":"☁","Légút tisztító készülék":"☁","Masszázs pisztoly":"⌁","Inkontinencia kezelése":"◌","Pénisz pumpa":"◌","Férfi intim problémák":"◌","Fájdalomkezelés":"✚","Rádiófrekvenciás készülék":"◍","Ránckezelés":"❋"};
 
 // ---------- Állapot ----------
 let DEVICES = [], lang = "hu", route = {v:"home"}, recent = [], hist = [];
@@ -221,12 +221,13 @@ const missing = obj => obj && obj[lang]==null && lang!=="hu";
 const dev = slug => DEVICES.find(d=>d.slug===slug);
 const visible = () => DEVICES.filter(d=>!d.hidden.includes(lang));
 const baseCat = d => { const c=(L(d.cats)||[])[0]||""; return c.split("|").pop(); };
-const catKey = d => (d.cats.hu[0]||"").split("|").pop();
+const catKey = d => { const s=(d.cats.hu[0]||"").split("|"); return s[1]||s[0]; };
+const groupName = d => { const s=((L(d.cats)||[])[0]||"").split("|"); return s[1]||s[0]; };
 const symptomCats = d => (L(d.cats)||[]).slice(1).map(c=>c.split("|").pop());
-const vidsFor = (d, topic) => { const all=(d.videos||[]).filter(v=>v.topic===topic); const own=all.filter(v=>v.lang===lang); return own.length? own : all.filter(v=>v.lang==="hu"); };
+const vidsFor = (d, topic) => { const all=(d.videos||[]).filter(v=>v.topic===topic); const own=all.filter(v=>v.lang===lang||v.lang==="all"); return own.length? own : all.filter(v=>v.lang==="hu"); };
 const nVid = (d, topic) => vidsFor(d,topic).length;
 function videoCards(d, topic){ const vs=vidsFor(d,topic); if(!vs.length) return "";
-  return `<div class="eyebrow">${t("videos")}</div>`+vs.map(v=>`<a class="vid" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="th">${v.thumb?`<img src="${esc(v.thumb)}" alt="" loading="lazy">`:""}<span class="play">▶</span></div><div class="t"><b>${esc(v.title)}</b><small>${v.src==="vimeo"? t("openVimeo") : t("openYt")} ↗ · ${v.lang.toUpperCase()}${v.unas?" · "+t("unasVid"):""}</small></div></a>`).join("");
+  return `<div class="eyebrow">${t("videos")}</div>`+vs.map(v=>`<a class="vid" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="th">${v.thumb?`<img src="${esc(v.thumb)}" alt="" loading="lazy">`:""}<span class="play">▶</span></div><div class="t"><b>${esc(v.title)}</b><small>${v.src==="vimeo"? t("openVimeo") : t("openYt")} ↗${v.lang==="all"?"":" · "+v.lang.toUpperCase()}${v.unas?" · "+t("unasVid"):""}</small></div></a>`).join("");
 }
 const nonEmpty = (d, code) => {
   switch(code){
@@ -255,7 +256,7 @@ function viewHome(q=""){
     const hits = ds.filter(d => L(d.name).toLowerCase().includes(ql) || (L(d.cats)||[]).join(" ").toLowerCase().includes(ql) || d.acc.some(a=>(L(a.name)||"").toLowerCase().includes(ql)) || d.sku.toLowerCase().includes(ql));
     html += `<div class="eyebrow">${t("results")}</div><div class="list">${hits.length? hits.map(deviceRow).join("") : `<div class="card">${t("noResult")}</div>`}</div>`;
   } else {
-    const cats = [...new Map(ds.map(d=>[catKey(d), {key:catKey(d), name:baseCat(d), ic:ICON[d.slug]||"◦", n:ds.filter(x=>catKey(x)===catKey(d)).length}])).values()];
+    const cats = [...new Map(ds.map(d=>[catKey(d), {key:catKey(d), name:groupName(d), ic:ICON[catKey(d)]||"◦", n:ds.filter(x=>catKey(x)===catKey(d)).length}])).values()].sort((a,b)=>b.n-a.n);
     html += `<div class="eyebrow">${t("cats")}</div><div class="grid">${cats.map(c=>`<button class="tile" data-cat="${esc(c.key)}"><span class="ic">${c.ic}</span><b>${esc(c.name)}</b><small>${c.n} ${t("devices")}</small></button>`).join("")}</div>`;
     const rec = recent.map(dev).filter(d=>d && !d.hidden.includes(lang));
     if(rec.length) html += `<div class="eyebrow">${t("recent")}</div><div class="list">${rec.map(deviceRow).join("")}</div>`;
@@ -263,7 +264,7 @@ function viewHome(q=""){
   html += `<p class="proto">${t("proto")}</p>`;
   return {title:t("app"), html, back:false};
 }
-function viewCat(key){ const ds=visible().filter(d=>catKey(d)===key); const name=ds.length? baseCat(ds[0]) : key;
+function viewCat(key){ const ds=visible().filter(d=>catKey(d)===key).sort((a,b)=>baseCat(a).localeCompare(baseCat(b))||L(a.name).localeCompare(L(b.name))); const name=ds.length? groupName(ds[0]) : key;
   return {title:name, html:`<div class="list">${ds.map(deviceRow).join("")}</div>`}; }
 function viewRecent(){ const ds=recent.map(dev).filter(d=>d && !d.hidden.includes(lang));
   return {title:t("tabRecent"), html: ds.length? `<div class="list">${ds.map(deviceRow).join("")}</div>` : `<div class="card">${t("empty")}</div>`, back:false}; }
@@ -279,7 +280,7 @@ function viewDevice(slug){ const d=dev(slug); remember(slug);
     return `<button class="topic ${tp.risk?"risk":""} ${empty?"empty":""}" ${empty?"disabled":`data-topic="${tp.code}"`}><div class="n">${tp.n}</div><div class="t"><b>${esc(t(tp.t))}</b><small class="meta">${empty? t("soon") : esc(t(tp.d))+(tp.code==="intro"?"":" · "+n)}</small></div><span class="chev">›</span></button>`;
   }).join("");
   const sym = symptomCats(d);
-  return {title:L(d.name), html:`<div class="hero">${img(d)}<div class="t"><span class="pill">${esc(baseCat(d))}</span><p>${esc(L(d.short))}</p>
+  return {title:L(d.name), html:`<div class="hero">${img(d)}<div class="t"><span class="pill">${esc(baseCat(d))}</span>${d.professional_only?` <span class="pill warn">${t("prof")}</span>`:""}<p>${esc(L(d.short))}</p>
   <div class="btns"><a class="btn" href="${esc(L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a>${L(d.manual)?`<a class="btn primary" href="${esc(L(d.manual))}" target="_blank" rel="noopener">PDF ↗</a>`:""}</div></div></div>
   ${sym.length?`<div><div class="eyebrow" style="margin-bottom:6px">${t("forwho")}</div><div class="pills">${sym.map(s=>`<span class="pill">${esc(s)}</span>`).join("")}</div></div>`:""}
   <div class="eyebrow">${t("topics")}</div><div class="list">${topics}</div><div class="notice">⚠ ${t("ifu")}</div>`}; }
@@ -307,7 +308,7 @@ function viewTopic(slug, code){ const d=dev(slug); const tp=TOPICS.find(x=>x.cod
     case "faq": html=viewFaq(d); break; case "risks": html=viewRisks(d); break; default: html=`<div class="card">${t("soon")}</div>`; }
   return {title:t(tp.t), html}; }
 function viewAcc(slug, sku){ const d=dev(slug); const a=d.acc.find(x=>x.sku===sku); const others=visible().filter(o=>o.slug!==slug && o.acc.some(x=>x.sku===sku));
-  return {title:L(a.name), html:`<div class="hero"><div class="img">▭</div><div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
+  return {title:L(a.name), html:`<div class="hero"><div class="img">▭</div><div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(a.url)||L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
   <div class="card">${t("soon")}</div>
   ${others.length? `<div class="card"><b>${t("also")}</b><small class="meta">${others.map(o=>esc(L(o.name))).join(", ")}</small></div>`:""}`}; }
 

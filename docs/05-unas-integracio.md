@@ -1,6 +1,6 @@
 # 05 – UNAS integráció
 
-> Verzió: 0.3.1 · Dátum: 2026-11-19 · Állapot: **mezőleképezés véglegesítve** 5 készülék valós `getProduct` válasza alapján (mind az 5 nyelven; minták: [samples/](samples/))
+> Verzió: 0.4.0 · Dátum: 2026-11-19 · Állapot: **mezőleképezés véglegesítve, teljes terméktörzs letöltve** (437 termék × 5 nyelv, [../data/unas/](../data/unas/README.md); minták: [samples/](samples/))
 
 ## 5.1 Cél
 A terméktörzs (név, leírás, képek, kategória, alaptartozékok, kapcsolódó termékek, paraméterek)
@@ -83,13 +83,15 @@ A nem magyar leírások `<!HTML KOD>` előtaggal, kódolt HTML-ként érkeznek; 
 1. ~~Van-e API-hozzáférés~~ – van; VIP csomag, a kulcs jogai: `getProduct`, `getProductParameter`, `getCategory`, `getPage` (lásd `samples/unas-login-valasz.xml`).
 2. ~~Mezőnevek~~ – valós válaszból ellenőrizve (5.3). Kiegészítők iránya: készülék → kiegészítők. Nyelvfüggő mezők köre: 5.3 végén.
 3. ~~Alaptartozékok forrása~~ – **csak a leírás szövegében** („A csomag tartalma” táblázat); strukturált `PackageComponents` nincs → kinyerés a leírásból + admin ellenőrzés.
-4. ~~Hívásszám-korlát~~ – ismert (5.2); a `TimeStart` delta pontos viselkedése az első ütemezett futásnál tesztelendő (**egyetlen nyitott pont**).
+4. ~~Hívásszám-korlát~~ – ismert (5.2); a teljes letöltés 31 hívás volt, 0 hiba (lásd `data/unas/README.md`). A `TimeStart` delta pontos viselkedése az első ütemezett futásnál tesztelendő (**egyetlen nyitott pont**).
 5. ~~Többnyelvű lekérés módja~~ – `Lang` paraméter; nyelvenként külön hívás mind az 5 nyelvre, működik.
 6. ~~Használati útmutató PDF helye~~ – `Params.Param[Name=user-manual-url]`; nyelvenként külön PDF, ahol van (fallback hu).
 8. ~~Ellenjavallat-szekció következetessége~~ – 5 készülék × 5 nyelv: a `pp-contraindication-list` szekció mindenhol megvan, a mikrodata nem → osztály alapú kinyerés (5.3).
 7. ~~Nyelvi URL~~ – az API .hu URL-t ad; a `SefUrl` minden domainen azonos, a nyelvi URL összeállítható.
 
 Új teendő a fejlesztésnek: `<!HTML KOD>` dekódoló, „A csomag tartalma” és ellenjavallat-szekció kinyerő (HTML-parser, a `pp-*` CSS-osztályok alapján), `enummore` paraméter-felbontó (`&comma;`), nyelvnév→ISO leképezés.
+
+**Teljes betöltés (2026-11-19):** `data/unas/` – 437 termék, 159 kategória, 5 nyelv, anonimizálva; ez az app adatbázisának induló töltése.
 
 **Hívásszám-fegyelem (a tulajdonos kérése):** a blokkolási szintet soha nem közelítjük meg. Szabály: hívások között legalább 3 mp szünet, egy futásban max. 300 hívás, új paraméter-kombinációt először egyetlen `LimitNum=1` hívással próbálunk; a szinkron számolja a sikeres/sikertelen hívásokat és 3 sikertelen után leáll. A teljes aktív terméktörzs 438 termék (2026-11-19) → 5 nyelv × 5 lap (100/lap) = 25 hívás egy teljes szinkronhoz.
 

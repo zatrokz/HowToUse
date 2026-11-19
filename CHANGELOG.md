@@ -2,6 +2,18 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.5.0] – 2026-11-19
+
+### Hozzáadva
+- **Adatbázis induló töltése** (`data/unas/`): a teljes UNAS-terméktörzs 5 nyelven – 437 aktív termék, 159 kategória, hosszú
+  leírások nyelvenként külön fájlban; anonimizálva (ár, készlet, statisztika nélkül). 31 API-hívás, 3 mp szünetekkel, 0 hiba.
+- Prototípus 0.4.0: mind a 172 otthoni/rendelői készülék (18 kategóriacsempe), valós képekkel, a leírásokból automatikusan kinyert
+  csomagtartalommal, ellenjavallatokkal, lépésekkel, GYIK-kel és 23 beágyazott videóval (YouTube + Vimeo); „Csak eü. szakembernek”
+  jelölés; kiegészítő-oldal a kiegészítő saját webshop-linkjével.
+
+### Módosítva
+- `docs/05` 0.4.0: teljes betöltés rögzítve; README adat-szekció.
+
 ## [0.4.1] – 2026-11-19
 
 ### Hozzáadva
