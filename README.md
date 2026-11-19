@@ -29,6 +29,10 @@ Medimarket YouTube-csatornájáról kerülnek beágyazásra.
 
 Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TARTALOMJEGYZEK.md)
 
+### Minták és referenciák
+
+- [docs/samples/unas-api-mezok.md](docs/samples/unas-api-mezok.md) – az UNAS API ellenőrzött tényei és a használt mezők
+
 ### Prototípus
 
 - [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus (HU/EN, mintaadatok); élő nézet: https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM
