@@ -2,6 +2,20 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.4.1] – 2026-11-19
+
+### Hozzáadva
+- YouTube-csatorna felmérése: a Dr. Zátrok Zsolt csatorna 90 videójának katalógusa (`docs/samples/youtube-csatorna-videok.md/.json`),
+  27 videó kézi párosítása az 5 prototípus-készülékhez témakörönként (bemutatás, használat, GYIK, kockázatok), nyelv és forrás
+  (UNAS-leírás / csatorna) jelöléssel; forgatási javaslatok a hiányzó videókra.
+- Prototípus 0.3.1: videókártyák bélyegképpel a témaköröknél, nyelvi szűréssel (az adott nyelv videói, különben magyar), YouTube- és
+  Vimeo-linkkel; bélyegképek a `docs/prototype/img/yt/` alatt.
+
+### Módosítva
+- `docs/08`: a csatorna valós adatai (azonosító, feltöltés-lista), felmérés eredménye, szinkron-módszer (lejátszási lista / Data API,
+  RSS csak az új videókra), tulajdonosi döntés a felhasználhatóságról.
+- Fejlesztői környezet: a `www.youtube.com` és `i.ytimg.com` hosztok engedélyezve (a tulajdonos jóváhagyásával).
+
 ## [0.4.0] – 2026-11-19
 
 ### Hozzáadva
