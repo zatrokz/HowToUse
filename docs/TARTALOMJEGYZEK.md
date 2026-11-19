@@ -1,6 +1,6 @@
 # Részletes tartalomjegyzék
 
-> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.2.1, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
+> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.3.0, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
 
 - [README](../README.md)
 - [CHANGELOG](../CHANGELOG.md)
@@ -42,11 +42,11 @@
 ## [05 – UNAS integráció](05-unas-integracio.md)
 - 5.1 Cél
 - 5.2 UNAS API – amit használunk
-- 5.3 Mezőleképezés
+- 5.3 Mezőleképezés (végleges)
 - 5.4 Szinkron-stratégia
 - 5.5 Képek
 - 5.6 Többnyelvű UNAS-tartalom
-- 5.7 Ellenőrzendő pontok (a fejlesztés első hetében)
+- 5.7 Ellenőrzött pontok (lezárva 2026-11-19 a valós mintaválasz alapján)
 - 5.8 Az API-kulcs kezelése
 
 ## [06 – Többnyelvűség](06-tobbnyelvuseg.md)

@@ -1,0 +1,18 @@
+<!-- UNAS login válasz, 2026-11-19. ANONIMIZÁLT: Token és ShopId elrejtve. -->
+<?xml version="1.0" encoding="UTF-8" ?>
+<Login>
+		<Token>***40 karakteres token***</Token>
+		<Expire>2026.11.19 15:26:47</Expire>
+		<ExpireTime>1795098407</ExpireTime>
+		<ApiKeyExpire>2027.11.19 13:22:28</ApiKeyExpire>
+		<ApiKeyExpireTime>1826626948</ApiKeyExpireTime>
+		<ShopId>*****</ShopId>
+		<Subscription>vip-100000</Subscription>
+		<Permissions>
+			<Permission>getProduct</Permission>
+			<Permission>getProductParameter</Permission>
+			<Permission>getCategory</Permission>
+			<Permission>getPage</Permission>
+		</Permissions>
+		<Status>ok</Status>
+</Login>

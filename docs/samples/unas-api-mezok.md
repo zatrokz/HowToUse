@@ -40,12 +40,22 @@
 | `OnlineContent.Url/Filename`, `Datas.Data` | letölthető tartalom (pl. használati útmutató PDF) | ellenőrizendő a tényleges tartalom |
 
 ## Egyéb hívások
-- `getCategory` – kategóriafa (Id, Name, Parent, SefUrl, Status); nyelvparaméter ellenőrizendő.
+- `getCategory` – kategóriafa (Id, Name, Url, SefUrl, Parent.Id/Tree, Display, Products.Active, Texts, Meta); `Lang` paraméter működik.
 - `getProductParameter` – paraméterdefiníciók (név, típus, csoport) a `Params` értelmezéséhez.
 - `getProductDB` – teljes adatbázis CSV-ben; induló teljes betöltéshez alternatíva.
 
-## Még ellenőrizendő (az első valós lekérésből)
-1. Mely mezők nyelvfüggők (a doksiban „nyelv” badge jelöli): várhatóan Name, Description, Url/SefUrl, Params.Value, Images.Alt.
-2. `AdditionalProducts` iránya: csak a készüléknél vannak felsorolva a kiegészítők, vagy fordítva is.
-3. Az alaptartozékok (dobozban) jelölése: `PackageComponents` vagy a leírás szövege.
-4. A használati útmutató PDF helye (`OnlineContent`, `Datas`, vagy a leírásban link).
+## Az első valós lekérésből ellenőrizve (2026-11-19, ZenoWell Luna Plus, 5 nyelv)
+Minták ebben a mappában: `unas-getProduct-zw-luna-plus-kit.{hu,en,sk,de,nl}.xml` (anonimizált: ár, készlet, statisztika, marketing-címkék nélkül),
+`unas-login-valasz.xml`, `unas-getProductParameter-kivonat.xml`.
+
+1. **Nyelvfüggő mezők:** `Name`, `Description.Short/Long`, `Categories.Category.Name`, `Statuses.Status[plus].Name`, `AdditionalProduct.Name`, `Meta.*`, és a `Cikk ajánló` paraméter értéke. **Nem nyelvfüggő:** `Url/SefUrl` (mindig .hu), `Images.Alt`, `Params.Param.Name/Group`, `user-manual-url`.
+2. **`AdditionalProducts` iránya:** a készüléknél vannak a kiegészítők (Luna Plus → bal/jobb fülcsipesz-elektróda; PhysioLaser → optika); a tartozéknál nincs visszamutatás. Elektródáknál kevert (más méretű elektródák + egy készülék).
+3. **Alaptartozékok:** nincs `PackageComponents` (`PackageProduct=no`); a lista a leírás „A csomag tartalma” táblázatában van (`<!-- 11. CSOMAG TARTALMA -->`), mind az 5 nyelven.
+4. **Használati útmutató PDF:** `Params.Param[Name=user-manual-url]` (text) és `[Name=Letölthető]` (link_text, „URL - Felirat”); minden nyelven a magyar PDF.
+5. **Kódolt leírás:** nem magyar nyelven `Description.Short/Long` `<!HTML KOD>` előtaggal és HTML-entitásként kódolva jön → dekódolni kell.
+6. **Terméktípus:** `Params.Param[Name=product_type]` enum (`main` / `accessory`), de nem minden terméknél kitöltött.
+7. **Ellenjavallatok:** `<section class="pp-contraindication-list" itemtype="https://schema.org/MedicalDevice">` + `<li itemprop="contraindication">` a leírásban, mind az 5 nyelven azonos szerkezettel.
+8. **`getProductParameter`:** csak `hu` nyelvű definíciókat ad (54 db); `Display`, `Usable`, `EnumOptions` mezőkkel.
+9. **`getCategory`:** `Id, Name, Url, SefUrl, Parent(Id, Tree), Display, Products(Active), Texts(Top/Bottom), Meta, Image` – 159 kategória; a `Lang` paraméter működik.
+
+Nyitva maradt: a `TimeStart` delta viselkedése (első ütemezett futásnál tesztelendő).

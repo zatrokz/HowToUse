@@ -10,4 +10,9 @@
 
 ## Projekt
 - Medimarket készülékhasználati mobilapp terve; dokumentáció a `docs/` mappában, lásd `README.md`.
-- Fejlesztési ág: `claude/zealous-planck-17h9q9`. Minden változás: CHANGELOG-bejegyzés, `scripts/toc.sh`, commit, push.
+- Fejlesztési ág: `claude/bold-allen-0eb5rn` (korábban `claude/zealous-planck-17h9q9`, annak tartalma beolvasztva). Minden változás: CHANGELOG-bejegyzés, `scripts/toc.sh`, commit, push.
+
+## UNAS API
+- A kulcs az `UNAS_API_KEY` környezeti változóban van; soha ne írd fájlba, chatbe vagy naplóba. A `login` tokenjét se.
+- Sikertelen hívásból óránként csak 5 engedélyezett → új hívást mindig egyetlen, kis (`LimitNum=1`) kéréssel próbálj ki először.
+- A nem magyar leírások `<!HTML KOD>` előtaggal, HTML-entitásként kódolva jönnek (lásd `docs/05` 5.3).

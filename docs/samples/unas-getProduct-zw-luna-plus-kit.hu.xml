@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Lang=hu, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1619203406</Id>
+    <Sku>zw-luna-plus-kit</Sku>
+    <CreateTime>1791882145</CreateTime>
+    <LastModTime>1792152070</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Rendelésre</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Csak eü. szakember vásárolhatja</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Üzletkötőként forgalmazzuk</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>ZenoWell Luna Plus</Name>
+    <Unit>db</Unit>
+    <Weight>0.95</Weight>
+    <Description>
+      <Short>&lt;p class="pp-product-summary"&gt;&lt;strong&gt;Vagus ideg stimulátor.&lt;/strong&gt; Négy alap üzemmód: &lt;strong&gt;Sleep&lt;/strong&gt; – elalvás támogatása. &lt;strong&gt;Relax&lt;/strong&gt; – stresszoldás. &lt;strong&gt;Medit&lt;/strong&gt; – meditáció. &lt;strong&gt;Relief&lt;/strong&gt; – fájdalom és fejfájás enyhítés.&lt;br /&gt;
+ Ingyenes mobil app további 2 üzemmóddal: &lt;strong&gt;Digest&lt;/strong&gt; – emésztés segítés. &lt;strong&gt;Focus&lt;/strong&gt; – koncentráció támogatása. &lt;strong&gt;AI Coach &lt;/strong&gt;optimális használat támogatással.&lt;/p&gt;
+&lt;div class="pp-price-includes"&gt;
+ &lt;span class="pp-price-includes__label"&gt;Ár tartalma:&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;ZenoWell Luna Plus készülék &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Füldugó-elektróda bal fülbe &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Szillikon-karbon elektródafedők &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Töltő kábel &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Spray flakon &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Kontaktgél-ecset &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Textil hordtáska &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;ZenoBand Mobi &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;article class="pp-wrapper"&gt;
+
+ &lt;!-- 1. PROBLÉMA-HOOK --&gt;
+ &lt;section class="pp-problem-hook"&gt;
+ &lt;p class="pp-hook-question"&gt;&lt;strong&gt;Este pörögsz, reggel fáradtan ébredsz – és hiába próbálsz ki ezt-azt, sosem tudod megmondani, mi segít valójában?&lt;/strong&gt;&lt;/p&gt;
+ &lt;p class="pp-hook-empathy"&gt;A ZenoWell Luna Plus két oldalról fogja meg a problémát. A fülön keresztüli, gyengéd vagus idegstimuláció segíthet az idegrendszerednek átkapcsolni a készenléti állapotból a pihenésbe – a most ajándékba járó ZenoBand Mobi okoskarkötő és a Zeno alkalmazás pedig megmutatja, hogyan reagál erre a pulzusod, a szívfrekvencia-variabilitásod és az alvásod. Így nem találgatsz, hanem a saját adataidban követheted a változást.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 2. TRUST BOX – Dr. Zátrok --&gt;
+ &lt;aside class="pp-trust-box"&gt;
+ &lt;div class="pp-trust-box-header"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png" alt="Dr. Zátrok Zsolt" class="pp-doctor-photo"&gt;
+ &lt;div&gt;
+ &lt;span class="pp-trust-badge"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png" alt="orvos" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Orvosszakértőnk mondja
+ &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;blockquote class="pp-doctor-quote"&gt;
+ &lt;p&gt;&lt;em&gt;„A Luna Plus a Luna továbbfejlesztett utódja – a fülkagylón keresztüli vagus-stimuláció ugyanaz, a többlet a mérhetőség. A Lunánál azt kértem, vezess naplót, hogy lásd, nálad hoz-e változást a rendszeres használat. Erre már nincs szükség: az ajándékba járó ZenoBand Mobi méri a pulzusod, a szívfrekvencia-variabilitásod és az alvásod, az alkalmazás pedig egymás mellé teszi a kezeléseidet és a számaidat. App nélkül is használhatod a készüléket, ekkor ugyanazt a négy üzemmódot kapod, amit a Luna adott – az applikáció két további üzemmódot és az AI Coach javaslatait hozza számodra.”&lt;/em&gt;&lt;/p&gt;
+ &lt;/blockquote&gt;
+ &lt;dl class="pp-trust-facts" style="background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;padding:14px 16px;margin:16px 0;"&gt;
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Reális elvárás&lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;A vagus stimuláció az orvosi kezelés mellett javasolt: a hatás fokozatos, jellemzően néhány hétnyi rendszeres használat után válik értékelhetővé, és egyénenként eltérő lehet. A HRV és az alvás-pontszám is lassan, hetek alatt mozdul – a napi ingadozás önmagában nem jelent semmit, a trendet figyeld. A ZenoBand Mobi tájékoztató jellegű adatokat ad, nem orvosi mérőműszer. A vagus stimuláció módszerről bővebben a &lt;a href="https://www.medimarket.hu/tvns-non-invaziv-vagus-stimulacio-neuromodulacio"&gt;tVNS-útmutatóban&lt;/a&gt; írok.&lt;/dd&gt;
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Nem ez a te készüléked, ha&lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;csak az alvás, a stresszoldás és a meditáció a cél, fejfájás és mérési igény nélkül – ekkor a ZenoWell Vita három üzemmódja is elegendő lehet, kedvezőbb áron. Ha a fejfájásod új keletű, megváltozott jellegű vagy hirtelen erősödött, először neurológiai kivizsgálás szükséges – a készülékvásárlás nem előzheti meg a diagnózist.&lt;/dd&gt;
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Mielőtt megrendeled&lt;/dt&gt;
+ &lt;dd style="margin:0;line-height:1.55;color:#333;"&gt;A teljes funkcionalitáshoz Bluetooth-os okostelefon kell (iOS vagy Android) – a négy alapmód ugyanakkor app nélkül is működik (azaz okostelefon nélkül is használható). A készülékkel szállított füldugó a bal fülbe való (opcionálisan jobb oldali változat is vásárolható). A termékleírásban általános javaslatot találsz a napi használat idejéről és az intenzitásról. NEM használható pacemaker, ICD, kochleáris implantátum, mély agyi stimulátor vagy bármilyen beültetett elektronikus eszköz mellett; súlyos szívritmuszavar, instabil szívbetegség vagy nem kontrollált magas vérnyomás esetén; epilepsziában vagy ha görcsroham szerepel az előzményekben.&lt;/dd&gt;
+ &lt;/dl&gt;
+ &lt;footer&gt;
+ &lt;p&gt;&lt;strong&gt;– &lt;a href="https://www.medimarket.hu/rolam-dr-zatrok-zsolt"&gt;Dr. Zátrok Zsolt&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ &lt;em&gt;Orvos, orvostechnológiai szakértő, blogger&lt;/em&gt;
+ &lt;/p&gt;
+ &lt;/footer&gt;
+ &lt;/aside&gt;
+
+ &lt;!-- 3. CÉLCSOPORTOK – AKKORDEON --&gt;
+ &lt;section class="pp-target-segments"&gt;
+ &lt;h2 class="pp-headline"&gt;Kiknek készült a ZenoWell Luna Plus?&lt;/h2&gt;
+ &lt;div class="pp-accordion"&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/alvas.png" alt="alvászavar" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Alvászavarral, insomniával élők&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Ha már többféle megoldást kipróbáltál – alváshigiénia, gyógytea, átmenetileg altató –, de a krónikus elalvási vagy átalvási nehézség továbbra is része a mindennapjaidnak, a Sleep mód esti, 20 perces rutinként a kutatások szerint kedvezően befolyásolhatja az alvásminőséget. &lt;/p&gt;
+ &lt;p&gt;A Luna Plus többlete, hogy a ZenoBand Mobi alvás-pontszámán és alvásidő-adatán hétről hétre követheted, nálad merre mozdulnak az értékek. &lt;/p&gt;
+ &lt;p&gt;A hatás nem egyik napról a másikra jelentkezik: a szakirodalom többhetes, napi rendszerességű használattal dolgozik.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/stressz.png" alt="stressz" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Tartós stresszben élők – akiknél már az emésztés is jelez&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A tartósan magas készenléti állapot az egyik leggyakoribb háttértényező a feszültség, az izomfeszülés, az alvászavar és az étkezés utáni emésztési diszkomfort együttese mögött. &lt;/p&gt;
+ &lt;p&gt;A Relax mód napközbeni szünetként támogathatja a „rest-and-digest”, azaz a pihenj-és-eméssz válasz aktiválódását – csökkenhet a nyugalmi pulzus, és javulhat a szívfrekvencia-variabilitás (HRV). &lt;/p&gt;
+ &lt;p&gt;Az appból elérhető Digest mód kifejezetten az étkezés utáni, nyugodtabb emésztési időszak támogatására készült. A HRV-trendeden követheted, hogyan reagál az idegrendszered.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/fejfajas.png" alt="fejfájás" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Migrénes, krónikus fejfájással élők&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Ha havonta több napon fejfájással küzdesz, vagy a megelőző gyógyszerek mellékhatásai jelentenek gondot, a Relief mód kiegészítő megoldásként bevethető az orvosi kezelés mellett. &lt;/p&gt;
+ &lt;p&gt;A kutatások szerint a napi kétszeri, legalább 4 héten át tartó, következetes használat kedvezően befolyásolhatja a fejfájásos napok számát és a fájdalom erősségét. &lt;/p&gt;
+ &lt;p&gt;A hatás kumulatív, nem egyszeri – az alkalmazás kezelési naplója segít tartani a ritmust, és visszanézni, mi történt az elmúlt hetekben.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/derek-fajdalom.png" alt="regeneráció" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Krónikus fájdalommal élők, sport után regenerálódók&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A vagus ideg a gyulladásos válaszok szabályozásában is szerepet játszik, ezért krónikus izom- és ízületi panaszoknál a Relief és a Medit mód a gyógytorna, a fizioterápia és a gyógyszeres kezelés mellett kiegészítőként alkalmazható.&lt;/p&gt;
+ &lt;p&gt;Edzés, utazás vagy megterhelő napok után a Relax mód a megnyugvási szakaszt támogathatja – a ZenoBand Mobi pulzus- és HRV-adatain pedig látod, mennyi idő alatt tér vissza a szervezeted a nyugalmi állapotba. &lt;/p&gt;
+ &lt;p&gt;NEM helyettesíti a reumatológiai vagy sportorvosi gondozást!&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="önkövetés" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Tudatos használók, akik számokban akarják látni a változást&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Ha szeretsz adatok alapján dönteni, a Luna Plus a ZenoWell család neked való tagja: a ZenoBand Mobi a pulzust, a HRV-t és az alvást követi, az AI Coach pedig a kezeléseid és a méréseid összevetésével ad javaslatokat a napi rutinodhoz. &lt;/p&gt;
+ &lt;p&gt;Fontos a mértéktartás: az adatok tájékoztató jellegűek, a trendek hetek alatt rajzolódnak ki, és a „több kezelés = több eredmény” elv itt nem érvényes – napi 1-2 alkalomnál többre nincs szükség.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 4. HATÁSMECHANIZMUS --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan hat a fülön keresztüli vagus idegstimuláció?&lt;/h2&gt;
+ &lt;p&gt;A vagus ideg (bolygóideg) a paraszimpatikus idegrendszer legfontosabb „vezetéke”: ez kapcsolja át a szervezetet a készenléti, stresszes üzemmódból a pihenő, regeneráló állapotba. Egyik ága – az aurikuláris ág – a fülkagyló belső területein közvetlenül a bőr alatt fut, ezért itt a bőrön keresztül, műtét és gyógyszer nélkül is elérhető. Ezt használja ki a transzkután aurikuláris vagus idegstimuláció (taVNS): a Luna Plus füldugó-elektródája gyenge, kellemes bizsergésként érezhető impulzusokat ad le a fül &lt;em&gt;cymba conchae&lt;/em&gt; és &lt;em&gt;cavum conchae&lt;/em&gt; területén, és ezen a kapcsolaton keresztül „üzen” az agytörzs szabályozó központjainak.&lt;/p&gt;
+ &lt;p&gt;A kutatások szerint a rendszeres taVNS kezelés:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;modulálhatja a felszálló fájdalompályákat – ezért kapott helyet a Relief mód,&lt;/li&gt;
+ &lt;li&gt;támogathatja a szervezet saját, kolinerg gyulladáscsökkentő mechanizmusát,&lt;/li&gt;
+ &lt;li&gt;kedvezően befolyásolhatja a szívfrekvencia-variabilitást (HRV),&lt;/li&gt;
+ &lt;li&gt;aktiválhatja a paraszimpatikus „rest-and-digest” választ – ezen alapul a Relax és a Digest mód,&lt;/li&gt;
+ &lt;li&gt;támogathatja az alvás-ébrenléti ciklus szabályozását – ez a Sleep mód területe.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Két dolgot érdemes megjegyezni.&lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt;Az egyik, hogy a hatás &lt;em&gt;kumulatív&lt;/em&gt;: képalkotó vizsgálatok szerint a többhetes, rendszeres kezelés a fájdalomfeldolgozásban részt vevő agyi hálózatok működését is formálja – egy-két alkalomtól ezért nem várható tartós változás. &lt;/p&gt;
+ &lt;p&gt;A másik, hogy a HRV – a szívverések közötti időtartam apró ingadozása – az autonóm idegrendszer egyensúlyának jól követhető mutatója: minél rugalmasabban vált a szervezet terhelés és pihenés között, jellemzően annál magasabb. Éppen ezért adja magát, hogy a kezelés hatását ezen a mutatón kövesd – és pontosan erre való a csomagban lévő ZenoBand Mobi.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 5. ZENOBAND MOBI --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Mire való a ZenoBand Mobi?&lt;/h2&gt;
+ &lt;p&gt;A ZenoBand Mobi egy csuklón viselhető okoskarkötő, amely a Luna Plus „műszerfala”: azt méri, amire a vagus-stimuláció hatni próbál. Amit a korábbi Luna mellett még kézzel vezetett naplóval követtél volna, azt itt a karkötő és az alkalmazás rögzíti helyetted. A Luna Plus mellé &lt;strong&gt;most ajándékba jár&lt;/strong&gt;. Négy adatot követ:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Pulzus (HR)&lt;/strong&gt; – a nyugalmi pulzus alakulása napközben és pihenés alatt,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Szívfrekvencia-variabilitás (HRV)&lt;/strong&gt; – az idegrendszeri egyensúly finom, otthon is követhető mutatója,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Alvás-pontszám&lt;/strong&gt; – az éjszakai alvás minőségének összefoglaló értéke,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Alvásidő&lt;/strong&gt; – mennyit aludtál ténylegesen.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Az adatok Bluetooth-on a Zeno alkalmazásba kerülnek, és ott a taVNS-kezeléseid mellett jelennek meg. Így hetek távlatában látod a trendet: mozdul-e a HRV-d, változik-e az alvás-pontszámod, rövidül-e a megnyugváshoz szükséges idő. Az alváskövetéshez a karkötőt éjszaka is viselni kell. Egy dolgot tarts észben: a ZenoBand Mobi tájékoztató jellegű, viszonyítási adatokat ad a saját rutinod követéséhez – nem orvosi mérőműszer, és leletet nem helyettesít.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 6. ZENO APP + AI COACH --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A Zeno alkalmazás és az AI Coach&lt;/h2&gt;
+ &lt;p&gt;A Zeno alkalmazás ingyenesen letölthető iOS-re és Androidra, és Bluetooth-on kapcsolódik a Luna Plus készülékhez és a ZenoBand Mobi karkötőhöz. Magyar verziója nincs, a nagy világnyelveken tudod használni. A négy alapmód (Sleep, Relax, Medit, Relief) app nélkül, magán a készüléken is működik – pontosan úgy, ahogy a korábbi Luna modellnél –, az alkalmazás pedig a személyre szabást adja hozzá:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Két további mód feloldása:&lt;/strong&gt; a &lt;strong&gt;Focus&lt;/strong&gt; a koncentrált munkavégzés időszakait, a &lt;strong&gt;Digest&lt;/strong&gt; az étkezés utáni, nyugodtabb emésztést támogatja,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Kezelési napló:&lt;/strong&gt; mikor, melyik módot, milyen intenzitással használtad,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Mérések egy helyen:&lt;/strong&gt; a ZenoBand Mobi pulzus-, HRV- és alvásadatai a kezeléseid mellett,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Gyors állapotfelmérés:&lt;/strong&gt; arcszkennelés-alapú pillanatkép az aktuális állapotodról,&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;AI Coach:&lt;/strong&gt; rövid napi kérdések és a méréseid alapján javaslatot ad, mikor melyik módot érdemes használnod – például ha későn kávéztál és a szokásosnál később vagy ébren, esti Sleep-rutint ajánl, magas pulzusnál pedig egy 20 perces Relax-szünetet.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Fontos a helyén kezelni: az AI Coach a napi wellness-rutinodat segítő asszisztens, nem orvosi diagnosztikus eszköz. Tünet, panasz vagy betegség gyanúja esetén orvoshoz kell fordulni – az app javaslatai ezt nem pótolják. A gyártó az alkalmazáshoz 2 évig ad szoftverfrissítést.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 7. HOGYAN HASZNÁLD – LÉPÉSRŐL LÉPÉSRE --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Így használd a Luna Plus készüléket – lépésről lépésre&lt;/h2&gt;
+
+ &lt;div class="pp-video-row"&gt;
+ &lt;div class="pp-video-description"&gt;
+ &lt;p&gt;Mielőtt nekikezdesz, nézd meg a következő videókat. Az első megmutatja a Luna Plus használatát a gyakorlatban. A részletes, írásos útmutatót lentebb, lépésről lépésre is megtalálod.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-video-iframe-wrap"&gt;
+ &lt;div class="pp-video-responsive-inner" style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;"&gt;
+ &lt;iframe title="vimeo-player" src="https://player.vimeo.com/video/1215090965?h=ed9904e3f6" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-video-row"&gt;
+ &lt;div class="pp-video-description"&gt;
+ &lt;p&gt;A második film a ZenoBand Mobi használatát mutatja meg.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-video-iframe-wrap"&gt;
+ &lt;div class="pp-video-responsive-inner" style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;"&gt;
+ &lt;iframe title="ZenoWell Band Mobi – videós használati útmutató" src="https://player.vimeo.com/video/1221069704?h=f01a7232cc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-steps-container"&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;1&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Töltsd le a Zeno appot és párosítsd az eszközöket&lt;/h3&gt;
+ &lt;p&gt;Telepítsd a Zeno alkalmazást a telefonodra, majd Bluetooth-on párosítsd a Luna Plus készüléket és a ZenoBand Mobi karkötőt. Ha az app nélkül kezdenéd, az sem gond: a négy alapmód magán a készüléken is elérhető, az alkalmazást később is beüzemelheted.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;2&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Határozd meg a célodat és a módot&lt;/h3&gt;
+ &lt;p&gt;Elalvás előtt → &lt;strong&gt;Sleep&lt;/strong&gt;. Napközbeni stressz → &lt;strong&gt;Relax&lt;/strong&gt;. Meditáció, lecsendesedés → &lt;strong&gt;Medit&lt;/strong&gt;. Fejfájás, krónikus fájdalom → &lt;strong&gt;Relief&lt;/strong&gt;. Koncentrált munka → &lt;strong&gt;Focus&lt;/strong&gt; (appból). Étkezés után → &lt;strong&gt;Digest&lt;/strong&gt; (appból). Fejfájás-megelőzésre a napi kétszeri, legalább 4 hetes rutin a kiindulópont.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;3&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Készítsd elő a füldugót&lt;/h3&gt;
+ &lt;p&gt;Nedvesítsd meg a füldugó elektródafelületét kontaktgéllel (vagy a mellékelt spray-vel, ha a gél elfogyott). Nedves kontaktus nélkül a stimuláció nem lesz megfelelő!&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;4&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Pozícionáld a bal füledbe&lt;/h3&gt;
+ &lt;p&gt;Az elektródáknak a fül &lt;em&gt;cymba conchae&lt;/em&gt; és &lt;em&gt;cavum conchae&lt;/em&gt; területét kell érinteniük – itt fut a vagus ideg aurikuláris ága. Rossz pozicionálás esetén a stimuláció kellemetlen lehet vagy hatástalan. Kövesd a használati útmutató ábráit!&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;5&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Indítsd el, és fokozatosan állítsd be az intenzitást&lt;/h3&gt;
+ &lt;p&gt;NULLA intenzitásról indulj, és lassan emeld addig a szintig, amit „határozott, de nem fájdalmas” bizsergésnek érzel. Az erőltetett, kellemetlenül erős stimuláció nem hoz több eredményt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;6&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;20 perc – lassíts és hagyd hatni&lt;/h3&gt;
+ &lt;p&gt;Egy kezelés 20 perc. Ülj vagy feküdj kényelmesen, csukd be a szemed, lassítsd el a légzésed, és hagyd dolgozni a készüléket. A kezelés beilleszthető az esti rutinba, a munkaközi szünetbe vagy az étkezés utáni pihenőbe.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;7&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Tartsd a ritmust, és kövesd a trendet&lt;/h3&gt;
+ &lt;p&gt;A taVNS hatása kumulatív: napi 1-2 alkalom, legalább 4 héten át – ez a reális kiindulópont. A Zeno app grafikonjain és a ZenoBand Mobi adatain hétről hétre követheted, merre mozdul a HRV-d és az alvás-pontszámod.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_tip_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_tip_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/vizcsepp.png" alt="vezetőgél" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Miért kell a vezetőgél?&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A fém elektróda és a fülbőr közötti stabil elektromos vezetéshez nedves kontaktus szükséges. A vezetőgél stabilabb és kevésbé kiszáradó kontaktust ad, mint a sima víz. A füldugó-elektróda és a kontaktgél kopó, illetve fogyó kellék – rendszeres használónak érdemes utánpótlást beszerezni.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_tip_2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_tip_2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;&lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png" alt="karbantartás" style="height:32px;width:auto;vertical-align:middle;"&gt;&lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Tisztítás és karbantartás&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Minden használat után töröld át az elektródákat puha, száraz ronggyal. Heti egyszer alkoholos törlőkendővel végezz alaposabb fertőtlenítést. A főegységet SOHA ne mosd folyó víz alatt! A szilikon illesztéket langyos, szappanos vízzel tisztíthatod. A ZenoBand Mobi szíját időnként szintén töröld át, különösen sportolás után.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 8. GYIK --&gt;
+ &lt;section class="pp-faq-section"&gt;
+ &lt;h2 class="pp-headline"&gt;Gyakori kérdések a Luna Plus készülékről&lt;/h2&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_1" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_1" class="pp-faq-label"&gt;
+ &lt;span&gt;Mi a különbség a Luna Plus és a korábbi Luna között?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A Luna Plus a Luna továbbfejlesztett utódja – a Luna kifutó modell, a helyébe a Luna Plus lép. A stimuláció és a négy alapmód (Sleep, Relax, Medit, Relief) változatlan: app nélkül pontosan azt kapod, amit a Luna adott. Az újdonság a Bluetooth és a Zeno alkalmazás: ezzel nyílik meg két további mód (Focus, Digest), az AI Coach – és a most ajándékba járó ZenoBand Mobi méréseit is itt látod.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_2" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_2" class="pp-faq-label"&gt;
+ &lt;span&gt;Kell az alkalmazás a használathoz?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Nem feltétlenül. A négy alapmód – Sleep, Relax, Medit, Relief – magán a készüléken, app nélkül is működik: így pontosan azt a tudást kapod, amit a korábbi Luna modell nyújtott. Az alkalmazás adja hozzá a Focus és a Digest módot, az AI Coach javaslatait, a kezelési naplót és a ZenoBand Mobi méréseit – a napi kezeléshez azonban nem kötelező a telefon.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_3" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_3" class="pp-faq-label"&gt;
+ &lt;span&gt;Mit csinál pontosan az AI Coach?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Összekapcsolja a napi visszajelzéseidet, a kezelési előzményeidet és a ZenoBand Mobi méréseit, és ezek alapján ad javaslatot: mikor melyik módot érdemes használnod, mire figyelj a rutinodban. Olyan, mint egy emlékeztető és egy edzésnapló egyben – de nem orvosi diagnosztikus eszköz. Panasz vagy betegség gyanúja esetén a válasz mindig az orvosi kivizsgálás.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_4" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_4" class="pp-faq-label"&gt;
+ &lt;span&gt;Mit mér a ZenoBand Mobi, és egész nap hordanom kell?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A pulzust, a szívfrekvencia-variabilitást (HRV), az alvás-pontszámot és az alvásidőt követi. Minél többet viseled, annál teljesebb képet ad – az alváskövetéshez éjszaka is a csuklódon kell lennie. Az adatok tájékoztató jellegűek: a saját trendjeid követésére valók, orvosi mérést és leletet nem helyettesítenek.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_5" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_5" class="pp-faq-label"&gt;
+ &lt;span&gt;Miért a bal fülbe kerül a füldugó?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A taVNS-vizsgálatok túlnyomó többsége bal oldali stimulációval dolgozott – ez a bevett protokoll a szakirodalomban. A jobb oldali vagus ideg szorosabb kapcsolatban áll a szív ingerületvezető rendszerével, ezért biztonsági megfontolásból a bal oldal az elfogadott. Jobb fülhöz való füldugó külön megvásárolható, de egyszerre mindig csak az egyik fület kezeld!&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_6" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_6" class="pp-faq-label"&gt;
+ &lt;span&gt;Használhatom a gyógyszereim mellett?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A Luna Plus nem invazív, gyógyszerektől független módon működik, ezért közvetlen gyógyszerinterakcióval nem kell számolni. Ugyanakkor NE változtasd meg és NE hagyd abba az orvos által előírt kezelést – például a migrén-megelőző gyógyszereket – a készülék miatt. A Luna Plus kiegészítő eszköz. Ha kombinálnád a kezeléseddel, egyeztess a kezelőorvosoddal.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_7" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_7" class="pp-faq-label"&gt;
+ &lt;span&gt;Mennyi idő alatt várható változás?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Egy-egy 20 perces kezelés után sokan nyugodtabbnak, oldottabbnak érzik magukat, de a valódi, követhető hatás hetek alatt épül fel – a fejfájás-megelőzésben például a napi kétszeri, legalább 4 hetes használat a szakirodalmi kiindulópont, az alvásnál többhetes időtáv a jellemző. Az egyéni válasz jelentősen eltér. Éppen ezért hasznos a ZenoBand Mobi: a HRV- és alvás-trendeken objektívebben látod, nálad történik-e változás.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-warning"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_8" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_8" class="pp-faq-label pp-faq-label-warning pp-faq-label-with-icon"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="figyelem" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ &lt;span&gt;Milyen érzés a stimuláció, és mit tegyek, ha kellemetlen?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Kezdetben enyhe bizsergés, csípés jelentkezhet, ami rövid időn belül puha vibrációvá szelídül. Mindig nulla intenzitásról indulj, és csak a kellemes-határozott szintig emeld. Ha migrénes roham közben próbálod ki a Relief módot, és bármilyen rosszabbodást tapasztalsz – fokozódó fájdalom, hányinger, fényérzékenység –, haladéktalanul hagyd abba a kezelést. A fejfájás-kezelést érdemes rohamok közötti időszakban, megelőző szándékkal kezdeni.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-danger"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_9" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_9" class="pp-faq-label pp-faq-label-danger pp-faq-label-with-icon"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="fontos" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ &lt;span&gt;Használhatom, ha pacemakerem vagy epilepsziám van?&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;&lt;strong&gt;NEM.&lt;/strong&gt; Pacemaker, ICD, kochleáris implantátum, mély agyi stimulátor vagy bármilyen beültetett elektronikus eszköz abszolút ellenjavallat. Az epilepszia szintén: bár a vagus idegstimulációt eredetileg az epilepszia kezelésére fejlesztették ki (beültetett formában, orvosi felügyelettel), az otthoni, nem felügyelt taVNS használata epilepsziás betegeknek NEM javasolt. Terhesség idején sem használható, klinikailag validált adatok hiányában.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+
+ &lt;!-- 10. ÖSSZEHASONLÍTÁS --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Vita vagy Luna Plus – melyiket válaszd?&lt;/h2&gt;
+ &lt;p&gt;Mindkét ZenoWell készülék ugyanazt a fülbe helyezhető taVNS technológiát használja – a különbség az üzemmódok számában és az okos funkciókban van:&lt;/p&gt;
+ &lt;table class="pp-comparison-table"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;ZenoWell Vita&lt;/th&gt;
+ &lt;th&gt;ZenoWell Luna Plus&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Üzemmódok&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;3 (Sleep, Relax, Medit)&lt;/td&gt;
+ &lt;td&gt;4 a készüléken + 2 az appból (összesen 6)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Relief fájdalom-mód&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;–&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Bluetooth + Zeno app&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;–&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;AI Coach&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;–&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Pulzus-, HRV- és alváskövetés&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;–&lt;/td&gt;
+ &lt;td&gt; (ZenoBand Mobi – most ajándék)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Kinek való?&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Alvás, stresszoldás, meditáció&lt;/td&gt;
+ &lt;td&gt;Ugyanez + fejfájás és krónikus fájdalom, mérhetőség, emésztés- és fókusztámogatás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;p&gt;A korábbi, négy üzemmódos ZenoWell Luna kifutó modell: a helyét a Luna Plus veszi át, amely app nélkül használva pontosan a Luna tudását adja, az alkalmazással pedig ennél többet.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 11. CSOMAG TARTALMA --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A csomag tartalma&lt;/h2&gt;
+ &lt;p&gt;A ZenoWell Luna Plus dobozában mindent megtalálsz, amire a kezdéshez szükséged van:&lt;/p&gt;
+ &lt;ul class="pp-package-list"&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; ZenoWell Luna Plus készülék&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; füldugó-elektróda (bal fülbe)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; kontaktgél (20 ml)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; spray flakon (víz-spray a gyors nedvesítéshez)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; töltőkábel&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; textil hordtáska&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; használati útmutató és jótállási jegy&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Most AJÁNDÉKBA adjuk mellé:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ul class="pp-package-list"&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; ZenoBand Mobi okoskarkötő&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; ZenoBand Mobi töltőkábel&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; ZenoBand Mobi használati útmutató&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;A füldugó-elektróda és a kontaktgél kopó, illetve fogyó kellék – utánpótlásuk és a jobb fülhöz való füldugó külön megvásárolható a webáruházban.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 12. MŰSZAKI ADATOK --&gt;
+
+ &lt;details open="yes"&gt;
+ &lt;summary&gt;
+ &lt;h2 class="pp-headline" style="display: inline;"&gt;Műszaki adatok&lt;/h2&gt;
+ &lt;/summary&gt;
+ &lt;table class="pp-specs-table"&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Készülék típusa&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Transzkután aurikuláris vagus idegstimulátor (taVNS)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Stimulációs módok&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;6 db – Sleep, Relax, Medit és Relief a készüléken; Focus és Digest a Zeno alkalmazásból&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Javasolt kezelési idő&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;20 perc / alkalom, napi 1-2 alkalom (fejfájás-megelőzéshez napi 2×, legalább 4 héten át)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Stimulációs célterület&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Bal fül – cymba conchae és cavum conchae (a vagus ideg aurikuláris ága)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Intenzitás-szabályozás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Fokozatosan, nulláról állítható&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Kapcsolat&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Bluetooth – Zeno alkalmazás (iOS és Android)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;AI Coach&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Az alkalmazásban – kezelési javaslatok a mérések és a kezelési napló alapján&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;ZenoBand Mobi (ajándék)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Pulzus, szívfrekvencia-variabilitás (HRV), alvás-pontszám és alvásidő követése&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Akkumulátor&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Beépített, újratölthető – mellékelt töltőkábellel&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Szoftverfrissítés&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2 év&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Modellszám&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;A102 / B102 sorozat&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Gyártó&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;ZenoWell (Heidelberg, Németország – BrainClos technológiai háttérrel)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Jótállás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;A vonatkozó EU és magyar jogszabályok szerint&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/details&gt;
+
+ &lt;!-- 13. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&gt;
+ &lt;section class="pp-contraindication-list" itemscope="" itemtype="https://schema.org/MedicalDevice" itemid="https://www.medimarket.hu/zenowell-luna-plus/#medicaldevice"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="figyelmeztetés" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Mikor NE használd a készüléket?
+ &lt;/h3&gt;
+ &lt;p&gt;A Luna Plus nem invazív eszköz, de bizonyos állapotok és körülmények esetén használata nem ajánlott. Az alábbi listát vásárlás és használat előtt alaposan olvasd át:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Pacemaker, beültethető defibrillátor (ICD), kochleáris implantátum, mély agyi stimulátor vagy bármilyen beültetett elektronikus eszköz jelenléte&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Súlyos szívritmuszavar, instabil szívbetegség, nem kontrollált magas vérnyomás&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Epilepszia, görcsrohamok az előzményekben – otthoni, nem felügyelt taVNS kezelés nem ajánlott&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Terhesség és szoptatás időszaka (a hatás a magzatra és az anyatejre klinikailag nem vizsgált)&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Aktív daganatos betegség a fej-nyak régióban, vagy az azt követő felépülési időszak – előzetes onkológusi konzultáció nélkül&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;A bal fül sérülése, gyulladása, fertőzése, friss fülműtét utáni állapot, bőrbetegség a stimulációs területen&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;18 év alatti életkor (a hatékonyság és a biztonságosság gyermekeknél nem validált)&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Akut, ismeretlen eredetű fejfájás – új típusú, szokatlanul erős fejfájás esetén MINDIG orvoshoz kell fordulni előbb, a készülék nem diagnosztikus eszköz&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Vezetés, gépi berendezés kezelése, vízi tevékenységek közben TILOS használni – a relaxációs hatás csökkentheti a koncentrációt&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;li itemprop="contraindication" itemscope="" itemtype="https://schema.org/MedicalContraindication"&gt;
+ &lt;span itemprop="name"&gt;Érzéketlen vagy jelentősen károsodott bőr a fülben (a megfelelő intenzitás nem érezhető)&lt;/span&gt;
+ &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Bizonytalan vagy?&lt;/strong&gt; Használat előtt konzultálj kezelőorvosoddal, különösen ha krónikus betegségben szenvedsz, migrén-megelőző kezelés alatt állsz, vagy rendszeresen szedsz gyógyszert!&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 14. ORVOSI FIGYELMEZTETÉS --&gt;
+ &lt;section class="pp-medical-warning"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="információ" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Fontos tudnivalók
+ &lt;/h3&gt;
+ &lt;p&gt;A ZenoWell Luna Plus otthon használható wellness eszköz, amelynek alkalmazása nem invazív, és a szakirodalom szerint jól tolerálható. Ennek ellenére NEM helyettesíti az orvosi diagnózist, a neurológiai kivizsgálást vagy a szakorvosi kezelést. &lt;/p&gt;
+ &lt;p&gt;Új típusú, szokatlanul erős, visszatérő fejfájásnál mindig szakemberhez kell fordulni – a diagnózis felállítása kizárólag orvosi kompetencia. &lt;/p&gt;
+ &lt;p&gt;Az AI Coach javaslatai és a ZenoBand Mobi mérési adatai tájékoztató jellegűek, orvosi vizsgálatot és leletet nem pótolnak. A készülék az orvosi kezelés kiegészítő eszköze. A hatás egyénenként eltérő lehet, és a kutatások szerint kumulatívan, 2-4 hét napi használat után alakulhat ki.&lt;/p&gt;
+ &lt;p class="pp-disclaimer"&gt;&lt;em&gt;A termékleírásban szereplő információk tájékoztató jellegűek, és nem minősülnek egyedi orvosi tanácsnak. Használat előtt olvasd el a mellékelt használati útmutatót, és kétség esetén konzultálj kezelőorvosoddal.&lt;/em&gt;&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 15. TUDOMÁNYOS FORRÁSOK --&gt;
+ &lt;section class="pp-citations"&gt;
+ &lt;h2 class="pp-headline"&gt;Tudományos háttér – Forrásjegyzék&lt;/h2&gt;
+ &lt;p&gt;A transzkután aurikuláris vagus idegstimuláció (taVNS) területén az elmúlt évtizedben jelentős bizonyítékhalmaz épült ki, különösen a migrén és az insomnia területén:&lt;/p&gt;
+ &lt;ol class="pp-citation-list"&gt;
+ &lt;li&gt;Straube A, Ellrich J, Eren O, et al. (2015). &lt;cite&gt;Treatment of chronic migraine with transcutaneous stimulation of the auricular branch of the vagal nerve (auricular t-VNS): a randomized, monocentric clinical trial&lt;/cite&gt;. &lt;em&gt;The Journal of Headache and Pain&lt;/em&gt;, 16:543. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/26156114/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Zhang Y, Liu J, Li H, et al. (2021). &lt;cite&gt;Transcutaneous auricular vagus nerve stimulation (taVNS) for migraine: an fMRI study&lt;/cite&gt;. &lt;em&gt;Regional Anesthesia &amp; Pain Medicine&lt;/em&gt;, 46(2):145-150. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/33262253/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Systematic Review (2023). &lt;cite&gt;Management of auricular transcutaneous neuromodulation and electro-acupuncture of the vagus nerve for chronic migraine: a systematic review&lt;/cite&gt;. &lt;em&gt;Frontiers in Neuroscience&lt;/em&gt;. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/37397439/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Zhang S, Zhao Y, Qin Z, et al. (2024). &lt;cite&gt;Transcutaneous Auricular Vagus Nerve Stimulation for Chronic Insomnia Disorder: A Randomized Clinical Trial&lt;/cite&gt;. &lt;em&gt;JAMA Network Open&lt;/em&gt;, 7(12):e2451217. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/39680406/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Systematic Review &amp; Meta-Analysis (2025). &lt;cite&gt;Transcutaneous Auricular Vagus Nerve Stimulation in Insomnia: A Systematic Review and Meta-Analysis&lt;/cite&gt;. &lt;em&gt;Neuromodulation&lt;/em&gt;. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/40323248/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;RCT (2025). &lt;cite&gt;Effects of vagal nerve stimulation on pain frequency and intensity in chronic migraine in adults: A randomized controlled trial&lt;/cite&gt;. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/41954019/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 16. KAPCSOLÓDÓ TARTALMAK --&gt;
+ &lt;section class="pp-related-links"&gt;
+ &lt;h2 class="pp-headline"&gt;Kapcsolódó termékek és tartalmak&lt;/h2&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/zenowell-vita"&gt;ZenoWell Vita – az alapmodell (Sleep, Relax, Medit) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/vagus-ideg-stimulacio"&gt;Vagus idegstimulátor kategória →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/vegetativ-idegrendszer-alapveto-tudnivalok-aktivalas"&gt;Vegetatív idegrendszer – alapvető tudnivalók →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/paraszimpatikus-idegrendszer-es-kronikus-betegsegek"&gt;Paraszimpatikus idegrendszer és krónikus betegségek kapcsolata →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/tartos-stressz-es-betegsegek-kapcsolata"&gt;Tartós stressz és betegségek kapcsolata →&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+
+&lt;/article&gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>309655</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|Vagus ideg stimuláció</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>768329</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|Koponya stimuláció (CES)</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>230700</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Alvászavar</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>721244</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Migrén</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/zenowell-luna-plus</Url>
+    <SefUrl>zenowell-luna-plus</SefUrl>
+    <ManufacturerUrl>https://zenowell.ai</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>zw-luna-plus-kit</DefaultFilename>
+      <DefaultAlt>ZenoWell Luna Plus</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1791882363</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/zw-luna-plus-kit.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/zw-luna-plus-kit_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit_altpic_1/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/zw-luna-plus-kit_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit_altpic_2/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/zw-luna-plus-kit_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit_altpic_3/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/zw-luna-plus-kit_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit_altpic_4/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/zw-luna-plus-kit_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/zw-luna-plus-kit_altpic_5/zw-luna-plus-kit.webp?time=1791882363</SefUrl>
+        <Filename>zw-luna-plus-kit</Filename>
+        <Alt>ZenoWell Luna Plus</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/zenowell/luna-plus-hu.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.hu/paraszimpatikus-idegrendszer-es-kronikus-betegsegek - Paraszimpatikus idegrendszer és krónikus betegségek</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>ZenoWell</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/zenowell/luna-plus-hu.pdf</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>ZenoWell Limited</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1541493276</Id>
+        <Sku>zw-clip-l</Sku>
+        <Name>ZenoWell Earclip elektróda bal fülbe</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1541493786</Id>
+        <Sku>zw-clip-r</Sku>
+        <Name>ZenoWell Earclip elektróda jobb fülbe</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>ZenoWell Luna Plus, Luna vagus stimulátor, taVNS készülék, fülbe helyezhető elektróda, Relief üzemmód, migrén, tenziós fejfájás, alvástámogatás, stresszoldás, meditáció, füldugó-elektróda, neuromoduláció, krónikus fejfájás, hordozható eszköz</Keywords>
+      <Description>Fülbe helyezhető taVNS készülék négy üzemmóddal: Sleep, Relax, Medit és Relief – az elalvás, a stresszoldás és a fejfájás enyhítésének támogatására.</Description>
+      <Title>ZenoWell Luna Plus vagus stimulátor, 4 mód, Relief funkció</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

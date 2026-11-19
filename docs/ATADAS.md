@@ -12,7 +12,7 @@
 ```bash
 git clone https://github.com/zatrokz/HowToUse.git
 cd HowToUse
-git checkout claude/zealous-planck-17h9q9
+git checkout claude/bold-allen-0eb5rn
 ```
 Majd a Claude Code-nak: *„Olvasd el a README-t és a docs/ATADAS.md-t, válaszolj a docs/11 nyitott kérdéseire velem egyeztetve, aztán indítsd az 1. fázist (monorepo-váz, Payload CMS adatmodell, UNAS-sync váz)."*
 
@@ -21,7 +21,7 @@ Majd a Claude Code-nak: *„Olvasd el a README-t és a docs/ATADAS.md-t, válasz
 
 ## Első teendők (1. fázis)
 1. Nyitott kérdések (`docs/11`) megválaszolása, döntési napló frissítése.
-2. UNAS API-kulcs, `getProduct` mintaválasz mentése `docs/samples/`-be, mezőleképezés véglegesítése (`docs/05`).
+2. ~~UNAS API-kulcs, `getProduct` mintaválasz mentése `docs/samples/`-be, mezőleképezés véglegesítése (`docs/05`)~~ – kész (0.3.0).
 3. Monorepo-váz: `apps/mobile` (Expo), `apps/cms` (Payload), `packages/shared`; CI.
 4. Adatmodell implementálása a CMS-ben a `docs/04` alapján.
 5. Minden lépésnél: CHANGELOG-bejegyzés, `scripts/toc.sh`, commit, push.

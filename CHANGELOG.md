@@ -2,6 +2,22 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.3.0] – 2026-11-19
+
+### Hozzáadva
+- Valós UNAS `getProduct` mintaválasz (ZenoWell Luna Plus) mind az 5 nyelven, anonimizálva (ár, készlet, statisztika,
+  marketing-címkék nélkül): `docs/samples/unas-getProduct-zw-luna-plus-kit.{hu,en,sk,de,nl}.xml`; `login` válasz token nélkül;
+  `getProductParameter` kivonat.
+- `CLAUDE.md`: UNAS API kezelési szabályok (kulcs, hívásszám, kódolt leírás).
+
+### Módosítva
+- UNAS integráció (`docs/05`) 0.3.0: mezőleképezés **véglegesítve** a valós válaszból – `<!HTML KOD>` dekódolás, nyelvi URL
+  összeállítása `SefUrl`-ből, `AdditionalProducts` iránya (készülék → kiegészítő), alaptartozékok a leírás „A csomag tartalma”
+  szekciójából, használati útmutató a `user-manual-url` paraméterből, `product_type` enum, nyelvfüggő/nyelvfüggetlen mezők listája.
+  5.7 ellenőrzendő pontok lezárva (egy nyitott: `TimeStart` delta).
+- `docs/samples/unas-api-mezok.md`: az első valós lekérés tanulságai.
+- Fejlesztési ág mostantól `claude/bold-allen-0eb5rn` (CLAUDE.md, ATADAS.md).
+
 ## [0.2.1] – 2026-11-19
 
 ### Módosítva
