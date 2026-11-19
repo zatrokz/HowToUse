@@ -1,6 +1,6 @@
 # 02 – Felhasználói felület és folyamatok
 
-> Verzió: 0.1.0 · Dátum: 2026-11-19 · Állapot: tervezet
+> Verzió: 0.2.0 · Dátum: 2026-11-19 · Állapot: tervezet
 
 ## 2.1 Navigációs térkép
 
@@ -111,7 +111,9 @@ tartalma jelenik meg jelzéssel.
 - Videókhoz felirat (YouTube CC) ajánlott, szöveges összefoglaló mindig legyen.
 - Képernyőolvasó-címkék, kontraszt WCAG AA.
 
-## 2.6 Vázlatos képernyőképek (wireframe-leírás)
+## 2.6 Kattintható prototípus
 
-A tényleges wireframe-ek a következő lépésben (Figma / egyszerű HTML prototípus) készülnek.
+A fejezet képernyőit a `docs/prototype/index.html` kattintható prototípus mutatja be mintaadatokkal
+(HU/EN váltás, fallback-jelzés, 7 témakör, páros nézet). Megnyitható böngészőben, vagy élőben:
+https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM. A végleges vizuális terv (Figma) erre épül.
 Rácsrendszer: 1 oszlop telefonon, 2 oszlop táblagépen; alsó tabsor: *Kereső · Legutóbbiak · Beállítások*.

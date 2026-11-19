@@ -1,11 +1,12 @@
 # Átadási jegyzet – folytatás Claude Code desktop appban
 
-> Dátum: 2026-11-19 · Átadó: cloud session (tervezési fázis) · Verzió: 0.1.0
+> Dátum: 2026-11-19 · Átadó: cloud session (tervezési fázis) · Verzió: 0.2.0
 
 ## Hol tartunk
 - A **0. (tervezési) fázis kész**: a `docs/01`–`11` dokumentumok tartalmazzák a követelményeket, a felhasználói és admin felület tervét, az adatmodellt, az UNAS-integráció tervét, a többnyelvűség, az architektúra, a YouTube-videók, a megfelelőség tervét, az ütemtervet és a nyitott kérdéseket.
-- Kód még **nincs**; a technológiai javaslat (Expo + Payload CMS + PostgreSQL + R2/CDN) a `docs/07-architektura.md`-ben, döntésre vár (`docs/11-nyitott-kerdesek.md` #4).
-- Minden a `claude/zealous-planck-17h9q9` ágon van, pusholva.
+- Kattintható HTML prototípus: `docs/prototype/index.html` (mintaadatok, HU/EN).
+- Alkalmazáskód még **nincs**; a technológiai javaslat (Expo + Payload CMS + PostgreSQL + R2/CDN) a `docs/07-architektura.md`-ben, döntésre vár (`docs/11-nyitott-kerdesek.md` #4).
+- Minden a `claude/zealous-planck-17h9q9` ágon van, a GitHubra pusholva (`v0.1.0`, `v0.2.0` tag).
 
 ## Így folytasd a desktop appban
 ```bash

@@ -5,7 +5,7 @@ orvostechnikai eszközök **alapszintű, általános, nem személyre szabott** h
 rövid videókkal és ismertetőkkel. A termékadatok forrása az UNAS webáruház-rendszer, a videók a
 Medimarket YouTube-csatornájáról kerülnek beágyazásra.
 
-**Projektállapot:** `0.1.0` – tervezési fázis (lásd [CHANGELOG](CHANGELOG.md)).
+**Projektállapot:** `0.2.0` – tervezési fázis, kattintható prototípussal (lásd [CHANGELOG](CHANGELOG.md)).
 
 ---
 
@@ -28,6 +28,10 @@ Medimarket YouTube-csatornájáról kerülnek beágyazásra.
 | 11 | [Nyitott kérdések és döntések](docs/11-nyitott-kerdesek.md) | Döntési napló, tisztázandó kérdések |
 
 Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TARTALOMJEGYZEK.md)
+
+### Prototípus
+
+- [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus (HU/EN, mintaadatok); élő nézet: https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM
 
 ### Egyéb fájlok
 

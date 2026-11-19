@@ -1,6 +1,6 @@
 # Részletes tartalomjegyzék
 
-> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.1.0, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
+> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.2.0, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
 
 - [README](../README.md)
 - [CHANGELOG](../CHANGELOG.md)
@@ -21,7 +21,7 @@
 - 2.3 Nyelvváltás a felületen
 - 2.4 Állapotok és hibák
 - 2.5 Hozzáférhetőség
-- 2.6 Vázlatos képernyőképek (wireframe-leírás)
+- 2.6 Kattintható prototípus
 
 ## [03 – Admin felület](03-admin-felulet.md)
 - 3.1 Szerepkörök
