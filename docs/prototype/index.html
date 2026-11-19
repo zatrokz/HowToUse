@@ -135,7 +135,7 @@ const UI = {
       pick:"Válassz kiegészítőt", acc:"kiegészítő", compat:"Ehhez a készülékhez az UNAS-ban rögzített kiegészítők:", also:"Kompatibilis még:",
       useful:"Hasznos volt?", yes:"Igen", no:"Nem", thanks:"Köszönjük!",
       ifu:"A gyártó használati útmutatója az irányadó. Az app annak kiegészítője, nem orvosi tanács.",
-      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.1 · teljes UNAS-terméktörzs, 110 készülék",
+      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.2 · teljes UNAS-terméktörzs, 110 készülék",
       tabSearch:"Kereső", tabRecent:"Legutóbbiak", tabSettings:"Beállítások", empty:"Még nem nyitottál meg készüléket.",
       proto:"Kattintható prototípus. A terméktartalom a Medimarket UNAS-rendszerének teljes terméktörzse (110 készülék, 2026-11-19-i lekérés), a videók Dr. Zátrok Zsolt YouTube-csatornájáról és a termékleírásokból valók.",
       pkg:"A csomag tartalma", modes:"Kezelési módok", ind:"Mire javasolt", forwho:"Panaszok, amelyeknél a webshop ajánlja", hidden:"Ez a készülék nem elérhető ezen a nyelven.",
@@ -294,7 +294,8 @@ function viewIntro(d){
   if(d.variants && d.variants.length) html+=`<details><summary>${t("variants")} · ${d.variants.length}</summary><ul style="margin:0 0 12px;padding-left:18px;font-size:.9rem">${d.variants.map(v=>`<li><a href="${esc(L(v.url))}" target="_blank" rel="noopener">${esc(L(v.name))}</a></li>`).join("")}</ul></details>`;
   return videoCards(d,"intro")+html;
 }
-function accRow(slug, a){ return `<button class="row" data-acc="${esc(a.sku)}" data-dev="${slug}"><div class="img">▭</div><div class="t"><b>${esc(L(a.name))} <span class="pill">${t("acc")}</span></b><small>SKU ${esc(a.sku)}</small></div><span class="chev">›</span></button>`; }
+function accImg(a){ return a.img? `<div class="img"><img src="${esc(a.img)}" alt="" loading="lazy"></div>` : `<div class="img">▭</div>`; }
+function accRow(slug, a){ return `<button class="row" data-acc="${esc(a.sku)}" data-dev="${slug}">${accImg(a)}<div class="t"><b>${esc(L(a.name))} <span class="pill">${t("acc")}</span></b><small>SKU ${esc(a.sku)}</small></div><span class="chev">›</span></button>`; }
 function viewAccList(d){ return `<div class="notice info">${t("compat")}</div><div class="list">${d.acc.map(a=>accRow(d.slug,a)).join("")}</div>`; }
 function viewSteps(d){ const st=L(d.steps)||[];
   return videoCards(d,"steps")+`<div class="card">${fallbackNote(d.steps)}<h3>${t("stepsTitle")}</h3>${st.map((s,i)=>`<div class="step"><div class="n">${i+1}</div><div class="t"><b>${esc(s.t||"")}</b><p>${esc(s.b)}</p></div></div>`).join("")}<span class="src">${t("src")}</span>${fb()}</div>`; }
@@ -308,7 +309,7 @@ function viewTopic(slug, code){ const d=dev(slug); const tp=TOPICS.find(x=>x.cod
     case "faq": html=viewFaq(d); break; case "risks": html=viewRisks(d); break; default: html=`<div class="card">${t("soon")}</div>`; }
   return {title:t(tp.t), html}; }
 function viewAcc(slug, sku){ const d=dev(slug); const a=d.acc.find(x=>x.sku===sku); const others=visible().filter(o=>o.slug!==slug && o.acc.some(x=>x.sku===sku));
-  return {title:L(a.name), html:`<div class="hero"><div class="img">▭</div><div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(a.url)||L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
+  return {title:L(a.name), html:`<div class="hero">${accImg(a)}<div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(a.url)||L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
   <div class="card">${t("soon")}</div>
   ${others.length? `<div class="card"><b>${t("also")}</b><small class="meta">${others.map(o=>esc(L(o.name))).join(", ")}</small></div>`:""}`}; }
 

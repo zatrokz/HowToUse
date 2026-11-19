@@ -2,6 +2,12 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.5.2] – 2026-11-19
+
+### Hozzáadva
+- Prototípus 0.4.2: tartozék-képek (137 egyedi tartozék képe az UNAS-ból, `docs/prototype/img/acc/`) a kiegészítő-listában és a
+  tartozék-oldalon; 683 tartozék-hivatkozásból 683 képpel, 26-nál nincs kép (az adott tartozék nem aktív termék az UNAS-ban).
+
 ## [0.5.1] – 2026-11-19
 
 ### Módosítva
