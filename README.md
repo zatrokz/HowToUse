@@ -37,7 +37,9 @@ Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TART
 
 ### Prototípus
 
-- [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus (HU/EN, mintaadatok); élő nézet: https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM
+- [docs/prototype/index.html](docs/prototype/index.html) – kattintható mobil prototípus 0.3.0 (5 nyelv, valós UNAS-adatok 5 készülékre); **élő nézet: https://claude.ai/artifact/Wuk4GrB6fxuYgU8kjvWR3n**
+  (a GitHub csak a kódot mutatja, működő nézetet nem; a régi, mintaadatos 0.2.0 változat: https://claude.ai/artifact/QuNj2HQi9tRjwyc4AhyUBM)
+- `docs/prototype/data/products.json` – a prototípus adatai, a `docs/samples/` UNAS-válaszokból kinyerve; `docs/prototype/img/` – termékképek
 
 ### Egyéb fájlok
 

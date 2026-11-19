@@ -2,6 +2,18 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.4.0] – 2026-11-19
+
+### Hozzáadva
+- Prototípus 0.3.0 (`docs/prototype/`): valós UNAS-tartalommal, 5 készülékkel (ZenoWell Luna Plus, Dolito, DermaDry Total,
+  SaltDome, PeroBravo) és mind az 5 nyelven (hu/en/sk/de/nl). Témakörök valós adatból: bemutatás + csomagtartalom + útmutató PDF,
+  kompatibilis kiegészítők (UNAS `AdditionalProducts`), használat lépésről lépésre, GYIK, kockázatok (ellenjavallat-szekció és
+  orvosi figyelmeztetés). Nyelvi láthatóság (`NotVisibleInLanguage`) és nyelvi fallback kezelve. Élő nézet a README-ben.
+- `docs/prototype/data/products.json` (a mintákból generált adat) és `docs/prototype/img/` (termékképek).
+
+### Módosítva
+- README: új élő nézet link; a régi mintaadatos változat linkje megmarad összehasonlításhoz.
+
 ## [0.3.1] – 2026-11-19
 
 ### Hozzáadva
