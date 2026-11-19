@@ -59,6 +59,18 @@ main{flex:1;padding-bottom:88px;display:flex;flex-direction:column;gap:16px}
 .btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--accent);color:var(--accent);background:transparent;border-radius:10px;padding:6px 10px;font:inherit;font-size:.85rem;font-weight:600;text-decoration:none;cursor:pointer}
 .btn.primary{background:var(--accent);color:var(--accent-fg)}
 .btns{display:flex;flex-wrap:wrap;gap:8px}
+.gal{position:relative;background:#fff;border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.gal .track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.gal .track::-webkit-scrollbar{display:none}
+.gal .track img{flex:none;width:100%;height:240px;object-fit:contain;scroll-snap-align:start;display:block;background:#fff}
+.gal .nav{position:absolute;top:50%;transform:translateY(-50%);width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:var(--surface);color:var(--fg);font-size:1.1rem;cursor:pointer;display:grid;place-items:center;opacity:.9}
+.gal .nav.prev{left:8px}.gal .nav.next{right:8px}
+.gal .dots{position:absolute;left:0;right:0;bottom:8px;display:flex;justify-content:center;gap:6px;pointer-events:none}
+.gal .dots i{width:7px;height:7px;border-radius:50%;background:var(--line);display:block}
+.gal .dots i.on{background:var(--accent)}
+.gal .cnt{position:absolute;top:8px;right:10px;font-size:.72rem;font-weight:600;background:var(--surface);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 8px}
+.hero.stack{flex-direction:column}
+.hero.stack .img{display:none}
 .topic{display:flex;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:12px;cursor:pointer;color:var(--fg);font:inherit;text-align:left;width:100%}
 .topic .n{width:34px;height:34px;border-radius:9px;display:grid;place-items:center;background:var(--accent-soft);color:var(--accent);font-weight:700;font-family:var(--font-head);flex:none}
 .topic.risk .n{background:var(--warn-soft);color:var(--warn)}
@@ -135,7 +147,7 @@ const UI = {
       pick:"Válassz kiegészítőt", acc:"kiegészítő", compat:"Ehhez a készülékhez az UNAS-ban rögzített kiegészítők:", also:"Kompatibilis még:",
       useful:"Hasznos volt?", yes:"Igen", no:"Nem", thanks:"Köszönjük!",
       ifu:"A gyártó használati útmutatója az irányadó. Az app annak kiegészítője, nem orvosi tanács.",
-      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.2 · teljes UNAS-terméktörzs, 110 készülék",
+      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.3 · teljes UNAS-terméktörzs, 110 készülék",
       tabSearch:"Kereső", tabRecent:"Legutóbbiak", tabSettings:"Beállítások", empty:"Még nem nyitottál meg készüléket.",
       proto:"Kattintható prototípus. A terméktartalom a Medimarket UNAS-rendszerének teljes terméktörzse (110 készülék, 2026-11-19-i lekérés), a videók Dr. Zátrok Zsolt YouTube-csatornájáról és a termékleírásokból valók.",
       pkg:"A csomag tartalma", modes:"Kezelési módok", ind:"Mire javasolt", forwho:"Panaszok, amelyeknél a webshop ajánlja", hidden:"Ez a készülék nem elérhető ezen a nyelven.",
@@ -246,6 +258,20 @@ function remember(slug){ recent=[slug,...recent.filter(s=>s!==slug)].slice(0,5);
 function setLang(l){ lang=l; try{localStorage.setItem("howto.lang",l);}catch(e){} render(); }
 
 // ---------- Nézetek ----------
+function gallery(imgs, alt){ if(!imgs || imgs.length<2) return "";
+  return `<div class="gal" data-gal><div class="track">${imgs.map((s,i)=>`<img ${i?`data-src="${esc(s)}"`:`src="${esc(s)}"`} alt="${esc(alt)} ${i+1}">`).join("")}</div>
+  <button class="nav prev" data-gal-prev aria-label="Előző">‹</button><button class="nav next" data-gal-next aria-label="Következő">›</button>
+  <span class="cnt"><span data-gal-cur>1</span>/${imgs.length}</span><div class="dots">${imgs.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div></div>`; }
+// A galéria 2..n képei az élő nézetben 8 csomagfájlból jönnek (publikálási fájlszám-korlát); ha a csomag nem elérhető, a kép saját útvonaláról töltődik.
+const GAL_CACHE={}; const galBundle=path=>{ let s=0; for(const c of path) s+=c.charCodeAt(0); return s%8; };
+async function loadGalleryImages(){ const imgs=[...document.querySelectorAll("[data-gal] img[data-src]")]; if(!imgs.length) return;
+  const need=[...new Set(imgs.map(i=>galBundle(i.dataset.src)))];
+  await Promise.all(need.map(async n=>{ if(GAL_CACHE[n]!==undefined) return; try{ const r=await fetch(`img/gal/b${n}.json`); GAL_CACHE[n]= r.ok? await r.json() : null; }catch(e){ GAL_CACHE[n]=null; } }));
+  imgs.forEach(i=>{ const p=i.dataset.src; const b=GAL_CACHE[galBundle(p)]; i.src=(b&&b[p])||p; i.removeAttribute("data-src"); }); }
+function bindGalleries(){ loadGalleryImages(); document.querySelectorAll("[data-gal]").forEach(g=>{ const tr=g.querySelector(".track"), dots=[...g.querySelectorAll(".dots i")], cur=g.querySelector("[data-gal-cur]");
+  const idx=()=>Math.round(tr.scrollLeft/tr.clientWidth); const show=i=>tr.scrollTo({left:i*tr.clientWidth,behavior:"smooth"});
+  tr.addEventListener("scroll",()=>{ const i=idx(); dots.forEach((d,k)=>d.classList.toggle("on",k===i)); cur.textContent=i+1; },{passive:true});
+  g.querySelector("[data-gal-prev]").onclick=()=>show(Math.max(0,idx()-1)); g.querySelector("[data-gal-next]").onclick=()=>show(Math.min(dots.length-1,idx()+1)); }); }
 function img(d, cls){ return `<div class="img"><img src="${d.img}" alt="${esc(L(d.name))}" loading="lazy"></div>`; }
 function deviceRow(d){ return `<button class="row" data-dev="${d.slug}">${img(d)}<div class="t"><b>${esc(L(d.name))}</b><small>${esc(baseCat(d))}${d.brand&&d.brand!=="n/a"?" · "+esc(d.brand):""}${d.variants&&d.variants.length?" · "+d.variants.length+" "+t("variant"):""}</small></div><span class="chev">›</span></button>`; }
 
@@ -279,7 +305,8 @@ function viewDevice(slug){ const d=dev(slug); remember(slug);
     return `<button class="topic ${tp.risk?"risk":""} ${empty?"empty":""}" ${empty?"disabled":`data-topic="${tp.code}"`}><div class="n">${tp.n}</div><div class="t"><b>${esc(t(tp.t))}</b><small class="meta">${empty? t("soon") : esc(t(tp.d))+(tp.code==="intro"?"":" · "+n)}</small></div><span class="chev">›</span></button>`;
   }).join("");
   const sym = symptomCats(d);
-  return {title:L(d.name), html:`<div class="hero">${img(d)}<div class="t"><span class="pill">${esc(baseCat(d))}</span>${d.professional_only?` <span class="pill warn">${t("prof")}</span>`:""}<p>${esc(L(d.short))}</p>
+  const multi=(d.imgs||[]).length>1;
+  return {title:L(d.name), html:`${multi?gallery(d.imgs,L(d.name)):""}<div class="hero ${multi?"stack":""}">${img(d)}<div class="t"><span class="pill">${esc(baseCat(d))}</span>${d.professional_only?` <span class="pill warn">${t("prof")}</span>`:""}<p>${esc(L(d.short))}</p>
   <div class="btns"><a class="btn" href="${esc(L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a>${L(d.manual)?`<a class="btn primary" href="${esc(L(d.manual))}" target="_blank" rel="noopener">PDF ↗</a>`:""}</div></div></div>
   ${sym.length?`<div><div class="eyebrow" style="margin-bottom:6px">${t("forwho")}</div><div class="pills">${sym.map(s=>`<span class="pill">${esc(s)}</span>`).join("")}</div></div>`:""}
   <div class="eyebrow">${t("topics")}</div><div class="list">${topics}</div><div class="notice">⚠ ${t("ifu")}</div>`}; }
@@ -309,7 +336,8 @@ function viewTopic(slug, code){ const d=dev(slug); const tp=TOPICS.find(x=>x.cod
     case "faq": html=viewFaq(d); break; case "risks": html=viewRisks(d); break; default: html=`<div class="card">${t("soon")}</div>`; }
   return {title:t(tp.t), html}; }
 function viewAcc(slug, sku){ const d=dev(slug); const a=d.acc.find(x=>x.sku===sku); const others=visible().filter(o=>o.slug!==slug && o.acc.some(x=>x.sku===sku));
-  return {title:L(a.name), html:`<div class="hero">${accImg(a)}<div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(a.url)||L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
+  const multi=(a.imgs||[]).length>1;
+  return {title:L(a.name), html:`${multi?gallery(a.imgs,L(a.name)):""}<div class="hero ${multi?"stack":""}">${accImg(a)}<div class="t"><span class="pill">${t("acc")}</span><p>${esc(L(a.name))}<br><small class="meta">SKU ${esc(a.sku)}</small></p><a class="btn" href="${esc(L(a.url)||L(d.url))}" target="_blank" rel="noopener">${t("shop")} ↗</a></div></div>
   <div class="card">${t("soon")}</div>
   ${others.length? `<div class="card"><b>${t("also")}</b><small class="meta">${others.map(o=>esc(L(o.name))).join(", ")}</small></div>`:""}`}; }
 
@@ -343,6 +371,7 @@ function bindMain(){
   m.querySelectorAll("[data-topic]").forEach(b=>b.onclick=()=>go({v:"topic", slug:route.slug, code:b.dataset.topic}));
   m.querySelectorAll("[data-setlang]").forEach(b=>b.onclick=()=>setLang(b.dataset.setlang));
   m.querySelectorAll("[data-fb]").forEach(b=>b.onclick=()=>{ b.parentElement.textContent=t("thanks"); });
+  bindGalleries();
 }
 document.getElementById("back").onclick=back;
 document.getElementById("tab-search").onclick=()=>{ hist=[]; route={v:"home"}; render(); };

@@ -2,6 +2,14 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.5.3] – 2026-11-19
+
+### Hozzáadva
+- Prototípus 0.4.3: **lapozható képgaléria** a készülék- és tartozék-oldalon (ujjal húzható, nyilak, pöttyök, számláló), az UNAS
+  összes termékképével: 69 készüléknél és 21 tartozéknál több kép; 247 további kép `docs/prototype/img/` alatt (összesen 18 MB).
+- Az élő nézetben a galéria 2..n képei 8 csomagfájlból töltődnek (a publikáló 512 fájlos korlátja miatt); a kód a csomag hiányában
+  a kép saját útvonalára vált vissza, így a GitHub-beli fájlokkal is működik.
+
 ## [0.5.2] – 2026-11-19
 
 ### Hozzáadva
