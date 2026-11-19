@@ -2,6 +2,21 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.5.4] – 2026-11-19
+
+### Javítva
+- Prototípus: a termékkereső az első leütés után nem szűrt tovább (a beviteli mező újrarajzoláskor elvesztette a figyelőjét) – a
+  találati lista most a mezőtől függetlenül frissül, minden karakterre.
+
+### Módosítva
+- Prototípus 0.4.4: a kategória-csempék helyett **lenyíló kategóriaválasztó**: felső sorában kereső (első karaktertől szűr),
+  rendezés ABC (alapértelmezett) / Legnépszerűbb / Legtöbb termék, kiválasztáskor a lista a kategóriára szűkül. A kezdőlap a
+  lenyíló alatt az összes készüléket listázza ABC-ben, előtte a legutóbb megnyitottak.
+- Keresési szabály: 1–2 karakternél név- és márka-szókezdet (előszűrés), 3 karaktertől név, kategória, cikkszám, márka és
+  kiegészítő-név szerinti tartalmazás; ékezet-független.
+- `data/products.json`: `pop` – relatív népszerűség (0–100, log-skála az UNAS megtekintés-számból; nyers szám nincs tárolva) a
+  „Legnépszerűbb” rendezéshez.
+
 ## [0.5.3] – 2026-11-19
 
 ### Hozzáadva

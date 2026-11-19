@@ -38,6 +38,21 @@ main{flex:1;padding-bottom:88px;display:flex;flex-direction:column;gap:16px}
 .search{display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:10px 12px}
 .search input{flex:1;min-width:0;border:0;background:transparent;color:var(--fg);font:inherit;outline:none}
 .search input:focus-visible{outline:2px solid var(--accent);border-radius:4px}
+.dd{background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+.dd .head{display:flex;align-items:center;gap:10px;width:100%;padding:12px;border:0;background:transparent;color:var(--fg);font:inherit;cursor:pointer;text-align:left}
+.dd .head b{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dd .head .ar{color:var(--muted);transition:transform .15s}
+.dd.open .head .ar{transform:rotate(180deg)}
+.dd .panel{border-top:1px solid var(--line);padding:10px 12px 12px;display:flex;flex-direction:column;gap:10px}
+.dd .panel .search{padding:8px 10px}
+.dd .opts{display:flex;flex-direction:column;max-height:46vh;overflow-y:auto;gap:2px}
+.dd .opt{display:flex;align-items:center;gap:10px;width:100%;padding:9px 8px;border:0;border-radius:8px;background:transparent;color:var(--fg);font:inherit;cursor:pointer;text-align:left}
+.dd .opt:hover{background:var(--accent-soft)}
+.dd .opt[aria-selected="true"]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.dd .opt .ic{width:22px;text-align:center;color:var(--muted)}
+.dd .opt span.n{flex:1;min-width:0}
+.dd .opt small{color:var(--muted);font-size:.78rem}
+.search .x{border:0;background:transparent;color:var(--muted);font-size:1rem;cursor:pointer;padding:0 4px}
 .eyebrow{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
 .tile{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:6px;cursor:pointer;text-align:left;color:var(--fg);font:inherit;min-height:96px}
@@ -141,13 +156,13 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var
 // ---------- Felületi szövegek, 5 nyelven (ezek az app saját fordításai; a terméktartalom az UNAS-ból jön) ----------
 const LANGS = ["hu","en","sk","de","nl"];
 const UI = {
-  hu:{app:"HowToUse", variants:"Felszereltség-változatok a webshopban", variant:"változat", prof:"Csak eü. szakembernek", video:"Videó", openYt:"Megnyitás YouTube-on", openVimeo:"Megnyitás Vimeón", videos:"Videók", unasVid:"a webshop leírásában is", related:"kapcsolódó", search:"Keresés: készülék, kiegészítő, panasz…", cats:"Kategóriák", recent:"Legutóbb megnyitott", results:"Találatok",
+  hu:{app:"HowToUse", allCats:"Összes kategória", catSearch:"Keresés a kategóriákban…", sortAbc:"ABC", sortPop:"Legnépszerűbb", sortCount:"Legtöbb termék", sortBy:"Rendezés", noCat:"Nincs ilyen kategória", clear:"Törlés", allDevices:"Minden készülék", variants:"Felszereltség-változatok a webshopban", variant:"változat", prof:"Csak eü. szakembernek", video:"Videó", openYt:"Megnyitás YouTube-on", openVimeo:"Megnyitás Vimeón", videos:"Videók", unasVid:"a webshop leírásában is", related:"kapcsolódó", search:"Keresés: készülék, kiegészítő, panasz…", cats:"Kategóriák", recent:"Legutóbb megnyitott", results:"Találatok",
       noResult:"Nincs találat. Böngéssz a kategóriák között.", devices:"készülék", shop:"Webshop", manual:"Használati útmutató (PDF)",
       topics:"Mit szeretnél megnézni?", soon:"Hamarosan – az adminban készül", items:"tétel", fallback:"Ezen a nyelven még nincs tartalom – magyar változat",
       pick:"Válassz kiegészítőt", acc:"kiegészítő", compat:"Ehhez a készülékhez az UNAS-ban rögzített kiegészítők:", also:"Kompatibilis még:",
       useful:"Hasznos volt?", yes:"Igen", no:"Nem", thanks:"Köszönjük!",
       ifu:"A gyártó használati útmutatója az irányadó. Az app annak kiegészítője, nem orvosi tanács.",
-      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.3 · teljes UNAS-terméktörzs, 110 készülék",
+      settings:"Beállítások", language:"Nyelv", data:"Videók csak Wi-Fi-n", about:"Impresszum és adatvédelem", version:"Prototípus 0.4.4 · teljes UNAS-terméktörzs, 110 készülék",
       tabSearch:"Kereső", tabRecent:"Legutóbbiak", tabSettings:"Beállítások", empty:"Még nem nyitottál meg készüléket.",
       proto:"Kattintható prototípus. A terméktartalom a Medimarket UNAS-rendszerének teljes terméktörzse (110 készülék, 2026-11-19-i lekérés), a videók Dr. Zátrok Zsolt YouTube-csatornájáról és a termékleírásokból valók.",
       pkg:"A csomag tartalma", modes:"Kezelési módok", ind:"Mire javasolt", forwho:"Panaszok, amelyeknél a webshop ajánlja", hidden:"Ez a készülék nem elérhető ezen a nyelven.",
@@ -155,7 +170,7 @@ const UI = {
       t_intro:"Bemutatás", d_intro:"Mire való, mi van a dobozban", t_acc:"Kompatibilis kiegészítők", d_acc:"Az UNAS-ban kapcsolt termékek",
       t_steps:"Használat lépésről lépésre", d_steps:"Előkészítés, felhelyezés, kezelés", t_pair:"Készülék + kiegészítő használata", d_pair:"Válassz tartozékot",
       t_faq:"Gyakori kérdések", d_faq:"A webshop leírásából", t_risk:"Kockázatok", d_risk:"Mikor tilos vagy óvatosságot igényel", t_mist:"Gyakori hibák", d_mist:"Tipikus felhasználói hibák"},
-  en:{app:"HowToUse", variants:"Equipment variants in the webshop", variant:"variants", prof:"Professionals only", video:"Video", openYt:"Open on YouTube", openVimeo:"Open on Vimeo", videos:"Videos", unasVid:"also in the webshop description", related:"related", search:"Search: device, accessory, complaint…", cats:"Categories", recent:"Recently opened", results:"Results",
+  en:{app:"HowToUse", allCats:"All categories", catSearch:"Search categories…", sortAbc:"A–Z", sortPop:"Most popular", sortCount:"Most products", sortBy:"Sort", noCat:"No such category", clear:"Clear", allDevices:"All devices", variants:"Equipment variants in the webshop", variant:"variants", prof:"Professionals only", video:"Video", openYt:"Open on YouTube", openVimeo:"Open on Vimeo", videos:"Videos", unasVid:"also in the webshop description", related:"related", search:"Search: device, accessory, complaint…", cats:"Categories", recent:"Recently opened", results:"Results",
       noResult:"No results. Browse the categories.", devices:"device(s)", shop:"Webshop", manual:"Instructions for use (PDF)",
       topics:"What would you like to see?", soon:"Coming soon – being prepared in the admin", items:"items", fallback:"Not yet available in English – showing Hungarian",
       pick:"Choose an accessory", acc:"accessory", compat:"Accessories linked to this device in UNAS:", also:"Also compatible with:",
@@ -169,7 +184,7 @@ const UI = {
       t_intro:"Overview", d_intro:"What it is for, what is in the box", t_acc:"Compatible accessories", d_acc:"Products linked in UNAS",
       t_steps:"How to use, step by step", d_steps:"Preparation, placement, treatment", t_pair:"Device + accessory use", d_pair:"Pick an accessory",
       t_faq:"Frequently asked questions", d_faq:"From the webshop description", t_risk:"Risks", d_risk:"When use is prohibited or needs care", t_mist:"Common mistakes", d_mist:"Typical user errors"},
-  sk:{app:"HowToUse", variants:"Varianty výbavy v e-shope", variant:"variantov", prof:"Len pre zdravotníkov", video:"Video", openYt:"Otvoriť na YouTube", openVimeo:"Otvoriť na Vimeo", videos:"Videá", unasVid:"aj v popise e-shopu", related:"súvisiace", search:"Hľadať: prístroj, príslušenstvo, ťažkosti…", cats:"Kategórie", recent:"Naposledy otvorené", results:"Výsledky",
+  sk:{app:"HowToUse", allCats:"Všetky kategórie", catSearch:"Hľadať v kategóriách…", sortAbc:"A–Z", sortPop:"Najobľúbenejšie", sortCount:"Najviac produktov", sortBy:"Zoradiť", noCat:"Žiadna taká kategória", clear:"Vymazať", allDevices:"Všetky prístroje", variants:"Varianty výbavy v e-shope", variant:"variantov", prof:"Len pre zdravotníkov", video:"Video", openYt:"Otvoriť na YouTube", openVimeo:"Otvoriť na Vimeo", videos:"Videá", unasVid:"aj v popise e-shopu", related:"súvisiace", search:"Hľadať: prístroj, príslušenstvo, ťažkosti…", cats:"Kategórie", recent:"Naposledy otvorené", results:"Výsledky",
       noResult:"Žiadne výsledky. Prezrite si kategórie.", devices:"prístroj(e)", shop:"E-shop", manual:"Návod na použitie (PDF)",
       topics:"Čo si chcete pozrieť?", soon:"Čoskoro – pripravuje sa", items:"položiek", fallback:"V slovenčine zatiaľ nie je k dispozícii – maďarská verzia",
       pick:"Vyberte príslušenstvo", acc:"príslušenstvo", compat:"Príslušenstvo prepojené s prístrojom v UNAS:", also:"Kompatibilné aj s:",
@@ -183,7 +198,7 @@ const UI = {
       t_intro:"Predstavenie", d_intro:"Na čo slúži, čo je v balení", t_acc:"Kompatibilné príslušenstvo", d_acc:"Produkty prepojené v UNAS",
       t_steps:"Použitie krok za krokom", d_steps:"Príprava, umiestnenie, ošetrenie", t_pair:"Prístroj + príslušenstvo", d_pair:"Vyberte príslušenstvo",
       t_faq:"Časté otázky", d_faq:"Z popisu v e-shope", t_risk:"Riziká", d_risk:"Kedy je použitie zakázané alebo vyžaduje opatrnosť", t_mist:"Časté chyby", d_mist:"Typické chyby používateľov"},
-  de:{app:"HowToUse", variants:"Ausstattungsvarianten im Webshop", variant:"Varianten", prof:"Nur für Fachpersonal", video:"Video", openYt:"Auf YouTube öffnen", openVimeo:"Auf Vimeo öffnen", videos:"Videos", unasVid:"auch in der Shop-Beschreibung", related:"verwandt", search:"Suche: Gerät, Zubehör, Beschwerde…", cats:"Kategorien", recent:"Zuletzt geöffnet", results:"Ergebnisse",
+  de:{app:"HowToUse", allCats:"Alle Kategorien", catSearch:"Kategorien durchsuchen…", sortAbc:"A–Z", sortPop:"Beliebteste", sortCount:"Meiste Produkte", sortBy:"Sortieren", noCat:"Keine passende Kategorie", clear:"Löschen", allDevices:"Alle Geräte", variants:"Ausstattungsvarianten im Webshop", variant:"Varianten", prof:"Nur für Fachpersonal", video:"Video", openYt:"Auf YouTube öffnen", openVimeo:"Auf Vimeo öffnen", videos:"Videos", unasVid:"auch in der Shop-Beschreibung", related:"verwandt", search:"Suche: Gerät, Zubehör, Beschwerde…", cats:"Kategorien", recent:"Zuletzt geöffnet", results:"Ergebnisse",
       noResult:"Keine Treffer. Stöbern Sie in den Kategorien.", devices:"Gerät(e)", shop:"Webshop", manual:"Gebrauchsanweisung (PDF)",
       topics:"Was möchten Sie sehen?", soon:"Demnächst – wird im Admin vorbereitet", items:"Einträge", fallback:"Auf Deutsch noch nicht verfügbar – ungarische Fassung",
       pick:"Zubehör wählen", acc:"Zubehör", compat:"In UNAS mit diesem Gerät verknüpftes Zubehör:", also:"Auch kompatibel mit:",
@@ -197,7 +212,7 @@ const UI = {
       t_intro:"Überblick", d_intro:"Wofür es ist, was in der Box liegt", t_acc:"Kompatibles Zubehör", d_acc:"In UNAS verknüpfte Produkte",
       t_steps:"Anwendung Schritt für Schritt", d_steps:"Vorbereitung, Anlegen, Behandlung", t_pair:"Gerät + Zubehör", d_pair:"Zubehör wählen",
       t_faq:"Häufige Fragen", d_faq:"Aus der Shop-Beschreibung", t_risk:"Risiken", d_risk:"Wann die Anwendung verboten ist oder Vorsicht braucht", t_mist:"Häufige Fehler", d_mist:"Typische Anwenderfehler"},
-  nl:{app:"HowToUse", variants:"Uitvoeringen in de webshop", variant:"uitvoeringen", prof:"Alleen voor zorgprofessionals", video:"Video", openYt:"Openen op YouTube", openVimeo:"Openen op Vimeo", videos:"Video's", unasVid:"ook in de webshopbeschrijving", related:"gerelateerd", search:"Zoeken: apparaat, accessoire, klacht…", cats:"Categorieën", recent:"Laatst geopend", results:"Resultaten",
+  nl:{app:"HowToUse", allCats:"Alle categorieën", catSearch:"Zoek in categorieën…", sortAbc:"A–Z", sortPop:"Populairst", sortCount:"Meeste producten", sortBy:"Sorteren", noCat:"Geen categorie gevonden", clear:"Wissen", allDevices:"Alle apparaten", variants:"Uitvoeringen in de webshop", variant:"uitvoeringen", prof:"Alleen voor zorgprofessionals", video:"Video", openYt:"Openen op YouTube", openVimeo:"Openen op Vimeo", videos:"Video's", unasVid:"ook in de webshopbeschrijving", related:"gerelateerd", search:"Zoeken: apparaat, accessoire, klacht…", cats:"Categorieën", recent:"Laatst geopend", results:"Resultaten",
       noResult:"Geen resultaten. Blader door de categorieën.", devices:"apparaat/apparaten", shop:"Webshop", manual:"Gebruiksaanwijzing (PDF)",
       topics:"Wat wilt u bekijken?", soon:"Binnenkort – wordt in de admin voorbereid", items:"items", fallback:"Nog niet in het Nederlands – Hongaarse versie",
       pick:"Kies een accessoire", acc:"accessoire", compat:"Accessoires die in UNAS aan dit apparaat zijn gekoppeld:", also:"Ook compatibel met:",
@@ -225,6 +240,9 @@ const ICON = {"Elektromos kezelés":"⚡","Nyirokmasszázs gép":"≋","Rehabili
 
 // ---------- Állapot ----------
 let DEVICES = [], lang = "hu", route = {v:"home"}, recent = [], hist = [];
+let catOpen=false, catQ="", catSort="abc"; try{ catSort=localStorage.getItem("howto.catSort")||"abc"; }catch(e){}
+const norm = s => String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+const wordStart = (text, q) => norm(text).split(/[^a-z0-9]+/).some(w=>w.startsWith(q));
 try{ lang = localStorage.getItem("howto.lang") || "hu"; recent = JSON.parse(localStorage.getItem("howto.recent")||"[]"); }catch(e){}
 if(!LANGS.includes(lang)) lang="hu";
 const t = k => UI[lang][k] ?? UI.hu[k] ?? k;
@@ -275,20 +293,43 @@ function bindGalleries(){ loadGalleryImages(); document.querySelectorAll("[data-
 function img(d, cls){ return `<div class="img"><img src="${d.img}" alt="${esc(L(d.name))}" loading="lazy"></div>`; }
 function deviceRow(d){ return `<button class="row" data-dev="${d.slug}">${img(d)}<div class="t"><b>${esc(L(d.name))}</b><small>${esc(baseCat(d))}${d.brand&&d.brand!=="n/a"?" · "+esc(d.brand):""}${d.variants&&d.variants.length?" · "+d.variants.length+" "+t("variant"):""}</small></div><span class="chev">›</span></button>`; }
 
+function catList(){ const ds=visible(); const m=new Map();
+  ds.forEach(d=>{ const k=catKey(d); const c=m.get(k)||{key:k,name:groupName(d),ic:ICON[k]||"◦",n:0,pop:0}; c.n++; c.pop+=d.pop||0; m.set(k,c); });
+  let cats=[...m.values()];
+  if(catSort==="pop") cats.sort((a,b)=>b.pop-a.pop||a.name.localeCompare(b.name,lang));
+  else if(catSort==="count") cats.sort((a,b)=>b.n-a.n||a.name.localeCompare(b.name,lang));
+  else cats.sort((a,b)=>a.name.localeCompare(b.name,lang));
+  return cats; }
+function catOptionsHtml(){ const q=norm(catQ.trim()); const cats=catList().filter(c=>!q || (q.length<3 ? wordStart(c.name,q) : norm(c.name).includes(q))); const sel=route.cat||"";
+  const all=`<button class="opt" data-pick="" aria-selected="${!sel}"><span class="ic">▦</span><span class="n">${t("allCats")}</span><small>${visible().length}</small></button>`;
+  return (q?"":all)+(cats.length? cats.map(c=>`<button class="opt" data-pick="${esc(c.key)}" aria-selected="${sel===c.key}"><span class="ic">${c.ic}</span><span class="n">${esc(c.name)}</span><small>${c.n}</small></button>`).join("") : `<div class="meta" style="padding:8px">${t("noCat")}</div>`); }
+function deviceList(q){ const ql=norm(q.trim()); let ds=visible();
+  if(route.cat) ds=ds.filter(d=>catKey(d)===route.cat);
+  if(ql && ql.length<3) ds=ds.filter(d => wordStart(L(d.name),ql) || wordStart(d.brand,ql));   // 1–2 karakter: csak név/márka szókezdet (előszűrés)
+  else if(ql) ds=ds.filter(d => norm(L(d.name)).includes(ql) || norm((L(d.cats)||[]).join(" ")).includes(ql) || norm(d.sku).includes(ql) || norm(d.brand).includes(ql) || d.acc.some(a=>norm(L(a.name)).includes(ql)));
+  ds=[...ds].sort((a,b)=>{ if(ql){ const sa=norm(L(a.name)).startsWith(ql)?0:1, sb=norm(L(b.name)).startsWith(ql)?0:1; if(sa!==sb) return sa-sb; } return L(a.name).localeCompare(L(b.name),lang); });
+  return ds; }
+function resultsHtml(q){ const ds=deviceList(q); const ql=q.trim(); const title= ql? t("results") : (route.cat? groupName(ds[0]||{cats:{hu:[route.cat]}}) : t("allDevices"));
+  let html=`<div class="eyebrow">${esc(title)} · ${ds.length}</div><div class="list">${ds.length? ds.map(deviceRow).join("") : `<div class="card">${t("noResult")}</div>`}</div>`;
+  if(!ql && !route.cat){ const rec=recent.map(dev).filter(Boolean); if(rec.length) html=`<div class="eyebrow">${t("recent")}</div><div class="list">${rec.map(deviceRow).join("")}</div>`+html; }
+  return html; }
 function viewHome(q=""){
-  const ql=q.trim().toLowerCase(); const ds=visible();
-  let html = `<div class="search"><span>⌕</span><input id="q" type="search" placeholder="${t("search")}" value="${esc(q)}" autocomplete="off"></div>`;
-  if(ql){
-    const hits = ds.filter(d => L(d.name).toLowerCase().includes(ql) || (L(d.cats)||[]).join(" ").toLowerCase().includes(ql) || d.acc.some(a=>(L(a.name)||"").toLowerCase().includes(ql)) || d.sku.toLowerCase().includes(ql));
-    html += `<div class="eyebrow">${t("results")}</div><div class="list">${hits.length? hits.map(deviceRow).join("") : `<div class="card">${t("noResult")}</div>`}</div>`;
-  } else {
-    const cats = [...new Map(ds.map(d=>[catKey(d), {key:catKey(d), name:groupName(d), ic:ICON[catKey(d)]||"◦", n:ds.filter(x=>catKey(x)===catKey(d)).length}])).values()].sort((a,b)=>b.n-a.n);
-    html += `<div class="eyebrow">${t("cats")}</div><div class="grid">${cats.map(c=>`<button class="tile" data-cat="${esc(c.key)}"><span class="ic">${c.ic}</span><b>${esc(c.name)}</b><small>${c.n} ${t("devices")}</small></button>`).join("")}</div>`;
-    const rec = recent.map(dev).filter(Boolean);
-    if(rec.length) html += `<div class="eyebrow">${t("recent")}</div><div class="list">${rec.map(deviceRow).join("")}</div>`;
-  }
-  html += `<p class="proto">${t("proto")}</p>`;
+  const selName = route.cat ? (catList().find(c=>c.key===route.cat)||{}).name||route.cat : t("allCats");
+  const html = `<div class="search"><span>⌕</span><input id="q" type="search" placeholder="${t("search")}" value="${esc(q)}" autocomplete="off" enterkeyhint="search">${q?`<button class="x" data-clearq aria-label="${t("clear")}">✕</button>`:""}</div>
+  <div class="dd ${catOpen?"open":""}" id="dd"><button class="head" data-dd-toggle aria-expanded="${catOpen}"><span class="ic">▦</span><b>${esc(selName)}</b><span class="ar">⌄</span></button>
+    ${catOpen?`<div class="panel"><div class="search"><span>⌕</span><input id="catq" type="search" placeholder="${t("catSearch")}" value="${esc(catQ)}" autocomplete="off"></div>
+    <div class="sel" role="group" aria-label="${t("sortBy")}"><button data-sort="abc" aria-pressed="${catSort==="abc"}">${t("sortAbc")} ↑</button><button data-sort="pop" aria-pressed="${catSort==="pop"}">${t("sortPop")}</button><button data-sort="count" aria-pressed="${catSort==="count"}">${t("sortCount")}</button></div>
+    <div class="opts" id="catopts">${catOptionsHtml()}</div></div>`:""}</div>
+  <div id="results">${resultsHtml(q)}</div><p class="proto">${t("proto")}</p>`;
   return {title:t("app"), html, back:false};
+}
+function bindHome(){ const m=document.getElementById("main");
+  const q=document.getElementById("q"); if(q){ q.oninput=e=>{ route={...route, v:"home", q:e.target.value}; document.getElementById("results").innerHTML=resultsHtml(route.q); bindMain(false); const x=q.parentElement.querySelector("[data-clearq]"); if(route.q && !x){ render(); const q2=document.getElementById("q"); q2.focus(); q2.setSelectionRange(q2.value.length,q2.value.length); } else if(!route.q && x){ render(); document.getElementById("q").focus(); } }; }
+  m.querySelectorAll("[data-clearq]").forEach(b=>b.onclick=()=>{ route={...route,q:""}; render(); document.getElementById("q").focus(); });
+  m.querySelectorAll("[data-dd-toggle]").forEach(b=>b.onclick=()=>{ catOpen=!catOpen; if(!catOpen) catQ=""; render(); if(catOpen){ const c=document.getElementById("catq"); c&&c.focus(); } });
+  const cq=document.getElementById("catq"); if(cq){ cq.oninput=e=>{ catQ=e.target.value; document.getElementById("catopts").innerHTML=catOptionsHtml(); bindHome(); }; }
+  m.querySelectorAll("[data-sort]").forEach(b=>b.onclick=()=>{ catSort=b.dataset.sort; try{localStorage.setItem("howto.catSort",catSort);}catch(e){} render(); });
+  m.querySelectorAll("[data-pick]").forEach(b=>b.onclick=()=>{ route={...route, v:"home", cat:b.dataset.pick||null}; catOpen=false; catQ=""; render(); });
 }
 function viewCat(key){ const ds=visible().filter(d=>catKey(d)===key).sort((a,b)=>baseCat(a).localeCompare(baseCat(b))||L(a.name).localeCompare(L(b.name))); const name=ds.length? groupName(ds[0]) : key;
   return {title:name, html:`<div class="list">${ds.map(deviceRow).join("")}</div>`}; }
@@ -360,11 +401,11 @@ function render(){
   document.getElementById("langbar").innerHTML = LANGS.map(l=>`<button data-lang="${l}" aria-pressed="${lang===l}">${l.toUpperCase()}</button>`).join("");
   document.querySelectorAll("#langbar [data-lang]").forEach(b=>b.onclick=()=>setLang(b.dataset.lang));
   ["search","recent","settings"].forEach(k=>{ const b=document.getElementById("tab-"+k); b.setAttribute("aria-current", (k==="search"? !["recent","settings"].includes(route.v) : route.v===k) ? "page":"false"); document.getElementById("tab-"+k+"-l").textContent=t("tab"+k[0].toUpperCase()+k.slice(1)); });
-  const q=document.getElementById("q"); if(q){ q.addEventListener("input", e=>{ route={v:"home", q:e.target.value}; const h=viewHome(route.q); document.getElementById("main").innerHTML=h.html; const q2=document.getElementById("q"); q2.focus(); q2.setSelectionRange(q2.value.length,q2.value.length); bindMain(); }); }
-  bindMain();
+  bindMain(true);
 }
-function bindMain(){
+function bindMain(withHome=true){
   const m=document.getElementById("main");
+  if(withHome && route.v==="home") bindHome();
   m.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>go({v:"cat", id:b.dataset.cat}));
   m.querySelectorAll("[data-dev]:not([data-acc])").forEach(b=>b.onclick=()=>go({v:"device", slug:b.dataset.dev}));
   m.querySelectorAll("[data-acc][data-dev]").forEach(b=>b.onclick=()=>go({v:"acc", slug:b.dataset.dev, acc:b.dataset.acc}));
@@ -374,7 +415,7 @@ function bindMain(){
   bindGalleries();
 }
 document.getElementById("back").onclick=back;
-document.getElementById("tab-search").onclick=()=>{ hist=[]; route={v:"home"}; render(); };
+document.getElementById("tab-search").onclick=()=>{ hist=[]; route={v:"home"}; catOpen=false; catQ=""; render(); };
 document.getElementById("tab-recent").onclick=()=>{ hist=[]; route={v:"recent"}; render(); };
 document.getElementById("tab-settings").onclick=()=>{ hist=[]; route={v:"settings"}; render(); };
 
