@@ -2,6 +2,18 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.3.1] – 2026-11-19
+
+### Hozzáadva
+- További 4 készülék valós, anonimizált `getProduct` mintája mind az 5 nyelven (Dolito, DermaDry Total, SaltDome, PeroBravo),
+  ütemezett (3 mp szünetes) lekéréssel; összesen 25 mintafájl.
+
+### Módosítva
+- UNAS integráció (`docs/05`) 0.3.1: ellenjavallat-kinyerés CSS-osztály alapján (a mikrodata nem következetes), használati
+  útmutató nyelvfüggő, `NotVisibleInLanguage` angol nyelvnév, `enummore` paraméterek (`Stimulációs módok`, `Javaslat`, `CE`,
+  `EAN`, `mpn`) leképezése, csomagtartalom-szekció változó sorszámmal, hívásszám-fegyelem szabályai.
+- `docs/samples/unas-api-mezok.md`, `CLAUDE.md`: a fenti tanulságok és a hívásszám-szabály.
+
 ## [0.3.0] – 2026-11-19
 
 ### Hozzáadva

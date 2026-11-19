@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-200, Lang=hu, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418915</Id>
+    <Sku>010E-200</Sku>
+    <CreateTime>1743245666</CreateTime>
+    <LastModTime>1794912144</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Rendelésre</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Csak eü. szakember vásárolhatja</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Üzletkötőként forgalmazzuk</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>Dolito</Name>
+    <Unit>db</Unit>
+    <Weight>0.4</Weight>
+    <Description>
+      <Short>&lt;p class="pp-product-summary"&gt;Fájdalomkezelésre specializált TENS készülék&lt;/p&gt;
+&lt;div class="pp-price-includes"&gt;
+ &lt;span class="pp-price-includes__label"&gt;Ár tartalma:&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Dolito készülék &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Kábel &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;40x40mm TENS elektróda &lt;span class="pp-price-includes__chip-qty"&gt;4 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;9V elem &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;article class="pp-wrapper"&gt;
+ &lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&gt;
+ &lt;aside class="pp-trust-box"&gt;
+ &lt;div class="pp-trust-box-header"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png" alt="Dr. Zátrok Zsolt" class="pp-doctor-photo"&gt;
+ &lt;div&gt;
+ &lt;span class="pp-trust-badge"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png" alt="orvos" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Orvosszakértőnk mondja
+ &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;blockquote class="pp-doctor-quote"&gt;
+ &lt;p&gt;&lt;em&gt;„A Dolito-t azoknak ajánlom, akik gyógyszermentes fájdalomcsillapításra keresnek egyszerű, megfizethető otthoni eszközt. A hat protokoll a legfontosabb TENS-módszereket lefedi: a folyamatos és a modulált TENS a klasszikus fájdalomcsillapítást, a Burst és a HAN (Dense-Disperse) az endorfin-rendszert célozza – ez utóbbi krónikus és izomeredetű panaszoknál hasznos. Fontos tisztán látni: a Dolito CSAK TENS. A módszerek különbségét itt írom le: &lt;a href="https://www.medimarket.hu/melyik-elektroterapia-mire-jo"&gt;melyik elektroterápia mire jó&lt;/a&gt;.”&lt;/em&gt;&lt;/p&gt;
+ &lt;/blockquote&gt;
+
+ &lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&gt;
+ &lt;dl class="pp-trust-facts" style="margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;"&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Reális elvárás
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;A TENS a fájdalomérzet csillapítására hat, az okot nem szünteti meg. A hatás alkalomhoz kötött – a kezelés alatt és utána néhány óráig tart –, ezért krónikus panasznál napi, ismételt használatra kell berendezkedni. A megfelelő elektróda-elhelyezés és intenzitás beállítása gyakorlást igényel: az első néhány alkalom tanulás, ne ez alapján ítéld meg a készüléket. &lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Nem ez a te készüléked, ha
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;izmot erősítenél, sorvadt izmot építenél vissza vagy inkontinenciát kezelnél: ezekhez EMS-, illetve szondás programok kellenek, a Dolito ilyet nem tartalmaz. Ha mindkét funkcióra szükséged van, multifunkciós készülék felé érdemes nézni.&lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Mielőtt megrendeled
+ &lt;/dt&gt;
+ &lt;dd style="margin:0;line-height:1.55;color:#333;"&gt;A termékleírásban általános javaslatot találsz a programválasztásról, az elektróda-elhelyezésről és a kezelési időről. A számodra ideális beállítást a panaszodat ismerő orvos vagy gyógytornász tudja megadni az állapotod függvényében. NEM használható pacemaker, beültetett defibrillátor (ICD) vagy más aktív implantátum mellett – kizárólag kardiológus engedélyével. Elektróda nem kerülhet a nyak elülső felére, a fejre, a szem környékére és a halántékra, és a mellkason keresztül nem szabad áramot vezetni. Terhesség alatt kerülendő; daganatos betegségnél, ha a kezelési terület érintett, előbb onkológus konzultáció. Új, súlyosbodó vagy ismeretlen eredetű fájdalomnál először orvosi kivizsgálás szükséges.&lt;/dd&gt;
+
+ &lt;/dl&gt;
+
+ &lt;footer&gt;
+ &lt;p&gt;&lt;strong&gt;– &lt;a href="https://www.medimarket.hu/rolam-dr-zatrok-zsolt"&gt;Dr. Zátrok Zsolt&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ &lt;em&gt;Orvos, orvostechnológiai szakértő, blogger&lt;/em&gt;
+ &lt;/p&gt;
+ &lt;/footer&gt;
+ &lt;/aside&gt;
+
+ &lt;!-- 3. CÉLCSOPORTOK – AKKORDEON --&gt;
+ &lt;section class="pp-target-segments"&gt;
+ &lt;h2 class="pp-headline"&gt;Ez a panaszom – jó nekem a Dolito?&lt;/h2&gt;
+ &lt;div class="pp-accordion"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-gyulladas.png" alt="ízületi fájdalom" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha ízületi vagy ín-fájdalmaid vannak (artrózis, ín-gyulladás)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az ízületi gyulladás (artritisz), kopásos ízületi problémák (artrózis), ín-gyulladások (tendinitis) krónikus fájdalommal járnak, amit a TENS gyógyszermentes módon enyhíthet. A Dolito Modulált (Program 01) vagy HAN (Program 04) módja krónikus panaszokra optimalizált – 30 perces kezeléseket napi 1-2 alkalommal végezhetsz. A fájdalomcsillapítás már a kezelés alatt jelentkezhet, és általában a stimuláció után is fennmaradhat.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png" alt="ülőmunka" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha ülőmunkát végzel és esténként nyaki/deréki fájdalom gyötör&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A nyaki és lumbalis (deréki) panaszok az ülőmunka egyik leggyakoribb kísérője. A Dolito Folyamatos (Program 02 – 110 Hz, 30 perc) az akut, hirtelen jelentkező fájdalomra ad gyors megkönnyebbülést, a Modulált (Program 01) pedig a krónikus, visszatérő panaszokra. Munka közben vagy után, akár otthon a kanapén ülve használhatod – övcsattal viselheted, és nyugodtan tévézhetsz, olvashatsz közben.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/inkontinencia.png" alt="menstruációs fájdalom" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha menstruációs fájdalmaid vannak&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A primer dysmenorrhoea (menstruációs görcsök) a fiatal és középkorú nőknél gyakran erős, gyógyszermentes kezelési vágyat váltanak ki. A Dolito Folyamatos vagy Modulált programja az alhasra felragasztott elektródákkal csillapíthatja a görcsöket. A 9V elemes üzem és a kompakt méret előny: zsebben, retikülben hordozható, akár munkahelyen is diszkréten használható. FONTOS: terhesség alatt NEM használható.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png" alt="sportolói izomfájdalom" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha edzés vagy fizikai munka után izomfájdalmaid vannak&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Izomláz, izomgörcs, edzés utáni fájdalom esetén a Dolito Burst (Program 03) az endorfin-rendszert aktiválhatja a fájdalom enyhítésére. A Work/Rest (Program 05) pedig enyhe izomerősítésre is használható – 10 másodperces stimuláció + 20 másodperces pihenés ritmusban. Ez nem helyettesíti a Globus EMS-készülékeket az erőfejlesztésben, de a felépülő, regenerálódó izom kíméletes újraaktiválására alkalmas.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png" alt="idegfájdalom" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha idegi eredetű fájdalmaid vannak (neuralgia, isiász)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A neuralgiák (idegi eredetű fájdalmak), isiász, gyökeres tünetek és bizonyos esetekben a phantomfájdalom is reagálhat a TENS-kezelésre. A Dolito Modulált és HAN programjai különösen alkalmasak ezeknek a krónikus fájdalmaknak az enyhítésére. FONTOS: idegi fájdalom hátterét mindig orvosi szakember tisztázza – ne kezeld önállóan, ha a panasz új vagy súlyosbodik.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_6" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_6" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="megfizethető belépő" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha megfizethető belépő szintű eszközt keresel&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Sok beteg a háziorvosi vagy fizioterapeutai TENS-kezelés után érdeklődik az otthoni készülékek iránt – és nem akar azonnal nagy beruházást. A Dolito belépő-szintű ár-érték aránya pontosan ennek a vásárlói rétegnek szól: német minőség, 10 év élettartam, klasszikus 6 program, egyszerű kezelőfelület. Nem akar minden lenni egyszerre, ami pontosan az előnye is – aki csak TENS-fájdalomcsillapítást keres, nem fizet felesleges funkciókért.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_7" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_7" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/mutet.png" alt="törés után" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha törés vagy műtét utáni fájdalommal küzdesz&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Csonttörés gipszlevétel utáni időszaka, kisebb műtétek (pl. meniszkusz-bevitel, ínrekonstrukció) után a TENS-kezelés gyógyszermentes alternatívát kínálhat a fájdalom enyhítésére. A Dolito Folyamatos programja akut, intenzív panaszokra, a Modulált pedig az elhúzódó posztoperatív szakaszra optimalizált. FONTOS: kezelőorvosi vagy fizioterapeutai jóváhagyással kezdj TENS-kezelést a sérülés/műtét után – a friss hegre soha ne helyezz elektródát! Műtét után min. 5-7 napot várj. &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_8" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_8" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png" alt="kezelőorvosi együttműködés" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha fizioterapeutád vagy kezelőorvosod javasolja az otthoni TENS-t&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A fizioterapeutád vagy kezelőorvosod beállíthat számodra egyéni protokollt (PC06 program) is, ami elmenthető és bármikor újra előhívható.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 5. PROGRAM-CSOPORTOK --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A 6 program részletesen&lt;/h2&gt;
+ &lt;p&gt;A Dolito 6 előre programozott kezelési módot kínál + egy teljesen testreszabható programot. Minden program más-más fájdalom-típushoz optimalizált.&lt;/p&gt;
+
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png" alt="modulált" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 01 – Modulált (MOD): krónikus fájdalmakra&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Frekvencia:&lt;/strong&gt; 70-110 Hz változó. &lt;strong&gt;Impulzus-szélesség:&lt;/strong&gt; 200-100 µs változó. &lt;strong&gt;Időtartam:&lt;/strong&gt; 30 perc.&lt;/p&gt;
+ &lt;p&gt;A folyamatosan változó paraméterek miatt a test idegrendszere NEM szokik hozzá az elektromos ingerhez – ez különösen krónikus, hosszan tartó fájdalmaknál előny. Hosszú távon is hatékony marad a kezelés. Tipikus alkalmazás: krónikus deréki, nyaki fájdalom, ízületi gyulladás, neuralgia.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="folyamatos" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 02 – Folyamatos (CONT, hagyományos TENS): akut fájdalomra&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Frekvencia:&lt;/strong&gt; 110 Hz állandó. &lt;strong&gt;Impulzus-szélesség:&lt;/strong&gt; 175 µs. &lt;strong&gt;Időtartam:&lt;/strong&gt; 30 perc.&lt;/p&gt;
+ &lt;p&gt;A klasszikus TENS-kezelés. A magas frekvenciás folyamatos stimuláció a Gate-Control elmélet szerint blokkolja a fájdalomjelek továbbítását az agyba. Tipikus alkalmazás: hirtelen jelentkező izomgörcs, akut deréki fájdalom, izomláz, posztoperatív fájdalom. Gyors megkönnyebbülés a kezelés alatt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png" alt="burst" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 03 – Burst: endorfin felszabadulás&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Frekvencia:&lt;/strong&gt; 80 Hz. &lt;strong&gt;Impulzus-szélesség:&lt;/strong&gt; 150 µs. &lt;strong&gt;Időtartam:&lt;/strong&gt; 30 perc. &lt;strong&gt;Ritmus:&lt;/strong&gt; másodpercenként kétszer 9 impulzusból álló csoportok.&lt;/p&gt;
+ &lt;p&gt;A Burst (csoportos) stimuláció specifikusan az endorfin-felszabadulást fokozhatja, vagyis a tested saját, morfin-szerű fájdalomcsillapító anyagokat termel ki. Tipikus alkalmazás: krónikus fájdalom, amikor a klasszikus TENS már nem hat eléggé. A hatás lassabban épül fel, de tartósabb.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/frekvencia.png" alt="HAN" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 04 – HAN (Dense-Disperse): Han-mód&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Frekvencia:&lt;/strong&gt; 100/2 Hz váltakozó (Dense-Disperse). &lt;strong&gt;Impulzus-szélesség:&lt;/strong&gt; 200/350 µs. &lt;strong&gt;Időtartam:&lt;/strong&gt; 30 perc. &lt;strong&gt;Ritmus:&lt;/strong&gt; 3-3 másodperces ciklusokban váltakozik a magas és alacsony frekvencia.&lt;/p&gt;
+ &lt;p&gt;Professor Han által kifejlesztett kifinomult módszer, amely különböző típusú opioidokat aktiválhat – mind az enkefalin-, mind a dinorfin-rendszert. Tipikus alkalmazás: nehezebben kezelhető krónikus fájdalmak, ahol a klasszikus TENS és Burst sem hozta meg a várt enyhülést. Az egyik kifinomultabb endorfin-felszabadító TENS-mód.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png" alt="izomerősítés" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 05 – Work/Rest (Összehúzódás/Pihenés): enyhe izomerősítés&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Frekvencia:&lt;/strong&gt; 50 Hz. &lt;strong&gt;Impulzus-szélesség:&lt;/strong&gt; 300 µs. &lt;strong&gt;Időtartam:&lt;/strong&gt; 20 perc. &lt;strong&gt;Ritmus:&lt;/strong&gt; 10 másodperces aktív + 20 másodperces pihenő ciklusok.&lt;/p&gt;
+ &lt;p&gt;Bár a Dolito tisztán TENS-készülékként van pozícionálva, ez a program enyhe izomerősítést is biztosíthat. Tipikus alkalmazás: hosszan inaktív izom kíméletes újraaktiválása, regeneráció, gyenge ép izomzat visszaerősítése. FONTOS: a Dolito izomerősítő képessége NEM összemérhető a dedikált Globus EMS-készülékekkel – inkább kiegészítő, mintsem fő funkció.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_prog6" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_prog6" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png" alt="egyéni" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Program 06 – PC06 (Egyéni): teljes testreszabás&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A PC06 program minden paramétert egyénileg állíthat be: kezelési idő 1-599 perc, frekvencia 1-150 Hz, impulzus-szélesség 50-350 µs, modulációs típus szabadon választható. Ez kifejezetten a kezelőorvos vagy fizioterapeuta által meghatározott specifikus protokollokhoz készült. A 60 napos memória + STIM LOCK kombinációval a szakember beállíthatja, és lezárhatja a számodra megfelelő egyedi protokollt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 7. FAQ – RADIO --&gt;
+ &lt;section class="pp-faq-section"&gt;
+ &lt;h2 class="pp-headline"&gt;Gyakori kérdések&lt;/h2&gt;
+
+ &lt;div class="pp-faq-item pp-faq-danger"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_1" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_1" class="pp-faq-label pp-faq-label-danger pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="fontos" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Pacemakerrel vagy beültetett implantátummal használhatom?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;&lt;strong&gt;Nem.&lt;/strong&gt; A pacemaker, beültetett defibrillátor (ICD) vagy bármilyen elektronikus implantátum &lt;strong&gt;abszolút ellenjavallat&lt;/strong&gt;. A TENS-impulzusok zavarhatják az implantátum működését, ami életveszélyes lehet. Ha ilyen eszközöd van, semmilyen körülmények között ne használd a készüléket – még a végtagjaidon sem.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-warning"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_2" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_2" class="pp-faq-label pp-faq-label-warning pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="figyelem" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Terhesség alatt használhatom?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Terhesség alatt – különösen az első trimeszterben – a TENS-készülék használata &lt;strong&gt;NEM ajánlott&lt;/strong&gt;. Az alhas, has és deréktájék kezelése a teljes terhesség alatt tilos. Szülés alatt egyes klinikákon külön szülészeti TENS-protokollok léteznek, de ezeket szakember alkalmazza. Bizonytalanság esetén kérdezd meg nőgyógyászodat vagy szülésznődet.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_3" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_3" class="pp-faq-label"&gt;
+ Mi a különbség a Dolito és a Globus belépő-készülékek (Elite SII, Genesy SII) között?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Több fontos eltérés:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Dolito (MTR+, német):&lt;/strong&gt; TISZTÁN TENS-készülék. 6 program. 2 csatorna. 9V elem. Csak fájdalomcsillapítás (és enyhe izomerősítés a Program 5-tel). Belépő-szintű ár.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Elite SII (Globus, olasz):&lt;/strong&gt; Multifunkciós (TENS + EMS/NMES). 100 program. 2 csatorna. Akkumulátoros. Sport, alakformálás, fájdalomcsillapítás egyaránt.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Genesy SII (Globus, olasz):&lt;/strong&gt; Multifunkciós, kismedence-fókuszú. Szondás inkontinencia-kezelésre is alkalmas. Akkumulátoros.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Ha tisztán fájdalomcsillapításra keresel egyszerű, kedvező belépőt → Dolito. Ha sport-EMS, alakformálás vagy inkontinencia-szondás kezelés is fontos → Elite SII vagy Genesy SII.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_4" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_4" class="pp-faq-label"&gt;
+ Mi a különbség a 4 TENS-program (Modulált, Folyamatos, Burst, HAN) között a gyakorlatban?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Egyszerűen:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Folyamatos (Program 02):&lt;/strong&gt; a klasszikus „gyors hatású" TENS. Akut fájdalomra használd – pl. hirtelen derékfájás, izomgörcs. Hatás kezelés alatt érzékelhető.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Modulált (Program 01):&lt;/strong&gt; a folyamatosan változó paraméterek megakadályozzák a hozzászokást. Krónikus fájdalomra – pl. visszatérő nyaki, ízületi fájdalom.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Burst (Program 03):&lt;/strong&gt; az endorfin-rendszert aktiválhatja – a tested saját fájdalomcsillapítóit. Lassabban épül fel a hatás, de tartósabb. Krónikus fájdalomra, hosszú távú használatra.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;HAN (Program 04):&lt;/strong&gt; a legkifinomultabb endorfin-aktiváló mód, váltakozó magas/alacsony frekvenciával. Nehéz krónikus fájdalomra, ha a klasszikus TENS már nem hat.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Általános javaslat: kezdj a Folyamatossal (gyors enyhülés), és ha krónikus a panaszod, válts Modulált → Burst → HAN sorrendben, hogy lásd melyik hat a legjobban neked.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_5" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_5" class="pp-faq-label"&gt;
+ Milyen gyakran használhatom?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A TENS gyógyszermentes, és általában jól tolerálható. Tipikus protokollok:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Akut fájdalom:&lt;/strong&gt; 15-30 perc, napi 2-3 alkalommal, panasz szerint.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Krónikus fájdalom:&lt;/strong&gt; 30-45 perc, napi 1-2 alkalommal, hosszú távú használatra.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Izomerősítés (Work/Rest):&lt;/strong&gt; 20-30 perc, napi 1 alkalommal.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Menstruációs fájdalom:&lt;/strong&gt; a görcsös szakaszokban, igény szerint.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Soha NE használd a készüléket vezetés közben vagy operatív munka mellett. Ha új vagy súlyosbodó panasz jelenik meg, fordulj kezelőorvoshoz – a TENS nem helyettesíti a kivizsgálást.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_6" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_6" class="pp-faq-label"&gt;
+ Hogyan helyezzem el az elektródákat hátfájásra?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A lumbalis (deréki) fájdalom esetén tipikus elhelyezés: 4 db 40×40 mm-es elektróda a derék-területre, körülfogva a fájdalmas pontot. Csatorna 1: két elektróda a gerincoszlop két oldalán, a derék közepén (kb. L3-L4 magasságban). Csatorna 2: két elektróda a derék alsó és felső részén, közbeékelve a fájdalmas területet. Ne helyezz elektródát közvetlenül a gerincoszlopra. A pontos pozicionálási útmutató a magyar használati útmutatóban ábrákkal. Bizonytalanság esetén kérd ki fizioterapeuta vagy gyógytornász véleményét.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_dol" id="pp_faq_dol_7" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_dol_7" class="pp-faq-label"&gt;
+ Meddig tart egy 9V elem?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Egy minőségi 9V elem (6LR61/6AM6) kb. 12 óra üzemidőt biztosít 20 mA terhelésnél. Ez napi 30 perces használat esetén kb. 3-4 hetes intenzív kezelést jelent. Ha alacsonyabb intenzitással használod (pl. 10-15 mA), akár 6 hét vagy több is lehet. Tippek: minőségi alkáli elemet használj, ne fagyban tárold, és ha hosszabb időre félreteszed, vedd ki a készülékből.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+ &lt;/section&gt;
+ &lt;!-- 4. VIDEÓS ÚTMUTATÓ --&gt;
+ &lt;section class="pp-video-container"&gt;
+ &lt;h2 class="pp-headline"&gt;Bemutató és használati videó&lt;/h2&gt;
+ &lt;p&gt;Az alábbi videó a Dolito készülék bemutatóját és általános használatát mutatja be.&lt;/p&gt;
+
+ &lt;div class="pp-video-content-flex"&gt;
+ &lt;div class="pp-video-description"&gt;
+ &lt;p&gt;&lt;strong&gt;Dolito készülék bemutató&lt;/strong&gt;&lt;/p&gt;
+ &lt;p&gt;A Dolito TENS-készülék általános bemutatása, a 6 program áttekintése, az elektródák felhelyezése és a használat alapjai. A német MTR+ minőség gyakorlati bemutatása.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-video-iframe-wrap"&gt;
+ &lt;div class="pp-video-responsive-inner"&gt;
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PfvLpBD6mco?si=fydkHs0uozyS4PVc" title="Dolito TENS készülék bemutató" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 6. HOGYAN MŰKÖDIK? – LÉPÉSEK --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan használd lépésről lépésre?&lt;/h2&gt;
+ &lt;div class="pp-steps-container"&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;1&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Behelyezed a 9V elemet&lt;/h3&gt;
+ &lt;p&gt;A készülék 9V (6LR61 vagy 6AM6) elemmel működik – egy elem kb. 12 óra üzemidőt biztosít 20 mA terhelésnél, ami napi 30 perces kezelés esetén több hetes használatot jelent. NINCS akkumulátor-töltés, nincs hálózati adapter – kicseréled, és mehet.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;2&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Kiválasztod a programot&lt;/h3&gt;
+ &lt;p&gt;6 program közül választhatsz a nagy LCD kijelzőn: Modulált (krónikus fájdalom), Folyamatos (akut), Burst (endorfin), HAN (Dense-Disperse krónikus), Work/Rest (izom-aktiválás), vagy PC06 (egyéni, testreszabható). A kijelzőn megjelenik az aktuális frekvencia, impulzus-szélesség, és hátralévő idő.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;3&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Felragasztod a 4 db 40×40 mm-es elektródát&lt;/h3&gt;
+ &lt;p&gt;A csomagban 4 db 40×40 mm-es öntapadó TENS-elektróda van – tipikusan 2-2 elektróda csatornánként, körülfogva a fájdalmas területet vagy követve az ideg-pályát. A bőröd legyen tiszta és száraz – krém, olaj, izzadtság gyengítheti a tapadást.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;4&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Indítás + intenzitás-beállítás (0-80 mA)&lt;/h3&gt;
+ &lt;p&gt;A készülék automatikusan érzékeli, ha az elektróda leesik vagy a kábel sérül, és leállítja a kezelést. Az intenzitást csatornánként külön állíthatod 0-80 mA tartományban – fokozatosan emeld, amíg kellemes bizsergést érzel. NEM kell fájdalmat okoznia! Egy perc után automatikusan zárolódik az emelés-funkció, hogy ne növelhesd véletlenül.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;5&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Övcsattal viselheted vagy ülve használod&lt;/h3&gt;
+ &lt;p&gt;A 150 g-os tömeg és övcsat lehetővé teszi, hogy munka, házimunka vagy séta közben viseld – nem kell mozdulatlanul ülnöd. Az automatikus időzítő a beállított idő végén (általában 20-30 perc) leáll. A PC06 egyéni programmal akár 9 óra 59 perces kezeléseket is futtathatsz (pl. egész éjszakás krónikus panasz kezelésére – kezelőorvosi konzultációval).&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;6&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;60 napos memória + adatok átadása orvosnak&lt;/h3&gt;
+ &lt;p&gt;A készülék valós idejű órával rögzíti minden kezelés időpontját, hosszát és típusát. 60 napon belül a kezelőorvos vagy fizioterapeuta lekérdezheti, így ellenőrizheti a kezelés rendszerességét és optimalizálhatja a protokollt. Ez ritka funkció ebben az árszintben.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &amp;lt;
+ &lt;!-- 9. CSOMAG TARTALMA --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Mit kapsz a csomagban?&lt;/h2&gt;
+ &lt;p&gt;A Dolito alap-csomag – minden szükséges tartozékkal a használat azonnali megkezdéséhez.&lt;/p&gt;
+ &lt;ul class="pp-package-list"&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; Dolito TENS készülék (2-csatornás)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;2 db&lt;/strong&gt; stimuláló kábel (csatornánként 1-1)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;4 db&lt;/strong&gt; 40×40 mm-es öntapadó TENS elektróda&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; 9V elem (6LR61/6AM6)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; magyar nyelvű használati útmutató&lt;/li&gt;
+ &lt;li&gt;Övcsat a hordozható használathoz (a készülék hátulján)&lt;/li&gt;
+ &lt;/ul&gt;
+
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_pkg1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_pkg1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png" alt="karbantartás" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Karbantartás és pótkellékek&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Öntapadó elektródák:&lt;/strong&gt; tapadásuk 25-30 használat után fokozatosan csökken. Pótlás 40×40 mm méretben külön rendelhető. Használat után védőfóliára visszahelyezni. Tippek: tiszta, szőrtelen bőrre helyezd, és ne tépd le, hanem a sarkánál fogva óvatosan emeld.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;9V elem:&lt;/strong&gt; kb. 12 óra üzemidő 20 mA terhelésnél. Hosszú nem-használat esetén vedd ki a készülékből, hogy ne folyjon szét. Csak eredeti vagy minőségi 6LR61/6AM6 alkáli elemet használj.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Készülék tisztítása:&lt;/strong&gt; száraz vagy enyhén nedves ronggyal kívülről. Az elektródák tisztításához ne használj alkoholt – a tapadó réteget károsítja.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_dol_pkg2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_dol_pkg2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png" alt="külön rendelhető" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Külön rendelhető kiegészítők&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A Dolito kiegészíthető további tartozékokkal:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Pót-elektróda szettek:&lt;/strong&gt; 40×40 mm méretben, 25-30 használat utáni cserére.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Különböző méretű elektródák:&lt;/strong&gt; egyes esetekben nagyobb (50×50 mm) elektróda kényelmesebb lehet (pl. nagy felületű deréki fájdalom kezelésére).&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Elektróda gél:&lt;/strong&gt; érzékeny bőr vagy hosszú használat esetén a tapadás javítására (általában nem szükséges öntapadó elektródákhoz).&lt;/li&gt;
+
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 10. MŰSZAKI ADATOK --&gt;
+ &lt;details open=""&gt;
+ &lt;summary&gt;
+ &lt;h2 class="pp-headline" style="display: inline;"&gt;Műszaki adatok – részletesen&lt;/h2&gt;
+ &lt;/summary&gt;
+ &lt;table class="pp-specs-table"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tulajdonság&lt;/th&gt;
+ &lt;th&gt;Érték&lt;/th&gt;
+ &lt;th&gt;Mit jelent neked?&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Csatornák száma&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2 (független, izolált)&lt;/td&gt;
+ &lt;td&gt;Két különböző területet kezelhetsz egyszerre&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Áramtípus&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;TENS (csak)&lt;/td&gt;
+ &lt;td&gt;Tisztán fájdalomcsillapítás – nem EMS-edzőgép&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Programszám&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;6 program (5 előre beállított + 1 egyéni PC06)&lt;/td&gt;
+ &lt;td&gt;A fő TENS-protokollok lefedve, egyéni testreszabás is lehet&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Intenzitás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;0-80 mA (500 Ω terhelésnél)&lt;/td&gt;
+ &lt;td&gt;Csatornánként külön állítható, gyengétől közepes intenzitásig&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Frekvencia&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1-150 Hz (Burst: 35-150 Hz)&lt;/td&gt;
+ &lt;td&gt;Alacsony (endorfin) és magas (fájdalomgát) egyaránt elérhető&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Impulzus-szélesség&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;50-350 µs (Burst: 50-200 µs)&lt;/td&gt;
+ &lt;td&gt;Vékony bőrtől nagyobb izomcsoportokig hangolható&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Hullámforma&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Aszimmetrikus, kétfázisú négyszöghullám&lt;/td&gt;
+ &lt;td&gt;Egyenletes jelminőség, hatékony stimuláció&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Kezelési idő&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1 perc – 9 óra 59 perc (PC06 egyéni programmal)&lt;/td&gt;
+ &lt;td&gt;Rövid akut kezelés vagy hosszú krónikus protokoll egyaránt lehetséges&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Memória&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;60 napos részletes memóriarendszer&lt;/td&gt;
+ &lt;td&gt;Kezelőorvos vagy fizioterapeuta ellenőrizheti a használatot&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Program-zárolás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;STIM LOCK funkció&lt;/td&gt;
+ &lt;td&gt;Szakember beállíthat és lezárhat egy egyéni protokollt&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Intenzitás-zárolás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1 perc után automatikus zárolás&lt;/td&gt;
+ &lt;td&gt;Megakadályozza a véletlen túlstimulációt&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Áramkör-megszakítás érzékelő&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Automatikus leállítás&lt;/td&gt;
+ &lt;td&gt;Ha elektróda leesik vagy kábel sérül, leáll a kezelés&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Készülék méretei&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;11,7 × 6,6 × 3,3 cm&lt;/td&gt;
+ &lt;td&gt;Zsebbe csúsztatható, övcsattal viselhető&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tömeg&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;150 g (elemmel együtt)&lt;/td&gt;
+ &lt;td&gt;Diszkrét, hordozható – nem hivalkodó&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Védelmi osztály&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;IP20&lt;/td&gt;
+ &lt;td&gt;Beltéri, normál körülmények közötti használatra&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tápellátás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;9V elem (6LR61 / 6AM6)&lt;/td&gt;
+ &lt;td&gt;NINCS akkumulátor-töltés – kicseréled és működik&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Elem-élettartam&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;~12 óra (20 mA terhelésnél)&lt;/td&gt;
+ &lt;td&gt;Napi 30 perces használat esetén 3-4 hetes intenzív kezelés&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Várható élettartam&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;10 év&lt;/td&gt;
+ &lt;td&gt;Hosszú távú megbízhatóság&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Kijelző&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Nagy LCD, részletes információkkal&lt;/td&gt;
+ &lt;td&gt;Frekvencia, impulzus-szélesség, hátralévő idő egyértelmű leolvasása&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tanúsítvány&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&lt;/td&gt;
+ &lt;td&gt;Európai megfelelőség, minőségbiztosítás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Gyártó&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;MTR+ Vertriebs GmbH (Németország)&lt;/td&gt;
+ &lt;td&gt;Német minőségbiztosítási szabványok szerint gyártva&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/details&gt;
+ &lt;!-- 11. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&gt;
+ &lt;section class="pp-contraindication-list"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="figyelmeztetés" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Mikor NE használd a Dolito-t?
+ &lt;/h3&gt;
+ &lt;p&gt;Az alábbi helyzetekben a TENS-kezelés veszélyes lehet, vagy mellékhatásokat okozhat. Ha bármelyik vonatkozik rád, ne kezdj bele a készülék használatába kezelőorvosi konzultáció nélkül.&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;
+ Pacemaker, beültetett defibrillátor (ICD) vagy bármilyen elektronikus implantátum viselése – a TENS-impulzus zavarhatja működésüket
+ &lt;/li&gt;
+ &lt;li&gt;
+ Szívritmuszavar, szívizom-károsodás vagy súlyos szív-érrendszeri betegségek
+ &lt;/li&gt;
+ &lt;li&gt;
+ Terhesség (különösen az első trimeszterben; az alhas, has és deréktájék kezelése a teljes terhesség alatt tilos)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Epilepszia vagy más rohamokkal járó idegrendszeri betegségek
+ &lt;/li&gt;
+ &lt;li&gt;
+ Aktív rosszindulatú daganatos megbetegedés a kezelendő terület közelében
+ &lt;/li&gt;
+ &lt;li&gt;
+ Lázbetegség vagy akut gyulladásos folyamatok
+ &lt;/li&gt;
+ &lt;li&gt;
+ Sérült, irritált vagy nyitott sebes bőrfelület a kezelendő területen
+ &lt;/li&gt;
+ &lt;li&gt;
+ Elektródák felhelyezése a fejre, nyak elülső részére (carotis sinus) vagy a szív területére – TILOS
+ &lt;/li&gt;
+ &lt;li&gt;
+ Csökkent vagy hiányzó bőrérzékenység a kezelendő területen (cukorbetegség okozta neuropátia, érzéskiesés)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Fémimplantátumok közelében – csak kezelőorvosi engedéllyel
+ &lt;/li&gt;
+ &lt;li&gt;
+ Nikkel- vagy egyéb fém-allergia esetén – figyelmesen figyeld a bőrreakciókat
+ &lt;/li&gt;
+ &lt;li&gt;
+ Vezetés vagy nehéz gép kezelése közben – soha
+ &lt;/li&gt;
+ &lt;li&gt;
+ Gyermekek önálló használatra (12 év alatt kizárólag felnőtt felügyeletével, fizioterapeuta útmutatása mellett)
+ &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Bizonytalan vagy?&lt;/strong&gt; Használat előtt mindenképpen konzultálj kezelőorvosoddal vagy fizioterapeutáddal – főleg krónikus betegségek, gyógyszerszedés vagy bármilyen beültetett orvosi eszköz esetén. Részletes tájékoztatást Dr. Zátrok Zsolt cikkében találsz &lt;a href="https://www.medimarket.hu/elektromos-kezeles-ellenjavallatok"&gt;az elektroterápia ellenjavallatairól&lt;/a&gt;.&lt;/p&gt;
+ &lt;/section&gt;
+ &lt;!-- 12. ORVOSI FIGYELMEZTETÉS --&gt;
+ &lt;section class="pp-medical-warning"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="információ" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Fontos tudnivalók
+ &lt;/h3&gt;
+ &lt;p&gt;A Dolito CE-tanúsítvánnyal rendelkező, Class IIa orvostechnikai eszköz (CE 0123, MDD 93/42/EEC szerint), önállóan, otthon használható készülék. Mégis, használata semmilyen formában nem helyettesíti az orvosi diagnózist, a szakképzett fizioterapeuta egyéni protokollját vagy az előírt gyógyszeres kezelést. A készülék kiegészítő eszközként, a meglévő terápia mellett alkalmazható.&lt;/p&gt;
+ &lt;p&gt;Új vagy súlyosbodó panasz (pl. tartós fájdalom, zsibbadás, gyengeség) esetén minden esetben fordulj kezelőorvoshoz – a TENS nem helyettesíti a kivizsgálást, és nem szabad „elnyomni" vele olyan tüneteket, amelyek mögött komolyabb betegség állhat. Krónikus fájdalom esetén tisztázni kell az okot, mielőtt rendszeresen TENS-szel kezelnéd.&lt;/p&gt;
+ &lt;p&gt;Csak eredeti kiegészítőket használj, az elektródákat rendszeresen cseréld (25-30 használat után), és nikkel-allergia esetén különös figyelmet fordíts a bőrreakciókra. A készüléket mindig gyermekektől elzárva tartsd.&lt;/p&gt;
+ &lt;p class="pp-disclaimer"&gt;&lt;em&gt;Az ezen az oldalon szereplő információk általános tájékoztató jellegűek, és nem helyettesítik az egyéni orvosi tanácsadást, diagnózist vagy kezelést. Konkrét panaszaiddal kapcsolatban mindig konzultálj kezelőorvosoddal.&lt;/em&gt;&lt;/p&gt;
+ &lt;/section&gt;
+ &lt;!-- 13. KAPCSOLÓDÓ TARTALMAK --&gt;
+ &lt;section class="pp-related-links"&gt;
+ &lt;h2 class="pp-headline"&gt;Kapcsolódó készülékek és tudástár&lt;/h2&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/rehalito"&gt;Rehalito – multifunkciós Lito vonal-társ →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/myolito"&gt;Myolito – izomstimulátor Lito vonal-társ →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/elite-s2"&gt;Elite SII – Globus 2-csatornás multifunkciós belépő (TENS + EMS) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/genesy-s2"&gt;Genesy SII – Globus 2-csatornás kismedence-fókuszú belépő →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/elektromos-kezeles"&gt;Elektromos kezelés – minden TENS/EMS készülék áttekintése →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/tens-kezeles-fajdalomcsillapitas-gyogyszermentesen"&gt;TENS-kezelés – a fájdalomcsillapítás otthoni eszköze (cikk) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/fajdalomcsillapito-impulzusok"&gt;A TENS-programok részletes magyarázata (cikk) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/melyik-elektroterapia-mire-jo"&gt;Melyik elektroterápia mire jó? – döntéstámogató útmutató →&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+&lt;/article&gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>359646</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|TENS készülék</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>310566</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Derékfájás</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>514818</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Hátfájás</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>138992</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Térdfájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>495333</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Vállfájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>866833</Id>
+        <Name>Betegség kezelés|Mozgásszervi betegségek|Artrózis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>469599</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Csuklófájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>170701</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Bokafájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>346851</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Nyakfájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>411340</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Fájdalom|Könyökfájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>724489</Id>
+        <Name>Betegség kezelés|Fájdalomkezelés</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>680692</Id>
+        <Name>Betegség kezelés|Mozgásszervi betegségek|Lumbágó</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>154789</Id>
+        <Name>Betegség kezelés|Mozgásszervi betegségek|Isiász</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>292982</Id>
+        <Name>Betegség kezelés|Mozgásszervi betegségek|Fibromyalgia</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>915226</Id>
+        <Name>Betegség kezelés|Női egészség|Menstruációs fájdalom</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>975903</Id>
+        <Name>Betegség kezelés|Női egészség|Endometriózis</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dolito</Url>
+    <SefUrl>dolito</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-200</DefaultFilename>
+      <DefaultAlt>Dolito</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247050</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-200.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-200/010E-200.webp?time=1743247050</SefUrl>
+        <Filename>010E-200</Filename>
+        <Alt>Dolito</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Hasznalati-utmutato.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.hu/tens-kezeles-fajdalomcsillapitas-gyogyszermentesen - Gyógyszermentes fájdalmcsillapítás</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Hasznalati-utmutato.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>A Dolito egy kompakt, hordozható elektromos impulzuskészülék, kétcsatornás kialakítással és külön csatlakoztatható kimenetekkel. A készülék több előre beállított programot és állítható intenzitási szinteket kínál, így rugalmasan konfigurálható különböző használati beállításokhoz. Az áttekinthető kijelző és az egyszerű kezelőgombok gyors és könnyű vezérlést tesznek lehetővé. Kis méretének és elemes működésének köszönhetően otthoni használatra és útközbeni alkalmazásra is alkalmas. A termék lifest</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279580825</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-200</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1195419445</Id>
+        <Sku>E-TRALKN</Sku>
+        <Name>TensCare Knee Pain elektróda térd kezeléshez</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1196752255</Id>
+        <Sku>E-TRALBA</Sku>
+        <Name>TensCare Back Pain elektróda derék és hát kezeléshez</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332634</Id>
+        <Sku>KM406-M</Sku>
+        <Name>Kesztyű elektróda pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332849</Id>
+        <Sku>KM407</Sku>
+        <Name>Zokni elektróda pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419440</Id>
+        <Sku>E-TRALNE</Sku>
+        <Name>TensCare Neck Pain elektróda nyak kezeléshez</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS elektróda 5x5cm tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10cm TENS elektróda  tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2.5cm kerek TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3.2cm kerek TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419280</Id>
+        <Sku>CF5000</Sku>
+        <Name>ValueTrode 5cm kerek TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2.5cm kerek TENS elektróda tűs 10db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419405</Id>
+        <Sku>E-CR50100</Sku>
+        <Name>Cool Relief 5x10cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419400</Id>
+        <Sku>E-CR5050</Sku>
+        <Name>Cool Relief 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332719</Id>
+        <Sku>SR4550</Sku>
+        <Name>Gumi elektróda 45x50mm tűcsatlakozós</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332704</Id>
+        <Sku>S-7000-6x2</Sku>
+        <Name>Szivacs tok (1 pár) 45x50mm-es gumi elektródához</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332809</Id>
+        <Sku>SR5090</Sku>
+        <Name>Gumi elektróda 45x90mm tűcsatlakozós</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332814</Id>
+        <Sku>S-7000-5x2</Sku>
+        <Name>Szivacs tok (1 pár) 45x90mm-es gumi elektródához</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332819</Id>
+        <Sku>sca-670001</Sku>
+        <Name>Rugalmas pánt 5x50cm 2db, fehér</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332644</Id>
+        <Sku>EG260</Sku>
+        <Name>ContiGel kontakt gél 260gr</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332874</Id>
+        <Sku>KM408</Sku>
+        <Name>Csukló elektróda  pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332879</Id>
+        <Sku>KM409</Sku>
+        <Name>Könyök elektróda  pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332884</Id>
+        <Sku>KM410</Sku>
+        <Name>Térd elektróda pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207310449</Id>
+        <Sku>G0439</Sku>
+        <Name>Y-kábel elektrostimulátorhoz, tűcsatlakozós</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332699</Id>
+        <Sku>012E-012</Sku>
+        <Name>Kábel készlet MTR stimulátorokhoz 1m</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <SimilarProducts>
+      <SimilarProduct>
+        <Id>1196751675</Id>
+        <Sku>G3552</Sku>
+        <Name>Elite SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418895</Id>
+        <Sku>G3725</Sku>
+        <Name>Genesy SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418755</Id>
+        <Sku>010E-004</Sku>
+        <Name>MyoBravo</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418935</Id>
+        <Sku>010E-205</Sku>
+        <Name>Myolito</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418740</Id>
+        <Sku>K-UNIPRO</Sku>
+        <Name>UniPro</Name>
+      </SimilarProduct>
+    </SimilarProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30624</Id>
+        <Name>2 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dolito, Dolito TENS, TENS készülék, fájdalomcsillapító készülék, elektroterápia, gyógyszermentes fájdalomcsillapítás, Burst mód, HAN Dense-Disperse, otthoni elektroterápia, derékfájás, nyaki panasz, ízületi fájdalom, artrózis, ínhüvelygyulladás, 40x40 mm elektróda</Keywords>
+      <Description>Hat TENS-protokollal, köztük Burst és HAN móddal segíthet a fájdalom enyhítésében otthon. A csomagban két kábel, négy 40x40 mm elektróda és 9V elem.</Description>
+      <Title>Dolito TENS készülék | 6 fájdalomcsillapító protokoll</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

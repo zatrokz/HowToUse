@@ -32,7 +32,7 @@ Részletes, fejezetszintű tartalomjegyzék: [docs/TARTALOMJEGYZEK.md](docs/TART
 ### Minták és referenciák
 
 - [docs/samples/unas-api-mezok.md](docs/samples/unas-api-mezok.md) – az UNAS API ellenőrzött tényei és a használt mezők
-- `docs/samples/unas-getProduct-zw-luna-plus-kit.{hu,en,sk,de,nl}.xml` – valós, anonimizált `getProduct` válasz egy készülékre mind az 5 nyelven
+- `docs/samples/unas-getProduct-<termék>.{hu,en,sk,de,nl}.xml` – valós, anonimizált `getProduct` válaszok 5 készülékre (ZenoWell Luna Plus, Dolito, DermaDry Total, SaltDome, PeroBravo) mind az 5 nyelven
 - [docs/samples/unas-login-valasz.xml](docs/samples/unas-login-valasz.xml), [docs/samples/unas-getProductParameter-kivonat.xml](docs/samples/unas-getProductParameter-kivonat.xml) – login válasz (token nélkül), paraméterdefiníciók
 
 ### Prototípus

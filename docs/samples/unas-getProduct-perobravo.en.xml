@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-112, Lang=en, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418940</Id>
+    <Sku>010E-112</Sku>
+    <CreateTime>1743245668</CreateTime>
+    <LastModTime>1795077647</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>For order</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>For medical professional, only</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Presented in partnership</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>PeroBravo</Name>
+    <Unit>db</Unit>
+    <Weight>0.1</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;A selective stimulation device specialised for peripheral paralysis (e.g. peroneal or Bell&amp;#039;s facial nerve palsy). Optimised for muscles that have lost their motor nerve (denervated muscle). Provides conventional and EMG-triggered stimulation.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Price includes:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;PeroBravo device &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 pc&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;40×40 mm electrode &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 pcs&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Cable &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 pc&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Foot switch &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 pc&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Rubber electrode and sponge holder &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 pcs&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Elastic fastener &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 pcs&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;AA battery &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 pcs&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Battery charger &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 pc&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Carrying bag &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 pc&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.com/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zsolt Zátrok&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.com/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;doctor&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Our medical expert says
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“The PeroBravo is a clinical-level neurorehabilitation device, developed specifically for patients living with peripheral paralysis. Its key feature is selective stimulation with long pulse widths (1–1000 ms): this can elicit contraction in denervated muscle, which classic EMS cannot. It also offers EMG-triggered stimulation (ETS) that builds on voluntary activity. For peroneal palsy and Bell&amp;#039;s palsy it is a suitable tool under professional supervision. I write more about &amp;lt;a href=&amp;quot;/rehabilitation-of-peroneal-nerve-palsy&amp;quot;&amp;gt;peroneal palsy rehabilitation&amp;lt;/a&amp;gt;. ”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.com/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistic expectations
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Peripheral nerve regeneration takes months, often one to two years – electrotherapy is one tool alongside physiotherapy. Treating denervated muscle requires parameter knowledge: using the wrong pulse shape or duration can make treatment ineffective. Preserving remaining muscle mass is valuable even if function returns slowly.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.com/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Not the right device for you if
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;You are treating central paresis after stroke: there the ETS that relies on intact nerve–muscle pathways is primary, and the DuoBravo N is designed for that. If you only need simple strengthening or pain relief, this device and its price are more than necessary.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.com/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Before you order
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Selective stimulation must be started under physician or physiotherapist supervision, and parameters must be set by a specialist – because of the longer pulse widths the safety requirements are stricter than for classic EMS. NOT to be used with a pacemaker, ICD or any electronic implant; not for arrhythmia, myocardial damage, epilepsy, pregnancy, active tumour near the treatment area, acute inflammation, deep vein thrombosis, or open wounds near the treatment site. Electrodes must not be placed on the anterior neck, skull or chest. Extra caution is needed with reduced skin sensation.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.medimarket.com/about-dr-zsolt-zatrok&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Physician, medical technology expert, blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 4. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Who is the PeroBravo for and what is it good for?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;drop foot&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you have peroneal palsy (drop foot, inability to dorsiflex the foot)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Peroneal paresis is paralysis of the muscles that lift the foot – typically after lumbar disc surgery, tibial fractures, prolonged immobilisation or direct nerve injury. The patient may &amp;quot;slap&amp;quot; the foot, show a steppage gait, and lift the knee higher to avoid catching the toes. PeroBravo&amp;#039;s selective stimulation can activate denervated peroneal muscles, and the foot-switch ETS mode gives targeted help for relearning gait.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;Bell&amp;#039;s palsy&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you live with unilateral facial paralysis from Bell&amp;#039;s palsy&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bell&amp;#039;s palsy is a sudden unilateral facial nerve paralysis – often of unknown or viral origin. The patient cannot move half the face: cannot smile, close the eye, or puff the cheek. Classic EMS CANNOT treat this because the motor pathway of cranial nerve VII is damaged. PeroBravo&amp;#039;s selective stimulation can target denervated mimic muscles and support recovery. IMPORTANT: facial stimulation requires specialist supervision (neurologist, ENT) and extremely precise electrode placement.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/kar-nyirokodema.png&amp;quot; alt=&amp;quot;peripheral nerve injury&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you are recovering from other peripheral nerve injuries (brachial plexus, radial nerve, etc.)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Peripheral nerve injuries arise from trauma (cuts, fractures, accidents), compression (prolonged awkward positions), inflammation, or other neurological diseases. Common examples: radial nerve (wrist/hand extensors), median nerve (carpal tunnel), brachial plexus (shoulder-to-arm). PeroBravo&amp;#039;s selective stimulation protocols (PRG 1–11, 17–18) are optimised for these denervated muscles. Recovery often takes 6–12 months, during which intensive home selective stimulation can support the process.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;EMG-trigger&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you want active rehabilitation (EMG-triggered ETS stimulation)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;ETS (EMG-Triggered Stimulation) is clinically valuable: the patient attempts a voluntary contraction, the device detects even minimal efforts and supplements them with electrical stimulation. This allows the patient&amp;#039;s own nervous system to relearn connection to the muscle – active participation is key for neuroplasticity. The PeroBravo ETS function is especially valuable in the mid-to-late recovery phases.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;diagnostics&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you are a physiotherapist or clinician and want precise diagnostics + protocols&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;The SDC program (PRG 12 – Strength-Duration Curve) enables mapping of denervated muscles: which pulse width requires what current to elicit contraction. This is part of classical electrodiagnostics and allows tailoring treatment parameters precisely to the patient. PRG 19 and 20 are customisable programs for saving patient-specific protocols. 60-day statistics + real-time clock for treatment logging.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;muscle spasticity&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you want to treat muscle spasticity, stiffness, or imbalance&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Spasticity (muscle stiffness, involuntary contractions) often follows neurological injury (stroke, multiple sclerosis, spinal cord injury). Certain PeroBravo programs (PRG 10, 19, 20) can help reduce spasticity and improve muscle balance (uneven muscle tone between sides). IMPORTANT: never start treating spastic patients without approval from a specialist (neurologist, physiotherapist).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;pain&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you also have chronic pain (joint, back, neuropathic)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo&amp;#039;s TENS function (PRG 19, 20 with individual settings) enables classic pain therapy: suitable for arthritis, chronic back/neck/lumbar pain, neuropathic pain, post-fracture pain, even phantom pain. It can operate with biphasic or monophasic pulses. Although not the primary focus, this is a useful complementary function for patients with peripheral paralysis who often have secondary chronic pain.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-elektroterapias-kezeles.png&amp;quot; alt=&amp;quot;long-term use&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;If you plan intensive, long-term home rehab&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Peripheral paralysis recovery often takes 6–12 months or longer. Weekly clinic physiotherapy (1–3 sessions) is usually insufficient – daily home intensive treatment is needed for maximal recovery chance. The PeroBravo is designed for this long-term, intensive home rehab phase under physician/physiotherapist supervision. Rechargeable NiMH AA batteries and 60-day statistics for clinical documentation provide a secure foundation.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;The 20 programs in 4 main groups&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;The PeroBravo program library follows the treatment path for peripheral paresis: from the severe initial phase through improving rehabilitation, plus diagnostic and customisation options.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;severe paresis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 1–6, 17–18 – Initial treatment of severe paresis (denervated muscle)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;In the initial phase of severe peripheral paralysis the muscle is fully denervated – the motor nerve does not send signals. Classic EMS is ineffective here. These programs use long (hundreds to thousands of milliseconds) triangular or trapezoidal waveforms that can directly target muscle fibres. Goal: slow muscle atrophy and preserve muscle mass during recovery.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;improving paresis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 7–11, 19–20 – Treatment of improving paresis (partially re-innervated muscle)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;As the nerve gradually reinnervates the muscle, it becomes partially re-innervated – classic EMS signals begin to be accepted. These programs gradually shift to shorter pulse widths approaching classic EMS parameters. PRG 10 supports rehabilitation of muscle with intact innervation; PRG 19 and 20 are clinician-customisable.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;SDC&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 12 – SDC diagnostics (Strength-Duration Curve)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;SDC measurement is a classical electrodiagnostic procedure. The clinician measures at various pulse widths and currents to determine the threshold for visible muscle contraction. From these data a curve is drawn that characterises the denervated muscle. Curve parameters allow calculation of optimal treatment settings (pulse width, frequency, intensity) for the patient.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;gait&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 13–16 – Gait retraining (peroneal paresis, with foot switch)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Three dedicated gait-retraining programs for drop foot. The foot-switch ETS mode automatically activates stimulation at heel lift — exactly when the foot-lift muscles would be used in the physiological gait cycle. Uses biphasic square pulses. Delay time (0–1000 ms) can be fine-tuned to the patient&amp;#039;s step rhythm.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-fajdalom.png&amp;quot; alt=&amp;quot;pain + custom&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 19, 20 – Pain therapy (TENS) + Custom programmable&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PRG 19 and 20 can be defined to individual needs — the clinician can configure them specifically for the patient&amp;#039;s pain pattern. They can use biphasic or monophasic pulses. Typical uses: arthritis, chronic back/neck/lumbar pain, neuropathic pain, phantom pain, post-fracture pain. This makes the PeroBravo multifunctional — besides treating denervated muscle it can help relieve associated peripheral paralysis pain.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;waveforms&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Waveform selection – triangle, trapezoid, square&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo&amp;#039;s selectable waveforms:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monophasic triangle:&amp;lt;/strong&amp;gt; for denervated muscle — the steep rise/fall is gentler on vulnerable muscle tissue. Triangle shape is adjustable.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monophasic trapezoid:&amp;lt;/strong&amp;gt; similar and gentle but with a longer plateau. Trapezoid shape is adjustable.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Biphasic symmetric square:&amp;lt;/strong&amp;gt; for innervated muscle with classic EMS characteristics.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monophasic positive square:&amp;lt;/strong&amp;gt; for envelope-shaped pulses, resembling TENS-type treatment.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Polarity changes continuously. Pulse width: 1 ms–1000 ms (monophasic) or 50 µs–350 ms (enveloped).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 8. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Frequently asked questions&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;important&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Can I use it with a pacemaker or implanted device?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;No.&amp;lt;/strong&amp;gt; A pacemaker, implanted defibrillator (ICD) or any electronic implant is an &amp;lt;strong&amp;gt;absolute contraindication&amp;lt;/strong&amp;gt;. Selective stimulation — being longer and often stronger than classic EMS pulses — may interfere with implant function to an even greater extent. If you have such a device, do not use the device under any circumstances.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;warning&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Can I use it on my own, or is physician supervision required?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo is not a hobby-level home device — physician (neurologist, rehabilitation specialist) or qualified physiotherapist supervision is MANDATORY:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Initial diagnosis:&amp;lt;/strong&amp;gt; only a specialist can determine the type and severity of paresis.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Protocol selection:&amp;lt;/strong&amp;gt; the appropriate program among the 20 must be set by a specialist.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;SDC measurement:&amp;lt;/strong&amp;gt; PRG 12 diagnostic results must be interpreted by a specialist.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Custom program setup (PRG 19, 20):&amp;lt;/strong&amp;gt; configured by the specialist for the patient.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Process monitoring:&amp;lt;/strong&amp;gt; 60-day statistics should be reviewed at clinical visits.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Home use is carried out according to the protocol set by the specialist — the patient should not change parameters independently.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ What is the difference between selective stimulation and classic EMS?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;The fundamental physical difference is pulse width:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Classic EMS (Globus, Lito line):&amp;lt;/strong&amp;gt; short pulses, 50–450 µs (microseconds). Can only activate muscle with intact neural control. It stimulates motor nerve fibres which then cause muscle contraction.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Selective stimulation (PeroBravo):&amp;lt;/strong&amp;gt; long pulses, 1–1000 ms (milliseconds). Thousands to tens of thousands times longer. It directly stimulates MUSCLE fibres, bypassing the damaged motor nerve. Therefore it can activate denervated muscle.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;In other words: if the motor nerve is intact, classic EMS is sufficient. If the motor nerve is damaged (peripheral paralysis), selective stimulation is needed. Classic EMS devices would be ineffective in paralysis — that&amp;#039;s when PeroBravo is required.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ What&amp;#039;s the difference between PeroBravo and DuoBravo?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Both are in the MTR+ Bravo line but with different profiles:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;PeroBravo:&amp;lt;/strong&amp;gt; single-channel, selective stimulation (up to 1–1000 ms pulse width!), specifically for denervated muscle treatment. Foot switch for gait retraining. SDC diagnostics. ETS (EMG-trigger).&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;DuoBravo:&amp;lt;/strong&amp;gt; two-channel, classic EMS range (microsecond pulses), muscle stimulator + ETS (EMG-triggered stimulation). Suited for post-stroke rehabilitation (central paresis) and weak muscles with intact neural control.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;If denervated muscle (peripheral palsy, drop foot, Bell&amp;#039;s palsy) → PeroBravo. If weak but innervated muscle (post-stroke muscle loss, atrophy from prolonged inactivity) → DuoBravo.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ How long until results for drop foot or Bell&amp;#039;s palsy?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Recovery from peripheral paralysis is complex and depends on many factors (degree of nerve injury, patient age, general health, adherence, etc.):&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bell&amp;#039;s palsy:&amp;lt;/strong&amp;gt; significant improvement is often expected in 3–6 months. Some patients may take longer or have residual symptoms.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Peroneal paresis after surgery:&amp;lt;/strong&amp;gt; typical recovery 6–12 months, but in some cases up to 2 years.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Severe brachial plexus injury:&amp;lt;/strong&amp;gt; 12–24 months, sometimes longer.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Intensive home selective stimulation (daily 1–2 sessions of 20–30 minutes) can support recovery. IMPORTANT: recovery is not guaranteed and depends on biological nerve regeneration. The treating physician provides a realistic prognosis based on the individual case.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ How do I use the foot switch for gait retraining?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;The foot switch is placed in the patient&amp;#039;s shoe under the heel (or at another sole point as instructed by the physiotherapist). When the heel contacts the ground and the patient attempts to lift the toes, the switch makes electrical contact and activates peroneal stimulation. This times stimulation within the gait cycle.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Initial training with the physiotherapist is necessary to set switch placement and intensity. During home practice the patient can gradually increase walking distance. Delay time (0–1000 ms) can be fine-tuned — slower walkers may need longer delay than faster ones.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ What is SDC measurement (Strength-Duration Curve)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;SDC (Strength-Duration Curve) is a classical electrodiagnostic measurement. The method:&amp;lt;/p&amp;gt;
+ &amp;lt;ol&amp;gt;
+ &amp;lt;li&amp;gt;The clinician measures at various pulse widths (e.g. 1 ms, 10 ms, 100 ms, 300 ms, 1000 ms) the current required to produce visible contraction.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;From the measured values a curve is drawn.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;The curve shape characterises the denervated muscle: healthy muscle yields a flat curve, severely denervated muscle a steeply rising one.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Curve parameters help set optimal treatment values into PRG 19/20 custom programs.&amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;p&amp;gt;SDC measurement helps tailor treatment precisely to the individual patient, not according to a generic protocol.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 5. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;How to use it step by step?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Physician/physiotherapist consultation&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Use of the PeroBravo must begin with approval from a physician or a qualified physiotherapist. The specialist determines the type and severity of the paresis (peroneal, Bell&amp;#039;s, brachial plexus, etc.) and selects the appropriate protocol from the 20 programs. Initial severe phase: PRG 1–6 or 17–18. Improving phase: PRG 7–11 or 19–20. Gait retraining: PRG 13–16.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;SDC measurement (Strength-Duration Curve)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;The clinician can perform PRG 12 (SDC) diagnostic measurement — this determines which pulse width requires what current to elicit contraction in the patient&amp;#039;s muscle. Based on the curve, individualised treatment parameters can be set into PRG 19/20 custom programs.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Electrode placement (peroneal or facial)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;The package contains 4 adhesive 40×40 mm electrodes + 2 rubber electrodes + sponge holders + 2 elastic fasteners. For peroneal treatment the electrodes are placed on the outer lower leg at the peroneal muscle motor points. For facial stimulation electrode placement must be extremely precise (mimic motor points) — always have a specialist perform the first placements. In some cases the rubber electrode + sponge holder can be used on moist skin with the sponge wetted.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Start program + intensity (0–60 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Set intensity on the single channel — gradually increase until you observe visible muscle contraction. In denervated muscle you may see a contraction twitch (in peroneal palsy the toes or even the whole foot may move slightly). Without sufficient current the denervated muscle will not respond. However, NEVER use painful intensity — if you feel discomfort reduce or stop.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Use ETS mode (EMG-trigger) in the improving phase&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;This function is pointless in a completely flaccid paralysis. Begin when the patient starts attempting voluntary activation during recovery. The ETS mode detects this effort (however small) and supplements it with electrical stimulation. Thus treatment proceeds with active participation, which is beneficial for neuroplasticity. The clinician sets the EMG sensitivity threshold.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Gait retraining (peroneal paresis, with foot switch)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;For drop foot use the included foot switch for gait retraining. The switch automatically activates stimulation at heel lift — foot dorsiflexion occurs at the optimal biomechanical moment of gait. There are 3 dedicated programs (PRG 13–16) optimised for gait retraining. The delay time (0–1000 ms) can be fine-tuned to the patient&amp;#039;s step rhythm.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 7. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;What&amp;#039;s included in the package?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;The PeroBravo professional package includes the foot switch, rubber electrodes with sponge holders, and rechargeable NiMH AA batteries.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; PeroBravo device (single-channel)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 pcs&amp;lt;/strong&amp;gt; 40×40 mm adhesive electrodes&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; stimulation cable&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; foot switch (for gait retraining)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 pcs&amp;lt;/strong&amp;gt; rubber electrodes (reusable, gel-free)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 pcs&amp;lt;/strong&amp;gt; sponge holders (for rubber electrodes, for moist contact)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 pcs&amp;lt;/strong&amp;gt; elastic fasteners (to fix rubber electrodes)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 pcs&amp;lt;/strong&amp;gt; AA NiMH rechargeable batteries&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; battery charger&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; carrying bag&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 pc&amp;lt;/strong&amp;gt; Hungarian user manual&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;maintenance&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Maintenance and consumables&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Adhesive electrodes:&amp;lt;/strong&amp;gt; adhesion gradually decreases after 25–30 uses. Replacements in 40×40 mm size can be ordered separately. After use, return them to the protective foil.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Rubber electrodes + sponge holders:&amp;lt;/strong&amp;gt; the rubber electrode is reusable; the sponge holder needs regular cleaning. Before use moisten the sponge with saline or distilled water to ensure conductivity. Cleaning: rinse with warm water and air-dry.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;NiMH batteries:&amp;lt;/strong&amp;gt; 4×AA included with charger. Designed for 500+ full cycles. If unused for long periods charge every 1–2 months to avoid deep discharge. Typical replacement after 3–5 years of use.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Device cleaning:&amp;lt;/strong&amp;gt; wipe exterior with a dry or slightly damp cloth. Wipe contact points (cable connectors, foot switch) with a dry cloth.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;available separately&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Optional accessories&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo can be supplemented with additional accessories:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Spare electrode sets:&amp;lt;/strong&amp;gt; 40×40 mm replacement after 25–30 uses.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Different size and shaped electrodes:&amp;lt;/strong&amp;gt; small round targeted electrodes may be better for facial treatment (precise stimulation of mimic muscles).&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Replacement sponge holders for rubber electrodes:&amp;lt;/strong&amp;gt; if the sponge wears out or for hygiene replacement.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Cable extension:&amp;lt;/strong&amp;gt; for reaching more difficult body areas.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 9. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technical specifications – detailed&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Feature&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Value&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;What it means for you&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Number of channels&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 (versatile, digital electrostimulator)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Precise treatment of a targeted area (e.g. peroneal or facial muscle)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Stimulation modes&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS, EMS/NMES, ETS (EMG-trigger), selective stimulation, biofeedback&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;5 different modes from denervated muscle therapy to classic pain treatment&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Number of programs&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;20 programs (11 preset + 1 SDC + 3 gait + 5 custom)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Complete coverage of the peripheral paresis treatment pathway&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Special sport – gait retraining&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;3 programs (PRG 13–16, with foot switch)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Drop foot–specific gait retraining&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;SDC diagnostics&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;PRG 12 – Strength-Duration Curve&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Classical electrodiagnostic measurement for individual protocol settings&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;EMG-trigger (ETS)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Yes, built-in&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Active patient participation combined with stimulation&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensity&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–60 mA&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Moderate range optimised for denervated muscle&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frequency&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1–120 Hz&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Wide range for different paresis protocols&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Custom pulse width&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 ms – 1000 ms (1000 µs – 1 000 000 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;THOUSANDS TO TENS OF THOUSANDS times longer than classic EMS — for denervated muscle&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Enveloped pulse width&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50 µs – 350 ms (positive part)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Classic TENS and EMS–like range also available&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Custom waveforms&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Triangle and trapezoid (both shapes adjustable)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Gentle shapes optimised for denervated muscle fibres&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Enveloped waveform types&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Biphasic symmetric rectangle / monophasic positive rectangle&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Classic TENS and EMS–style treatments&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Delay time (gait training)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–1000 ms&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stimulation activates at the optimal moment in the step cycle&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Foot switch&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Included (for gait retraining)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatic stimulation at heel lift&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Statistics&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60 days of treatment data, detailed channel logging&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Treating physician can review usage during clinical visits&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Real-time clock&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Built-in&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Accurate timestamps for every treatment&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Display&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Shows pulse shape, intensity, remaining time&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Continuous feedback on treatment status&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Start&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatic or manual&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Flexible use — timed or manual start&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Power supply&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;4×AA NiMH rechargeable batteries, 1.5 V&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;High-capacity, long-life batteries&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Charger&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Included&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;No separate order needed&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Certification&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;European conformity, clinical quality assurance&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Manufacturer&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Germany)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Manufactured to German quality assurance standards&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 10. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;warning&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ When NOT to use the PeroBravo
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;The following situations may make selective stimulation dangerous or cause adverse effects. Because the PeroBravo operates with longer pulse widths than classic EMS devices, safety considerations are especially strict. If any of these apply to you, do not begin using the device without consulting your physician.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Wearing a pacemaker, implanted defibrillator (ICD) or any electronic implant — selective stimulation can interfere with their function
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Arrhythmia, myocardial damage, or severe cardiovascular disease
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Pregnancy (treatment of the lower abdomen, abdomen and lumbar area is prohibited throughout pregnancy)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Epilepsy or other seizure disorders (extra caution due to long pulse widths)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Active malignant tumour near the treatment area
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Acute inflammation or infection on the treated skin area
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Deep vein thrombosis or known clotting tendency in the treated limb
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Skin injury, fresh scar or open wound on the treatment area (avoid until healed)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Placement of electrodes on the anterior neck (carotid sinus region), skull, or chest area (unless explicitly approved by the treating physician for facial stimulation)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Reduced or absent skin sensation on the treated area — denervated muscle–adjacent numbness may require higher intensity, increasing burn risk
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Recent metal implant (screw, plate) loosening or inflammation in the immediate area — consult your physician
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Presence of flammable anesthetic gases (hospital environment, near oxygen concentrators)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Children for unsupervised use (under 12 only with an adult + physiotherapist supervision)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Not sure?&amp;lt;/strong&amp;gt; Consult your physician, neurologist or physiotherapist before use — especially for peripheral paralysis where diagnosis and treatment protocols must be set safely by a specialist. For detailed information see Dr. Zsolt Zátrok&amp;#039;s article on contraindications to electrotherapy at &amp;lt;a href=&amp;quot;/side-effects-and-contraindications-of-electrotherapy&amp;quot;&amp;gt;electrotherapy contraindications&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. ORVOSI FIGYELMEZTÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;information&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Important information
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;The PeroBravo is a CE-certified Class IIa medical device (CE 0123, according to MDD 93/42/EEC), a clinical-level professional neurorehabilitation device. Home use MUST be under the supervision of a physician (neurologist, rehabilitation specialist) or physiotherapist. The device does not replace medical diagnosis, a qualified physiotherapist&amp;#039;s individual protocol, or prescribed medication. It is an adjunct to comprehensive rehabilitation therapy.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;If new or worsening symptoms occur (e.g. new muscle weakness, numbness, shortness of breath, dizziness) seek immediate medical attention — any new symptoms during use require urgent evaluation.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;For Bell&amp;#039;s palsy or facial nerve treatment electrode placement must be especially precise — a specialist (neurologist, ENT, physiotherapist) determines facial motor points initially. Never place electrodes on the face on your own.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Recovery from peripheral paralysis is complex and time-consuming — intensive home use of PeroBravo can support recovery but does not guarantee full restoration. The treating physician provides a realistic prognosis for the individual case.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Use only original accessories, replace and clean electrodes and sponge holders regularly. Keep the device out of reach of children.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;The information on this page is for general guidance and does not replace individual medical advice, diagnosis, or treatment. Always consult your physician regarding specific complaints.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 12. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Related devices and resources&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.medimarket.com/duobravo-n&amp;quot;&amp;gt;DuoBravo – 2-channel EMS + ETS Bravo line companion (classic EMS range) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.medimarket.com/myobravo&amp;quot;&amp;gt;MyoBravo – Bravo line muscle stimulator variant →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.medimarket.com/sinebravo&amp;quot;&amp;gt;SineBravo – pure biofeedback (DOES NOT stimulate) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.medimarket.com/rehalito&amp;quot;&amp;gt;Rehalito – entry-level EMS muscle stimulator (for innervated muscles) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.medimarket.com/genesy-1500&amp;quot;&amp;gt;Genesy 1500 – Globus 4-channel professional device (8 current types, classic EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/electrotherapy&amp;quot;&amp;gt;Electrotherapy – overview of all TENS/EMS/selective stimulation devices →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/biofeedback-an-effective-aid-in-rehabilitation&amp;quot;&amp;gt;Biofeedback as an effective aid in rehabilitation (article) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/which-electrotherapy-is-right&amp;quot;&amp;gt;Which electrotherapy is for what? – decision support guide →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>591982</Id>
+        <Name>Home therapy|Electrotherapy|Biofeedback</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>382425</Id>
+        <Name>Disease Treatment|Symptoms A–Z|Muscle Mass Loss</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>911138</Id>
+        <Name>Disease Treatment|Neurological conditions|Peripheral paralysis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>807325</Id>
+        <Name>Clinic Equipment|Clinical electrotherapy</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>835404</Id>
+        <Name>Home therapy|Electrotherapy|Selective stimulation</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/perobravo</Url>
+    <SefUrl>perobravo</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-112</DefaultFilename>
+      <DefaultAlt>PeroBravo</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247053</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-112.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-112/010E-112.webp?time=1743247053</SefUrl>
+        <Filename>010E-112</Filename>
+        <Alt>PeroBravo</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Instruction-for-Use.pdf - Instruction for Use</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.com/rehabilitation-of-peroneal-nerve-palsy - Rehabilitation of peroneal nerve palsy</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS, EMS/NMES, ETS, Szelektív ingeráram, Biofeedback</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom, Izomkezelés, Perifériás bénulás</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Instruction-for-Use.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>The PeroBravo is a compact, portable electronic impulse device designed with multiple connectable outputs and precisely adjustable operation. It offers a range of preset operating modes and widely adjustable intensity levels, allowing flexible configuration for different usage setups. A clear display and intuitive control interface support straightforward setup and operation. Its durable construction and portable form factor make it suitable for use at home or in structured environments.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279581044</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-112</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1523623641</Id>
+        <Sku>012E-113</Sku>
+        <Name>Footswitch for PeroBravo device</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1523623066</Id>
+        <Sku>012E-120</Sku>
+        <Name>Cable set for Pero and DuoBravo devices 1.5m, 2 pcs</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2.5cm self-adhesive electrode, round, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2.5cm Round TENS Electrode Pads with Pins - 10 pcs/pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm self-adhesive electrode, Pin, 4pcs/pouch </Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3.2cm self-adhesive electrode, round, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10cm self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X self-adhesive electrode, Pin, 4pcs/pouch</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>PeroBravo, selective stimulation current, denervated muscle treatment, peripheral paralysis, peroneal palsy, drop foot, Bell&amp;#039;s palsy, facial nerve palsy, EMG triggered stimulation, ETS device, electrotherapy device, foot switch, neurorehabilitation, self-adhesive electrode</Keywords>
+      <Description>Device designed for denervated muscle: selective stimulation current with 1-1000 ms pulse width and EMG triggered stimulation, plus a foot switch and case.</Description>
+      <Title>PeroBravo selective stimulation unit | 1-1000 ms, ETS</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

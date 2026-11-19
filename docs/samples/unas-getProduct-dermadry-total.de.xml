@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=ddrytot-n, Lang=de, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418950</Id>
+    <Sku>ddrytot-n</Sku>
+    <CreateTime>1743245669</CreateTime>
+    <LastModTime>1795072100</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Für Bestellung</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Nur für medizinisches Fachpersonal</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>In Zusammenarbeit präsentiert</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>DermaDry Total</Name>
+    <Unit>db</Unit>
+    <Weight>1.8</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p&amp;gt;DermaDry Total ist ein für die Heimanwendung bestimmtes Leitungswasser-Iontophorese-Gerät zur Unterstützung der Behandlung von Hyperhidrose an Handflächen, Fußsohlen und Achseln. CE- und FDA-zertifiziert.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Im Preis enthalten:&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;DermaDry Total Gerät &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Netzadapter &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Behandlungsbecken (Hand/Fuß) &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kabel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Gummielektroden (groß/klein) &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2-2 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Silikonnetze &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Schwammhüllen &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 Stück&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Unser medizinischer Experte sagt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Krankhaftes Schwitzen kann den Alltag stark belasten, und viele Betroffene suchen jahrelang, bis sie eine geeignete Lösung finden. Die Leitungswasser-Iontophorese ist eine etablierte Erstbehandlung bei Hyperhidrose: ohne Nadeln und ohne systemische Medikamente. Mittels elektrischem Strom wird das überaktiverte Schwitzen lokal reguliert. DermaDry Total ist für die Heimanwendung an Handflächen, Fußsohlen und Achseln geeignet.“&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische Erwartungen
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Iontophorese wird kurmäßig angewendet. Zwei Wochen lang erfolgt die Behandlung in der Regel einmal täglich, danach kann auf 1–2 Erhaltungsbehandlungen pro Woche umgestellt werden. Die Wirkung ist nicht dauerhaft. Das Schwitzen kann wieder zunehmen; dann ist eine erneute Kur sinnvoll. Die richtige Einstellung von Stromstärke und Behandlungsdauer lässt sich nach wenigen Sitzungen finden.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Nicht das richtige Gerät, wenn
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Sie das Gerät gegen Gelenkschmerzen in Kombination mit Medikamenten verwenden möchten – dafür gibt es das doppelfunktionale IontoBravo, das zusätzlich die medikamentöse Iontophorese ermöglicht. Treten die Beschwerden plötzlich auf oder gibt es nächtliches Schwitzen, sollte zunächst eine ärztliche Abklärung erfolgen.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Vor der Bestellung
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Plötzliches, einseitiges oder nächtliches Schwitzen kann auf eine Erkrankung hinweisen – das sollte von einem Dermatologen oder Internisten abgeklärt werden. In der Produktbeschreibung finden Sie allgemeine Empfehlungen zu Behandlungsdauer und -häufigkeit. Bei Unsicherheit, bei chronischen Erkrankungen oder begleitender Medikation besprechen Sie die Anwendung vorab mit dem behandelnden Arzt. Das Gerät darf NICHT verwendet werden bei implantiertem Herzschrittmacher oder Defibrillator, in der Schwangerschaft, bei metallischen Implantaten im Behandlungsbereich, bei Herzrhythmusstörungen, Epilepsie sowie bei offenen Wunden oder Infektionen im Behandlungsbereich.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/ueber-mich-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Arzt, Medizintechnik-Experte, Blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK / KINEK AJÁNLOM? --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wann ist es empfehlenswert?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tenyer-izzadas.png&amp;quot; alt=&amp;quot;tenyér-izzadás&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Wenn feuchte Hände Sie sogar bei der Arbeit stören&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p_styled&amp;gt;Starke palmare Hyperhidrose kann beim Händedruck, beim Halten von Papier oder beim Umgang mit empfindlichen elektronischen Geräten peinlich sein. Für viele Menschen schränkt starkes Schwitzen der Handflächen den Alltag erheblich ein. Die Iontophorese ist speziell für palmare Hyperhidrose entwickelt und wissenschaftlich untersucht – in der Regel zeigen sich nach 1–3 Wochen regelmäßiger Behandlung spürbare Verbesserungen.&amp;lt;/p_styled&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/talp-izzadas.png&amp;quot; alt=&amp;quot;talp-izzadás&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Wenn Ihre Füße stark schwitzen – Geruch und Pilzinfektionen vorbeugen&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Starke Fußschweißbildung kann unangenehme Gerüche verursachen und das Risiko für Pilzinfektionen erhöhen. Das Schwitzen kann so stark sein, dass der Fuß im Hausschuh rutscht. DermaDry Total arbeitet bei der Fußbehandlung mit einer maximalen Stromstärke von 25 mA – es reduziert zuverlässig die Feuchtigkeit. Nächtliche Erhaltungsbehandlungen können besonders effektiv sein.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/honalj-izzadas.png&amp;quot; alt=&amp;quot;hónalj izzadás&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Haben Sie große Schweißflecken unter den Achseln?&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Achselhyperhidrose führt oft zu starken Durchfeuchtungen der Kleidung, was in sozialen Situationen unangenehm sein kann und das Selbstbewusstsein beeinträchtigt. DermaDry Total arbeitet für die Achselbehandlung mit niedrigerer Stromstärke (8 mA) – spezielle Elektroden für die Achseln sorgen für gezielte Anwendung. Obwohl die Achselbehandlung etwas zeitintensiver sein kann, berichten geduldige Anwender von positiven Ergebnissen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Behandlung auf ärztliche Empfehlung&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Wenn kosmetische Mittel oder Puder nicht helfen (diese helfen oft nur begrenzt), sollte der behandelnde Arzt zuerst die Iontophorese vorschlagen, bevor er invasivere und deutlich teurere Optionen (Botox, Operation) empfiehlt. DermaDry Total bietet eine nicht-invasive, zuhause durchführbare und kostengünstigere Alternative. Botulinumtoxin-Injektionen müssen in der Regel alle 4–6 Monate wiederholt werden, und chirurgische Eingriffe können dauerhafte Nebenwirkungen haben – Iontophorese hingegen kann langfristig risikoarm angewendet werden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/hordozhato-keszulek.png&amp;quot; alt=&amp;quot;fenntartás&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Erhaltungsbehandlung – so verhindern Sie ein Wiederauftreten der Symptome&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die Wirkung einer Iontophorese-Kur hält nicht ewig – nach zwei bis drei Monaten kann das Schwitzen wieder zunehmen. Daher empfiehlt sich nach einer Intensivkur eine Erhaltungsbehandlung: ein- bis zweimal pro Woche. DermaDry Total ist ideal für die langfristige Erhaltung, da es jederzeit zuhause angewendet werden kann und die Sitzungen wenig Zeit beanspruchen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/lany-fiu.png&amp;quot; alt=&amp;quot;fiataloktól&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Von Jugendlichen bis zu Erwachsenen – altersunabhängig einsetzbar&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Der Hersteller empfiehlt das Gerät ab einem Alter von 13 Jahren. Einfacher Grund: Die Behandlung sollte von einer Person durchgeführt werden, die den Ablauf versteht und kooperiert. Bei kleinen Kindern ist eine ärztliche Rücksprache erforderlich und die Anwesenheit der Eltern während der Anwendung wird erwartet. Iontophorese kann bei Jugendlichen und Erwachsenen gleichermaßen wirksam sein, insbesondere wenn Hyperhidrose psychisch belastend wirkt. Besprechen Sie Alters- und Protokollfragen mit Ihrem Arzt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. HOGYAN MŰKÖDIK? (Hatásmechanizmus) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wie funktioniert die Iontophorese?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Iontophorese ist ein seit langem bekanntes, nicht-invasives Verfahren. Dabei leitet das Gerät einen schwachen elektrischen Strom über das Leitungswasser auf die Hautoberfläche. Dieser Strom beeinflusst die Aktivität der Schweißdrüsen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Der genaue Wirkmechanismus ist noch Gegenstand der Forschung, aber die wissenschaftliche Literatur nennt mehrere mögliche Mechanismen: vorübergehender Verschluss der Schweißdrüsengänge sowie eine Erhöhung der Erregungsschwelle, die das Schwitzen auslöst.&amp;lt;/p&amp;gt;
+ &amp;lt;h3&amp;gt;A automatische Funktionen des Geräts:&amp;lt;/h3&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;PolaritÄtswechsel während der Behandlung (manuelle Umschaltung nicht erforderlich)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Sicherheitsstrombegrenzung&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Kindersicherung (3-sekündiger Start)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;h3&amp;gt;Was können Anwender erwarten?&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Die Wirksamkeit der Iontophorese hängt von individuellen Faktoren und der Regelmäßigkeit der Anwendung ab. Basierend auf klinischen Studien:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Bei den ersten Behandlungen kann ein leichtes Kribbeln spürbar sein – das ist ein normales Zeichen&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Bei regelmäßiger, protokollgerechter Anwendung berichtet ein Großteil der Anwender über spürbare Verbesserungen&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Randomisierte, kontrollierte Studien zeigen, dass Leitungswasser-Iontophorese palmaren Schwitz reduzieren kann&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Eine systematische Übersichtsarbeit weist nach, dass nach 1–4 Wochen regelmäßiger Behandlung &amp;lt;strong&amp;gt;30–90 % Reduktion des Schwitzens&amp;lt;/strong&amp;gt; möglich ist, die mit Erhaltungsbehandlungen wochen- bis monatelang anhalten kann&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-info-box&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;Wichtig:&amp;lt;/strong&amp;gt; Die Ergebnisse sind individuell. Das Ausmaß der Verbesserung hängt vom Schweregrad des Schwitzens, der Regelmäßigkeit der Behandlungen und der individuellen Reaktionsfähigkeit ab. Iontophorese ersetzt nicht die ärztliche Konsultation.&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 7. FAQ SZEKCIÓ – NATÍV HTML5 RADIO BUTTON ELEMEKKEL (v3.0) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Häufig gestellte Fragen&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Ab welchem Alter ist das Gerät verwendbar? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Der Hersteller empfiehlt das Gerät ab 13 Jahren. Bei jüngeren Kindern ist eine ärztliche Rücksprache ratsam.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Ist die Anwendung schmerzhaft? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Während der Behandlung ist ein leichtes Kribbeln spürbar. Wenn dies unangenehm ist, reduzieren Sie die Stromstärke. Das Gerät unterstützt das stufenweise Einstellen der Intensität.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Wie oft muss man behandeln? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Das detaillierte Protokoll steht in der beiliegenden Anleitung. In der Regel wird über 2–3 Wochen täglich einmal behandelt, danach als Erhaltung 1–2 Mal wöchentlich empfohlen. Wenn das Schwitzen wieder zunimmt, sollte eine neue Kur gestartet werden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Kann ich es auf Reisen mitnehmen? Ist es im Flugzeug erlaubt?&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ja, das Gerät ist kompakt und tragbar. Zur Einhaltung der Reisebestimmungen empfehlen wir, die aktuellen Richtlinien der jeweiligen Fluggesellschaft für elektronische Geräte zu prüfen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Was passiert, wenn das Wasser ausgeht? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Das Gerät verdunstet das Wasser nicht, daher ist ausgeschlossen, dass es während einer 15–20-minütigen Behandlung „leerläuft“. Ohne Wasser kann die Behandlung nicht durchgeführt werden, da das Gerät eine Stromkreis-Erkennung hat. Fehlt Wasser, erkennt es keinen korrekten Stromkreis und startet nicht.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Wie schnell sind Ergebnisse sichtbar? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die Ergebnisse sind individuell und vom Schweregrad des Schwitzens abhängig. Klinische Studien zeigen, dass viele Anwender nach 2–3 Wochen Behandlung deutliche Verbesserungen bemerken. Einige sehen schneller (1–2 Wochen), andere später (4+ Wochen) Effekte.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; Wie lange hält die Wirkung der Iontophorese an? &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die Wirkung einer Iontophorese-Kur ist nicht dauerhaft. In der Regel nimmt die Wirksamkeit nach einigen Wochen bis Monaten wieder ab. Dann sollte die Intensivkur erneut durchgeführt werden. Eine Erhaltungsbehandlung wird empfohlen: Nach einer 2–3-wöchigen Kur die Anwendungen auf 1–2 Mal pro Woche reduzieren, um das Ergebnis langfristig zu erhalten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 9. KEZELÉSI LEHETŐSÉGEK ÖSSZEHASONLÍTÁSA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Überblick über Behandlungsmöglichkeiten gegen Schwitzen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Für die Behandlung von Hyperhidrose stehen verschiedene Verfahren zur Verfügung. Es ist sinnvoll, dies mit Ihrem Arzt zu besprechen.&amp;lt;/p&amp;gt;
+ &amp;lt;table style=&amp;quot;width: 100%; border-collapse: collapse; margin: 15px 0;&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f5f5f5;&amp;quot;&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Methode&amp;lt;/th&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Merkmale&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Antitranspirantien&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Können Cremes, Gele, Puder oder Sprays sein. Leicht verfügbar, erfordern kontinuierliche Anwendung und können Hautirritationen verursachen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Botulinumtoxin-Injektion&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Ärztlicher Eingriff, erfordert regelmäßige Wiederholung (in der Regel alle 4–6 Monate), relativ kostspielig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f0f4ff;&amp;quot;&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;Iontophorese (DermaDry Total)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Zu Hause durchführbar, nicht-invasiv, CE/FDA-zertifiziert, erfordert Erhaltungsbehandlungen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Anticholinerge Medikamente&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Nur unter ärztlicher Aufsicht, mit möglichen Nebenwirkungen (Mundtrockenheit, Sehstörungen)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Chirurgische Lösungen (ETS)&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Bei schweren Fällen auf ärztliche Empfehlung, irreversible Eingriffe. Risiko kompensatorischer vermehrter Schweißbildung.&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/section&amp;gt;
+ 
+
+ &amp;lt;!-- 4. VIDEÓ SZEKCIÓ --&amp;gt;
+ &amp;lt;style&amp;gt;
+ @media (max-width: 768px) {
+ .pp-video-grid { grid-template-columns: 1fr !important; }
+ }
+ &amp;lt;/style&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Videounterweisungen zur Anwendung des DermaDry Total&amp;lt;/h2&amp;gt;
+ &amp;lt;p style=&amp;quot;margin: 20px 0;&amp;quot;&amp;gt;Sieh sich die Videos zur Anwendung des DermaDry Iontophoresegeräts an:&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-grid&amp;quot; style=&amp;quot;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 10px 0;&amp;quot;&amp;gt;
+ &amp;lt;!-- Videó 1 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/f3-_GFzknkk?si=sYEgrgLSWW5sJ0X3&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;!-- Videó 2 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/AhluN4uEtVM?si=6eKHxgyGkGgRLER2&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;!-- Videó 3 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/IUECZo2t-Nc?si=WNabRlke0HinwNvv&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+
+
+ &amp;lt;!-- 6. HASZNÁLATI ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Gebrauchsanleitung – kurz&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Vorbereitung&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Füllen Sie die Becken mit lauwarmem Leitungswasser (20–40 °C). Prüfen Sie, ob offene Wunden auf der Haut vorhanden sind. Kleinere Verletzungen dünn mit Vaseline abdecken.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Einstellung&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Wählen Sie das Behandlungsprofil (Hand/Fuß/Achsel). Beginnen Sie mit niedriger Stromstärke und steigern Sie diese schrittweise bis zur angenehmen Komfortstufe.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Behandlung&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Platzieren Sie Ihre Hände oder Füße in den Becken. Das Gerät führt die Behandlung in 15–20 Minuten automatisch durch, inklusive Polaritätswechsel.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Abschluss&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Trocknen Sie die Haut und verwenden Sie eine feuchtigkeitsspendende Creme.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+
+
+ &amp;lt;!-- 10. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot; style=&amp;quot;margin: 20px 0;&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische Daten&amp;lt;/h2&amp;gt;
+ &amp;lt;table style=&amp;quot;width: 100%; border-collapse: collapse; margin: 15px 0;&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f5f5f5;&amp;quot;&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Parameter&amp;lt;/th&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Wert&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Stromart&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Pulsierender Gleichstrom (PC)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Frequenz&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;10 kHz Rechteckwelle&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Betriebszyklus&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;90% (fest)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. Stromstärke – Handfläche&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;15 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. Stromstärke – Fußsohle&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;25 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. Stromstärke – Achsel&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;8 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Behandlungsdauer&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;15–20 Minuten&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Stromversorgung&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Netzadapter (100–240V)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Zertifizierungen&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;CE (EU MDR), FDA 510(k), Health Canada&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Hersteller&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;DermaDry Laboratories Inc. (Kanada)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 11. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Lieferumfang&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;DermaDry Total Gerät&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Netzadapter&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 Behandlungsbecken (Hand/Fuß)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 Kabel&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2–2 große/kleine Gummielektroden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 Silikonnetze&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 Schwammhüllen&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Ungarische Bedienungsanleitung&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 12. ELLENJAVALLATOK – MedicalDevice inline mikrodata --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;Fontos&amp;quot; style=&amp;quot;height: 32px; width: auto; vertical-align: middle; margin-right: 8px;&amp;quot;&amp;gt;Wichtige Informationen vor der Anwendung&amp;lt;/h2&amp;gt;
+ &amp;lt;h3&amp;gt;Wann sollten Sie das Gerät nicht verwenden?&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Verwenden Sie das Gerät NICHT, wenn:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Sie einen implantierten Herzschrittmacher (Pacemaker) oder Defibrillator haben&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Sie schwanger sind&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Metallische Implantate im zu behandelnden Bereich vorhanden sind&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Sie Herzrhythmusstörungen haben&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Sie an Epilepsie leiden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Offene Wunden oder Infektionen am Behandlungsbereich vorhanden sind&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Bei Unsicherheiten konsultieren Sie Ihren behandelnden Arzt!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;h3&amp;gt;Mögliche Nebenwirkungen&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Während der Behandlung kann Folgendes auftreten:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Leichtes Kribbeln (dies ist normal)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Vorübergehende Rötung der behandelten Hautpartie&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Selten: kleine Bläschenbildung (bei zu hoher Stromstärke)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Hauttrockenheit (nach der Behandlung Feuchtigkeitspflege empfohlen)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Wenn dies unangenehm ist, reduzieren Sie die Stromstärke. Bei anhaltenden oder ungewöhnlichen Symptomen beenden Sie die Behandlung und konsultieren Sie einen Arzt.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 13. VÍZ MINŐSÉGI ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Zur Wasserqualität&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Das Gerät arbeitet mit Leitungswasser. Der Mineralgehalt des Wassers kann je nach Ort variieren. Ist Ihr Leitungswasser sehr weich (geringe Leitfähigkeit), probieren Sie Folgendes:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Fügen Sie 1 Teelöffel Natron oder Kochsalz hinzu&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Verwenden Sie abgefülltes Mineralwasser&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-warning-box&amp;quot; style=&amp;quot;background: #fff3e0; border-left: 4px solid #ff9800; padding: 12px 16px; margin: 15px 0; border-radius: 4px; display: flex; gap: 12px;&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;Figyelmeztetés&amp;quot; style=&amp;quot;height: 32px; width: auto; flex-shrink: 0;&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;Wichtig:&amp;lt;/strong&amp;gt; Verwenden Sie niemals enthärtetes oder destilliertes Wasser!&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 14. TUDOMÁNYOS FORRÁSOK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-citations&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wissenschaftlicher Hintergrund und Quellen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Die wissenschaftliche Literatur zur Iontophorese und verwandten Studien wird im Blogbeitrag &amp;lt;a href=&amp;quot;/hyperhidrozis-abnormales-schwitzen&amp;quot;&amp;gt;Behandlung der Hyperhidrose mit Iontophorese&amp;lt;/a&amp;gt; ausführlich dargestellt.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Quellen:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;ol class=&amp;quot;pp-citation-list&amp;quot; style=&amp;quot;margin: 1rem 0 1rem 2rem;&amp;quot;&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Stolman LP. (1987). Treatment of excess sweating of the palms by iontophoresis. &amp;lt;em&amp;gt;Arch Dermatol&amp;lt;/em&amp;gt;, 123(7):893–896. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/3606174/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Reinauer S, et al. (1993). Iontophoresis with alternating current and direct current offset (AC/DC iontophoresis). &amp;lt;em&amp;gt;Br J Dermatol&amp;lt;/em&amp;gt;, 129(2):166–169. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/7654577/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Kim DH, et al. (2017). Treatment of Palmar Hyperhidrosis with Tap Water Iontophoresis: A Randomized, Sham-Controlled Clinical Trial. &amp;lt;em&amp;gt;Ann Dermatol&amp;lt;/em&amp;gt;, 29(6):728–734. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/29200761/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Nawrocki S, Cha J. (2020). A systematic evidence-based review of treatments for primary hyperhidrosis. &amp;lt;em&amp;gt;J Drugs Dermatol&amp;lt;/em&amp;gt;, 19(12):1141–1147. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/33346434/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Pariser DM, Ballard A. (2014). Iontophoresis for palmar and plantar hyperhidrosis. &amp;lt;em&amp;gt;Dermatol Clin&amp;lt;/em&amp;gt;, 32(4):491–494. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/25152342/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 15. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Erfahren Sie mehr&amp;lt;/h2&amp;gt;
+ &amp;lt;ul style=&amp;quot;margin: 1rem 0 1rem 0; list-style: none; padding: 0;&amp;quot;&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 0.8rem 0;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;/hyperhidrozis-abnormales-schwitzen&amp;quot; style=&amp;quot;color: #4a86e8; text-decoration: none; display: flex; align-items: center; gap: 10px;&amp;quot;&amp;gt;Hyperhidrose – Ausführlicher Leitfaden&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 16. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section style=&amp;quot;margin: 2rem 0; padding-top: 2rem; border-top: 2px solid #ddd;&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;Fontos&amp;quot; style=&amp;quot;height: 32px; width: auto; vertical-align: middle; margin-right: 8px;&amp;quot;&amp;gt;Wichtiger Hinweis&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Diese Produktbeschreibung dient der Information und ersetzt nicht die medizinische Beratung. Das DermaDry Iontophoresegerät ist als Ergänzung zur ärztlichen Behandlung gedacht. Bei Beschwerden wenden Sie sich stets an einen Arzt für eine korrekte Diagnose und Behandlungsplanung. Die individuellen Ergebnisse können variieren.&amp;lt;/p&amp;gt;
+ &amp;lt;p style=&amp;quot;color: #666666; font-size: 0.9rem;&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Das Produkt ist ein Medizinprodukt mit CE (EU MDR) und FDA 510(k)-Zertifizierung.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>227355</Id>
+        <Name>Therapie zu Hause|Elektrotherapie|Iontophorese</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>130562</Id>
+        <Name>Krankheitsbehandlung|Hautkrankheiten|Hyperhidrose</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dermadrytotal</Url>
+    <SefUrl>dermadrytotal</SefUrl>
+    <ManufacturerUrl>https://dermadry.com</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>ddrytot-n</DefaultFilename>
+      <DefaultAlt>DermaDry Total</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1766141868</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/ddrytot-n.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_1/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_2/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_3/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_4/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_5/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>6</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_6.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_6/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>7</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_7.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_7/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>8</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_8.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_8/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/Dermadry-de.pdf - Benutzerhandbuch</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.lymphpumpe.de/hyperhidrozis-abnormales-schwitzen - Hyperhidrose – Leitfaden zum krankhaften Schwitzen</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>Dermadry</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>Iontoforézis</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Tenyér&amp;comma; talp&amp;comma; hónalj</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/DermaDry-de.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>Dermadry Iontophorese-Gerät für zu Hause, mit einfacher Bedienoberfläche und einstellbarer Intensität. Kann mit Hand- und Fußschalen sowie Achselzusätzen verwendet werden. Digitale Steuerung, Timer, Sicherheitsfunktionen, kompaktes Design. Betrieb mit Netzstrom. Leicht zu reinigende, langlebige Zubehörteile.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>877067000256</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>Biocare Enterprise Ltd</Value>
+      </Param>
+    </Params>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28629</Id>
+        <Name>DermaDry</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dermadry Total, Iontophoresegerät, Leitungswasser Iontophorese, Behandlung bei Hyperhidrose, starkes Schwitzen, schwitzende Hände, Schweißfüße, Achselhyperhidrose, Gerät gegen Schwitzen, Iontophorese für zu Hause, Behandlungswanne, Behandlung der Schweißdrüsen, CE Medizinprodukt, DermaDry</Keywords>
+      <Description>Leitungswasser-Iontophoresegerät für zu Hause bei starkem Schwitzen an Handflächen, Fußsohlen und Achseln. CE-Produkt mit zwei Wannen und Elektroden.</Description>
+      <Title>Dermadry Total Iontophoresegerät | Hand, Fuß, Achsel</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

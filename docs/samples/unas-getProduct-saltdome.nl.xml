@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=OKA03-015, Lang=nl, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1196751750</Id>
+    <Sku>OKA03-015</Sku>
+    <CreateTime>1743412218</CreateTime>
+    <LastModTime>1795076166</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Voor bestelling</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Uitsluitend voor medisch personeel</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Wij verkopen als zakelijke distributeur</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>SaltDome zouttherapie-apparaat</Name>
+    <Unit>db</Unit>
+    <MaximumQty>18</MaximumQty>
+    <UnitStep>1</UnitStep>
+    <AlterUnit>
+      <Qty>1</Qty>
+      <Unit>db</Unit>
+    </AlterUnit>
+    <Weight>0.58</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;De SaltDome zouttherapie-apparaat is een ademhalingsondersteunend medisch hulpmiddel dat wordt aanbevolen voor thuisgebruik bij chronische luchtwegklachten. Toepasbaar ter ondersteuning bij COPD, astma, luchtwegallergie, verkoudheid, inspanningsastma en zelfs bij ademhalingsklachten van huisdieren (honden en katten).&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Prijs omvat:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;SaltDome apparaat &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Netadapter &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Zoutmaatschep &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Maatbeker &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Afstandsbediening &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;arts&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Onze medisch expert zegt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Zouttherapie is geen acute geneesmiddel en geeft geen direct spectaculaire verbetering – verwacht dat niet. Bij regelmatig gebruik werkt het &amp;quot;onzichbaar&amp;quot;: u zult merken dat verkoudheidsperioden minder vaak voorkomen, dat ademen gemakkelijker wordt en dat de slaap rustiger is. De sleutel is regelmaat – daarom adviseer ik nachtelijk gebruik tijdens de slaap: zo wordt het geen aparte taak, maar onderdeel van de dagelijkse routine. De &amp;lt;span style=&amp;quot;color: rgb(74, 134, 232);&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;SaltDome zouttherapie-apparaat&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt; is hiervoor een praktisch gezinsmiddel. Zouttherapie kan op elke leeftijd worden toegepast – denk aan de miljoenen mensen die langs de kust wonen. En ja: het kan ook behulpzaam zijn bij ademhalingsklachten van uw hond of kat.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische verwachting
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Bij regelmatig gebruik, na minimaal enkele dagen, kunnen effecten optreden: minder hoesten, schonere luchtwegen, vrijere neusademhaling en rustiger slapen. Verwacht geen wonder na één keer. Het is geen middel voor acute aanvallen: bij een astma-aanval vervangt het de snelwerkende inhalator niet.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Dit apparaat is niet voor u als
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;u directe symptoomverlichting zoekt – de SaltDome werkt het best bij continu, dagelijks gebruik. Bij sommige chronische longziekten (bijv. COPD, cystische fibrose, of na longontsteking) kan het nodig zijn het slijm actief op te hoesten; in zulke gevallen kan een aanvullend hulpmiddel zoals de &amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/aerobika-opep-device&amp;quot;&amp;gt;AerobikA OPEP&amp;lt;/a&amp;gt; nuttig zijn – beide kunnen naast elkaar gebruikt worden.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Voordat u bestelt
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Zouttherapie is een aanvullende, natuurlijke methode – het vervangt geen medicamenteuze behandeling.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/over-mij-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zátrok Zsolt&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Arts, expert medische technologie, blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON (a részletes betegség-tartalmak a cluster-cikkekben) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Bij welke klachten kan de SaltDome helpen?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-allergias-no.png&amp;quot; alt=&amp;quot;allergie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Luchtwegallergie, hooikoorts&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Zoute lucht kan helpen de neusholten te reinigen en de zwelling van het slijmvlies te verminderen. Veel mensen melden mildere klachten bij regelmatig gebruik dat 2–4 weken vóór het seizoen wordt gestart. Details: &amp;lt;a href=&amp;quot;/hooikoorts-en-zouttherapie&amp;quot;&amp;gt;Hooikoorts en zouttherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;verkouden kind&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Vaak verkouden kinderen, terugkerende verkoudheid&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het slijmoplossende effect kan herstel bevorderen; regelmatig gebruik kan volgens onderzoeken ook een rol spelen in preventie — vooral waardevol bij kleuters en schoolkinderen waar infecties snel verspreiden.&amp;lt;sup&amp;gt;7&amp;lt;/sup&amp;gt; Details: &amp;lt;a href=&amp;quot;/verkoudheid-en-zouttherapie&amp;quot;&amp;gt;Verkoudheid en zouttherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;astma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Astma — als aanvullende behandeling&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Onderzoek suggereert dat zouttherapie als aanvullende behandeling gunstig kan zijn bij astma, ook bij kinderen, zonder relevante bijwerkingen.&amp;lt;sup&amp;gt;3,6&amp;lt;/sup&amp;gt; Belangrijk: bij een astma-aanval vervangt het de noodinhalator niet! Details: &amp;lt;a href=&amp;quot;/astma-zouttherapie&amp;quot;&amp;gt;Astma en zouttherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;COPD en chronische luchtwegaandoeningen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Zoute lucht kan helpen bij het oplossen van slijm en het vergemakkelijken van ademhaling; onderzoeken rapporteren verbeteringen in longfunctie en kwaliteit van leven — als aanvulling op medicatie, nooit als vervanging.&amp;lt;sup&amp;gt;2,4,5&amp;lt;/sup&amp;gt; Details: &amp;lt;a href=&amp;quot;/copd-en-zouttherapie&amp;quot;&amp;gt;COPD en zouttherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arcureg-gyulladas.png&amp;quot; alt=&amp;quot;bijholte&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bijholteontsteking, verstopte neus, snurken&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Fijne zoutdeeltjes kunnen ook de bijholten bereiken en bijdragen aan het oplossen en afvoeren van vastzittend slijm. Als snurken neusgerelateerd is (bijv. door verstopte neus of allergie), kan vrijere neusademhaling snurken verminderen. Details: &amp;lt;a href=&amp;quot;/neusbijholteontsteking-sinusitis-zouttherapie&amp;quot;&amp;gt;Sinusitis en zouttherapie&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;/snurken-zouttherapie-vrij-ademen&amp;quot;&amp;gt;Snurken en zouttherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-no.png&amp;quot; alt=&amp;quot;sporter&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Sporters — inspanningsastma&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bij sporters kan zoute lucht inspanningsastma-symptomen verminderen en herstel ondersteunen. Details: &amp;lt;a href=&amp;quot;/zouttherapie-sporters-lucht-en-herstel&amp;quot;&amp;gt;Zouttherapie voor sporters&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/macska.png&amp;quot; alt=&amp;quot;huisdier&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ademhalingsklachten bij huisdieren&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bij honden en katten met luchtwegklachten kan het apparaat vergelijkbaar worden ingezet als bij mensen. Details: &amp;lt;a href=&amp;quot;/zouttherapie-huisdieren-luchtwegen&amp;quot;&amp;gt;Zouttherapie voor huisdieren&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;Als u de wetenschappelijke achtergrond, geschiedenis en een gedetailleerde vergelijking van methoden (zoutgrot, salkamer, zoutpijp, sólamp) zoekt, zie onze &amp;lt;a href=&amp;quot;/zouttherapie-halotherapie-gids&amp;quot;&amp;gt;Uitgebreide zouttherapie-gids&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. HATÁSMECHANIZMUS – tömörítve, a részletek a pillar-cikkben --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Hoe werkt ingeademde zoute lucht?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De SaltDome vernevelt zoutoplossing met ultrasoon geluid en brengt 2–5 micron zoutdeeltjes in de lucht. Deze deeltjesmaat kan volgens onderzoek ook de lagere luchtwegen bereiken — klein genoeg om de bronchiën te bereiken, maar groot genoeg om daar neerslag te vormen.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt; Zout dat zich op het slijmvlies afzet kan op drie manieren werken:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Slijmverdunning:&amp;lt;/strong&amp;gt; de osmotische werking van zout trekt water naar het slijmvlies — vergelijkbaar met het zouten van een komkommersalade. Het slijm wordt dunner en is makkelijker te verwijderen.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Kalmering van het slijmvlies:&amp;lt;/strong&amp;gt; sodeeltjes kunnen helpen de viscositeit van slijm te verlagen en de normale slijmvliesfunctie te herstellen, wat bij allergische klachten gunstig kan zijn.&amp;lt;sup&amp;gt;1,8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Ondersteuning van de trilhaartjes:&amp;lt;/strong&amp;gt; de cilia op de luchtwegbekleding vegen vuil en slijm naar buiten. Bij chronische luchtwegaandoeningen is deze clearancemechanisme vaak vertraagd — zouttherapie kan volgens onderzoek bijdragen aan herstel.&amp;lt;sup&amp;gt;2&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO BUTTON (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Veelgestelde vragen&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe snel zijn resultaten te verwachten?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De meeste gebruikers merken al na enkele dagen van regelmatig nachtelijk gebruik verandering. Zouttherapie is geen acute behandeling: regelmaat is belangrijker dan intensiteit. Geef uw lichaam enkele weken voordat u een oordeel velt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Is het veilig voor kinderen?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ja, zouttherapie is doorgaans veilig voor kinderen (denk aan de miljarden mensen die langs kusten wonen). Onderzoek vond bij kinderen geen bijwerkingen, en regelmatig gebruik kan bijdragen aan minder bovenste luchtweginfecties.&amp;lt;sup&amp;gt;3,7&amp;lt;/sup&amp;gt; Begin 2–3 weken vóór het allergieseizoen of schoolstart.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is het verschil met een zoutpijp of sólamp?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Zoutpijp bevat grove zoutdeeltjes die alleen de bovenste luchtwegen bereiken; sólampen zijn decoratief en geven geen therapeutische hoeveelheid deeltjes af. De SaltDome produceert ultrasone 2–5 micron deeltjes die bij inademing ook de lagere luchtwegen kunnen bereiken — en nachtelijk gebruik vereist geen extra tijdsinvestering.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Welke zoutsoort en hoeveel verbruikt het?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik uitsluitend aditivenvrij, natuurlijk steenzout — gejodeerd of met antiklontermiddel behandeld keukenzout is niet geschikt voor de luchtwegen. Het steenzout in onze webwinkel is geoptimaliseerd voor het toestel. Het verbruik is minimaal: één pot kan maanden meegaan bij dagelijks gebruik.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe lang en hoe vaak mag ik het gebruiken?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Er is geen vaste limiet; denk aan mensen die permanent aan zee wonen. Pas het gebruik aan de situatie van uw gezin aan: tijdens verkoudheidsseizoenen (herfst–lente, schoolstart) kan doorlopend gebruik van 2–3 maanden nuttig zijn; bij allergie begin je idealiter 2 weken vóór het seizoen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;waarschuwing&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Vervangt het medische behandeling?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nee. Zouttherapie is een aanvullende methode die naast medische behandeling gebruikt kan worden, niet in plaats van. Bij COPD gebruikt u uw voorgeschreven medicatie; bij astma houdt u uw noodinhalator bij de hand. Het doel is het natuurlijke afweersysteem te ondersteunen en de levenskwaliteit te verbeteren.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;belangrijk&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Mag ik het gebruiken tijdens een astma-aanval?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;NEE. Bij een astma-aanval moet de snelwerkende inhalator worden gebruikt — zouttherapie is voor preventie en ondersteuning in symptoomvrije perioden. Bij koorts of acute luchtweginfectie wacht u tot de koorts voorbij is.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Bekijk het in werking&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;In deze korte film laat ik de SaltDome zien:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;het klaarmaken van de zoutoplossing en vullen van het reservoir,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;de plaatsing en bediening met afstandsbediening,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;de praktijk van dagelijks nachtelijk gebruik.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/wW91xDW2YDE&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot; __gcrchildframeremotetoken=&amp;quot;ec36968eb271be24c5b42714d053dc6d&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN HASZNÁLD? (5 lépés) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Hoe gebruikt u de SaltDome?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Maak de zoutoplossing klaar&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Vul het reservoir met water en los daarin 1 maatschepje natuurlijk steenzout op, volgens de gebruiksaanwijzing. Het toestel produceert met ultrasoon vernevelen 2–5 micron deeltjes.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Plaats het vlakbij uw bed&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Zet het apparaat op een stabiele ondergrond niet ver van uw hoofd. Eén slaapkamervolume is voldoende; voor maximale werking plaatst u het op ongeveer 1–1,5 meter van uw hoofd.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Zet het aan — ook met de afstandsbediening&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Start het voor het slapen; u kunt kleur en werking van de sfeer-LED en het apparaat vanaf het bed met de afstandsbediening regelen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Slaap — het toestel werkt voor u&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Dagelijks 6–8 uur nachtelijk gebruik wordt aangeraden: de hele nacht ademt u zachtjes zoute lucht in, onopvallend. Tijdens verkoudheid kunt u het ook kortdurend overdag gebruiken.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Onderhoud&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Ververs de zoutoplossing regelmatig en reinig het reservoir volgens de gebruiksaanwijzing — dit is essentieel voor hygiëne en consistente verneveling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 10. CSOMAG TARTALMA + KŐSÓ CROSS-SELL --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wat zit er in de verpakking?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De SaltDome verpakking bevat:&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; SaltDome ultrasoon zouttherapie-apparaat&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st &amp;lt;/strong&amp;gt;netadapter&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; afstandsbediening&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; maatschepje&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st &amp;lt;/strong&amp;gt;maatbeker&amp;lt;/li&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ellenőrizd, hogy az alapcsomag tartalmaz-e induló
+ kősót és egyéb tartozékot (pl. mérőpohár) – a tényleges
+ csomagtartalom szerint egészítsd ki! --&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Besteltip:&amp;lt;/strong&amp;gt; het toestel werkt met aditivenvrij, natuurlijk steenzout. Voeg in één klik het &amp;lt;a href=&amp;quot;/steenzout&amp;quot;&amp;gt;natuurlijke, additievrije steenzout&amp;lt;/a&amp;gt; toe aan uw winkelwagen — dan kunt u de eerste avond meteen beginnen.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;onderhoud&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Onderhoud en reiniging&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ververs de zoutoplossing regelmatig en reinig het reservoir volgens de gebruiksaanwijzing. Reinig de buitenkant met een droge of licht vochtige doek. Regelmatig onderhoud is essentieel voor hygiëne en gelijkmatige verneveling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. MŰSZAKI ADATOK – details (NINCS PropertyValue) --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische gegevens&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Model&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;SaltDome zouttherapie-apparaat&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Werking&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ultrasone verneveling van zoutoplossing&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Deeltjesgrootte&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2–5 micron&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Bediening&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Op het toestel + met afstandsbediening&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Verlichting&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Wisselbare kleur sfeer-LED&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Aanbevolen gebruik&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Dagelijks 6–8 uur, ’s nachts tijdens de slaap&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Bedrijf&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stil, ontworpen voor nachtelijk gebruik, netvoeding&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Benodigde verbruiksstof&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Aditivenvrij, natuurlijk steenzout&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Garantie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;24 maanden&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ha rendelkezésre áll, egészítsd ki: tartály
+ űrtartalma, zajszint (dB), teljesítményfelvétel, méretek/tömeg --&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 12. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;waarschuwing&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wanneer NIET gebruiken?&amp;lt;/h3&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Actieve tuberculose
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Luchtwegbloeding
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Ernstig hartfalen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Acute luchtweginfectie met hoge koorts – wacht tot de koorts voorbij is
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Onbehandelde, ernstige hoge bloeddruk – overleg eerst met uw arts
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Nieraandoening – vanwege mogelijk veranderde zoutstofwisseling raadpleeg een arts
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Goedaardige of kwaadaardige tumor – overleg vooraf met uw behandelend arts
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Twijfel?&amp;lt;/strong&amp;gt; Heeft u een chronische aandoening, raadpleeg dan uw behandelend arts voordat u met zouttherapie begint!&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 13. ORVOSI FIGYELMEZTÉS – NEM MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;informatie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Belangrijke informatie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Zouttherapie is een aanvullende behandeling die naast medische zorg kan worden gebruikt, niet in plaats van. Tijdens gebruik kan hoesten tijdelijk toenemen — dit is vaak een teken van slijmoplossing — en bij de eerste sessies kan lichte keirritatie optreden. Bij aanhoudende of verslechterende klachten, verminder de behandeltijd of stop en raadpleeg een arts.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;De hier gegeven informatie is informatief van aard. Zouttherapie vervangt geen medische behandeling. Raadpleeg bij klachten uw behandelend arts. Raadpleeg de gebruiksaanwijzing voor correct gebruik van het toestel.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 15. KAPCSOLÓDÓ TARTALMAK – BELSŐ LINKEK (a CTA UTÁN) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Gerelateerde gidsen en inhoud&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/zouttherapie-halotherapie-gids&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professor.png&amp;quot; alt=&amp;quot;uitgebreide gids&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Uitgebreide zouttherapie-gids — wetenschappelijke achtergrond en methoden →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/zouttherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;categorie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Zouttherapie-toestellen — volledige categorie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/steenzout&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/sotarto.png&amp;quot; alt=&amp;quot;steenzout&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Natuurlijk, additievrij steenzout voor het toestel →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/astma-zouttherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;astma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Astma en zouttherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/copd-en-zouttherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;COPD en zouttherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/hooikoorts-en-zouttherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/virag.png&amp;quot; alt=&amp;quot;hooikoorts&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Hooikoorts, allergie en zouttherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/verkoudheid-en-zouttherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;verkoudheid&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Verkoudheid en zouttherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 16. TUDOMÁNYOS FORRÁSOK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-citations&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wetenschappelijke bronnen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De klinische achtergrond van zouttherapie (halotherapie) wordt ondersteund door de volgende onderzoeken en vakbronnen:&amp;lt;/p&amp;gt;
+ &amp;lt;ol class=&amp;quot;pp-citation-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;
+ Chervinskaya AV, Zilber NA (1995). &amp;lt;cite&amp;gt;Halotherapy for treatment of respiratory diseases&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Journal of Aerosol Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/10161255/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crisan-Dabija R en medewerkers (2022). &amp;lt;cite&amp;gt;Halotherapy for Chronic Respiratory Disorders: From the Cave to the Clinical&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Alternative Therapies in Health and Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/32827399/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Bar-Yoseph R en medewerkers (2017). &amp;lt;cite&amp;gt;Halotherapy as asthma treatment in children: A randomized, controlled, prospective pilot study&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Pediatric Pulmonology&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/27723955/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Meditsina Truda i Promyshlennaya Ekologiya (2018). &amp;lt;cite&amp;gt;Efficiency of controlled halotherapy in rehabilitation of patients with occupational lung diseases&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/30351691/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Rashleigh R, Smith SM, Roberts NJ (2014). &amp;lt;cite&amp;gt;A review of halotherapy for chronic obstructive pulmonary disease&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Chronic Obstructive Pulmonary Disease&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/24591823/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crișan-Dabija R és munkatársai (2021). &amp;lt;cite&amp;gt;Halotherapy—An Ancient Natural Ally in the Management of Asthma: A Comprehensive Review&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Environmental Research and Public Health&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/34828649/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Khan MA és munkatársai (2012). &amp;lt;cite&amp;gt;The use of Halotherapy for the health improvement in children at institutions of general education&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Voprosy Kurortologii, Fizioterapii i Lechebnoi Fizicheskoi Kultury&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/22908472/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Semmelweis Egyetem, Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika. &amp;lt;cite&amp;gt;A sóterápia hatásai&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://semmelweis.hu/fulorrgegeszet/betegeinknek/betegsegekrol/a-soterapia-hatasai/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;semmelweis.hu&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>444085</Id>
+        <Name>Thuisbehandeling|Zouttherapie-apparaat</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>461499</Id>
+        <Name>Behandeling van aandoeningen|Huidziekten|Eczeem</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>603011</Id>
+        <Name>Behandeling van aandoeningen|Huidziekten|Psoriasis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>681409</Id>
+        <Name>Behandeling van aandoeningen|Luchtwegaandoeningen|Asztma</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>659258</Id>
+        <Name>Behandeling van aandoeningen|Luchtwegaandoeningen|COPD</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>506689</Id>
+        <Name>Behandeling van aandoeningen|Luchtwegaandoeningen|Cystische fibrose (taaislijmziekte)</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>890689</Id>
+        <Name>Behandeling van aandoeningen|Luchtwegaandoeningen|Luchtwegalergie</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>112452</Id>
+        <Name>Behandeling van aandoeningen|Luchtwegaandoeningen|Verkoudheid</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/saltdome-zouttherapieapparaat</Url>
+    <SefUrl>saltdome-zouttherapieapparaat</SefUrl>
+    <Images>
+      <DefaultFilename>OKA03-015</DefaultFilename>
+      <DefaultAlt>SaltDome zouttherapie-apparaat</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1761575246</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/OKA03-015.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék alapszín</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_1/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome zouttherapie-apparaat</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_2/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome zouttherapie-apparaat</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_3/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék a távirányítójával</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_4/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék kék színű megvilágítással</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_5/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék rózsaszín megvilágítással</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-nl.pdf - Gebruiksaanwijzing</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.jouwzorgwinkel.nl/zouttherapie-halotherapie-gids - Zouttherapie – uitgebreide gids</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MediMarket</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>asztma, hörgőgyulladás&amp;comma; CODP, légúti allergia, megfázás&amp;comma; nátha</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-nl.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>4551</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>SaltDome apparaat voor gebruik binnenshuis, waarbij natuurlijk zoutmateriaal wordt ingezet om het karakter van de omgevingslucht te beïnvloeden. Het compacte tafelmodel is geschikt voor woonruimtes, kantoren en andere binnenomgevingen. Zoutdeeltjes worden via een gecontroleerd mechanisch proces geleidelijk verspreid, wat bijdraagt aan een herkenbare sfeer in de ruimte. Het apparaat heeft een duurzame behuizing, een laag energieverbruik en is geschikt voor langdurig gebruik.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>5999133200003</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>n/a</Value>
+      </Param>
+    </Params>
+    <AdditionalDatas>
+      <AdditionalData>
+        <Id />
+        <Title>Gebruik</Title>
+        <Content>&lt;!HTML KOD&gt;</Content>
+      </AdditionalData>
+    </AdditionalDatas>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1198760675</Id>
+        <Sku>sa-8101</Sku>
+        <Name>Parajdi (Transsylvanië) steenzout, zonder toevoegingen</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1198760505</Id>
+        <Sku>sa-8100</Sku>
+        <Name>Roze Himalayazout, zonder toevoegingen</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>SaltDome, zouttherapie-apparaat, halotherapie, zouttherapie thuis, halogenerator, zoutkamer thuis, luchtwegondersteuning, allergische rhinitis, hooikoorts, astma aanvullend, COPD, verstopte neus, snurken, kinder luchtwegklachten, huisdier ademhaling, afstandsbediening</Keywords>
+      <Description>SaltDome zouttherapie-apparaat voor thuis. Vernevelt 2–5 micron zoutdeeltjes voor zoutgrot-ervaring in uw woning. Stil en geschikt voor nachtelijk gebruik. Inclusief afstandsbediening en maatschepje. 24 maanden garantie.</Description>
+      <Title>SaltDome zouttherapie-apparaat — halogenerator met afstandsbediening</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

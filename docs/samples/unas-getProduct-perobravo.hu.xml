@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-112, Lang=hu, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418940</Id>
+    <Sku>010E-112</Sku>
+    <CreateTime>1743245668</CreateTime>
+    <LastModTime>1795077647</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Rendelésre</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Csak eü. szakember vásárolhatja</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Üzletkötőként forgalmazzuk</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>PeroBravo</Name>
+    <Unit>db</Unit>
+    <Weight>0.1</Weight>
+    <Description>
+      <Short>&lt;p class="pp-product-summary"&gt;A perifériás (pl. peroneus vagy Bell-féle arcideg) bénulás kezelésére specializált szelektív ingeráram készülék. A mozgatóidegét veszített, azaz denervált izom kezelésére optimalizált. Hagyományos és EMG triggerelt stimulációt is biztosít.&lt;/p&gt;
+&lt;div class="pp-price-includes"&gt;
+ &lt;span class="pp-price-includes__label"&gt;Ár tartalma:&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;PeroBravo készülék &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Elektróda 40x40mm &lt;span class="pp-price-includes__chip-qty"&gt;4 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Kábel &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Lábkapcsoló &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Gumi elektróda és szivacstok &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Rugalmas rögzítő &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;AA akku &lt;span class="pp-price-includes__chip-qty"&gt;4 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Akkutöltő &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Hordtáska &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;article class="pp-wrapper"&gt;
+
+ &lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&gt;
+ &lt;aside class="pp-trust-box"&gt;
+ &lt;div class="pp-trust-box-header"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png" alt="Dr. Zátrok Zsolt" class="pp-doctor-photo"&gt;
+ &lt;div&gt;
+ &lt;span class="pp-trust-badge"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png" alt="orvos" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Orvosszakértőnk mondja
+ &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;blockquote class="pp-doctor-quote"&gt;
+ &lt;p&gt;&lt;em&gt;„A PeroBravo klinikai szintű neurorehabilitációs készülék, kifejezetten perifériás bénulásban élő betegek rehabilitációjára. A lényege a hosszú, 1–1000 ms impulzusszélességű szelektív ingeráram: ez képes összehúzódásra bírni a denervált izmot is, amit a klasszikus EMS nem képes kontrakcióra bírni. Emellett EMG-triggerelt stimulációval (ETS) az akaratlagos aktivitásra épít. Peroneus-bénulásnál és Bell-parézisnél, szakmai irányítás mellett van jó helyen. Bővebben &lt;a href="https://www.medimarket.hu/peroneus-benulas-rehabilitacioja"&gt;a peroneus-bénulás rehabilitációjáról&lt;/a&gt; írok.”&lt;/em&gt;&lt;/p&gt;
+ &lt;/blockquote&gt;
+
+ &lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&gt;
+ &lt;dl class="pp-trust-facts" style="margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;"&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Reális elvárás
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;A perifériás idegregeneráció hónapokban, sokszor egy-két évben mérhető folyamat – az elektroterápia ennek egyik eszköze a gyógytorna mellett. A denervált izom kezelése paraméter-ismeretet igényel: rosszul megválasztott impulzus alakkal és időtartammal a kezelés hatástalan maradhat. A megmaradt izomtömeg fenntartása önmagában is érték, akkor is, ha a funkció csak lassan tér vissza.&lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Nem ez a te készüléked, ha
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;stroke utáni centrális bénulást kezelnél: ott az ép ideg-izom kapcsolatra épülő ETS a fő eszköz, amire a DuoBravo N készült. Ha pedig egyszerű izomerősítésre vagy fájdalomcsillapításra keresel készüléket, ez a tudás és ez az ár lényegesen több a szükségesnél.&lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Mielőtt megrendeled
+ &lt;/dt&gt;
+ &lt;dd style="margin:0;line-height:1.55;color:#333;"&gt;A szelektív ingeráram-kezelést kezelőorvosi vagy gyógytornászi irányítással kell megkezdeni, és a paramétereket is szakembernek kell meghatároznia – a hosszabb impulzusszélesség miatt a biztonsági szempontok szigorúbbak, mint a klasszikus EMS-nél. NEM használható pacemaker, ICD vagy bármilyen elektronikus implantátum mellett; szívritmuszavar, szívizom-károsodás, epilepszia, terhesség, a kezelendő terület közelében aktív daganat, akut gyulladás, mélyvénás trombózis vagy nyílt seb esetén. Elektróda nem kerülhet a nyak elülső részére, a koponyára és a szívtájékra. Csökkent bőrérzékenységnél fokozott óvatosság szükséges.&lt;/dd&gt;
+
+ &lt;/dl&gt;
+
+ &lt;footer&gt;
+ &lt;p&gt;&lt;strong&gt;– &lt;a href="https://www.medimarket.hu/rolam-dr-zatrok-zsolt"&gt;Dr. Zátrok Zsolt&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ &lt;em&gt;Orvos, orvostechnológiai szakértő, blogger&lt;/em&gt;
+ &lt;/p&gt;
+ &lt;/footer&gt;
+ &lt;/aside&gt;
+
+ &lt;!-- 4. CÉLCSOPORTOK – AKKORDEON --&gt;
+ &lt;section class="pp-target-segments"&gt;
+ &lt;h2 class="pp-headline"&gt;Kinek, mire jó a PeroBravo?&lt;/h2&gt;
+ &lt;div class="pp-accordion"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png" alt="drop foot" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha peroneus bénulásban szenvedsz (drop foot, lábfej-emelési képtelenség)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A peroneus paresis a lábfej emelésért felelős izomzat bénulása – jellemzően gerincsérv-műtét, lábszárcsont-törés, hosszú immobilizáció vagy közvetlen idegsérülés után alakul ki. A beteg „lebillen" a lábával, „kalapács-járást" mutat, és magasra kell emelnie a térdét, hogy ne akadjon a lábujja a talajon. A PeroBravo szelektív ingerárama megszólíthatja a denervált peroneus izomzatot, a lábkapcsolós ETS-mód pedig a járás újratanulásához ad célzott segítséget.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png" alt="Bell-féle parézis" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha Bell-féle arcideg-bénulás (Bell-paresis) miatt élsz fél-arc-bénulással&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A Bell-féle parézis hirtelen, egyoldali arcideg-bénulás – ismeretlen okból (gyakran vírusos eredetű) alakul ki. A beteg a fél arcát nem tudja mozgatni: nem tud rámosolyogni, lecsukni a szemét, felfújni az arcát. A klasszikus EMS NEM tudja kezelni, mert a 7. agyideg motoros pályája sérült. A PeroBravo szelektív ingerárama megcélozhatja a denervált mimikai izmokat, és segítheti a visszanyerési folyamatot. FONTOS: arc-stimuláció esetén a kezelőorvos (neurológus, fül-orr-gégész) felügyelete kritikus, és az elektródák elhelyezése nagyon precíz.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/kar-nyirokodema.png" alt="periférikus idegsérülés" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha más perifériás idegsérülésből épülsz fel (plexus brachialis, n. radialis stb.)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A perifériás idegsérülések többféle okból alakulhatnak ki: trauma (vágás, törés, baleset), kompresszió (hosszú kényelmetlen pozíció), gyulladás vagy egyéb idegi betegségek. A leggyakoribbak: n. radialis (kéz-fej-feszítő izomzat), n. medianus (carpal tunnel), plexus brachialis (válltól-karig terjedő idegrendszer). A PeroBravo szelektív ingeráram-protokolljai (PRG 1-11, 17-18) ezen denervált izmok kezelésére optimalizáltak. A felépülés sokszor 6-12 hónap, ezalatt az intenzív otthoni szelektív stimuláció támogathatja a folyamatot.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png" alt="EMG-trigger" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha aktív rehabilitációt szeretnél (EMG-triggerelt ETS-stimuláció)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az ETS (EMG-Triggered Stimulation) a klinikai gyakorlatban kifejezetten hasznos rehabilitációs módszer: a beteg megpróbálja akarati erőből aktiválni a sérült izmot, a készülék érzékeli ezt az erőfeszítést (még a legkisebbet is), majd kiegészíti elektromos stimulációval. Így a beteg saját idegrendszere tanul meg újra kapcsolódni az izomhoz – az aktív részvétel kulcsfontosságú a neuroplaszticitásban. A PeroBravo ETS-funkciója a felépülés középső-késői szakaszában különösen értékes.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png" alt="diagnosztika" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha fizioterapeuta vagy szakember, és precíz diagnosztikát + protokollt szeretnél&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az SDC-program (PRG 12 – Strength-Duration Curve) lehetővé teszi a denervált izomzat egyedi „térképezését": milyen impulzus-szélességre milyen áramerősség kell az izomösszehúzódáshoz. Ez a mérés a klasszikus elektrodiagnosztika része, és lehetővé teszi a kezelési paraméterek pontos egyénre szabását. A PRG 19, 20 egyéni programok az adott páciens számára egyedi protokollok mentésére alkalmasak. 60 napos statisztika + valós idejű óra a kezelési naplózáshoz.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_6" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_6" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png" alt="izomspaszticitás" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha izomspaszticitást, merevséget vagy izom-egyensúlytalanságot kezelnél&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A spaszticitás (izom-merevség, akaratlan izomösszehúzódások) gyakran neurológiai sérülés (stroke, sclerosis multiplex, gerincvelő-sérülés) következménye. A PeroBravo bizonyos programjai (PRG 10, 19, 20) támogathatják a spaszticitás csökkentését és az izom-egyensúlytalanság (két oldal eltérő izomtónusa) javítását. FONTOS: spaszticitásos beteg kezelését SOHA NE kezdj el szakember (neurológus, fizioterapeuta) jóváhagyása nélkül.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_7" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_7" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png" alt="fájdalom" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha krónikus fájdalmaid is vannak (ízületi, hátfájás, neuropathiás)&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A PeroBravo TENS-funkciója (PRG 19, 20 egyéni beállítással) lehetővé teszi a klasszikus fájdalomterápiát is: ízületi gyulladás, krónikus hát-, nyak-, deréki fájdalom, neuropathiás fájdalom, csonttöréses fájdalom, sőt phantomfájdalom esetén is alkalmazható. Kétfázisú vagy egyfázisú impulzusokkal egyaránt működhet. Bár ez nem a fő profil, hasznos kiegészítő funkció a perifériás bénulásban szenvedő betegeknek, akik gyakran krónikus másodlagos fájdalmakkal is küzdenek.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_8" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_8" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-elektroterapias-kezeles.png" alt="hosszú távú használat" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Ha intenzív, hosszú távú otthoni rehab-kezelést tervezel&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A perifériás bénulás felépülése sokszor 6-12 hónap, vagy még tovább. Klinikai/ambuláns fizioterápia heti 1-3 ülésben általában nem elég – a napi otthoni intenzív kezelés szükséges a maximális visszanyerési esélyhez. A PeroBravo készülék kifejezetten ezt a hosszú távú, intenzív otthoni rehab-szakaszt szolgálja, kezelőorvosi/fizioterapeutai irányítással. Az újratölthető NiMH AA akkumulátorok és a klinikai dokumentációhoz alkalmas 60 napos statisztika ehhez ad biztonságos hátteret.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 6. PROGRAM-CSOPORTOK --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A 20 program 4 fő csoportban&lt;/h2&gt;
+ &lt;p&gt;A PeroBravo programkönyvtára pontosan a perifériás parézis kezelési útját követi: a súlyos kezdeti szakasztól a javuló rehabilitációig, plusz diagnosztikai és egyéni testreszabási opciók.&lt;/p&gt;
+
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="súlyos parézis" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;PRG 1-6, 17-18 – Súlyos parézis kezdeti kezelése (denervált izom)&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A súlyos perifériás bénulás kezdeti szakaszában az izomzat teljesen denervált – a mozgatóideg nem küld jelet az izomnak. A klasszikus EMS itt hatástalan. Ezek a programok hosszú (száztól-ezredmásodperces) impulzus-szélességű háromszög vagy trapéz hullámformával dolgoznak, ami közvetlenül az izom-rostokat tudja megszólítani. Cél: izomsorvadás (atrophia) lassítása, izomtömeg-megőrzés a felépülés időtartamára.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png" alt="javuló parézis" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;PRG 7-11, 19-20 – Javuló parézis kezelése (részben re-innervált izom)&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Ahogy az ideg fokozatosan újra növekszik, az izom részben re-innerválttá válik – a klasszikus EMS-jelet is kezdi elfogadni. Ezek a programok fokozatosan rövidebb impulzus-szélességekre váltanak, közelítve a klasszikus EMS-mód paramétereihez. A PRG 10 már ép idegi izomzat rehabilitációját is támogatja, a PRG 19 és 20 egyéni testreszabható programok, amelyek a szakember által beállított paraméterek alapján működnek.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png" alt="SDC" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;PRG 12 – SDC diagnosztika (Strength-Duration Curve)&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az SDC-mérés a klasszikus elektrodiagnosztikai eljárás. A szakember különböző impulzus-szélességeken különböző áramerősségek mellett méri meg, mely küszöböt kell elérni az izomösszehúzódáshoz. Ezekből az adatokból megrajzolódik a görbe, ami egyértelműen jellemzi a denervált izom állapotát. A görbe-paramétereiből kiszámolhatók az adott betegnek optimális kezelési paraméterek (impulzus-szélesség, frekvencia, intenzitás).&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png" alt="járás" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;PRG 13-16 – Járás újratanulás (peroneus paresis, lábkapcsolóval)&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;3 dedikált járás-újratanuló program a drop foot kezelésére. A lábkapcsolós ETS-mód automatikusan aktiválja a stimulációt a sarokemelés pillanatában – pontosan akkor, amikor a lábfej-emelő izomzat „használatba kerülne" a fiziológiai járás-ciklusban. Kétfázisú négyszögimpulzusokkal dolgozik. A késleltetési idő (0-1000 ms) finomhangolható a beteg egyéni lépésritmusához.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-fajdalom.png" alt="fájdalom + egyéni" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;PRG 19, 20 – Fájdalomterápia (TENS) + Egyéni programozható&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A PRG 19 és 20 az egyedi igények szerint definiálható programok – a szakember beállíthatja őket kifejezetten az adott páciens fájdalom-mintázatára. Kétfázisú vagy egyfázisú impulzusokkal egyaránt működhetnek. Tipikus felhasználás: ízületi gyulladás, krónikus hát-/nyak-/deréki fájdalom, neuropathiás fájdalom, fantomfájdalom, csonttöréses fájdalmak. Ez teszi a PeroBravo-t multifunkciós eszközzé – a denervált izomzat kezelése mellett a perifériás bénulás társuló fájdalmainak enyhítésére is használható.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_prog6" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_prog6" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png" alt="hullámformák" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Hullámforma választás – háromszög, trapéz, négyszög&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A PeroBravo egyedi hullámforma-választása:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Egyfázisú háromszög:&lt;/strong&gt; denervált izomhoz – a meredek emelkedés-csökkenés kíméletesebb a sérülékeny izomszövetre. A háromszög alakja állítható.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Egyfázisú trapéz:&lt;/strong&gt; hasonló, kíméletes, de hosszabb csúcs-időtartammal. A trapéz alakja állítható.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Kétfázisú szimmetrikus négyszög:&lt;/strong&gt; ép idegi izomzathoz, klasszikus EMS-jelleggel.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Egyfázisú pozitív négyszög:&lt;/strong&gt; burkológörbés impulzusokhoz, TENS-jellegű kezelés.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Polaritás-váltás folyamatosan változó. Impulzus-szélesség: 1 ms – 1000 ms (egyfázis) vagy 50 µs – 350 ms (burkológörbés).&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 8. FAQ – RADIO --&gt;
+ &lt;section class="pp-faq-section"&gt;
+ &lt;h2 class="pp-headline"&gt;Gyakori kérdések&lt;/h2&gt;
+
+ &lt;div class="pp-faq-item pp-faq-danger"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_1" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_1" class="pp-faq-label pp-faq-label-danger pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="fontos" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Pacemakerrel vagy beültetett implantátummal használhatom?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;&lt;strong&gt;Nem.&lt;/strong&gt; A pacemaker, beültetett defibrillátor (ICD) vagy bármilyen elektronikus implantátum &lt;strong&gt;abszolút ellenjavallat&lt;/strong&gt;. A szelektív ingeráram – mivel a klasszikus EMS-impulzusnál hosszabb és intenzívebb – még magasabb kockázattal zavarhatja az implantátum működését. Ha ilyen eszközöd van, semmilyen körülmények között ne használd a készüléket.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-warning"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_2" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_2" class="pp-faq-label pp-faq-label-warning pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="figyelem" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Magamtól is használhatom, vagy kezelőorvosi felügyelet kell?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A PeroBravo nem otthoni hobbi-szintű készülék – kezelőorvosi (neurológus, rehabilitációs szakorvos, fizioterapeuta) felügyelet KÖTELEZŐ:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Kezdeti diagnózis:&lt;/strong&gt; a parézis típusát és súlyosságát csak szakember tudja megállapítani.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Protokoll-kiválasztás:&lt;/strong&gt; a 20 program közül a megfelelőt szakember állítja be.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;SDC-mérés:&lt;/strong&gt; a PRG 12 diagnosztikai program eredményét szakember értelmezi.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Egyéni programok beállítása (PRG 19, 20):&lt;/strong&gt; ezeket szakember konfigurálja a páciens számára.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Folyamat-követés:&lt;/strong&gt; 60 napos statisztika a klinikai látogatásokon ellenőrizendő.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Az otthoni alkalmazás a szakember által beállított protokoll szerint történik – a páciens nem változtatja önállóan a paramétereket.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_3" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_3" class="pp-faq-label"&gt;
+ Mi a különbség a szelektív ingeráram és a klasszikus EMS között?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Alapvető fizikai különbség az impulzus-szélességben:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Klasszikus EMS (Globus, Lito vonal):&lt;/strong&gt; rövid impulzusok, 50-450 µs (mikroszekundum). Csak ÉP idegi szabályozású izmot képes aktiválni. A motoros idegrostokat stimulálja, ami azután kontrakciót vált ki az izomban.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Szelektív ingeráram (PeroBravo):&lt;/strong&gt; hosszú impulzusok, 1-1000 ms (millisekundum). Ezerszer-tízezerszer hosszabb. Közvetlenül az IZOM-rostokat stimulálja, megkerülve a sérült mozgatóideget. Ezért képes denervált izmot is aktiválni.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Más szóval: ha a mozgatóideg ép, akkor klasszikus EMS elég. Ha a mozgatóideg sérült (perifériás bénulás), akkor szelektív ingeráramra van szükség. A klasszikus EMS-készülékek bénulás esetén hatástalanok lennének – akkor szükséges a PeroBravo.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_4" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_4" class="pp-faq-label"&gt;
+ Mi a különbség a PeroBravo és a DuoBravo között?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Mindkettő MTR+ Bravo-vonal, mégis eltérő profillal:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;PeroBravo:&lt;/strong&gt; 1-csatornás, szelektív ingeráram (1-1000 ms impulzus-szélességig!), kifejezetten denervált izomzat kezelésére. Lábkapcsoló a járás-újratanuláshoz. SDC-diagnosztika. ETS (EMG-trigger).&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;DuoBravo:&lt;/strong&gt; 2-csatornás, klasszikus EMS-tartomány (mikroszekundumos impulzusok), izomstimulátor + ETS (EMG-triggerelt stimuláció). Stroke utáni rehabilitációra (centrális bénulás), illetve ép idegi szabályozású, de gyenge izmokra.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Ha denervált izomzat (perifériás bénulás, drop foot, Bell-paresis) → PeroBravo. Ha ép idegi szabályozású gyenge izom (stroke-utáni izomtömeg-vesztés, hosszú inaktivitás utáni atrófia) → DuoBravo.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_5" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_5" class="pp-faq-label"&gt;
+ Mennyi idő alatt lehet eredmény drop foot vagy Bell-paresis esetén?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A perifériás bénulás felépülése komplex folyamat, ami sok tényezőtől függ (az ideg sérülésének mértéke, a beteg életkora, általános egészségi állapot, együttműködés stb.):&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Bell-féle parézis:&lt;/strong&gt; sok esetben 3-6 hónap alatt jelentős javulás várható. Egyes betegeknél hosszabb a folyamat, vagy maradványtünet megmaradhat.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Peroneus paresis műtét után:&lt;/strong&gt; 6-12 hónap a tipikus visszanyerési időtartam, de egyes esetekben akár 2 évig is elhúzódhat.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Súlyos plexus brachialis sérülés:&lt;/strong&gt; 12-24 hónap, néha tovább.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Az intenzív otthoni szelektív stimuláció (napi 1-2 alkalom, 20-30 perc) támogathatja a felépülést. FONTOS: a felépülés nem garantált, és a végeredmény nagyban függ az idegi regenerálódás biológiai folyamatától. A kezelőorvos ad reális prognózist a páciens egyéni helyzete alapján.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_6" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_6" class="pp-faq-label"&gt;
+ Hogyan használjam a lábkapcsolót a járás újratanuláshoz?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A lábkapcsoló a beteg cipőjében, a sarok alatt helyezkedik el (vagy a talp más pontján a fizioterapeuta utasítása szerint). Lépéscsapás: amikor a sarok eléri a talajt és a beteg megemelni próbálná a lábujját, a lábkapcsoló elektromos kontaktust hoz létre, és aktiválja a stimulációt a peroneus izomra. Így a stimuláció a járásciklus megfelelő pillanatában aktiválódik.&lt;/p&gt;
+ &lt;p&gt;Először fizioterapeuta felügyeletével gyakorolnia kell a beteg a lábkapcsoló elhelyezését és az intenzitás-szint beállítását. Az otthoni gyakorlás során fokozatosan növelheti a járási távolságot. A késleltetési idő (0-1000 ms) finomhangolható – pl. egy lassabb sebességű betegnél hosszabb késleltetés szükséges, mint egy gyorsabban regenerálódó páciensnél.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq_pb" id="pp_faq_pb_7" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_pb_7" class="pp-faq-label"&gt;
+ Mi az SDC-mérés (Strength-Duration Curve)?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Az SDC (Strength-Duration Curve, „intenzitás-időtartam görbe") a klasszikus elektrodiagnosztikai mérés. A módszer:&lt;/p&gt;
+ &lt;ol&gt;
+ &lt;li&gt;A szakember különböző impulzus-szélességeken (pl. 1 ms, 10 ms, 100 ms, 300 ms, 1000 ms) megméri, milyen áramerősség kell ahhoz, hogy az izom látható kontrakciót adjon.&lt;/li&gt;
+ &lt;li&gt;A mért értékekből megrajzolódik egy görbe.&lt;/li&gt;
+ &lt;li&gt;A görbe alakja jellemzi a denervált izom állapotát: az ép izomzaté lapos, a súlyosan denerváltaké meredeken emelkedő.&lt;/li&gt;
+ &lt;li&gt;A görbe-paraméterei alapján beállíthatók az optimális kezelési értékek a PRG 19/20 egyéni programokba.&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;p&gt;Az SDC-mérés segíti a kezelést pontosan az adott páciensre szabni – nem általános protokoll szerint, hanem az egyedi izomállapot alapján.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;&lt;br /&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/section&gt;
+
+ &lt;!-- 5. HOGYAN MŰKÖDIK? – LÉPÉSEK --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan használd lépésről lépésre?&lt;/h2&gt;
+ &lt;div class="pp-steps-container"&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;1&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Kezelőorvosi/fizioterapeutai konzultáció&lt;/h3&gt;
+ &lt;p&gt;A PeroBravo használata kötelezően kezelőorvosi vagy szakképzett fizioterapeuta jóváhagyásával kezdődik. A szakember megállapítja a parézis típusát (peroneus, Bell, plexus brachialis stb.) és súlyosságát, majd kiválasztja a megfelelő protokollt a 20 program közül. Súlyos kezdeti szakaszban: PRG 1-6 vagy 17-18. Javuló szakaszban: PRG 7-11 vagy 19-20. Járás-újratanulás: PRG 13-16.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;2&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;SDC-mérés (Strength-Duration Curve)&lt;/h3&gt;
+ &lt;p&gt;A szakember elvégezheti a PRG 12 (SDC) diagnosztikai mérést – ez meghatározza, milyen impulzus-szélességre milyen áramerősség kell az izomösszehúzódáshoz az adott betegnél. A görbe alapján egyénre szabott kezelési paraméterek állíthatók be a PRG 19/20 egyéni programokba.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;3&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Elektródák felhelyezése (peroneus vagy mimikai)&lt;/h3&gt;
+ &lt;p&gt;A csomagban 4 db 40×40 mm-es elektróda + 2 db gumi elektróda + szivacstok + 2 db rugalmas rögzítő. A peroneus kezeléshez az elektródák a lábszár külső oldalán helyezkednek el, a peroneus izom motoros pontjára. Arc-stimuláció esetén az elektródák elhelyezése nagyon precíz (mimikai motoros pontok) – ezt mindig szakember végezze először. Bizonyos esetekben gumi elektróda + szivacstok víztartalmával is használható nedves bőrön.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;4&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Program indítása + intenzitás (0-60 mA)&lt;/h3&gt;
+ &lt;p&gt;Az 1 csatornán állítod be az intenzitást – fokozatosan emeled, amíg látható izomösszehúzódást figyelsz meg. Denervált izomnál gyakran látható kontrakciós moccanás (peroneus bénulásnál az ujjak vagy akár az egész lábfej mozdul picit). Elegendő áramerősség nélkül a denervált izom nem fog reagálni. Azonban SOHA NE használd a fájdalmas intenzitást – ha kellemetlenséget érzel, csökkentsd vagy állj le.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;5&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;ETS-mód (EMG-trigger) használata javuló szakaszban&lt;/h3&gt;
+ &lt;p&gt;Teljes bénult állapotban nincs értelme ennek a funkcinak. Akkor kell elkezdeni, amikor a parézis javulása során a beteg már próbálja akaratlagosan aktiválni az izmot. Az ETS-mód érzékeli ezt az erőfeszítést (bármilyen gyenge is), és kiegészíti elektromos stimulációval. Így aktív részvétel mellett zajlik a kezelés, ami a neuroplaszticitás szempontjából előny. A szakember állítja be az EMG-érzékenység küszöbét.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;6&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Járás-újratanulás (peroneus paresisnél, lábkapcsolóval)&lt;/h3&gt;
+ &lt;p&gt;Drop foot esetén a járás újratanulásához használj a csomagban érkező lábkapcsolót. A sarokemeléskor a kapcsoló automatikusan aktiválja a stimulációt – a lábfej-emelés a járás biomechanikai pillanatában történik. 3 dedikált program (PRG 13-16) optimalizált a járás-újratanuláshoz. A késleltetési idő (0-1000 ms) finomhangolható a beteg lépésritmusához.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 7. CSOMAG TARTALMA --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Mit kapsz a csomagban?&lt;/h2&gt;
+ &lt;p&gt;A PeroBravo profi-szintű csomag – tartalmazza a lábkapcsolót, gumi elektródákat szivacstokokkal, és újratölthető NiMH akkumulátorokat.&lt;/p&gt;
+ &lt;ul class="pp-package-list"&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; PeroBravo készülék (1-csatornás)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;4 db&lt;/strong&gt; 40×40 mm-es öntapadó elektróda&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; stimuláló kábel&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; lábkapcsoló (járás újratanuláshoz)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;2 db&lt;/strong&gt; gumi elektróda (újrahasználható, gélmentes)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;2 db&lt;/strong&gt; szivacstok (a gumi elektródákhoz, nedvesítéses kontaktushoz)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;2 db&lt;/strong&gt; rugalmas rögzítő (gumi elektróda fixálásához)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;4 db&lt;/strong&gt; AA típusú NiMH újratölthető akkumulátor&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; akkutöltő&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; hordtáska&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; magyar nyelvű használati útmutató&lt;/li&gt;
+ &lt;/ul&gt;
+
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_pkg1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_pkg1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png" alt="karbantartás" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Karbantartás és pótkellékek&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;&lt;strong&gt;Öntapadó elektródák:&lt;/strong&gt; tapadásuk 25-30 használat után fokozatosan csökken. Pótlás 40×40 mm méretben külön rendelhető. Használat után védőfóliára visszahelyezni.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Gumi elektródák + szivacstokok:&lt;/strong&gt; a gumi elektróda újrahasználható, csak a szivacstokot kell rendszeresen tisztítani. Használat előtt nedvesítsd be a szivacsot fiziológiás sóoldattal vagy desztillált vízzel – ez biztosítja az áramvezetést. Tisztítás: meleg vízzel kimosva, szellős helyen szárítva.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;NiMH akkumulátorok:&lt;/strong&gt; 4 db AA, csomagban töltővel. 500+ teljes ciklusra tervezett. Hosszú nem-használat esetén 1-2 havonta töltsd fel, hogy ne mélyüljön el. 3-5 év használat után jellemzően cserére szorulhatnak.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Készülék tisztítása:&lt;/strong&gt; száraz vagy enyhén nedves ronggyal kívülről. Az érintkezési pontokat (kábel-csatlakozók, lábkapcsoló) száraz ronggyal töröld le.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pb_pkg2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pb_pkg2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png" alt="külön rendelhető" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Külön rendelhető kiegészítők&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A PeroBravo kiegészíthető további tartozékokkal:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Pót-elektróda szettek:&lt;/strong&gt; 40×40 mm méretben, 25-30 használat utáni cserére.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Különböző méretű és formájú elektródák:&lt;/strong&gt; arc-kezeléshez kis, kerek, célzott elektródák lehetnek alkalmasabbak (Bell-féle parézis mimikai izmainak precíz stimulációjához).&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Cseretokok a gumi elektródákhoz:&lt;/strong&gt; ha a szivacstok elhasználódik vagy higiéniai okból cserére szorul.&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Vezeték-meghosszabbító:&lt;/strong&gt; nehezebben elérhető testtájékok kezeléséhez.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 9. MŰSZAKI ADATOK --&gt;
+ &lt;details open=""&gt;
+ &lt;summary&gt;
+ &lt;h2 class="pp-headline" style="display: inline;"&gt;Műszaki adatok – részletesen&lt;/h2&gt;
+ &lt;/summary&gt;
+ &lt;table class="pp-specs-table"&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tulajdonság&lt;/th&gt;
+ &lt;th&gt;Érték&lt;/th&gt;
+ &lt;th&gt;Mit jelent neked?&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Csatornák száma&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1 (sokoldalú, digitális elektrostimulátor)&lt;/td&gt;
+ &lt;td&gt;Egy célzott terület precíz kezelése (pl. peroneus izom, mimikai izom)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Stimulációs módok&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;TENS, EMS/NMES, ETS (EMG-trigger), Szelektív ingeráram, Biofeedback&lt;/td&gt;
+ &lt;td&gt;5 különböző mód a denervált izomzattól a klasszikus fájdalomterápiáig&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Programszám&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;20 program (11 előre beállított + 1 SDC + 3 járás + 5 egyéni)&lt;/td&gt;
+ &lt;td&gt;A perifériás parézis kezelési útjának teljes lefedése&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Speciális Sport – Járás újratanulás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;3 program (PRG 13-16, lábkapcsolóval)&lt;/td&gt;
+ &lt;td&gt;Drop foot specifikus járás-újratanulás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;SDC-diagnosztika&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;PRG 12 – Strength-Duration Curve&lt;/td&gt;
+ &lt;td&gt;Klasszikus elektrodiagnosztikai mérés egyéni protokoll-beállításhoz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;EMG-trigger (ETS)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Igen, beépített&lt;/td&gt;
+ &lt;td&gt;Aktív páciens-részvétel a stimulációval kombinálva&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Intenzitás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;0-60 mA&lt;/td&gt;
+ &lt;td&gt;Mérsékelt, denervált izomhoz optimalizált tartomány&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Frekvencia&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1-120 Hz&lt;/td&gt;
+ &lt;td&gt;Széles spektrum a különböző parézis-protokollokhoz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Egyedi impulzus-szélesség&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1 ms – 1000 ms (1000 µs – 1 000 000 µs)&lt;/td&gt;
+ &lt;td&gt;EZERSZER-TÍZEZERSZER hosszabb mint a klasszikus EMS – denervált izomzathoz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Burkológörbés impulzus-szélesség&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;50 µs – 350 ms (pozitív rész)&lt;/td&gt;
+ &lt;td&gt;Klasszikus TENS- és EMS-jellegű tartomány is elérhető&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Egyedi hullámformák&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Háromszög és trapéz (mindkettő alakja állítható)&lt;/td&gt;
+ &lt;td&gt;Kíméletes, denervált izom-rostokhoz optimalizált formák&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Burkológörbés hullámformák&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Bifázis szimmetrikus téglalap / monofázis pozitív téglalap&lt;/td&gt;
+ &lt;td&gt;Klasszikus TENS- és EMS-jellegű kezelések&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Késleltetési idő (járás gyakorlás)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;0-1000 ms&lt;/td&gt;
+ &lt;td&gt;A stimuláció a lépésciklus optimális pillanatában aktiválódik&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Lábkapcsoló&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Mellékelve (járás-újratanuláshoz)&lt;/td&gt;
+ &lt;td&gt;Automatikus stimuláció a sarokemeléskor&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Statisztikák&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;60 napos kezelési adatok, részletes csatorna-naplózás&lt;/td&gt;
+ &lt;td&gt;Kezelőorvos klinikai látogatáson ellenőrizheti a használatot&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Valós idejű óra&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Beépített&lt;/td&gt;
+ &lt;td&gt;Pontos időbélyegek minden kezeléshez&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Kijelző&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Impulzusforma, intenzitás, hátralévő idő megjelenítése&lt;/td&gt;
+ &lt;td&gt;Folyamatos visszajelzés a kezelés állapotáról&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Indítás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Automatikus vagy manuális&lt;/td&gt;
+ &lt;td&gt;Rugalmas használat – akár időzítve, akár kézi indítással&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tápellátás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;4 db AA NiMH újratölthető akkumulátor, 1,5 V&lt;/td&gt;
+ &lt;td&gt;Magas kapacitású, hosszú élettartamú akku&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Akkutöltő&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Csomagban&lt;/td&gt;
+ &lt;td&gt;Nem kell külön rendelni&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tanúsítvány&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&lt;/td&gt;
+ &lt;td&gt;Európai megfelelőség, klinikai minőségbiztosítás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Gyártó&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;MTR+ Vertriebs GmbH (Németország)&lt;/td&gt;
+ &lt;td&gt;Német minőségbiztosítási szabványok szerint gyártva&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/details&gt;
+
+ &lt;!-- 10. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&gt;
+ &lt;section class="pp-contraindication-list"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="figyelmeztetés" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Mikor NE használd a PeroBravo-t?
+ &lt;/h3&gt;
+ &lt;p&gt;Az alábbi helyzetekben a szelektív ingeráram-kezelés veszélyes lehet, vagy mellékhatásokat okozhat. Mivel a PeroBravo hosszabb impulzus-szélességgel dolgozik, mint a klasszikus EMS-készülékek, a biztonsági szempontok különösen szigorúak. Ha bármelyik vonatkozik rád, ne kezdj bele a készülék használatába kezelőorvosi konzultáció nélkül.&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;
+ Pacemaker, beültetett defibrillátor (ICD) vagy bármilyen elektronikus implantátum viselése – a szelektív ingeráram fokozottan zavarhatja működésüket
+ &lt;/li&gt;
+ &lt;li&gt;
+ Szívritmuszavar, szívizom-károsodás vagy súlyos szív-érrendszeri betegségek
+ &lt;/li&gt;
+ &lt;li&gt;
+ Terhesség (az alhas, has és deréktájék kezelése a teljes terhesség alatt tilos)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Epilepszia vagy más rohamokkal járó idegrendszeri betegségek (a hosszú impulzus-szélesség miatt fokozott figyelem)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Aktív rosszindulatú daganatos megbetegedés a kezelendő terület közelében
+ &lt;/li&gt;
+ &lt;li&gt;
+ Akut gyulladás vagy fertőzés a kezelendő bőrterületen
+ &lt;/li&gt;
+ &lt;li&gt;
+ Mélyvénás trombózis vagy ismert vérrögképződési hajlam a kezelendő végtagon
+ &lt;/li&gt;
+ &lt;li&gt;
+ Bőrsérülés, friss heg vagy nyitott seb a kezelendő területen (gyógyulásig kerülendő)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Elektródák felhelyezése a nyak elülső részére (carotis sinus régió), a koponyára vagy a szívtájékra (kivéve, ha kezelőorvos kifejezetten jóváhagyta arc-stimulációhoz)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Csökkent vagy hiányzó bőrérzékenység a kezelendő területen – a denervált izomzat melletti érzéskiesés magasabb intenzitást igényelhet, ami égési kockázatot is hordoz
+ &lt;/li&gt;
+ &lt;li&gt;
+ Friss fémimplantátum (csavar, lemez) lazulása vagy gyulladása közvetlen környékén – konzultálj kezelőorvossal
+ &lt;/li&gt;
+ &lt;li&gt;
+ Gyúlékony érzéstelenítő gázok jelenléte (kórházi környezet, oxigén-koncentrátor mellett)
+ &lt;/li&gt;
+ &lt;li&gt;
+ Gyermekek önálló használatra (12 év alatt kizárólag felnőtt + fizioterapeuta felügyelete mellett)
+ &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Bizonytalan vagy?&lt;/strong&gt; Használat előtt mindenképpen konzultálj kezelőorvosoddal, neurológusoddal vagy fizioterapeutáddal – főleg perifériás bénulás kezelésénél, ahol a diagnózis és a kezelési protokoll csak szakember által állítható be biztonságosan. Részletes tájékoztatást Dr. Zátrok Zsolt cikkében találsz &lt;a href="https://www.medimarket.hu/elektromos-kezeles-ellenjavallatok"&gt;az elektroterápia ellenjavallatairól&lt;/a&gt;.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 11. ORVOSI FIGYELMEZTETÉS --&gt;
+ &lt;section class="pp-medical-warning"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="információ" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Fontos tudnivalók
+ &lt;/h3&gt;
+ &lt;p&gt;A PeroBravo CE-tanúsítvánnyal rendelkező, Class IIa orvostechnikai eszköz (CE 0123, MDD 93/42/EEC szerint), klinikai-szintű profi neurorehabilitációs készülék. Otthoni használata KÖTELEZŐEN kezelőorvosi (neurológus, rehabilitációs szakorvos) vagy fizioterapeutai irányítás mellett zajlik. A készülék nem helyettesíti az orvosi diagnózist, a szakképzett gyógytornász egyéni protokollját vagy az előírt gyógyszeres kezelést. A készülék kiegészítő eszközként, a komplex rehabilitációs terápia mellett alkalmazható.&lt;/p&gt;
+ &lt;p&gt;Új vagy súlyosbodó tünet (pl. új izomgyengeség, érzéskiesés, nehézlégzés, szédülés) esetén minden esetben fordulj sürgősen kezelőorvoshoz – a PeroBravo használata közbeni új tünet azonnali kivizsgálást igényel.&lt;/p&gt;
+ &lt;p&gt;Bell-féle parézis vagy arcideg-bénulás kezelésénél az elektródák elhelyezése különösen precíz – a mimikai izmok motoros pontjait szakember (neurológus, fül-orr-gégész, fizioterapeuta) határozza meg először. Soha NE helyezz elektródát saját ítéleted alapján az arcra.&lt;/p&gt;
+ &lt;p&gt;A perifériás bénulás felépülése komplex és időigényes folyamat – a PeroBravo intenzív otthoni alkalmazása támogathatja a folyamatot, de nem garantálja a teljes visszanyerést. A kezelőorvos ad reális prognózist a páciens egyéni helyzete alapján.&lt;/p&gt;
+ &lt;p&gt;Csak eredeti kiegészítőket használj, az elektródákat és szivacstokokat rendszeresen cseréld és tisztítsd. A készüléket mindig gyermekektől elzárva tartsd.&lt;/p&gt;
+ &lt;p class="pp-disclaimer"&gt;&lt;em&gt;Az ezen az oldalon szereplő információk általános tájékoztató jellegűek, és nem helyettesítik az egyéni orvosi tanácsadást, diagnózist vagy kezelést. Konkrét panaszaiddal kapcsolatban mindig konzultálj kezelőorvosoddal.&lt;/em&gt;&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 12. KAPCSOLÓDÓ TARTALMAK --&gt;
+ &lt;section class="pp-related-links"&gt;
+ &lt;h2 class="pp-headline"&gt;Kapcsolódó készülékek és tudástár&lt;/h2&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/duobravo-n"&gt;DuoBravo – 2-csatornás EMS + ETS Bravo vonal-társ (klasszikus EMS-tartomány) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/myobravo"&gt;MyoBravo – Bravo vonal izomstimulátor változat →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/sinebravo"&gt;SineBravo – tisztán biofeedback (NEM stimulál) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/rehalito"&gt;Rehalito – belépő-szintű EMS izomstimulátor (ép idegi izomzathoz) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/genesy-1500"&gt;Genesy 1500 – Globus 4-csatornás profi készülék (8 áramtípus, klasszikus EMS) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/elektromos-kezeles"&gt;Elektromos kezelés – minden TENS/EMS/szelektív ingeráram készülék áttekintése →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/biofeedback-a-rehabilitacio-hatekony-segitoje"&gt;Biofeedback a rehabilitáció hatékony segítője (cikk) →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/melyik-elektroterapia-mire-jo"&gt;Melyik elektroterápia mire jó? – döntéstámogató útmutató →&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+
+&lt;/article&gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>591982</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|Biofeedback</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>382425</Id>
+        <Name>Betegség kezelés|Tünetek A-Z|Izomtömeg csökkenés</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>911138</Id>
+        <Name>Betegség kezelés|Idegrendszeri|Perifériás bénulás</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>807325</Id>
+        <Name>Rendelői felszerelés|Klinikai elektroterápia</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>835404</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|Szelektív ingeráram</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/perobravo</Url>
+    <SefUrl>perobravo</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-112</DefaultFilename>
+      <DefaultAlt>PeroBravo</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247053</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-112.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-112/010E-112.webp?time=1743247053</SefUrl>
+        <Filename>010E-112</Filename>
+        <Alt>PeroBravo</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Hasznalati-utmutato.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.hu/peroneus-benulas-rehabilitacioja - Peroneus bénulás rehabilitációja</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS, EMS/NMES, ETS, Szelektív ingeráram, Biofeedback</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom, Izomkezelés, Perifériás bénulás</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Hasznalati-utmutato.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>A PeroBravo egy kompakt, hordozható elektronikus impulzuskészülék, több csatlakoztatható kimenettel és precízen szabályozható működéssel. A készülék különböző előre beállított működési módokat és széles tartományban állítható intenzitási szinteket kínál, így rugalmasan konfigurálható eltérő használati beállításokhoz. Az áttekinthető kijelző és az intuitív kezelőfelület egyszerű beállítást és vezérlést tesz lehetővé.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279581044</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-112</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1523623641</Id>
+        <Sku>012E-113</Sku>
+        <Name>Lábkapcsoló PeroBravo készülékhez</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1523623066</Id>
+        <Sku>012E-120</Sku>
+        <Name>Kábel készlet Pero-és DuoBravo készülékekhez 1.5m, 2db</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2.5cm kerek TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2.5cm kerek TENS elektróda tűs 10db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3.2cm kerek TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9cm TENS elektróda tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10cm TENS elektróda  tűs 4db/cs.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS elektróda 5x5cm tűs 4db/cs.</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>PeroBravo, szelektív ingeráram, denervált izom kezelése, perifériás bénulás, peroneus bénulás, drop foot, Bell parézis, arcideg bénulás, EMG triggerelt stimuláció, ETS készülék, elektroterápiás készülék, lábkapcsoló, neurorehabilitáció, öntapadó elektróda</Keywords>
+      <Description>Denervált izom kezeléséhez tervezett készülék: 1–1000 ms impulzusszélességű szelektív ingeráram és EMG-triggerelt stimuláció, lábkapcsolóval és hordtáskával.</Description>
+      <Title>PeroBravo szelektív ingeráram készülék | 1-1000 ms, ETS</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

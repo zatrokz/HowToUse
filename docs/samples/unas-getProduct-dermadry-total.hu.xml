@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=ddrytot-n, Lang=hu, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418950</Id>
+    <Sku>ddrytot-n</Sku>
+    <CreateTime>1743245669</CreateTime>
+    <LastModTime>1795072100</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Rendelésre</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Csak eü. szakember vásárolhatja</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Üzletkötőként forgalmazzuk</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>Dermadry Total</Name>
+    <Unit>db</Unit>
+    <Weight>1.8</Weight>
+    <Description>
+      <Short>&lt;p&gt;Dermadry Total otthon használható csapvíz-iontoforézis készülék tenyér, talp és hónalj hiperhidrózis kezelésének támogatására. CE és FDA minősített.&lt;/p&gt;
+&lt;div class="pp-price-includes"&gt;&lt;span class="pp-price-includes__label"&gt;Ár tartalma:&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Dermadry Total készülék &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Hálózati adapter &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Kezelőtál (kéz/láb) &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Kábel &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Gumi elektróda (nagy/kicsi) &lt;span class="pp-price-includes__chip-qty"&gt;2-2 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Szilikon háló &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt; &lt;span class="pp-price-includes__chip"&gt;Szivacs tok &lt;span class="pp-price-includes__chip-qty"&gt;2 db&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;article class="pp-wrapper"&gt;
+ &lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&gt;
+ &lt;aside class="pp-trust-box"&gt;
+ &lt;div class="pp-trust-box-header"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png" alt="Dr. Zátrok Zsolt" class="pp-doctor-photo"&gt;
+ &lt;div&gt;
+ &lt;span class="pp-trust-badge"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png" alt="orvos" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Orvosszakértőnk mondja
+ &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;blockquote class="pp-doctor-quote"&gt;
+ &lt;p&gt;&lt;em&gt;„A kóros izzadás mindennapi frusztrációt jelent, és sokan éveken át szenvednek, mire megtudják, hogy van rá megoldás. A csapvíz-iontoforézis a hiperhidrózis egyik alap kezelési módszere: tűszúrás és gyógyszer nélkül. Elektromos áramot használ a rendellenesen túlműködő verejtékmirigyek "kikapcsolására". A Dermadry Total otthon használható a tenyér, talp és hónalj izzadás kezelésére. "&lt;/em&gt;&lt;/p&gt;
+ &lt;/blockquote&gt;
+
+ &lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&gt;
+ &lt;dl class="pp-trust-facts" style="margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;"&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Reális elvárás
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;Az iontoforézis kúraszerű módszer. Kettő héten át napi egyszer kell kezelni, majd heti 1-2 fenntartó kezelésre lehet áttérni. A hatás nem végleges. Az izzadás fokozatosan visszatér - ilyenkor újabb kúra végzendő. A megfelelő áramerősség és kezelési idő beállítása néhány alkalom alatt kitapasztalható.&lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Nem ez a te készüléked, ha
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;ízületi fájdalomra is használnád, gyógyszerbevitellel: arra a kettős funkciójú IontoBravo készült, ami a csapvizes kezelés mellett hagyományos, hatóanyag-bevivő iontoforézisre is alkalmas. Ha pedig az izzadás hirtelen kezdődött vagy éjszaka is jelentkezik, először kivizsgálás kell.&lt;/dd&gt;
+
+ &lt;dt style="margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Mielőtt megrendeled
+ &lt;/dt&gt;
+ &lt;dd style="margin:0;line-height:1.55;color:#333;"&gt;A hirtelen kezdődő, éjszakai vagy egyoldali izzadás hátterében betegség állhat – ezt bőrgyógyásszal vagy belgyógyásszal érdemes kivizsgáltatni. A termékleírásban általános javaslatot találsz a kezelési időről és a gyakoriságról. Bizonytalanság esetén, illetve krónikus betegség vagy gyógyszeres kezelés mellett konzultálj a kezelőorvosoddal a használat megkezdése előtt. NEM használható pacemaker vagy defibrillátor viselése esetén, terhességben, a kezelendő területen lévő fém implantátum mellett, szívritmuszavarnál, epilepsziában, valamint nyílt seb vagy fertőzés esetén a kezelendő területen.&lt;/dd&gt;
+
+ &lt;/dl&gt;
+
+ &lt;footer&gt;
+ &lt;p&gt;&lt;strong&gt;– &lt;a href="https://www.medimarket.hu/rolam-dr-zatrok-zsolt"&gt;Dr. Zátrok Zsolt&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ &lt;em&gt;Orvos, orvostechnológiai szakértő, blogger&lt;/em&gt;
+ &lt;/p&gt;
+ &lt;/footer&gt;
+ &lt;/aside&gt;
+
+ &lt;!-- 3. CÉLCSOPORTOK / KINEK AJÁNLOM? --&gt;
+ &lt;section class="pp-target-segments"&gt;
+ &lt;h2 class="pp-headline"&gt;Mikor ajánlott?&lt;/h2&gt;
+ &lt;div class="pp-accordion"&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_1" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_1" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tenyer-izzadas.png" alt="tenyér-izzadás" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Ha a tenyered nedvesége zavar a munkában is&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az erős tenyérizzadás zavarba ejtő lehet a kézfogáskor, egy papírlap tartáskor vagy érzékeny elektronikus eszközök használatakor. Sok ember számára a tenyéri izzadás erősen korlátozza a mindennapi aktivitást. Az iontoforézis kezelés specifikusan tenyéri hiperhidrózisra fejlesztett és tudományosan validált módszer – általában 1–3 hetes rendszeres kezelés után tapasztalható jelentős javulás.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_2" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_2" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/talp-izzadas.png" alt="talp-izzadás" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Ha lábad erősen izzad – cipőszag és gombás fertőzések megelőzése&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az erős lábizzadás kellemetlen szagot áraszthat, és fokozhatja a gombás fertőzési hajlamot. Az izzadás olyan erős lehet, hogy a papucsban csúszkál a láb. A DermaDry Total 25 mA-es maximális áramerősséggel dolgozik a láb kezelésénél – megbízhatóan csökkenti a nedvesség mennyiségét. Az éjszakai fenntartó kezelések különösen hatékonyak lehetnek.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_3" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_3" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/honalj-izzadas.png" alt="hónalj izzadás" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Hatalmas folt van a hónaljadban?&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A hónalji hiperhidrózis a ruha erős átizzadásával jár, amely társasági helyzetekben nem túl kellemes, így önbizalomhiányhoz és a társas kapcsolatok zavarához vezethet. A DermaDry Total alacsonyabb áramerősséggel (8 mA) dolgozik a hónalji kezeléskor – a készülék specifikus elektródái biztosítják a precíz kezelést. Bár a hónalji hiperhidrózis kezelése kicsit időigényesebb, a kitartó felhasználók pozitív eredményeket tapasztalnak.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_4" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_4" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png" alt="orvos" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Orvosi ajánláson alapuló kezelés&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Ha a kozmetikumok, hintőporok nem válnak be (ritkán segítenek), akkor az orvosnak elsőként az iontoforézist kellene javasolnia invazívabb és lényegesen drágább és kockázatosabb botox vagy műtéti kezelések helyett. A DermaDry Total otthon végezhető, nem invazív kezelési alternatívát kínál – nem utolsósorban költséghatékonyan. A botulinum toxin injekciók 4–6 havonta ismétlendők, a műtét végleges mellékhatásokkal járhat - az iontoforézis azonban hosszú időn át alkalmazható, kockázatmentesen.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_5" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_5" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/hordozhato-keszulek.png" alt="fenntartás" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Fenntartó kezelés – így előzd meg a tünetek kiújulását&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az iontoforézis kezelés hatása nem tart örökké – két-három hónap után az izzadás ismét fokozódhat. Ezért egy kúra után érdemes fenntartó kezelésre váltani: heti egyszer vagy kétszer kezelni. A DermaDry Total ideális eszköz az ilyen hosszú távú fenntartáshoz, mert az otthonodban, bármikor használható, miközben a kezelés nem időigényes.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;&lt;input type="checkbox" id="pp_acc_6" class="pp-accordion-checkbox"&gt; &lt;label for="pp_acc_6" class="pp-accordion-label"&gt; &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/lany-fiu.png" alt="fiataloktól" style="height: 32px; width: auto;"&gt; &lt;span class="pp-accordion-title"&gt;Fiataloktól felnőttekig – életkortól független alkalmazás&lt;/span&gt; &lt;span class="pp-accordion-arrow"&gt;▼&lt;/span&gt; &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A gyártó 13 éves kortól ajánlja a készüléket. Egyszerű okból: a kezelést a folyamatot megértő és kooperáló személy végezheti. A kisgyermekeknél orvosi konzultáció szükséges és a kezelésnél a szülő folyamatos jelenléte elvárt. Serdülőknél és felnőtteknél egyaránt hatékony lehet az iontoforézis kezelés, különösen ha a hiperhidrózis pszichés terheléssel jár. Az életkori alkalmasságról és a személyre szabott protokollról az orvossal konzultálj.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 5. HOGYAN MŰKÖDIK? (Hatásmechanizmus) --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan működik az iontoforézis?&lt;/h2&gt;
+ &lt;p&gt;Az iontoforézis egy régóta ismert, nem invazív eljárás. A kezelés során a készülék enyhe elektromos áramot vezet a csapvízen keresztül a bőr felszínére. Ez az áram a verejtékmirigyek működését befolyásolja.&lt;/p&gt;
+ &lt;p&gt;A pontos hatásmechanizmus még kutatás tárgyát képezi, de a tudományos irodalom szerint több folyamat is szerepet játszhat: a verejtékmirigy-csatornák átmeneti elzáródása, valamint az izzadást kiváltó ingerküszöb megemelkedése.&lt;/p&gt;
+ &lt;h3&gt;A készülék automatikus funkciói:&lt;/h3&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Polaritásváltás kezelés közben (kézi átállítás nem szükséges)&lt;/li&gt;
+ &lt;li&gt;Biztonsági áramkorlátozás&lt;/li&gt;
+ &lt;li&gt;Gyermekzár funkció (3 másodperces indítás)&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;h3&gt;Mit várhatnak a felhasználók?&lt;/h3&gt;
+ &lt;p&gt;Az iontoforézis hatékonysága az egyéni adottságoktól és a kezelés rendszerességétől függ. A klinikai vizsgálatok eredményei alapján:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Az első kezelések során enyhe bizsergés érzékelhető – ez a normális működés jele&lt;/li&gt;
+ &lt;li&gt;A rendszeres, protokoll szerinti használat mellett a felhasználók jelentős része tapasztal pozitív változást&lt;/li&gt;
+ &lt;li&gt;Randomizált, kontrollált vizsgálatok szerint a csapvizes iontoforézis hatékonyan csökkentheti a tenyéri izzadást&lt;/li&gt;
+ &lt;li&gt;Egy szisztematikus áttekintés alapján 1–4 hetes rendszeres kezelés után &lt;strong&gt;30–90%-os izzadáscsökkenés&lt;/strong&gt; tapasztalható, amely hetekig–hónapokig fennmaradhat fenntartó kezelésekkel&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class="pp-info-box"&gt;
+ &lt;div&gt;&lt;strong&gt;Fontos:&lt;/strong&gt; Az eredmények egyéniek. A javulás mértéke függ az izzadás súlyosságától, a kezelések rendszerességétől és az egyéni reakciókészségtől. Az iontoforézis nem helyettesíti az orvosi konzultációt.&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 7. FAQ SZEKCIÓ – NATÍV HTML5 RADIO BUTTON ELEMEKKEL (v3.0) --&gt;
+ &lt;section class="pp-faq-section"&gt;
+ &lt;h2 class="pp-headline"&gt;Gyakran ismételt kérdések&lt;/h2&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_1" class="pp-faq-radio"&gt; &lt;label for="pp_faq_1" class="pp-faq-label"&gt; Milyen életkortól használható a készülék? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A gyártó 13 éves kortól ajánlja a készüléket. Fiatalabb életkorban orvosi konzultáció javasolt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_2" class="pp-faq-radio"&gt; &lt;label for="pp_faq_2" class="pp-faq-label"&gt; Fájdalmas a használat? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A kezelés során enyhe bizsergés érezhető. Ha ez kellemetlen, csökkentsd az áramerősséget. A készülék támogatja az áramerősség fokozatos beállítását.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_3" class="pp-faq-radio"&gt; &lt;label for="pp_faq_3" class="pp-faq-label"&gt; Milyen gyakran kell használni? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A részletes használati protokollt a mellékelt útmutató tartalmazza. Általában 2-3 héten át napi egyszeri, majd ezután fenntartó kezelésként heti 1–2 alkalom javasolt. Ha az izzadás fokozódik, ismét egy kúra indítandó.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_4" class="pp-faq-radio"&gt; &lt;label for="pp_faq_4" class="pp-faq-label"&gt; Lehet utazásra vinni? Repülőre felvihető?&lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Igen, a készülék kisméretű és hordozható. Az utazási szabályzatok követéséhez ajánljuk az aktuális légitársaság utazási feltételeinek ellenőrzését elektronikai eszközökre vonatkozóan.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_5" class="pp-faq-radio"&gt; &lt;label for="pp_faq_5" class="pp-faq-label"&gt; Mi történik, ha elfogy a víz? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A készülék nem párologtatja el a vizet, így kizárt, hogy a 15-20 perces kezelés alatt "kifogyna". Víz nélkül a kezelés nem végezhető, mert a készülék áramkör érzékeléssel van ellátva. Víz hiányában nem érzékeli a megfelelő áramkört és nem indítja el a kezelést.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_6" class="pp-faq-radio"&gt; &lt;label for="pp_faq_6" class="pp-faq-label"&gt; Mennyi idő alatt látható az eredmény? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Az eredmények egyéniek és az izzadás súlyosságától függnek. A klinikai vizsgálatok alapján sok felhasználó 2–3 hetes kezelés után jelentős javulást tapasztal. Néhányan hamarabb (1–2 hét), mások később (4+ hét) észlelik az eredményt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-faq-item"&gt;&lt;input type="radio" name="pp_faq" id="pp_faq_7" class="pp-faq-radio"&gt; &lt;label for="pp_faq_7" class="pp-faq-label"&gt; Milyen hosszú ideig tart az iontoforézis hatása? &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Az iontoforézis kúra hatása nem végleges. Általában néhány hét–néhány hónap után az izzadás ismét fokozódhat. Ekkor ismételni kell az intenzív kúrát. &lt;br /&gt;Javasolható a fenntartó kezelés koncepció is. A 2-3 hetes kúra után ne hagyja abba a kezeléseket, de heti 1–2 alkalomra csökkentse a számát. Így hosszabb ideig megőrizhető az eredmény.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+ &lt;!-- 9. KEZELÉSI LEHETŐSÉGEK ÖSSZEHASONLÍTÁSA --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Az izzadás kezelési lehetőségeinek áttekintése&lt;/h2&gt;
+ &lt;p&gt;A hiperhidrózis kezelésének több módszere is létezik. Érdemes orvosoddal konzultálni a számodra legmegfelelőbb megoldásról.&lt;/p&gt;
+ &lt;table style="width: 100%; border-collapse: collapse; margin: 15px 0;"&gt;
+ &lt;thead&gt;
+ &lt;tr style="background: #f5f5f5;"&gt;
+ &lt;th style="padding: 10px; border: 1px solid #ddd; text-align: left;"&gt;Módszer&lt;/th&gt;
+ &lt;th style="padding: 10px; border: 1px solid #ddd; text-align: left;"&gt;Jellemzők&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Izzadáscsökkentők&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Lehetnek krémek, gélek, hintőporok, sprya-k. Könnyen hozzáférhetők, folyamatos használatot igényelnek, bőrirritációt okozhatnak&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Botulinum toxin injekció&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Orvosi beavatkozás, időszakos ismétlést igényel (általában 4–6 havonta), meglehetősen drága&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr style="background: #f0f4ff;"&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;&lt;strong&gt;Iontoforézis (DermaDry Total)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Otthon végezhető, nem invazív, CE/FDA tanúsított, fenntartó kezelést igényel&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Anticholinerg gyógyszerek&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Orvosi felügyelet mellett, mellékhatásokkal járhat (szájszárazság, látászavar)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Sebészeti megoldások (ETS)&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Súlyos esetekben, orvosi javaslatra, visszafordíthatatlan beavatkozás. Magas kockázatú kompenzáló izzadás megjelenéssel.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/section&gt;
+ 
+
+ &lt;!-- 4. VIDEÓ SZEKCIÓ --&gt;
+ &lt;style&gt;
+ @media (max-width: 768px) {
+ .pp-video-grid { grid-template-columns: 1fr !important; }
+ }
+ &lt;/style&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Videós útmutató a DermaDry Total használatáról&lt;/h2&gt;
+ &lt;p style="margin: 20px 0;"&gt;Tekintsd meg a DermaDry iontoforézis készülék használatáról szóló videókat:&lt;/p&gt;
+ &lt;div class="pp-video-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 10px 0;"&gt;
+ &lt;!-- Videó 1 --&gt;
+ &lt;div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;"&gt;
+ &lt;iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/f3-_GFzknkk?si=sYEgrgLSWW5sJ0X3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;!-- Videó 2 --&gt;
+ &lt;div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;"&gt;
+ &lt;iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/AhluN4uEtVM?si=6eKHxgyGkGgRLER2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;!-- Videó 3 --&gt;
+ &lt;div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;"&gt;
+ &lt;iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/IUECZo2t-Nc?si=WNabRlke0HinwNvv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+
+
+ &lt;!-- 6. HASZNÁLATI ÚTMUTATÓ --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Használati útmutató – röviden&lt;/h2&gt;
+ &lt;div class="pp-step"&gt;&lt;span class="pp-step-number"&gt;1&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Előkészítés&lt;/h3&gt;
+ &lt;p&gt;Töltsd meg a tálcákat langyos csapvízzel (20–40°C). Ellenőrizd, hogy a bőrön nincs nyílt seb. Kisebb sérüléseket kend be vékonyan vazelinnel.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;&lt;span class="pp-step-number"&gt;2&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Beállítás&lt;/h3&gt;
+ &lt;p&gt;Válaszd ki a kezelési profilt (tenyér/talp/hónalj). Kezdd alacsony áramerősséggel, és fokozatosan emeld a komfortos szintig.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;&lt;span class="pp-step-number"&gt;3&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Kezelés&lt;/h3&gt;
+ &lt;p&gt;Helyezd a kezeidet vagy lábaidat a tálcákba. A készülék 15–20 perc alatt automatikusan végigmegy a kezelésen, polaritásváltással.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;&lt;span class="pp-step-number"&gt;4&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Befejezés&lt;/h3&gt;
+ &lt;p&gt;Töröld szárazra a bőrt, és használj hidratáló krémet.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/section&gt;
+
+
+ &lt;!-- 10. MŰSZAKI ADATOK --&gt;
+ &lt;details open="" style="margin: 20px 0;"&gt;
+ &lt;h2 class="pp-headline" style="display: inline;"&gt;Műszaki adatok&lt;/h2&gt;
+ &lt;table style="width: 100%; border-collapse: collapse; margin: 15px 0;"&gt;
+ &lt;thead&gt;
+ &lt;tr style="background: #f5f5f5;"&gt;
+ &lt;th style="padding: 10px; border: 1px solid #ddd; text-align: left;"&gt;Paraméter&lt;/th&gt;
+ &lt;th style="padding: 10px; border: 1px solid #ddd; text-align: left;"&gt;Érték&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Áramtípus&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Pulzáló egyenáram (PC)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Frekvencia&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;10 kHz négyszöghullám&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Működési ciklus&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;90% (fix)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Max. áramerősség – tenyér&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;15 mA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Max. áramerősség – talp&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;25 mA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Max. áramerősség – hónalj&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;8 mA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Kezelési idő&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;15–20 perc&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Tápellátás&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Hálózati adapter (100–240V)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Minősítések&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;CE (EU MDR), FDA 510(k), Health Canada&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;Gyártó&lt;/td&gt;
+ &lt;td style="padding: 10px; border: 1px solid #ddd;"&gt;DermaDry Laboratories Inc. (Kanada)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/details&gt;
+
+ &lt;!-- 11. CSOMAG TARTALMA --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A csomag tartalma&lt;/h2&gt;
+ &lt;ul&gt;
+ &lt;li&gt;DermaDry Total készülék&lt;/li&gt;
+ &lt;li&gt;Hálózati adapter&lt;/li&gt;
+ &lt;li&gt;2 db kezelőtál (kéz/láb)&lt;/li&gt;
+ &lt;li&gt;2 db kábel&lt;/li&gt;
+ &lt;li&gt;2–2 nagy/kicsi gumi elektróda&lt;/li&gt;
+ &lt;li&gt;2 db szilikon háló&lt;/li&gt;
+ &lt;li&gt;2 db szivacs tok&lt;/li&gt;
+ &lt;li&gt;Magyar nyelvű használati útmutató&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 12. ELLENJAVALLATOK – MedicalDevice inline mikrodata --&gt;
+ &lt;section class="pp-contraindication-list"&gt;
+ &lt;h2 class="pp-headline"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="Fontos" style="height: 32px; width: auto; vertical-align: middle; margin-right: 8px;"&gt;Fontos információk a használat előtt&lt;/h2&gt;
+ &lt;h3&gt;Mikor NE használd a készüléket?&lt;/h3&gt;
+ &lt;p&gt;A készüléket NE használd, ha:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Beültetett szívritmus-szabályozód (pacemaker) vagy defibrillátorod van&lt;/li&gt;
+ &lt;li&gt;Várandós vagy&lt;/li&gt;
+ &lt;li&gt;Fémes implantátum van a kezelendő területen&lt;/li&gt;
+ &lt;li&gt;Szívritmuszavarod van&lt;/li&gt;
+ &lt;li&gt;Epilepsziás vagy&lt;/li&gt;
+ &lt;li&gt;Nyílt seb vagy fertőzés van a kezelendő területen&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;em&gt;Bizonytalanság esetén konzultálj kezelőorvosoddal!&lt;/em&gt;&lt;/p&gt;
+ &lt;h3&gt;Lehetséges mellékhatások&lt;/h3&gt;
+ &lt;p&gt;A kezelés során előfordulhat:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Enyhe bizsergés érzése (ez normális)&lt;/li&gt;
+ &lt;li&gt;Átmeneti bőrpír a kezelt területen&lt;/li&gt;
+ &lt;li&gt;Ritkán: kis hólyagok kialakulása (túl magas áramerősség esetén)&lt;/li&gt;
+ &lt;li&gt;Bőrszárazság (hidratálás javasolt a kezelés után)&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;Ha ez kellemetlen, csökkentsd az áramerősséget. Tartós vagy szokatlan tünet esetén hagyd abba a kezelést és konzultálj orvosoddal.&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 13. VÍZ MINŐSÉGI ÚTMUTATÓ --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;A víz minőségéről&lt;/h2&gt;
+ &lt;p&gt;A készülék csapvízzel működik. A víz ásványianyag-tartalma településenként eltérő lehet. Ha a csapvized túl lágy (alacsony vezetőképességű), próbáld ki a következőket:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Adj hozzá 1 teáskanál szódabikarbónát vagy konyhasót&lt;/li&gt;
+ &lt;li&gt;Használj palackozott ásványvizet&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;div class="pp-warning-box" style="background: #fff3e0; border-left: 4px solid #ff9800; padding: 12px 16px; margin: 15px 0; border-radius: 4px; display: flex; gap: 12px;"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="Figyelmeztetés" style="height: 32px; width: auto; flex-shrink: 0;"&gt;
+ &lt;div&gt;&lt;strong&gt;Fontos:&lt;/strong&gt; Soha ne használj lágyított vagy desztillált vizet!&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 14. TUDOMÁNYOS FORRÁSOK --&gt;
+ &lt;section class="pp-citations"&gt;
+ &lt;h2 class="pp-headline"&gt;Tudományos háttér és források&lt;/h2&gt;
+ &lt;p&gt;Az iontoforézis módszer tudományos irodalmát és a kapcsolódó kutatásokat részletesen bemutatjuk a &lt;a href="/hiperhidrozis-azaz-koros-izzadas"&gt;Hiperhidrózis kezelése iontoforézissel&lt;/a&gt; című blogcikkben.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Források:&lt;/strong&gt;&lt;/p&gt;
+ &lt;ol class="pp-citation-list" style="margin: 1rem 0 1rem 2rem;"&gt;
+ &lt;li style="margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;"&gt;Stolman LP. (1987). Treatment of excess sweating of the palms by iontophoresis. &lt;em&gt;Arch Dermatol&lt;/em&gt;, 123(7):893–896. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/3606174/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li style="margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;"&gt;Reinauer S, et al. (1993). Iontophoresis with alternating current and direct current offset (AC/DC iontophoresis). &lt;em&gt;Br J Dermatol&lt;/em&gt;, 129(2):166–169. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/7654577/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li style="margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;"&gt;Kim DH, et al. (2017). Treatment of Palmar Hyperhidrosis with Tap Water Iontophoresis: A Randomized, Sham-Controlled Clinical Trial. &lt;em&gt;Ann Dermatol&lt;/em&gt;, 29(6):728–734. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/29200761/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li style="margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;"&gt;Nawrocki S, Cha J. (2020). A systematic evidence-based review of treatments for primary hyperhidrosis. &lt;em&gt;J Drugs Dermatol&lt;/em&gt;, 19(12):1141–1147. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/33346434/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;li style="margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;"&gt;Pariser DM, Ballard A. (2014). Iontophoresis for palmar and plantar hyperhidrosis. &lt;em&gt;Dermatol Clin&lt;/em&gt;, 32(4):491–494. &lt;a href="https://pubmed.ncbi.nlm.nih.gov/25152342/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 15. KAPCSOLÓDÓ TARTALMAK --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Tudj meg többet&lt;/h2&gt;
+ &lt;ul style="margin: 1rem 0 1rem 0; list-style: none; padding: 0;"&gt;
+ &lt;li style="margin: 0.8rem 0;"&gt;&lt;a href="/hiperhidrozis-azaz-koros-izzadas" style="color: #4a86e8; text-decoration: none; display: flex; align-items: center; gap: 10px;"&gt;Hiperhidrózis, azaz kóros izzadás – Részletes útmutató&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 16. ORVOSI FIGYELMEZTETÉS --&gt;
+ &lt;section style="margin: 2rem 0; padding-top: 2rem; border-top: 2px solid #ddd;"&gt;
+ &lt;h3&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="Fontos" style="height: 32px; width: auto; vertical-align: middle; margin-right: 8px;"&gt;Fontos tudnivaló&lt;/h3&gt;
+ &lt;p&gt;Ez a termékleírás tájékoztató jellegű, nem helyettesíti az orvosi szakvéleményt. A DermaDry iontoforézis készülék az orvosi kezelés kiegészítésére szolgál. Panaszaid esetén mindig fordulj orvoshoz a megfelelő diagnózis és kezelési terv érdekében. Az egyéni eredmények eltérőek lehetnek.&lt;/p&gt;
+ &lt;p style="color: #666666; font-size: 0.9rem;"&gt;&lt;em&gt;A termék CE (EU MDR) és FDA 510(k) tanúsítvánnyal rendelkező orvostechnikai eszköz.&lt;/em&gt;&lt;/p&gt;
+ &lt;/section&gt;
+
+&lt;/article&gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>227355</Id>
+        <Name>Kezelőeszközök otthonra|Elektromos kezelés|Iontoforézis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>130562</Id>
+        <Name>Betegség kezelés|Bőrbetegségek|Hiperhidrózis</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dermadrytotal</Url>
+    <SefUrl>dermadrytotal</SefUrl>
+    <ManufacturerUrl>https://dermadry.com</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>ddrytot-n</DefaultFilename>
+      <DefaultAlt>Dermadry Total</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1766141868</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/ddrytot-n.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_1/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_2/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_3/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_4/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_5/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>6</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_6.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_6/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>7</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_7.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_7/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>8</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_8.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_8/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>Dermadry Total</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/Dermadry-hu.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.hu/hiperhidrozis-azaz-koros-izzadas - Hiperhidrózis, azaz kóros izzadás útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>Dermadry</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>Iontoforézis</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Tenyér&amp;comma; talp&amp;comma; hónalj</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/Dermadry-hu.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>CE minősített iontoforézis készülék a túlzott izzadás kezelésének támogatására. Otthon használható, pulzáló árammal. </Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>877067000256</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>Biocare Enterprise Ltd</Value>
+      </Param>
+    </Params>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28629</Id>
+        <Name>DermaDry</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dermadry Total, iontoforézis készülék, csapvíz iontoforézis, hiperhidrózis kezelés, kóros izzadás, tenyér izzadás, talp izzadás, hónalj hiperhidrózis, izzadásgátló készülék, otthoni iontoforézis, kezelőtál, Dermadry, verejtékmirigy kezelése, CE orvostechnikai eszköz, DermaDry</Keywords>
+      <Description>Otthon használható csapvíz-iontoforézis készülék a tenyér, talp és hónalj kóros izzadásának kezeléséhez. CE eszköz két kezelőtállal és elektródákkal.</Description>
+      <Title>Dermadry Total iontoforézis készülék | kéz, láb, hónalj</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

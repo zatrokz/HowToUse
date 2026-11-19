@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-200, Lang=sk, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418915</Id>
+    <Sku>010E-200</Sku>
+    <CreateTime>1743245666</CreateTime>
+    <LastModTime>1794912144</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Pre objednávku</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Iba pre zdravotnícky personál</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Prezentované v partnerstve</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>Dolito</Name>
+    <Unit>db</Unit>
+    <Weight>0.4</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;TENS prístroj špecializovaný na liečbu bolesti&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Cena zahŕňa:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Dolito prístroj &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kábel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;40×40 mm TENS elektróda &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;9V batéria &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;lekár&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Ortopedický odborník hovorí
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Dolito odporúčam tým, ktorí hľadajú jednoduchý, cenovo dostupný domáci prístroj na bezliečebné tlmenie bolesti. Šesť protokolov pokrýva hlavné TENS metódy: kontinuálny a modulovaný TENS pre klasické tlmenie bolesti, Burst a HAN (Dense‑Disperse) cielia na endorfínový systém – tie sú pri chronických a svalového pôvodu ťažkostiach užitočné. Dôležité je mať jasné: Dolito JE IBA TENS. Rozdiely medzi metódami popisujem tu: &amp;lt;a href=&amp;quot;/ktora-elektroterapia-je-vhodna-pre-mna&amp;quot;&amp;gt;melyik elektroterapia mire jó&amp;lt;/a&amp;gt;.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;cieľ&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Reálne očakávania
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;TENS pôsobí na tlmenie vnímania bolesti, príčinu neodstraňuje. Účinok je viazaný na sedenie pri liečbe – trvá počas terapie a niekoľko hodín po nej –, preto pri chronických ťažkostiach treba počítať s každodenným opakovaním. Správne umiestnenie elektród a nastavenie intenzity si vyžaduje nácvik: prvé použitia sú učenie, a na základe nich prístroj nehodno predčasne odsudzovať.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;varovanie&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Tento prístroj nie je pre Vás, ak
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;chcete posilňovať svaly, obnovovať silu atrofovaných svalov alebo riešiť inkontinenciu: na to sú potrebné EMS alebo sondové programy, ktoré Dolito neobsahuje. Ak potrebujete obe funkcie, zvážte multifunkčný prístroj.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;elektróda&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Pred objednávkou
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;V popise produktu nájdete všeobecné odporúčania k výberu programu, umiestneniu elektród a dĺžke terapie. Ideálne nastavenie Vám môže odporučiť lekár alebo fyzioterapeut, ktorý pozná Váš zdravotný stav. NIE je možné používať prístroj pri pacemakeri, implantovanom defibrilátore (ICD) alebo inom aktívnom implantáte bez súhlasu kardiológa. Elektródy sa nesmú klásť na prednú časť krku, na hlavu, okolie očí, spánky ani viesť prúd cez hrudník. V tehotenstve sa používanie neodporúča; pri nádorovom ochorení, ak je postihnuté liečené miesto, konzultujte postup s onkológom. Pri novej, zhoršujúcej sa alebo neznámej bolesti je potrebné najprv lekárske vyšetrenie.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/o-mne-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Dr. Zsolt Zátrok — lekár, expert na zdravotnícku techniku, bloger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+ 
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Môj problém – je pre mňa Dolito vhodný?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-gyulladas.png&amp;quot; alt=&amp;quot;bolesť kĺbov&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte bolesť kĺbov alebo šliach (artróza, zápal šliach)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Zápaly kĺbov (artritída), degeneratívne zmeny (artróza) a zápaly šliach (tendinitída) sprevádza chronická bolesť, ktorú môže TENS tlmiť bez liekov. Dolito v modulovanom režime (Program 01) alebo HAN (Program 04) je optimalizovaný na chronické ťažkosti – odporúčané sú 30‑minútové terapie 1–2× denne. Úľava sa môže objaviť už počas terapie a často pretrváva aj po nej.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;sedavá práca&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak vykonávate sedavú prácu a večer Vás trápi bolesť krku alebo driekovej oblasti&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bolesť krčnej a lumbálnej oblasti patrí medzi najčastejšie doprovodné príznaky sedavej práce. Dolito v kontinuálnom režime (Program 02 – 110 Hz, 30 min) poskytuje rýchlu úľavu pri akútnej bolestivej epizóde, modulovaný režim zase pomáha pri opakujúcich sa chronických problémoch. Môžete ho používať pri práci alebo doma – prístroj je nositeľný na opasku, a počas terapie môžete pokojne pozerať televíziu alebo čítať.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/inkontinencia.png&amp;quot; alt=&amp;quot;menštruačné bolesti&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte menštruačné bolesti&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Primárna dysmenorea (menštruačné kŕče) často vedie u mladých a stredne starých žien k silnej potrebe bezliečebnej úľavy. Dolito v kontinuálnom alebo modulovanom režime môže pri elektródach nalepených na podbrušku tlmiť kŕče. Prevádzka na 9V batériu a kompaktná veľkosť sú výhoda – prístroj sa diskrétne nosí v kabelke a môže sa použiť aj v práci. DÔLEŽITÉ: v tehotenstve sa NIE POUŽÍVA.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;svalové bolesti po tréningu&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte svalovú bolesť po tréningu alebo fyzickej práci&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Pri svalovici, kŕčoch alebo bolestiach po cvičení môže Burst režim (Program 03) aktivovať endorfínový systém, čo zmierni bolesť. Režim Work/Rest (Program 05) je možné použiť na jemné posilnenie svalov – rytmus 10 s stimulácia + 20 s odpočinok. Toto nenahrádza výkonné Globus EMS prístroje pri budovaní sily, ale môže byť vhodné na šetrnú reaktiváciu regenerujúceho sa svalu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;neuropatická bolesť&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte bolesť nervového pôvodu (neuralgia, ischias)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Neuralgie, ischias, radikulárne príznaky a niekedy aj phantom bolesť môžu reagovať na TENS. Modulovaný a HAN režim sú pri týchto chronických bolestiach obzvlášť vhodné. DÔLEŽITÉ: príčinu nervovej bolesti vždy musí objasniť lekár – neaplikujte samoliečbu, ak je bolesť nová alebo sa zhoršuje.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;cenovo dostupný vstup&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak hľadáte cenovo dostupný vstupný prístroj&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Mnohí pacienti po skúsenosti s ambulantným TENS majú záujem o domáci prístroj bez veľkej investície. Dolito predstavuje vstupnú hodnotu: nemecká kvalita, 10‑ročná životnosť, klasických 6 programov a jednoduché ovládanie. Nechce byť všetkým naraz, čo je jeho výhoda – ak potrebujete iba TENS na úľavu od bolesti, neplatíte za zbytočné funkcie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/mutet.png&amp;quot; alt=&amp;quot;po zlomenine&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak zápasíte s bolesťou po zlomenine alebo operácii&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Po odobratí sadry pri zlomenine alebo po menších operáciách (napr. menisková artroscopia, rekonstrukcia šľachy) môže TENS ponúknuť bezliečebnú alternatívu na tlmenie bolesti. Dolito kontinuálny režim je vhodný pri akútnych intenzívnych symptómoch, modulovaný režim pri predĺženom pooperačnom období. DÔLEŽITÉ: začnite iba so súhlasom operujúceho lekára alebo fyzioterapeuta – elektródy nikdy neumiestňujte na čerstvú jazvu! Po operácii počkajte minimálne 5–7 dní.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;spolupráca s lekárom&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak Vám fyzioterapeut alebo ošetrujúci lekár odporučí domáci TENS&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Váš fyzioterapeut alebo lekár môže nastaviť individuálny protokol (PC06), ktorý sa uloží a kedykoľvek znovu vyvolá.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Šesť programov podrobne&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Dolito ponúka 6 predprogramovaných režimov + jeden plne nastaviteľný program. Každý režim je optimalizovaný pre iný typ bolesti.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;modulovaný&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 01 – Modulovaný (MOD): pre chronické bolesti&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frekvencia:&amp;lt;/strong&amp;gt; 70–110 Hz menlivá. &amp;lt;strong&amp;gt;Šírka impulzu:&amp;lt;/strong&amp;gt; 200–100 µs menlivá. &amp;lt;strong&amp;gt;Doba:&amp;lt;/strong&amp;gt; 30 minút.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Vďaka neustále sa meniacim parametrom si nervový systém neprivyká na podnety – to je výhoda pri dlhodobých chronických bolestiach. Dlhodobo tak môže byť terapia účinná. Typické použitie: chronické bolesti driekovej alebo krčnej oblasti, artritída, neuralgia.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;kontinuálny&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 02 – Kontinuálny (CONT, klasický TENS): na akútnu bolesť&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frekvencia:&amp;lt;/strong&amp;gt; 110 Hz stabilná. &amp;lt;strong&amp;gt;Šírka impulzu:&amp;lt;/strong&amp;gt; 175 µs. &amp;lt;strong&amp;gt;Doba:&amp;lt;/strong&amp;gt; 30 minút.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Klasická TENS terapia. Vysokofrekvenčná kontinuálna stimulácia podľa Gate‑Control teórie blokuje prenos bolesťových signálov do mozgu. Typické použitie: náhle svalové kŕče, akútna bolesť driekovej oblasti, svalovica, pooperačná bolesť. Rýchla úľava počas terapie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;burst&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 03 – Burst: uvoľňovanie endorfínov&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frekvencia:&amp;lt;/strong&amp;gt; 80 Hz. &amp;lt;strong&amp;gt;Šírka impulzu:&amp;lt;/strong&amp;gt; 150 µs. &amp;lt;strong&amp;gt;Doba:&amp;lt;/strong&amp;gt; 30 minút. &amp;lt;strong&amp;gt;Rytmus:&amp;lt;/strong&amp;gt; skupiny po 9 impulzoch dvakrát za sekundu.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Burst (skupinová) stimulácia môže cieliť na zvýšené uvoľňovanie endorfínov, teda prirodzených analgetík tela. Typické použitie: chronická bolesť, ak klasická TENS neprináša dostatočnú úľavu. Účinok sa buduje pomalšie, ale býva trvácnejší.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/frekvencia.png&amp;quot; alt=&amp;quot;HAN&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 04 – HAN (Dense‑Disperse): Han režim&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frekvencia:&amp;lt;/strong&amp;gt; 100/2 Hz striedavo (Dense‑Disperse). &amp;lt;strong&amp;gt;Šírka impulzu:&amp;lt;/strong&amp;gt; 200/350 µs. &amp;lt;strong&amp;gt;Doba:&amp;lt;/strong&amp;gt; 30 minút. &amp;lt;strong&amp;gt;Rytmus:&amp;lt;/strong&amp;gt; striedanie vysokých a nízkych frekvencií v cykloch po 3 s.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Metóda vyvinutá profesorom Hanom, ktorá môže aktivovať rôzne typy endogénnych opioidov – enkefalín aj dynorfínový systém. Typické použitie: ťažšie liečiteľné chronické bolesti, keď klasická TENS a Burst nestačia. Jeden z sofistikovanejších endorfín‑aktivujúcich režimov TENS.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;posilnenie svalov&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 05 – Work/Rest (Stimulácia/Odpočinok): mierne posilnenie svalov&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frekvencia:&amp;lt;/strong&amp;gt; 50 Hz. &amp;lt;strong&amp;gt;Šírka impulzu:&amp;lt;/strong&amp;gt; 300 µs. &amp;lt;strong&amp;gt;Doba:&amp;lt;/strong&amp;gt; 20 minút. &amp;lt;strong&amp;gt;Rytmus:&amp;lt;/strong&amp;gt; 10 s aktívne + 20 s odpočinok.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Aj keď je Dolito jasne pozicionovaný ako TENS prístroj, tento režim môže poskytnúť mierne posilnenie svalov. Typické použitie: šetrná reaktivácia dlhodobo neaktívneho svalu, regenerácia, posilnenie slabého, ale funkčného svalstva. DÔLEŽITÉ: schopnosti posilnenia Dolita sa NEDAJÚ porovnávať s dedikovanými Globus EMS prístrojmi – ide skôr o doplnok než primárnu funkciu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;individuálne&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Program 06 – PC06 (Individuálny): plné prispôsobenie&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PC06 umožňuje individuálne nastaviť všetky parametre: doba 1–599 min, frekvencia 1–150 Hz, šírka impulzu 50–350 µs, typ modulácie voľný. Je určený pre špecifické protokoly podľa odporúčania lekára alebo fyzioterapeuta. S 60‑dňovou pamäťou a STIM LOCK funkciou môže odborník nastaviť a uzamknúť pre Vás vhodný individuálny protokol.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Často kladené otázky&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;dôležité&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môžem používať prístroj s pacemakerom alebo vloženým implantátom?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;NIE.&amp;lt;/strong&amp;gt; Pacemaker, vložený defibrilátor (ICD) alebo akýkoľvek elektronický implantát sú &amp;lt;strong&amp;gt;absolútna kontraindikácia&amp;lt;/strong&amp;gt;. TENS impulzy môžu rušiť činnosť implantátu a viesť k život ohrozujúcim situáciám. Ak máte takéto zariadenie, za žiadnych okolností prístroj nepoužívajte – ani na končatinách.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;pozor&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môžem ho používať v tehotenstve?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;V tehotenstve – zvlášť v prvom trimestri – sa používanie TENS prístroja &amp;lt;strong&amp;gt;NEDOPORÚČA&amp;lt;/strong&amp;gt;. Ošetrovanie podbruška, brucha a driekovej oblasti je počas celého tehotenstva zakázané. Počas pôrodu niektoré kliniky používajú špecifické pôrodné TENS protokoly, ale tie aplikuje výhradne personál. Pri nejasnostiach sa poraďte so svojím gynekológom alebo pôrodnou asistentkou.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ V čom sa Dolito líši od vstupných Globus prístrojov (Elite SII, Genesy SII)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Hlavné rozdiely:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Dolito (MTR+, Nemecko):&amp;lt;/strong&amp;gt; ČISTO TENS prístroj. 6 programov. 2 kanály. 9V batéria. Len tlmenie bolesti (a mierne posilnenie svalov v programe 5). Vstupná cenová kategória.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elite SII (Globus, Taliansko):&amp;lt;/strong&amp;gt; Multifunkčný (TENS + EMS/NMES). 100 programov. 2 kanály. Nabíjateľný. Určený pre šport, formovanie postavy a tlmenie bolesti.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Genesy SII (Globus, Taliansko):&amp;lt;/strong&amp;gt; Multifunkčný, zameraný na malé panvové oblasti. Vhodný aj na sondovú liečbu inkontinencie. Nabíjateľný.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Ak hľadáte jednoduchý a lacný prístroj čisto na tlmenie bolesti → Dolito. Ak potrebujete športové EMS, formovanie postavy alebo sondovú liečbu inkontinencie → Elite SII alebo Genesy SII sú vhodnejšie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ V čom sa prakticky líšia 4 TENS programy (Modulovaný, Kontinuálny, Burst, HAN)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Jednoducho:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Kontinuálny (Program 02):&amp;lt;/strong&amp;gt; klasický &amp;quot;rýchly účinok&amp;quot; TENS. Použite pri akútnej bolesti – napr. náhla bolesť driekov, svalový kŕč. Účinok počas terapie.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Modulovaný (Program 01):&amp;lt;/strong&amp;gt; neustála zmena parametrov zabraňuje prispôsobeniu. Pre chronickú bolesť – napr. opakujúce sa krčné alebo kĺbové bolesti.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Burst (Program 03):&amp;lt;/strong&amp;gt; môže aktivovať endorfínový systém – vlastné analgetiká tela. Účinok sa buduje pomalšie, ale je trvácnejší. Pre chronickú bolesť a dlhodobé použitie.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HAN (Program 04):&amp;lt;/strong&amp;gt; najsofistikovanejší endorfín‑aktivujúci režim, strieda vysokú a nízku frekvenciu. Pre ťažšie chronické bolesti, keď klasická TENS nestačí.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Všeobecné odporúčanie: začnite s Kontinuálnym (rýchla úľava). Pri chronickej bolesti skúste postupne Modulovaný → Burst → HAN, aby ste zistili, čo funguje najlepšie pre Vás.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ako často môžem prístroj používať?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;TENS je bezliečebný a všeobecne dobre znášaný. Typické protokoly:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Akútna bolesť:&amp;lt;/strong&amp;gt; 15–30 min, 2–3× denne podľa potreby.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Chronická bolesť:&amp;lt;/strong&amp;gt; 30–45 min, 1–2× denne dlhodobo.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Posilnenie svalov (Work/Rest):&amp;lt;/strong&amp;gt; 20–30 min, 1× denne.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Menštruačné bolesti:&amp;lt;/strong&amp;gt; počas kŕčov podľa potreby.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Nikdy nepoužívajte prístroj počas vedenia vozidla alebo pri obsluhe ťažkých strojov. Pri novom alebo zhoršujúcom sa symptóme kontaktujte ošetrujúceho lekára – TENS nenahrádza lekárske vyšetrenie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ako umiestniť elektródy pri bolesti chrbta?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Pri lumbálnej bolesti je typické usporiadanie: 4 ks 40×40 mm elektród okolo bolestivého miesta. Kanál 1: dve elektródy po oboch stranách chrbtice v úrovni driekovej časti (cca L3–L4). Kanál 2: dve elektródy nad a pod bolestivou oblasťou tak, aby ju obklopili. Elektródu nikdy neumiestňujte priamo na chrbticu. Presný ilustrovaný návod nájdete v používateľskom návode. Pri neistote sa poraďte s fyzioterapeutom.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ako dlho vydrží 9V batéria?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Kvalitná 9V batéria (6LR61/6AM6) poskytne približne 12 hodín prevádzky pri záťaži 20 mA. Pri dennom používaní 30 minút to predstavuje 3–4 týždne intenzívnej liečby. Pri nižšom prúde (10–15 mA) môže byť výdrž aj 6 týždňov alebo viac. Tipy: používajte kvalitné alkalické batérie, neskladujte prístroj v mraze a pri dlhšom nepoužívaní batériu vyberte.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Prezentácia a návod na používanie&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Nižšie si môžete pozrieť video, ktoré predstavuje Dolito prístroj a ukazuje základné spôsoby použitia.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Predstavenie prístroja Dolito&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Prezentácia Dolito TENS prístroja, prehľad 6 programov, nasadenie elektród a zásady používania. Praktická ukážka nemeckej kvality MTR+.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/PfvLpBD6mco?si=fydkHs0uozyS4PVc&amp;quot; title=&amp;quot;Dolito TENS készülék bemutató&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Ako používať krok za krokom?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Vložíte 9V batériu&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Prístroj funguje na 9V (6LR61 alebo 6AM6) batériu – jedna batéria poskytne približne 12 hodín prevádzky pri záťaži 20 mA, čo pri 30‑minútových denných sedeniach znamená niekoľkotýždňové používanie. NIE je tu nabíjanie batérie ani sieťový adaptér – vymeníte a pokračujete v používaní.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Zvolíte program&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Môžete si vybrať z 6 programov na veľkom LCD displeji: Modulovaný (chronická bolesť), Kontinuálny (akútna), Burst (endorfíny), HAN (Dense‑Disperse chronické), Work/Rest (aktivácia svalov) alebo PC06 (individuálny). Na displeji sa zobrazuje aktuálna frekvencia, šírka impulzu a zostávajúci čas.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Nalepíte 4 ks 40×40 mm elektród&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Balenie obsahuje 4 ks 40×40 mm samolepiacich TENS elektród – zvyčajne 2 na každý kanál, okolo bolestivého miesta alebo podľa nervového priebehu. Koža by mala byť čistá a suchá – krémy, oleje alebo pot znižujú priľnavosť.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Štart a nastavenie intenzity (0–80 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Prístroj automaticky rozpozná pád elektródy alebo poškodenie kábla a terapiu zastaví. Intenzitu nastavíte pre každý kanál zvlášť v rozsahu 0–80 mA – zvyšujte pomaly, kým nepocítite príjemné brnenie. NEMÁ to spôsobovať bolesť. Po minúte sa funkcia zvyšovania intenzity automaticky zablokuje, aby sa zabránilo náhodnému predávkovaniu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Noste na opasku alebo používajte vsedě&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Hmotnosť 150 g a opaskové uchytenie umožňujú nosenie počas práce, domácich prác alebo chôdze – nie je potrebné sedieť nehybne. Časovač automaticky ukončí terapiu po nastavenom čase (zvyčajne 20–30 min). PC06 umožňuje aj dlhé programy do 9 hodín 59 min (napr. nočná liečba chronických ťažkostí – len po konzultácii s lekárom).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;60‑dňová pamäť a odovzdanie údajov lekárovi&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Prístroj zaznamenáva čas, dĺžku a typ každej terapie v reálnom čase. Počas 60 dní môže lekár alebo fyzioterapeut tieto dáta vyžiadať, čím sa skontroluje pravidelnosť liečby a optimalizuje protokol. Táto funkcia je v tejto cenovej kategórii výnimočná.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;
+ &amp;lt;!-- 9. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Čo nájdete v balení?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Základný balík Dolito – všetko potrebné na okamžité použitie.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; Dolito TENS prístroj (2‑kanálový)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 ks&amp;lt;/strong&amp;gt; stimulačné káble (1 na kanál)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 ks&amp;lt;/strong&amp;gt; 40×40 mm samolepiace TENS elektródy&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; 9V batéria (6LR61/6AM6)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; slovenský používateľský návod&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Opaskové uchytenie pre nosenie prístroja (na zadnej strane)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;údržba&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Údržba a náhradné diely&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Samolepiace elektródy:&amp;lt;/strong&amp;gt; priľnavosť postupne klesá po 25–30 použití. Náhradné sady 40×40 mm sú dostupné. Po použití elektródy vráťte na ochrannú fóliu. Tipy: lepia najlepšie na čistú, oholenú pokožku; elektródu neodtrhávajte prudko, ale opatrne zdvihnite za rohovú časť.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;9V batéria:&amp;lt;/strong&amp;gt; približne 12 hodín prevádzky pri 20 mA. Pri dlhšom nepoužívaní ju vyberte, aby sa neznehodnotila. Používajte len originálne alebo kvalitné alkalické 6LR61/6AM6 batérie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Čistenie prístroja:&amp;lt;/strong&amp;gt; z vonkajšej strany suchou alebo mierne navlhčenou handričkou. Na čistenie elektród nepoužívajte alkohol – poškodí lepiacu vrstvu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;na objednanie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Doplnky na objednanie&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Dolito je možné rozšíriť o ďalšie príslušenstvo:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Náhradné sady elektród:&amp;lt;/strong&amp;gt; 40×40 mm, odporúčané po 25–30 použití.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Rôzne veľkosti elektród:&amp;lt;/strong&amp;gt; v niektorých prípadoch je pohodlnejšia väčšia 50×50 mm elektróda (napr. pri veľkých bolestivých plochách driekovej oblasti).&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Gél na elektródy:&amp;lt;/strong&amp;gt; pri citlivej pokožke alebo dlhšom použití zlepšuje priľnavosť (zvyčajne nie je potrebný pri samolepiacich elektródach).&amp;lt;/li&amp;gt;
+
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 10. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technické údaje – podrobne&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Vlastnosť&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Hodnota&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Čo to znamená pre Vás?&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Počet kanálov&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2 (nezávislé, izolované)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Môžete súčasne ošetrovať dve rôzne oblasti&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Typ prúdu&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS (len)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Iba tlmenie bolesti – nie EMS tréning&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Počet programov&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;6 programov (5 prednastavených + 1 individuálny PC06)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Hlavné TENS protokoly pokryté, možnosť individuálnej úpravy&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intenzita&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–80 mA (pri 500 Ω zaťažení)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Nastavenie pre každý kanál zvlášť, od nízkej po strednú intenzitu&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frekvencia&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1–150 Hz (Burst: 35–150 Hz)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Dostupné nízke (endorfíny) aj vysoké (blokovanie) frekvencie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Šírka impulzu&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50–350 µs (Burst: 50–200 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Možnosť prispôsobiť od tenkej pokožky po veľké svalové skupiny&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Tvar vlny&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Asymetrický, bipolárny obdĺžnikový priebeh&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stabilná kvalita signálu, efektívna stimulácia&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Dĺžka terapie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 min – 9 hod 59 min (PC06 individuálny)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Možné krátke akútne sedenia aj dlhé chronické protokoly&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Pamäť&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60‑dňový detailný záznam&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Lekár alebo fyzioterapeut môže skontrolovať využívanie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Uzamknutie programu&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Funkcia STIM LOCK&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Odborník môže nastaviť a uzamknúť individuálny protokol&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Uzamknutie intenzity&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatické uzamknutie po 1 minúte&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zabraňuje náhodnému predávkovaniu&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Snímač prerušenia obvodu&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatické zastavenie&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ak elektróda spadne alebo sa kábel poškodí, terapia sa zastaví&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Rozmery prístroja&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;11,7 × 6,6 × 3,3 cm&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Vloží sa do vrecka, možnosť nosenia na opasku&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Hmotnosť&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;150 g (s batériou)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Diskrétne, prenosné – nenápadné&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Ochranná trieda&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;IP20&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Na vnútorné použitie za bežných podmienok&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Napájanie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;9V batéria (6LR61 / 6AM6)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Žiadne nabíjanie – vymeníte batériu a prístroj funguje&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Výdrž batérie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;~12 hodín (pri 20 mA záťaži)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Pri dennom 30‑minútovom použití cca 3–4 týždne intenzívnej liečby&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Očakávaná životnosť&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;10 rokov&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Dlhodobá spoľahlivosť&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Displej&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Veľký LCD s podrobnými informáciami&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Jednoznačný odčítateľ frekvencie, šírky impulzu a zostávajúceho času&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Certifikáty&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Európska zhoda, systém manažérstva kvality&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Výrobca&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Nemecko)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Vyrobené podľa nemeckých štandardov kvality&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+ &amp;lt;!-- 11. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;upozornenie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kedy by ste Dolito NEMALI používať?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;V nasledujúcich situáciách môže byť TENS terapia nebezpečná alebo spôsobiť vedľajšie účinky. Ak platí niektorý z bodov, nezačínajte používanie bez konzultácie s ošetrujúcim lekárom.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Nosíte pacemaker, vložený defibrilátor (ICD) alebo akýkoľvek elektronický implantát – TENS impulz môže rušiť ich činnosť
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Poruchy srdcového rytmu, poškodenie srdcového svalu alebo závažné kardiovaskulárne ochorenia
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Tehotenstvo (najmä prvý trimester; ošetrovanie podbruška, brucha a driekovej oblasti je počas celého tehotenstva zakázané)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Epilepsia alebo iné neurologické ochorenia sprevádzané záchvatmi
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Aktívne malígne nádorové ochorenie v blízkosti ošetrovaného miesta
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Horúčka alebo akútny zápalový proces
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Poškodená, podráždená alebo otvorená ránová koža na ošetrovanom mieste
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Umiestnenie elektród na hlavu, prednú časť krku (carotis sinus) alebo oblasť srdca – ZAKÁZANÉ
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Znížené alebo chýbajúce kožné vnímanie na ošetrovanom mieste (napr. neuropatia pri cukrovke)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ V blízkosti kovových implantátov – len so súhlasom ošetrujúceho lekára
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Pri alergii na nikel alebo iné kovy – sledujte kožné reakcie pozorne
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Počas vedenia motorového vozidla alebo obsluhy ťažkých strojov – nikdy
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Deti na samostatné používanie (do 12 rokov len pod dohľadom dospelej osoby a podľa usmernenia fyzioterapeuta)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nie ste si istí?&amp;lt;/strong&amp;gt; Pred použitím sa vždy poraďte s ošetrujúcim lekárom alebo fyzioterapeutom – najmä pri chronických ochoreniach, liečbe liekmi alebo pri akýchkoľvek implantátoch. Podrobné informácie nájdete v článku Dr. Zsolt Zátrok: &amp;lt;a href=&amp;quot;/vedlajsie-ucinky-a-kontraindikacie-elektroliecby&amp;quot;&amp;gt;az elektroterápia ellenjavallatairól&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 12. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;informácia&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Dôležité informácie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Dolito je certifikovaný zdravotnícky prístroj Class IIa (CE 0123, podľa MDD 93/42/EEC), určený na domáce použitie. Napriek tomu jeho použitie nikdy nenahrádza lekársku diagnostiku, individuálny protokol od kvalifikovaného fyzioterapeuta alebo predpísanú medikamentóznu liečbu. Prístroj slúži ako doplnok k existujúcej terapii.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Pri nových alebo zhoršujúcich sa príznakoch (napr. pretrvávajúca bolesť, necitlivosť, slabosť) vždy vyhľadajte ošetrujúceho lekára – TENS nesmie maskovať príznaky, ktoré môžu viesť k závažnému ochoreniu. Pri chronickej bolesti treba pred pravidelným používaním stanoviť príčinu.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Používajte len originálne príslušenstvo, elektródy pravidelne vymieňajte (po 25–30 použití) a pri alergii na nikel sledujte kožné prejavy. Uchovávajte prístroj mimo dosahu detí.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Informácie na tejto stránke majú všeobecný informatívny charakter a nenahrádzajú individuálne lekárske poradenstvo, diagnostiku alebo liečbu. V prípade konkrétnych ťažkostí sa vždy obráťte na ošetrujúceho lekára.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 13. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Súvisiace prístroje a zdroje&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/rehalito&amp;quot;&amp;gt;Rehalito – multifunkčný doplnok radu Lito →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/myolito&amp;quot;&amp;gt;Myolito – stimulačný prístroj zo série Lito →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/elite-s2&amp;quot;&amp;gt;Elite SII – Globus 2‑kanálový multifunkčný vstup (TENS + EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/genesy-s2&amp;quot;&amp;gt;Genesy SII – Globus 2‑kanálový, zameraný na panvu →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/elektroterapia&amp;quot;&amp;gt;Elektrická liečba – prehľad všetkých TENS/EMS prístrojov →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/tens-liecba-ulava-od-bolesti-bez-liekov&amp;quot;&amp;gt;TENS terapia – domáce tlmenie bolesti bez liekov (článok) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/ulava-od-bolesti-impulzy&amp;quot;&amp;gt;Podrobný rozbor TENS programov (článok) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/ktora-elektroterapia-je-vhodna-pre-mna&amp;quot;&amp;gt;Melyik elektroterapia mire jó? – sprievodca výberom →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>359646</Id>
+        <Name>Domácna terapia|Elektroterapia|TENS prístroj</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>310566</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť v krížoch</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>514818</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť chrbta</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>138992</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť kolena</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>495333</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Ramenná bolesť</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>866833</Id>
+        <Name>Liečba ochorení|Ochorenia pohybového aparátu|Artróza</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>469599</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť zápästia</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>170701</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť členka</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>346851</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť krku</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>411340</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Bolesť|Bolesť lakťa</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>724489</Id>
+        <Name>Liečba ochorení|Liečba bolesti</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>680692</Id>
+        <Name>Liečba ochorení|Ochorenia pohybového aparátu|Lumbago</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>154789</Id>
+        <Name>Liečba ochorení|Ochorenia pohybového aparátu|Ischias</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>292982</Id>
+        <Name>Liečba ochorení|Ochorenia pohybového aparátu|Fibromyalgia</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>915226</Id>
+        <Name>Liečba ochorení|Női egészség|Menštruačné bolesti</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>975903</Id>
+        <Name>Liečba ochorení|Női egészség|Endometriózis</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dolito</Url>
+    <SefUrl>dolito</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-200</DefaultFilename>
+      <DefaultAlt>Dolito</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247050</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-200.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-200/010E-200.webp?time=1743247050</SefUrl>
+        <Filename>010E-200</Filename>
+        <Alt>Dolito</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Instrukcny-manual.pdf - Návod na použitie</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.zdravezitie.sk/tens-liecba-ulava-od-bolesti-bez-liekov - Zmiernenie bolesti bez liekov</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Instrukcny-manual.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>Dolito je kompaktné prenosné zariadenie s elektrickými impulzmi s dvojkanálovým vyhotovením a samostatne pripojiteľnými výstupmi. Ponúka viacero prednastavených programov a nastaviteľné úrovne intenzity, čo umožňuje flexibilné nastavenie podľa rôznych preferencií. Prehľadný displej a jednoduché ovládacie tlačidlá zabezpečujú pohodlnú obsluhu. Vďaka malým rozmerom a batériovému napájaniu je vhodné na použitie doma aj na cestách. Produkt je ponúkaný ako lifestyle a komfortný doplnok, bez zdravotný</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279580825</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-200</Value>
+      </Param>
+    </Params>
+    <AdditionalDatas>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;</Content>
+      </AdditionalData>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;</Content>
+      </AdditionalData>
+    </AdditionalDatas>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1195419445</Id>
+        <Sku>E-TRALKN</Sku>
+        <Name>TensCare Knee Pain elektróda pre liečbu kolena</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1196752255</Id>
+        <Sku>E-TRALBA</Sku>
+        <Name>TensCare Back Pain elektróda na liečbu driekovej a chrbtovej oblasti</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332634</Id>
+        <Sku>KM406-M</Sku>
+        <Name>Pár elektródových rukavíc</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332849</Id>
+        <Sku>KM407</Sku>
+        <Name>Ponožkové elektródy, pár</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419440</Id>
+        <Sku>E-TRALNE</Sku>
+        <Name>TensCare Neck Pain elektróda na liečbu krku</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS elektróda s ihlami 4ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5 cm samoľpiaca ihlová TENS elektróda, 4 ks/balenie</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS elektróda 5x5cm s ihlami 4ks/ks.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5×9 cm TENS elektróda s ihlami, 4 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5×10 cm samolepiaca TENS elektróda s tŕňovým konektorom, 4 ks/bal</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5×10 cm samolepiaca TENS elektróda s ihlovými konektormi, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2,5 cm okrúhla TENS elektróda s ihlou, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode okrúhla TENS elektróda 3,2 cm, ihlová, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419280</Id>
+        <Sku>CF5000</Sku>
+        <Name>ValueTrode 5 cm okrúhla TENS elektróda s ihlou, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5 x 5 cm TENS ihlová elektróda, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5×9 cm samolepiaca TENS elektróda s ihlou, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2,5 cm guľatá TENS elektróda s ihličkami, 10 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419405</Id>
+        <Sku>E-CR50100</Sku>
+        <Name>Cool Relief TENS elektródy 5 × 10 cm, ihlové, 4 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419400</Id>
+        <Sku>E-CR5050</Sku>
+        <Name>Cool Relief 5×5 cm TENS ihlová elektróda, 4 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332719</Id>
+        <Sku>SR4550</Sku>
+        <Name>Gumená elektróda 45x50 mm s ihlovým konektorom</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332704</Id>
+        <Sku>S-7000-6x2</Sku>
+        <Name>Pena púzdro (1 pár) pre 45×50 mm gumové elektródy</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332809</Id>
+        <Sku>SR5090</Sku>
+        <Name>Gumová elektróda 45×90 mm s ihlovým konektorom</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332814</Id>
+        <Sku>S-7000-5x2</Sku>
+        <Name>Penový obal (1 pár) pre gumené elektródy 45×90 mm</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332819</Id>
+        <Sku>sca-670001</Sku>
+        <Name>Elastický popruh 5 × 50 cm, 2 ks, biely</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332644</Id>
+        <Sku>EG260</Sku>
+        <Name>ContiGel kontaktný gél 260 g</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332874</Id>
+        <Sku>KM408</Sku>
+        <Name>Pár textilných elektród na zápästie</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332879</Id>
+        <Sku>KM409</Sku>
+        <Name>Pár lakťových elektród</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332884</Id>
+        <Sku>KM410</Sku>
+        <Name>Pár kolenných elektród</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207310449</Id>
+        <Sku>G0439</Sku>
+        <Name>Y-kábel na elektrostimulátor s ihlovým konektorom</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332699</Id>
+        <Sku>012E-012</Sku>
+        <Name>Sada káblov pre stimulátory MTR, 1 m</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <SimilarProducts>
+      <SimilarProduct>
+        <Id>1196751675</Id>
+        <Sku>G3552</Sku>
+        <Name>Elite SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418895</Id>
+        <Sku>G3725</Sku>
+        <Name>Genesy SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418755</Id>
+        <Sku>010E-004</Sku>
+        <Name>MyoBravo</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418935</Id>
+        <Sku>010E-205</Sku>
+        <Name>Myolito</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418740</Id>
+        <Sku>K-UNIPRO</Sku>
+        <Name>UniPro</Name>
+      </SimilarProduct>
+    </SimilarProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30624</Id>
+        <Name>2 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dolito, Dolito TENS, TENS prístroj, prístroj proti bolesti, elektroliečba, zmiernenie bolesti bez liekov, režim Burst, HAN Dense-Disperse, domáca elektroterapia, bolesť krížov, bolesť krku, bolesť kĺbov, artróza, zápal šľachovej pošvy, elektróda 40x40 mm</Keywords>
+      <Description>Šesť protokolov TENS vrátane režimov Burst a HAN môže pomôcť pri zmiernení bolesti doma. V balení sú dva káble, štyri elektródy 40x40 mm a 9V batéria.</Description>
+      <Title>Dolito TENS prístroj | 6 protokolov proti bolesti</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

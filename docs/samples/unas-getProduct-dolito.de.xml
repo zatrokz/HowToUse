@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-200, Lang=de, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418915</Id>
+    <Sku>010E-200</Sku>
+    <CreateTime>1743245666</CreateTime>
+    <LastModTime>1794912144</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Für Bestellung</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Nur für medizinisches Fachpersonal</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>In Zusammenarbeit präsentiert</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>Dolito</Name>
+    <Unit>db</Unit>
+    <Weight>0.4</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;Spezialisiertes TENS-Gerät zur Schmerzbehandlung&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Preis beinhaltet:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Dolito Gerät &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kabel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 Stk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;40x40mm TENS-Elektrode &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 Stk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;9V Batterie &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zsolt Zátrok&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;Arzt&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Unser medizinischer Experte sagt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Ich empfehle das Dolito denen, die eine medikamentenfreie Schmerzlinderung für zuhause suchen und ein einfaches, erschwingliches Gerät wollen. Die sechs Programme decken die wichtigsten TENS-Methoden ab: Continuous und Modulated sind die klassischen Schmerzlinderungen, Burst und HAN (Dense-Disperse) zielen auf das Endorphinsystem – letztere sind bei chronischen und muskuloskelettalen Beschwerden nützlich. Wichtig, klar zu sagen: Das Dolito ist NUR TENS. Die Unterschiede der Methoden beschreibe ich hier: &amp;lt;a href=&amp;quot;/welche-elektrotherapie-passt-zu-meinem-problem&amp;quot;&amp;gt;welche Elektrotherapie wofür geeignet ist&amp;lt;/a&amp;gt;.&amp;quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische Erwartungen
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;TENS wirkt auf die Abschwächung des Schmerzempfindens; die Ursache wird dadurch nicht beseitigt. Die Wirkung ist an die Anwendung gebunden – sie hält während und für einige Stunden nach der Behandlung an –, daher ist bei chronischen Beschwerden eine tägliche, wiederholte Anwendung einzuplanen. Die korrekte Elektrodenplatzierung und das Einstellen der Intensität erfordern Übung: Die ersten Anwendungen sind Lernphasen; beurteilen Sie das Gerät nicht allein danach.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Nicht geeignet, wenn
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Sie Muskelaufbau betreiben, atrophierte Muskulatur wiederaufbauen oder Inkontinenz mit Sonden behandeln möchten: Dafür werden EMS‑ bzw. Sondenprogramme benötigt; das Dolito enthält diese nicht. Wenn Sie beide Funktionen benötigen, sollten Sie ein multifunktionales Gerät in Betracht ziehen.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Vor der Bestellung
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;In der Produktbeschreibung finden Sie allgemeine Hinweise zur Programmauswahl, Elektrodenplatzierung und Behandlungsdauer. Die für Sie optimale Einstellung kann Ihnen der behandelnde Arzt oder Physiotherapeut je nach Zustand nennen. NICHT anwenden bei Herzschrittmacher, implantierbarem Defibrillator (ICD) oder anderem aktiven Implantat – nur mit kardiologischer Freigabe. Elektroden dürfen nicht an die vordere Halsregion, auf den Kopf, in die Augenpartie oder an die Schläfen geklebt werden, und es darf kein Strom durch den Thorax geleitet werden. In der Schwangerschaft vermeiden; bei Tumorerkrankungen, wenn das Behandlungsgebiet betroffen ist, vorher mit dem Onkologen sprechen. Bei neuen, sich verschlechternden oder ungeklärten Schmerzen ist zuerst eine ärztliche Abklärung notwendig.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/ueber-mich-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Arzt, Medizintechnik-Experte, Blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+ 
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Das sind meine Beschwerden – ist Dolito für mich geeignet?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-gyulladas.png&amp;quot; alt=&amp;quot;Gelenkschmerzen&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei Gelenks- oder Sehnenschmerzen (Arthrose, Tendinitis)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Arthritis, degenerative Gelenkprobleme (Arthrose) und Sehnenentzündungen (Tendinitis) gehen häufig mit chronischen Schmerzen einher, die TENS medikamentenfrei lindern kann. Dolito Modulated (Programm 01) oder HAN (Programm 04) sind für chronische Beschwerden optimiert – 30‑minütige Behandlungen ein- bis zweimal täglich sind möglich. Schmerzlinderung kann bereits während der Anwendung auftreten und oft auch danach anhalten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;Sitzarbeit&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei Nacken‑ oder Rückenschmerzen nach sitzender Tätigkeit&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nacken‑ und Lendenbeschwerden sind ein häufiger Begleiter von sitzender Tätigkeit. Dolito Continuous (Programm 02 – 110 Hz, 30 Min.) verschafft bei akuten, plötzlich auftretenden Schmerzen schnelle Erleichterung; Modulated (Programm 01) ist für chronische, wiederkehrende Beschwerden geeignet. Sie können das Gerät während der Arbeit oder danach zu Hause verwenden – mit dem Gürtelclip tragen und beim Fernsehen oder Lesen anwenden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/inkontinencia.png&amp;quot; alt=&amp;quot;Menstruationsschmerzen&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei Menstruationsschmerzen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Primäre Dysmenorrhoe (Menstruationskrämpfe) kann bei jungen und mittelalten Frauen sehr schmerzhaft sein und den Wunsch nach medikamentenfreier Behandlung hervorrufen. Dolito Continuous oder Modulated mit Elektroden auf dem Unterbauch kann Krämpfe lindern. Der Batteriebetrieb mit 9V und das kompakte Format sind praktisch: in der Tasche tragbar und diskret nutzbar. WICHTIG: In der Schwangerschaft NICHT verwenden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;Muskelkater&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei Muskelbeschwerden nach Training oder körperlicher Arbeit&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bei Muskelkater, Krämpfen oder post-exertionalen Schmerzen kann Dolito Burst (Programm 03) das Endorphinsystem aktivieren und zur Schmerzlinderung beitragen. Work/Rest (Programm 05) kann für leichte Muskelaktivierung genutzt werden – 10 Sekunden Stimulations‑ / 20 Sekunden Ruhezyklen. Das ersetzt keine spezialisierten Globus EMS‑Geräte für Kraftaufbau, eignet sich aber zur schonenden Reaktivierung regenerierender Muskulatur.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;Neuropathische Schmerzen&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei neuropathischen Schmerzen (Neuralgie, Ischias)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Neuralgien, Ischias, radikuläre Beschwerden und in bestimmten Fällen Phantomschmerzen können auf TENS reagieren. Dolito Modulated und HAN sind besonders gut für diese chronischen Schmerztypen geeignet. WICHTIG: Die Ursache neuropathischer Schmerzen muss immer ein Facharzt klären – behandeln Sie nicht eigenständig bei neuen oder sich verschlechternden Beschwerden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;Erschwinglicher Einstieg&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Wenn Sie ein erschwingliches Einstiegsgerät suchen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Viele Patientinnen und Patienten, die TENS in der Hausarzt‑ oder Physiotherapiepraxis kennengelernt haben, möchten ein Gerät für zuhause ohne hohe Investition. Dolito bietet ein gutes Preis-Leistungs-Verhältnis für diese Käufergruppe: deutsche MTR+ Qualität, 10 Jahre Lebensdauer, klassische 6 Programme, einfache Bedienung. Es will nicht alles sein – und das ist gerade der Vorteil: Wer ausschließlich TENS‑Schmerzlinderung sucht, zahlt nicht für unnötige Funktionen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/mutet.png&amp;quot; alt=&amp;quot;Nach Fraktur&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Bei Schmerzen nach Fraktur oder Operation&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nach Entfernen eines Gipses nach Knochenbruch oder nach kleineren Operationen (z. B. Meniskuseingriff, Sehnenrekonstruktion) kann TENS eine medikamentenfreie Option zur Schmerzreduktion bieten. Dolito Continuous ist für akute, starke Schmerzen geeignet; Modulated für die längere postoperativen Phase. WICHTIG: Beginnen Sie TENS nach einer Verletzung/Operation nur mit Zustimmung des behandelnden Arztes oder Physiotherapeuten – niemals Elektroden auf frische Narben kleben! Warten Sie nach Operation mindestens 5–7 Tage.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;Therapiekoordination&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Wenn Ihr Physiotherapeut oder behandelnder Arzt TENS zu Hause empfiehlt&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ihr Therapeut oder Arzt kann ein individuelles Protokoll (PC06) einstellen, das gespeichert und jederzeit wieder geladen werden kann.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Die 6 Programme im Detail&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Dolito bietet 6 vorprogrammierte Behandlungsmodi plus ein komplett anpassbares Programm. Jedes Programm ist für einen bestimmten Schmerzwinkel optimiert.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;moduliert&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 01 – Modulated (MOD): für chronische Schmerzen&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequenz:&amp;lt;/strong&amp;gt; 70–110 Hz variabel. &amp;lt;strong&amp;gt;Impulsbreite:&amp;lt;/strong&amp;gt; 200–100 µs variabel. &amp;lt;strong&amp;gt;Dauer:&amp;lt;/strong&amp;gt; 30 Minuten.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Durch die kontinuierlich wechselnden Parameter gewöhnt sich das Nervensystem NICHT an den Reiz – das ist bei chronischen, langanhaltenden Schmerzen vorteilhaft. Die Behandlung bleibt auch langfristig wirksam. Typische Anwendung: chronische Lenden‑ und Nackenschmerzen, Arthritis, Neuralgie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;kontinuierlich&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 02 – Continuous (CONT, klassisches TENS): für akute Schmerzen&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequenz:&amp;lt;/strong&amp;gt; 110 Hz konstant. &amp;lt;strong&amp;gt;Impulsbreite:&amp;lt;/strong&amp;gt; 175 µs. &amp;lt;strong&amp;gt;Dauer:&amp;lt;/strong&amp;gt; 30 Minuten.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Das klassische TENS‑Protokoll. Die hochfrequente kontinuierliche Stimulation blockiert nach der Gate‑Control‑Theorie die Weiterleitung von Schmerzsignalen. Typische Anwendungen: plötzliche Muskelkrämpfe, akute Lendenschmerzen, Muskelkater, postoperativer Schmerz. Schnell spürbare Erleichterung während der Anwendung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;burst&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 03 – Burst: Endorphin‑Freisetzung&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequenz:&amp;lt;/strong&amp;gt; 80 Hz. &amp;lt;strong&amp;gt;Impulsbreite:&amp;lt;/strong&amp;gt; 150 µs. &amp;lt;strong&amp;gt;Dauer:&amp;lt;/strong&amp;gt; 30 Minuten. &amp;lt;strong&amp;gt;Muster:&amp;lt;/strong&amp;gt; Zweimal pro Sekunde Gruppen aus 9 Impulsen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Burst‑Stimulation kann die Endorphinfreisetzung fördern, also die körpereigenen morphin‑ähnlichen Schmerzhemmer anregen. Typische Anwendung: chronische Schmerzen, wenn klassisches TENS nicht mehr ausreichend wirkt. Der Effekt baut sich langsamer auf, ist aber langlebiger.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/frekvencia.png&amp;quot; alt=&amp;quot;HAN&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 04 – HAN (Dense‑Disperse): HAN‑Modus&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequenz:&amp;lt;/strong&amp;gt; 100/2 Hz wechselnd (Dense‑Disperse). &amp;lt;strong&amp;gt;Impulsbreite:&amp;lt;/strong&amp;gt; 200/350 µs. &amp;lt;strong&amp;gt;Dauer:&amp;lt;/strong&amp;gt; 30 Minuten. &amp;lt;strong&amp;gt;Muster:&amp;lt;/strong&amp;gt; 3‑3 Sekunden Zyklen mit abwechselnd hoher und niedriger Frequenz.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Von Professor Han entwickelte Methode, die verschiedene Opioidtypen aktivieren kann – sowohl Enkephalin‑ als auch Dynorphinsysteme. Typische Anwendung: schwerer zu behandelnde chronische Schmerzen, wenn klassisches TENS und Burst nicht ausreichen. Einer der feineren endorphinaktivierenden TENS‑Modi.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;Muskelstärkung&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 05 – Work/Rest (Kontraktion/Erholung): leichte Muskelaktivierung&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequenz:&amp;lt;/strong&amp;gt; 50 Hz. &amp;lt;strong&amp;gt;Impulsbreite:&amp;lt;/strong&amp;gt; 300 µs. &amp;lt;strong&amp;gt;Dauer:&amp;lt;/strong&amp;gt; 20 Minuten. &amp;lt;strong&amp;gt;Muster:&amp;lt;/strong&amp;gt; Zyklen mit 10 Sekunden Aktivität + 20 Sekunden Ruhe.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Obwohl Dolito als reines TENS‑Gerät positioniert ist, kann dieses Programm eine leichte Muskelaktivierung bewirken. Typische Anwendung: schonende Reaktivierung längere Zeit inaktiver Muskeln, Regeneration, Schwachmuskelaufbau. WICHTIG: Die Muskelstärkungsleistung von Dolito ist NICHT mit dedizierten Globus EMS‑Geräten vergleichbar – eher ergänzend als primär.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;individuell&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programm 06 – PC06 (Individuell): volle Personalisierung&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Im PC06‑Programm lassen sich alle Parameter individuell einstellen: Behandlungsdauer 1–599 Minuten, Frequenz 1–150 Hz, Impulsbreite 50–350 µs, Modulationstyp frei wählbar. Es ist für vom Arzt oder Physiotherapeuten definierte spezifische Protokolle gedacht. Mit 60 Tagen Speicher + STIM LOCK kann der Fachmann ein individuelles Protokoll einstellen und sperren.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Häufige Fragen&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;wichtig&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kann ich es mit einem Herzschrittmacher oder implantiertem Gerät verwenden?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nein.&amp;lt;/strong&amp;gt; Ein Herzschrittmacher, implantierbarer Defibrillator (ICD) oder jegliches elektronisches Implantat ist eine &amp;lt;strong&amp;gt;absolute Kontraindikation&amp;lt;/strong&amp;gt;. TENS‑Impulse können die Funktion solcher Implantate stören und lebensgefährlich sein. Wenn Sie ein solches Gerät haben, verwenden Sie das Dolito unter keinen Umständen – auch nicht an den Extremitäten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;achtung&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Darf ich es während der Schwangerschaft verwenden?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;In der Schwangerschaft – insbesondere im ersten Trimester – wird die Anwendung von TENS NICHT empfohlen. Die Behandlung von Unterbauch, Bauch und Lendenbereich ist während der gesamten Schwangerschaft verboten. Während der Geburt gibt es an manchen Kliniken spezielle geburtshilfliche TENS‑Protokolle, die von Fachpersonal angewendet werden. Bei Unsicherheit fragen Sie bitte Ihre Gynäkologin/Ihren Gynäkologen oder Ihre Hebamme.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Was unterscheidet Dolito von den Globus Einstiegsgeräten (Elite SII, Genesy SII)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Wichtige Unterschiede:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Dolito (MTR+, Deutschland):&amp;lt;/strong&amp;gt; REINES TENS‑Gerät. 6 Programme. 2 Kanäle. 9V‑Batterie. Nur Schmerztherapie (und leichte Muskelaktivierung mit Programm 5). Einstiegssegment.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elite SII (Globus, Italien):&amp;lt;/strong&amp;gt; Multifunktional (TENS + EMS/NMES). 100 Programme. 2 Kanäle. Akku. Geeignet für Sport, Bodyforming und Schmerztherapie.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Genesy SII (Globus, Italien):&amp;lt;/strong&amp;gt; Multifunktional, pélvischer Fokus. Auch für Sondenbehandlung bei Inkontinenz geeignet. Akku.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Wenn Sie reine Schmerzbehandlung suchen und ein einfaches, günstiges Einstiegsgerät wollen → Dolito. Wenn EMS für Sport, Körperformung oder Sonden‑Inkontinenz wichtig ist → Elite SII oder Genesy SII.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Worin unterscheiden sich die 4 TENS‑Programme (Modulated, Continuous, Burst, HAN) praktisch?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Kurz gesagt:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Continuous (Programm 02):&amp;lt;/strong&amp;gt; das klassische „schnell wirkende&amp;quot; TENS. Für akute Schmerzen – z. B. plötzliche Rückenschmerzen, Muskelkrampf. Wirkung während der Anwendung spürbar.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Modulated (Programm 01):&amp;lt;/strong&amp;gt; die variierenden Parameter verhindern Gewöhnung. Für chronische Schmerzen – z. B. wiederkehrende Nacken‑ oder Gelenkschmerzen.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Burst (Programm 03):&amp;lt;/strong&amp;gt; kann das Endorphinsystem aktivieren – körpereigene Schmerzhemmer. Baut langsamer auf, wirkt dafür länger. Für chronische Schmerzen und Langzeitanwendung.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HAN (Programm 04):&amp;lt;/strong&amp;gt; der feinere endorphinaktivierende Modus mit wechselnden hohen und niedrigen Frequenzen. Für schwieriger zu behandelnde chronische Schmerzen, wenn klassisches TENS nicht genügt.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Allgemeiner Rat: Beginnen Sie mit Continuous (schnelle Linderung). Bei chronischen Beschwerden wechseln Sie zu Modulated → Burst → HAN, um zu prüfen, was für Sie am besten wirkt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wie oft darf ich es verwenden?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;TENS ist medikamentenfrei und in der Regel gut verträglich. Typische Protokolle:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Akuter Schmerz:&amp;lt;/strong&amp;gt; 15–30 Minuten, 2–3 Mal täglich, nach Bedarf.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Chronischer Schmerz:&amp;lt;/strong&amp;gt; 30–45 Minuten, 1–2 Mal täglich, langfristige Anwendung.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Muskelaktivierung (Work/Rest):&amp;lt;/strong&amp;gt; 20–30 Minuten, einmal täglich.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Menstruationsschmerz:&amp;lt;/strong&amp;gt; in krampfhaften Phasen, nach Bedarf.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Verwenden Sie das Gerät niemals beim Führen eines Fahrzeugs oder bei der Arbeit an gefährlichen Maschinen. Bei neuen oder sich verschlechternden Beschwerden konsultieren Sie Ihren behandelnden Arzt – TENS ersetzt keine diagnostische Abklärung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wie platziere ich die Elektroden bei Rückenschmerzen?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bei lumbalen Schmerzen übliche Platzierung: 4 Stück 40×40 mm Elektroden im Bereich der Lendengegend, die den schmerzhaften Punkt umschließen. Kanal 1: zwei Elektroden beidseits der Wirbelsäule in Höhe der mittleren Lendenwirbelsäule (ca. L3–L4). Kanal 2: zwei Elektroden ober‑ und unterhalb des Schmerzbereichs, so dass das Areal eingekreist wird. Kleben Sie keine Elektroden direkt auf die Wirbelsäule. Genauere Abbildungen finden Sie in der deutschen Gebrauchsanweisung. Bei Unsicherheit fragen Sie Physiotherapeut oder Heilpraktiker bzw. Fachpersonal.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wie lange hält eine 9V‑Batterie?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Eine qualitativ hochwertige 9V‑Batterie (6LR61/6AM6) liefert bei 20 mA etwa 12 Stunden Laufzeit. Bei täglicher 30‑minütiger Nutzung entspricht das etwa 3–4 Wochen intensiver Anwendung. Bei niedrigerer Intensität (z. B. 10–15 mA) kann die Lebensdauer bis auf ca. 6 Wochen oder mehr steigen. Tipp: Verwenden Sie hochwertige Alkali‑Batterien, lagern Sie sie nicht im Frost und entnehmen Sie die Batterie bei längerer Nichtbenutzung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Demo‑ und Anwendungsvideo&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Das folgende Video zeigt die Vorstellung des Dolito‑Geräts und die grundlegende Anwendung.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Vorstellung des Dolito‑Geräts&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Allgemeine Präsentation des Dolito TENS‑Geräts, Übersicht der 6 Programme, Elektrodenanbringung und Basisanwendung. Praktische Demonstration der deutschen MTR+‑Qualität.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/PfvLpBD6mco?si=fydkHs0uozyS4PVc&amp;quot; title=&amp;quot;Dolito TENS Gerät Demonstration&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Anleitung: Schritt für Schritt&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Setzen Sie die 9V‑Batterie ein&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Das Gerät wird mit einer 9V‑Batterie (6LR61 oder 6AM6) betrieben – eine Batterie liefert bei 20 mA rund 12 Stunden Laufzeit, was bei 30 Minuten täglich mehrere Wochen Nutzung bedeutet. KEIN Akku‑Ladegerät, kein Netzteil – austauschen und weiterverwenden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Wählen Sie das Programm&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Auf dem großen LCD wählen Sie eines der 6 Programme: Modulated (chronische Schmerzen), Continuous (akut), Burst (Endorphin), HAN (Dense‑Disperse chronisch), Work/Rest (Muskelaktivierung) oder PC06 (individuell). Display zeigt aktuelle Frequenz, Impulsbreite und verbleibende Zeit an.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Kleben Sie die 4 x 40×40 mm Elektroden auf&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Im Lieferumfang sind 4 selbstklebende 40×40 mm TENS‑Elektroden – üblicherweise 2 pro Kanal, die den schmerzhaften Bereich umschließen oder einem Nervenverlauf folgen. Haut muss sauber und trocken sein – Cremes, Öle oder Schweiß verringern die Haftung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Start + Intensitätsanpassung (0–80 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Das Gerät erkennt automatisch, wenn eine Elektrode abgeht oder ein Kabel beschädigt ist, und stoppt die Behandlung. Die Intensität lässt sich kanalweise in einem Bereich von 0–80 mA einstellen – erhöhen Sie langsam, bis ein angenehmes Kribbeln spürbar ist. Es darf KEIN Schmerz entstehen. Nach einer Minute sperrt die Erhöhung automatisch, damit Sie nicht versehentlich zu stark erhöhen können.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Tragen mit Gürtelclip oder im Sitzen&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Mit 150 g Gewicht und Gürtelclip können Sie es bei Arbeit, Hausarbeit oder Spaziergang tragen – Sie müssen nicht reglos sitzen. Der Timer stoppt am Ende der eingestellten Zeit (meist 20–30 Min.). Mit PC06 sind auch Behandlungen bis 9 Std. 59 Min. möglich (z. B. nächtliche Dauerbehandlung – nur nach ärztlicher Rücksprache).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;60 Tage Speicher + Datenübergabe an Arzt&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Das Gerät protokolliert Datum, Dauer und Typ jeder Behandlung. Innerhalb von 60 Tagen kann Ihr Arzt oder Physiotherapeut die Daten abrufen, um Regelmäßigkeit zu prüfen und das Protokoll zu optimieren. Diese Funktion ist in dieser Preisklasse selten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;
+ &amp;lt;!-- 9. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Lieferumfang&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Das Dolito Basis‑Set – alles Nötige, um sofort zu starten.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk&amp;lt;/strong&amp;gt; Dolito TENS‑Gerät (2‑kanalig)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 Stk&amp;lt;/strong&amp;gt; Stimulationskabel (je Kanal 1)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 Stk&amp;lt;/strong&amp;gt; 40×40 mm selbstklebende TENS‑Elektroden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk&amp;lt;/strong&amp;gt; 9V‑Batterie (6LR61/6AM6)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk&amp;lt;/strong&amp;gt; deutsche Bedienungsanleitung&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Gürtelclip für tragbare Anwendung (auf der Rückseite des Geräts)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;Wartung&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Wartung und Ersatzteile&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Selbstklebende Elektroden:&amp;lt;/strong&amp;gt; Haftdauer nimmt nach 25–30 Anwendungen ab. Nachkauf in 40×40 mm ist möglich. Nach Gebrauch auf Schutzfolie zurücklegen. Tipp: auf sauberer, rasierten Haut verwenden und Elektroden nicht abreißen, sondern vorsichtig an der Ecke abziehen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;9V‑Batterie:&amp;lt;/strong&amp;gt; ca. 12 Std. Laufzeit bei 20 mA. Bei längerer Nichtbenutzung Batterie entnehmen, um Auslaufen zu vermeiden. Nur originale oder hochwertige 6LR61/6AM6 Alkali‑Batterien verwenden.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Gerät reinigen:&amp;lt;/strong&amp;gt; Außenseite mit trockenem oder leicht feuchtem Tuch. Für Elektroden kein Alkohol verwenden – das zerstört die Haftschicht.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;separat bestellbar&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Separat bestellbare Zubehörteile&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Erweiterungsmöglichkeiten:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Ersatz‑Elektroden‑Sets:&amp;lt;/strong&amp;gt; 40×40 mm, empfohlen nach 25–30 Anwendungen zu wechseln.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elektroden in anderen Größen:&amp;lt;/strong&amp;gt; In manchen Fällen sind größere Elektroden (z. B. 50×50 mm) bei großflächigen Rückenschmerzen komfortabler.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elektrodengel:&amp;lt;/strong&amp;gt; Für empfindliche Haut oder längere Anwendungen zur Verbesserung der Haftung (bei selbstklebenden Elektroden meist nicht notwendig).&amp;lt;/li&amp;gt;
+
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 10. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische Daten – im Detail&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Eigenschaft&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Wert&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Was bedeutet das für Sie?&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Anzahl Kanäle&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2 (getrennt, isoliert)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Sie können zwei verschiedene Bereiche gleichzeitig behandeln&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Stromart&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS (nur)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Reine Schmerztherapie – kein EMS‑Trainingsgerät&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Anzahl Programme&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;6 Programme (5 voreingestellt + 1 individuell PC06)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Die wichtigsten TENS‑Protokolle abgedeckt; individuelle Anpassung möglich&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensität&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–80 mA (bei 500 Ω Last)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Kanalweise einstellbar, von schwach bis mittelstark&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frequenz&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1–150 Hz (Burst: 35–150 Hz)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Sowohl niedrige (endorphin) als auch hohe (Schmerzblock) Frequenzen verfügbar&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Impulsbreite&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50–350 µs (Burst: 50–200 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Fein einstellbar von dünner Haut bis zu größeren Muskelgruppen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Wellenform&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Asymmetrische, biphasische Rechteckwelle&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stabile Signalqualität, effektive Stimulation&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Behandlungsdauer&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 Minute – 9 Std. 59 Min. (mit individuellem PC06)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Kurzbehandlung oder lange chronische Protokolle möglich&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Speicher&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60‑tägiges detailliertes Speicherprotokoll&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ihr Arzt oder Physiotherapeut kann die Nutzung überprüfen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Programmsperre&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;STIM LOCK Funktion&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Fachpersonal kann ein individuelles Protokoll einstellen und sperren&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensitätssperre&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatische Sperre nach 1 Minute&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Verhindert versehentliche Überstimulation&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Unterbrechungserkennung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatische Abschaltung&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stoppt die Behandlung bei abgefallener Elektrode oder Kabeldefekt&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Gerätemaße&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;11,7 × 6,6 × 3,3 cm&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Passt in die Tasche, mit Gürtelclip tragbar&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Gewicht&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;150 g (inkl. Batterie)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Diskret und mobil – unauffällig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Schutzklasse&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;IP20&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Für den Innenbereich unter normalen Bedingungen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Stromversorgung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;9V Batterie (6LR61 / 6AM6)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;KEINE Akkuaufladung – Batterie wechseln und weiterverwenden&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Batterielaufzeit&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;~12 Std. (bei 20 mA)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Bei 30 Min. täglich ca. 3–4 Wochen intensive Nutzung&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Erwartete Lebensdauer&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;10 Jahre&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Langlebige Zuverlässigkeit&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Display&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Großes LCD mit detaillierten Informationen&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Frequenz, Impulsbreite, verbleibende Zeit klar ablesbar&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Zertifizierung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Europäische Konformität, Qualitätsmanagement&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Hersteller&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Deutschland)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Hergestellt nach deutschen Qualitätsstandards&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+ &amp;lt;!-- 11. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;Warnung&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wann sollten Sie das Dolito NICHT verwenden?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;In den folgenden Situationen kann eine TENS‑Behandlung gefährlich sein oder Nebenwirkungen verursachen. Trifft eine der folgenden Aussagen auf Sie zu, beginnen Sie die Anwendung nur nach Rücksprache mit dem behandelnden Arzt.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Herzschrittmacher, implantierbarer Defibrillator (ICD) oder jegliches elektronisches Implantat – TENS‑Impulse können deren Funktion stören
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Herzrhythmusstörungen, Myokardschädigung oder schwere kardiovaskuläre Erkrankungen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Schwangerschaft (insbesondere im ersten Trimester; Behandlung von Unterbauch, Bauch und Lendenregion während der gesamten Schwangerschaft verboten)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Epilepsie oder andere epileptische Erkrankungen mit Anfallsneigung
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Aktive bösartige Tumorerkrankung in der Nähe des Behandlungsgebiets
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Fieberhafte Erkrankung oder akute entzündliche Prozesse
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Verletzte, irritierte oder offene Wunden im Behandlungsgebiet
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Elektrodenanbringung am Kopf, an der vorderen Halsregion (Carotis‑Sinus) oder über dem Herzbereich – VERBOTEN
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Verminderte oder fehlende Hautsensibilität im Behandlungsgebiet (z. B. Neuropathie bei Diabetes, Sensibilitätsausfall)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ In der Nähe von Metallimplantaten – nur nach ärztlicher Freigabe
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Nickel‑ oder andere Metallallergie – beobachten Sie Hautreaktionen sorgfältig
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Während des Fahrens oder bei Bedienung schwerer Maschinen – niemals
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Kinder: keine selbstständige Anwendung (unter 12 Jahren nur unter Aufsicht eines Erwachsenen und Anleitung durch einen Physiotherapeuten)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Unsicher?&amp;lt;/strong&amp;gt; Konsultieren Sie vor der Anwendung unbedingt Ihren behandelnden Arzt oder Physiotherapeuten – insbesondere bei chronischen Erkrankungen, Dauermedikation oder implantierten medizinischen Geräten. Ausführliche Informationen finden Sie in meinem Artikel: &amp;lt;a href=&amp;quot;/nebenwirkungen-und-kontraindikationen-elektrischer-behandlungen&amp;quot;&amp;gt;Kontraindikationen der Elektrotherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 12. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;Information&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wichtige Hinweise
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Dolito ist ein nach CE zertifiziertes, Class IIa Medizinprodukt (CE 0123, gemäß MDD 93/42/EEC) und für die eigenständige Anwendung zuhause vorgesehen. Dennoch ersetzt die Anwendung in keiner Form die medizinische Diagnose, ein individuelles Protokoll durch qualifizierten Physiotherapeuten oder eine vorgeschriebene medikamentöse Therapie. Das Gerät ist als ergänzendes Mittel neben bestehender Therapie zu sehen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Bei neuen oder sich verschlechternden Beschwerden (z. B. anhaltender Schmerz, Taubheit, Schwäche) suchen Sie bitte umgehend Ihren behandelnden Arzt auf – TENS darf keine Symptome „überdecken&amp;quot;, die auf ernsthafte Erkrankungen hinweisen. Bei chronischen Schmerzen sollte vor regelmäßiger TENS‑Anwendung die Ursache geklärt werden.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Verwenden Sie nur originale Ersatzteile; tauschen Sie Elektroden regelmäßig (nach 25–30 Anwendungen) und achten Sie bei Nickelallergie auf Hautreaktionen. Halten Sie das Gerät stets außerhalb der Reichweite von Kindern.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Die Informationen auf dieser Seite dienen der allgemeinen Orientierung und ersetzen nicht die individuelle medizinische Beratung, Diagnose oder Behandlung. Bei konkreten Beschwerden konsultieren Sie immer Ihren behandelnden Arzt.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 13. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Verwandte Geräte und Wissensartikel&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/rehalito&amp;quot;&amp;gt;Rehalito – multifunktionales Gegenstück der Lito‑Serie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/myolito&amp;quot;&amp;gt;Myolito – Muskelstimulator aus der Lito‑Serie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/elite-s2&amp;quot;&amp;gt;Elite SII – Globus 2‑kanaliges multifunktionales Einstiegsgerät (TENS + EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/genesy-s2&amp;quot;&amp;gt;Genesy SII – Globus 2‑kanaliges, aufs Beckenboden fokussiertes Einstiegsgerät →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/elektrotherapie&amp;quot;&amp;gt;Elektrische Behandlung – Überblick über TENS/EMS‑Geräte →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/tensbehandlung-schmerzlinderung-ohne-medikamente&amp;quot;&amp;gt;TENS‑Behandlung – schmerzfreie Linderung zuhause (Artikel) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/schmerzlindernde-impulse&amp;quot;&amp;gt;Erläuterung der TENS‑Programme (Artikel) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/welche-elektrotherapie-passt-zu-meinem-problem&amp;quot;&amp;gt;Welche Elektrotherapie wofür geeignet ist? – Entscheidungsleitfaden →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>359646</Id>
+        <Name>Therapie zu Hause|Elektrotherapie|TENS-Gerät</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>310566</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Rückenschmerzen im Lendenbereich</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>514818</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Rückenschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>138992</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Knieschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>495333</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Schulterschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>866833</Id>
+        <Name>Krankheitsbehandlung|Erkrankungen des Bewegungsapparats|Arthrose</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>469599</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Handgelenkschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>170701</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Knöchelschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>346851</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Nackenschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>411340</Id>
+        <Name>Krankheitsbehandlung|Symptome A–Z|Schmerz|Ellenbogenschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>724489</Id>
+        <Name>Krankheitsbehandlung|Schmerzbehandlung</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>680692</Id>
+        <Name>Krankheitsbehandlung|Erkrankungen des Bewegungsapparats|Lumbago</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>154789</Id>
+        <Name>Krankheitsbehandlung|Erkrankungen des Bewegungsapparats|Ischias</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>292982</Id>
+        <Name>Krankheitsbehandlung|Erkrankungen des Bewegungsapparats|Fibromyalgie</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>915226</Id>
+        <Name>Krankheitsbehandlung|Női egészség|Menstruationsschmerzen</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>975903</Id>
+        <Name>Krankheitsbehandlung|Női egészség|Endometriózis</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/spd/010E-200/Dolito</Url>
+    <SefUrl>dolito</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-200</DefaultFilename>
+      <DefaultAlt>Dolito</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247050</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-200.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-200/010E-200.webp?time=1743247050</SefUrl>
+        <Filename>010E-200</Filename>
+        <Alt>Dolito</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Anweisungen-fur-den-Gebrauch.pdf - Benutzerhandbuch</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.lymphpumpe.de/tensbehandlung-schmerzlinderung-ohne-medikamente - Medikamentenfreie Schmerzlinderung</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Anweisungen-fur-den-Gebrauch.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>Der Dolito ist ein kompaktes, tragbares Gerät mit elektrischen Impulsen und zweikanaliger Ausführung mit separat anschließbaren Ausgängen. Er bietet mehrere voreingestellte Programme sowie einstellbare Intensitätsstufen und ermöglicht damit eine flexible Nutzung. Das übersichtliche Display und die einfachen Bedienelemente sorgen für eine unkomplizierte Handhabung. Dank Batteriebetrieb und handlichem Format eignet sich das Gerät für den Einsatz zu Hause oder unterwegs. Positioniert als Lifestyle-</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279580825</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-200</Value>
+      </Param>
+    </Params>
+    <AdditionalDatas>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;</Content>
+      </AdditionalData>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;</Content>
+      </AdditionalData>
+    </AdditionalDatas>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1195419445</Id>
+        <Sku>E-TRALKN</Sku>
+        <Name>TensCare Knee Pain Elektrode zur Kniebehandlung</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1196752255</Id>
+        <Sku>E-TRALBA</Sku>
+        <Name>TensCare Back Pain Elektrode zur Behandlung von Rücken- und Lendenschmerzen</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332634</Id>
+        <Sku>KM406-M</Sku>
+        <Name>Handschuh-Elektrode Paar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332849</Id>
+        <Sku>KM407</Sku>
+        <Name>Paar Sockenelektroden</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419440</Id>
+        <Sku>E-TRALNE</Sku>
+        <Name>TensCare Neck Pain Elektrode zur Nackenbehandlung</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS Elektrode mit Nadeln, 4er-Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm TENS Elektrode mit Stiften, 4er-Set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS-Elektrode 5x5cm, stachelig, 4 Stk./Pack.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9cm TENS-Elektrode mit Stift, 4er Set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm TENS-Elektrode, nadelig, 4er Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10cm TENS-Elektrode, mit Nadeln, 4 Stück/Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2,5cm runde TENS-Elektrode mit Nadeln 4er/Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3,2 cm runde TENS-Elektrode mit Stiften, 4er Pack.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419280</Id>
+        <Sku>CF5000</Sku>
+        <Name>ValueTrode 5 cm runde TENS-Elektrode mit Stift-/Nadelfunktion, 4 Stück/Set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5cm TENS-Elektrode mit Stift – 4 Stück/Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9cm TENS-Elektrode, stiftig, 4er-Pack</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2,5 cm runde TENS-Elektrode mit Nadel, 10 Stück/Pack.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419405</Id>
+        <Sku>E-CR50100</Sku>
+        <Name>Cool Relief 5x10cm TENS-Elektrode mit Nadel, 4 Stück</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419400</Id>
+        <Sku>E-CR5050</Sku>
+        <Name>Cool Relief 5x5cm TENS-Elektrode mit Nadeln, 4 Stück/Set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332719</Id>
+        <Sku>SR4550</Sku>
+        <Name>Gummielektrode 45x50 mm mit Stiftanschluss</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332704</Id>
+        <Sku>S-7000-6x2</Sku>
+        <Name>Schwammhülle (1 Paar) für 45x50mm Gummielektroden</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332809</Id>
+        <Sku>SR5090</Sku>
+        <Name>Gummi-Elektrode 45x90mm mit Nadelanschluss</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332814</Id>
+        <Sku>S-7000-5x2</Sku>
+        <Name>Schwammhülle (1 Paar) für 45x90mm Gummielektroden</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332819</Id>
+        <Sku>sca-670001</Sku>
+        <Name>Flexibler Riemen 5x50 cm, 2 Stück, weiß</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332644</Id>
+        <Sku>EG260</Sku>
+        <Name>ContiGel Kontaktgel 260gr</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332874</Id>
+        <Sku>KM408</Sku>
+        <Name>Handgelenkselektroden, Paar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332879</Id>
+        <Sku>KM409</Sku>
+        <Name>Ellbogen-Elektrodenpaar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332884</Id>
+        <Sku>KM410</Sku>
+        <Name>Knieelektrodenpaar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207310449</Id>
+        <Sku>G0439</Sku>
+        <Name>Y-Kabel für Elektrostimulatoren, mit Pin-Anschluss</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332699</Id>
+        <Sku>012E-012</Sku>
+        <Name>Kabelset für MTR-Stimulatoren 1 m</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <SimilarProducts>
+      <SimilarProduct>
+        <Id>1196751675</Id>
+        <Sku>G3552</Sku>
+        <Name>Elite SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418895</Id>
+        <Sku>G3725</Sku>
+        <Name>Genesy SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418755</Id>
+        <Sku>010E-004</Sku>
+        <Name>MyoBravo</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418935</Id>
+        <Sku>010E-205</Sku>
+        <Name>Myolito</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418740</Id>
+        <Sku>K-UNIPRO</Sku>
+        <Name>UniPro</Name>
+      </SimilarProduct>
+    </SimilarProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30624</Id>
+        <Name>2 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dolito, Dolito TENS, TENS Gerät, Reizstromgerät, Elektrostimulation, medikamentenfreie Schmerzlinderung, Burst Modus, HAN Dense-Disperse, TENS für zu Hause, Rückenschmerzen, Nackenbeschwerden, Gelenkschmerzen, Arthrose, Sehnenscheidenentzündung, Elektroden 40x40 mm</Keywords>
+      <Description>Mit sechs TENS-Protokollen, darunter Burst und HAN, kann das Dolito zur Schmerzlinderung zu Hause beitragen. Inkl. 2 Kabel, 4 Elektroden 40x40 mm, 9V Block.</Description>
+      <Title>Dolito TENS Gerät | 6 Programme zur Schmerzlinderung</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

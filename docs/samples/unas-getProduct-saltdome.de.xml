@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=OKA03-015, Lang=de, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1196751750</Id>
+    <Sku>OKA03-015</Sku>
+    <CreateTime>1743412218</CreateTime>
+    <LastModTime>1795076166</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Für Bestellung</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Nur für medizinisches Fachpersonal</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>In Zusammenarbeit präsentiert</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>SaltDome Salztherapiegerät</Name>
+    <Unit>db</Unit>
+    <MaximumQty>18</MaximumQty>
+    <UnitStep>1</UnitStep>
+    <AlterUnit>
+      <Qty>1</Qty>
+      <Unit>db</Unit>
+    </AlterUnit>
+    <Weight>0.58</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;Das SaltDome Salztherapiegerät ist ein für die Heimanwendung empfohlenes Atemunterstützungsgerät zur Begleitung chronischer Atemwegsbeschwerden. Einsetzbar bei COPD, Asthma, Atemwegsallergien, Erkältungen, belastungsinduziertem Asthma und sogar bei Atemproblemen von Haustieren (Hunde und Katzen).&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Im Preis enthalten:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;SaltDome Gerät &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Netzadapter &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Salzportionierlöffel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Messbecher &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Fernbedienung &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 Stk.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.lymphpumpe.de/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Unser ärztlicher Experte sagt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Die Salztherapie ist kein akutes Medikament und bewirkt keine sofort sichtbaren Veränderungen – erwarten Sie das nicht. Bei regelmäßiger Anwendung wirkt sie »unauffällig«: Sie werden feststellen, dass Erkältungsphasen seltener auftreten, das Atmen leichter fällt und der Schlaf erholsamer ist. Der Schlüssel ist die Regelmäßigkeit – daher empfehle ich die nächtliche Anwendung im Schlaf: So wird die Behandlung nicht zur Extra-Aufgabe, sondern Teil der täglichen Routine. Das &amp;lt;span style=&amp;quot;color: rgb(74, 134, 232);&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;SaltDome Salztherapiegerät&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt; ist dafür ein praktikables Familiengerät. Die Salztherapie ist in jedem Lebensalter anwendbar – denken Sie nur an die vielen Menschen, die am Meer leben. Und ja: Auch bei Atemproblemen von Hund oder Katze kann sie unterstützend wirken.“&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische Erwartungen
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Bei regelmäßiger Anwendung, nach einigen Tagen bis Wochen, können sich Effekte zeigen: weniger Husten, freiere Atemwege, freiere Nasenatmung und ruhigerer Schlaf. Von einer einzigen Anwendung dürfen Sie keine Wunder erwarten. Es ersetzt kein Notfallmedikament: Bei einem asthmatischen Anfall ersetzt es nicht das Bedarfsinhalationsgerät.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Nicht das richtige Gerät, wenn
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Sie sofortige Symptomlinderung suchen – der SaltDome entfaltet seine Wirkung bei kontinuierlicher, täglicher Anwendung. Bei chronischen Lungenerkrankungen (z. B. COPD, Mukoviszidose, nach Pneumonie), wenn Sekret aktiv abgehustet werden muss, kann zusätzlich das &amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/aerobika-opep-device&amp;quot;&amp;gt;AerobikA OPEP&amp;lt;/a&amp;gt; hilfreich sein – beide Methoden lassen sich kombinieren.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Bevor Sie bestellen
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Die Salztherapie ist ergänzend und natürlich – sie ersetzt keine medikamentöse Behandlung.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.lymphpumpe.de/ueber-mich-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Arzt, Medizintechnik-Experte, Blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON (a részletes betegség-tartalmak a cluster-cikkekben) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Bei welchen Beschwerden kann der SaltDome helfen?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-allergias-no.png&amp;quot; alt=&amp;quot;allergia&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Atemwegsallergien, Heuschnupfen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Salzhaltige Luft kann die Nasengänge reinigen und die Schwellung der Schleimhaut reduzieren. Viele Allergiker berichten, dass sie bei Beginn der Anwendung 2–4 Wochen vor der Saison mildere Symptome haben. Details: &amp;lt;a href=&amp;quot;/heuschnupfen-salztherapie&amp;quot;&amp;gt;Heuschnupfen und Salztherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;nátha, gyerek&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Oft erkältete Kinder, wiederkehrende Erkältungen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die sekretlösende Wirkung kann die Genesung beschleunigen, und regelmäßige Anwendung scheint laut Studien auch präventiv zu wirken – besonders in Kindergarten- und Schulzeiten, wo Infektionen schnell zirkulieren.&amp;lt;sup&amp;gt;7&amp;lt;/sup&amp;gt; Details: &amp;lt;a href=&amp;quot;/erkaltung-salztherapie&amp;quot;&amp;gt;Erkältung und Salztherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;asztma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Asthma – als ergänzende Behandlung&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Studien deuten darauf hin, dass Halotherapie als ergänzende Behandlung bei Asthma vorteilhaft und ohne relevante Nebenwirkungen sein kann – auch bei Kindern.&amp;lt;sup&amp;gt;3,6&amp;lt;/sup&amp;gt; Wichtig: Bei asthmatischem Anfall ersetzt sie nicht das Notfallinhalationsgerät! Details: &amp;lt;a href=&amp;quot;/asthma-salztherapie&amp;quot;&amp;gt;Asthma und Salztherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;COPD und chronische Atemwegserkrankungen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Salzhaltige Luft kann die Sekretlösung unterstützen und das Atmen erleichtern; Studien berichten über Verbesserungen der Lungenfunktion und Lebensqualität — stets als Ergänzung zur medikamentösen Therapie, niemals als Ersatz.&amp;lt;sup&amp;gt;2,4,5&amp;lt;/sup&amp;gt; Details: &amp;lt;a href=&amp;quot;/copd-und-salztherapie&amp;quot;&amp;gt;COPD und Salztherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arcureg-gyulladas.png&amp;quot; alt=&amp;quot;arcüreg&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Sinusitis, verstopfte Nase, Schnarchen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die feinen Salzkristalle können auch in die Nebenhöhlen gelangen und das Lösen von Sekreten unterstützen. Wenn das Schnarchen eine nasale Ursache hat (z. B. Verstopfung, Allergie), kann freie Nasenatmung das Schnarchen reduzieren. Details: &amp;lt;a href=&amp;quot;/kieferhoehlenentzundung-salztherapie&amp;quot;&amp;gt;Sinusitis und Salztherapie&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;/schnarchen-salztherapie-freie-atmung&amp;quot;&amp;gt;Schnarchen und Salztherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-no.png&amp;quot; alt=&amp;quot;háziállat&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Sportler – Belastungsasthma&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bei Sportlern kann salzhaltige Luft Belastungsasthma-Symptome mindern und die Regeneration unterstützen. Details: &amp;lt;a href=&amp;quot;/salztherapie-fuer-sportler&amp;quot;&amp;gt;Halotherapie für Sportler&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/macska.png&amp;quot; alt=&amp;quot;háziállat&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Atemprobleme bei Haustieren&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bei Hunden und Katzen mit Atemproblemen kann die Therapie ähnlich wie beim Menschen unterstützend eingesetzt werden. Details: &amp;lt;a href=&amp;quot;/salztherapie-haustiere-hunde-katzen&amp;quot;&amp;gt;Halotherapie für Haustiere&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;Wenn Sie Hintergrund, Geschichte und einen Vergleich der Methoden (Salzgrotte, Salzzimmer, Salzpfeife, Salzlampen) suchen, haben wir das im &amp;lt;a href=&amp;quot;/salztherapie-halotherapie-leitfaden&amp;quot;&amp;gt;umfassenden Leitfaden zur Salztherapie&amp;lt;/a&amp;gt; zusammengefasst.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. HATÁSMECHANIZMUS – tömörítve, a részletek a pillar-cikkben --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wie wirkt die eingeatmete salzhaltige Luft?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Der SaltDome vernebelt die Salzlösung per Ultraschall und setzt 2–5 Mikron große Salzkristalle frei. Diese Partikelgröße kann laut Forschung bis in die unteren Atemwege vordringen — klein genug für die Bronchien, aber groß genug, um sich dort abzusetzen.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt; Das anhaftende Salz kann auf drei Weisen wirken:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Sekretverflüssigung:&amp;lt;/strong&amp;gt; Salz zieht osmotisch Wasser an die Schleimhautoberfläche – wie beim Einsalzen eines Gurkensalats. Sekrete werden dünnflüssiger und leichter abgehustet.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Beruhigung der Schleimhaut:&amp;lt;/strong&amp;gt; Salzkristalle können die Viskosität des Schleims reduzieren und zur Wiederherstellung einer normalen Schleimhautfunktion beitragen, was auch bei Allergien vorteilhaft sein kann.&amp;lt;sup&amp;gt;1,8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Unterstützung der Flimmerhärchen:&amp;lt;/strong&amp;gt; Die Zilien auf den Schleimhäuten transportieren Partikel und Sekret nach außen; bei chronischen Erkrankungen ist diese Funktion oft verlangsamt — Halotherapie kann laut Studien die mukoziliäre Clearance fördern.&amp;lt;sup&amp;gt;2&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO BUTTON (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Häufig gestellte Fragen&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wie schnell sind Ergebnisse zu erwarten?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Die meisten Anwender bemerken bereits nach einigen Tagen regelmäßiger nächtlicher Nutzung Veränderungen. Halotherapie ist keine akute Behandlung: Regelmäßigkeit ist wichtiger als Intensität. Geben Sie Ihrem Körper ein paar Wochen Zeit.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ist es für Kinder sicher?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ja, Halotherapie ist in der Regel auch für Kinder sicher (denken Sie an die Millionen Menschen, die am Meer leben). Studien bei Kindern fanden keine relevanten Nebenwirkungen, und regelmäßige Anwendung kann die Häufigkeit oberer Atemwegsinfekte reduzieren.&amp;lt;sup&amp;gt;3,7&amp;lt;/sup&amp;gt; Vor Allergiesaison oder Kitabeginn empfiehlt sich ein Beginn 2–3 Wochen vorher.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wodurch unterscheidet sich der SaltDome von Salzpfeifen oder Salzlampen?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Salzpfeifen setzen grobe Salzkörner frei, die nur die oberen Atemwege erreichen; Salzlampen sind dekorativ, geben aber keine therapeutische Salzmenge ab. Der SaltDome vernebelt eine Lösung und erzeugt 2–5 Mikron große Partikel, die beim Einatmen auch in die unteren Atemwege gelangen können — und im Nachtbetrieb geschieht dies automatisch und regelmäßig.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Welches Salz soll ich verwenden und wie hoch ist der Verbrauch?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Verwenden Sie ausschließlich naturbelassenes, zusatzfreies Steinsalz – jodiertes oder mit Rieselhilfen versetztes Tafelsalz ist nicht geeignet. Das in unserem Shop erhältliche Steinsalz ist für das Gerät optimiert. Der Verbrauch ist gering: Ein Vorrat reicht bei täglicher Nutzung für Monate.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wie lange und wie oft kann man es nutzen?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Es gibt keine feste Begrenzung – denken Sie an Menschen, die dauerhaft am Meer leben. Passen Sie die Anwendung an Ihre Familiensituation an: In Erkältungsphasen mehrere Monate durchgehend, vor Allergiesaison 2 Wochen vorab bis zum Saisonende.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;figyelem&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kann es die ärztliche Behandlung ersetzen?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nein. Halotherapie ist eine ergänzende Methode, die neben der ärztlichen Behandlung eingesetzt werden kann, nicht als Ersatz. Bei COPD nehmen Sie die verordneten Medikamente weiter ein; bei Asthma halten Sie das Notfallinhalationsgerät bereit. Ziel ist die Unterstützung der natürlichen Abwehrmechanismen und die Verbesserung der Lebensqualität.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;fontos&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kann ich es während eines Asthmaanfalls verwenden?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;NEIN. Bei akutem Asthmaanfall ist das Notfallinhalationsgerät zu verwenden – die Salztherapie dient der Vorbeugung und der Unterstützung in beschwerdefreien Zeiten. Bei fieberhaften, akuten Atemwegsinfektionen warten Sie mit der Anwendung bis die fieberhafte Phase vorbei ist.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Sehen Sie es in Aktion&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;In diesem kurzen Video stelle ich das SaltDome-Gerät vor:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Herstellung der Salzlösung und Befüllung des Tanks,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Platzierung und Bedienung per Fernbedienung,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Alltagspraxis für die nächtliche Nutzung.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/wW91xDW2YDE&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot; __gcrchildframeremotetoken=&amp;quot;ec36968eb271be24c5b42714d053dc6d&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN HASZNÁLD? (5 lépés) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wie benutzen Sie den SaltDome?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Bereiten Sie die Salzlösung vor&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Füllen Sie den Tank mit Wasser und lösen Sie gemäß der Gebrauchsanweisung 1 Messlöffel naturbelassenes Steinsalz darin auf. Das Gerät erzeugt per Ultraschall 2–5 Mikron große Partikel.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Platzieren Sie es in Bettnähe&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Stellen Sie das Gerät auf eine stabile Fläche in der Nähe Ihrer Schlafstelle. In einem Schlafzimmer entfaltet es seine Wirkung am besten – idealerweise 1–1,5 Meter vom Kopfende entfernt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Schalten Sie ein – auch per Fernbedienung&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Starten Sie das Gerät vor dem Einschlafen; Farbe des Stimmungs-LEDs und Betrieb lassen sich bequem per Fernbedienung vom Bett aus steuern.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Schlafen Sie – das Gerät arbeitet&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Empfohlen wird die nächtliche Nutzung von 6–8 Stunden: so atmen Sie die ganze Nacht sanft salzhaltige Luft ein. In Erkältungsphasen können Sie es auch tagsüber kurz einsetzen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Pflegen Sie das Gerät&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Wechseln Sie die Salzlösung regelmäßig und reinigen Sie den Tank gemäß der Gebrauchsanleitung – das ist Voraussetzung für Hygiene und gleichmäßige Vernebelung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 10. CSOMAG TARTALMA + KŐSÓ CROSS-SELL --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Was ist im Paket enthalten?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Der SaltDome Lieferumfang:&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk.&amp;lt;/strong&amp;gt; SaltDome Ultraschall-Salztherapiegerät&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk. &amp;lt;/strong&amp;gt;Netzadapter&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk.&amp;lt;/strong&amp;gt; Fernbedienung&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk.&amp;lt;/strong&amp;gt; Dosierlöffel&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 Stk. &amp;lt;/strong&amp;gt;Messbecher&amp;lt;/li&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ellenőrizd, hogy az alapcsomag tartalmaz-e induló
+ kősót és egyéb tartozékot (pl. mérőpohár) – a tényleges
+ csomagtartalom szerint egészítsd ki! --&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Bestell-Tipp:&amp;lt;/strong&amp;gt; Für den Betrieb ist naturbelassenes, zusatzfreies Steinsalz erforderlich. Legen Sie das &amp;lt;a href=&amp;quot;/steinsalz&amp;quot;&amp;gt;naturbelassene, zusatzfreie Steinsalz&amp;lt;/a&amp;gt; gleich mit in den Warenkorb — so können Sie das Gerät schon am ersten Abend nutzen.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;karbantartás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Wartung und Reinigung&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Wechseln Sie die Salzlösung regelmäßig und reinigen Sie den Tank entsprechend der Herstelleranleitung. Die Außenseite des Geräts lässt sich mit einem trockenen oder leicht feuchten Tuch abwischen. Regelmäßige Wartung ist Voraussetzung für Hygiene und gleichbleibende Vernebelungsleistung.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. MŰSZAKI ADATOK – details (NINCS PropertyValue) --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische Daten&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Modell&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;SaltDome Salztherapiegerät&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Funktionsprinzip&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ultraschallvernebelung von Salzlösung&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Partikelgröße&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2–5 Mikron&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Steuerung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Am Gerät + per Fernbedienung&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Beleuchtung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Farbwechselndes Stimmungs-LED&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Empfohlene Nutzung&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Täglich 6–8 Std., nachts im Schlaf&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Betrieb&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Leiser Betrieb, für Nachtbetrieb konzipiert, Netzstrom&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Benötigtes Verbrauchsmaterial&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zusatzfreies, naturbelassenes Steinsalz&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Garantie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;24 Monate&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ha rendelkezésre áll, egészítsd ki: tartály
+ űrtartalma, zajszint (dB), teljesítményfelvétel, méretek/tömeg --&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 12. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;figyelmeztetés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wann sollten Sie das Gerät NICHT verwenden?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Aktive Tuberkulose
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Atemwegsblutung
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Schwere Herzinsuffizienz
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Akute Atemwegsinfektion mit hohem Fieber – warten Sie die fieberhafte Phase ab
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Unbehandelter, schwerer Bluthochdruck – lassen Sie dies vorher ärztlich abklären
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Nierenerkrankung – wegen des Salzstoffwechsels wird ärztliche Beratung empfohlen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Bösartige Tumorerkrankung – sprechen Sie vor der Nutzung mit Ihrem behandelnden Arzt
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Unsicher?&amp;lt;/strong&amp;gt; Bei chronischen Erkrankungen konsultieren Sie vor Beginn der Anwendung Ihren behandelnden Arzt!&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 13. ORVOSI FIGYELMEZTETÉS – NEM MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;információ&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wichtige Hinweise
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Die Salztherapie ist eine ergänzende Behandlung, die parallel zur medizinischen Versorgung eingesetzt wird, nicht als Ersatz. Zu Beginn der Anwendung kann vorübergehend vermehrter Husten auftreten – ein Zeichen der sekretlösenden Wirkung – sowie leichte Halsreizung bei den ersten Anwendungen. Bei anhaltenden oder stärker werdenden Symptomen reduzieren Sie die Behandlungsdauer oder setzen Sie die Anwendung aus und konsultieren einen Arzt.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Die hier gegebenen Informationen dienen nur zu Informationszwecken. Halotherapie ersetzt nicht die medizinische Behandlung. Bei Beschwerden konsultieren Sie Ihren behandelnden Arzt. Informationen zur richtigen Anwendung finden Sie in der Gebrauchsanleitung.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 15. KAPCSOLÓDÓ TARTALMAK – BELSŐ LINKEK (a CTA UTÁN) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Verwandte Leitfäden und Inhalte&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/salztherapie-halotherapie-leitfaden&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;átfogó útmutató&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Umfassender Leitfaden zur Salztherapie — wissenschaftlicher Hintergrund und Methoden →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/salztherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;kategória&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Kategorie: Salztherapiegeräte →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/steinsalz&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/sotarto.png&amp;quot; alt=&amp;quot;kősó&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Naturbelassenes, zusatzfreies Steinsalz →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/asthma-salztherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;asztma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Asthma und Salztherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/copd-und-salztherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;COPD und Salztherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/heuschnupfen-salztherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/virag.png&amp;quot; alt=&amp;quot;szénanátha&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Heuschnupfen, Allergie und Salztherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/erkaltung-salztherapie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;nátha&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Erkältung, Grippe und Salztherapie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 16. TUDOMÁNYOS FORRÁSOK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-citations&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wissenschaftliche Quellen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Die klinische Grundlage der Halotherapie stützt sich auf folgende Studien und Fachquellen:&amp;lt;/p&amp;gt;
+ &amp;lt;ol class=&amp;quot;pp-citation-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;
+ Chervinskaya AV, Zilber NA (1995). &amp;lt;cite&amp;gt;Halotherapy for treatment of respiratory diseases&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Journal of Aerosol Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/10161255/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crisan-Dabija R und Mitarbeiter (2022). &amp;lt;cite&amp;gt;Halotherapy for Chronic Respiratory Disorders: From the Cave to the Clinical&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Alternative Therapies in Health and Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/32827399/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Bar-Yoseph R und Mitarbeiter (2017). &amp;lt;cite&amp;gt;Halotherapy as asthma treatment in children: A randomized, controlled, prospective pilot study&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Pediatric Pulmonology&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/27723955/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Meditsina Truda i Promyshlennaya Ekologiya (2018). &amp;lt;cite&amp;gt;Efficiency of controlled halotherapy in rehabilitation of patients with occupational lung diseases&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/30351691/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Rashleigh R, Smith SM, Roberts NJ (2014). &amp;lt;cite&amp;gt;A review of halotherapy for chronic obstructive pulmonary disease&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Chronic Obstructive Pulmonary Disease&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/24591823/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crișan-Dabija R und Mitarbeiter (2021). &amp;lt;cite&amp;gt;Halotherapy—An Ancient Natural Ally in the Management of Asthma: A Comprehensive Review&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Environmental Research and Public Health&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/34828649/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Khan MA und Mitarbeiter (2012). &amp;lt;cite&amp;gt;The use of Halotherapy for the health improvement in children at institutions of general education&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Voprosy Kurortologii, Fizioterapii i Lechebnoi Fizicheskoi Kultury&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/22908472/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Semmelweis Egyetem, Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika. &amp;lt;cite&amp;gt;A sóterápia hatásai&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://semmelweis.hu/fulorrgegeszet/betegeinknek/betegsegekrol/a-soterapia-hatasai/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;semmelweis.hu&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>444085</Id>
+        <Name>Therapie zu Hause|Salztherapie-Gerät</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>461499</Id>
+        <Name>Krankheitsbehandlung|Hautkrankheiten|Ekzem</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>603011</Id>
+        <Name>Krankheitsbehandlung|Hautkrankheiten|Psoriasis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>681409</Id>
+        <Name>Krankheitsbehandlung|Atemwegserkrankungen|Asztma</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>659258</Id>
+        <Name>Krankheitsbehandlung|Atemwegserkrankungen|COPD</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>506689</Id>
+        <Name>Krankheitsbehandlung|Atemwegserkrankungen|Zystische Fibrose</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>890689</Id>
+        <Name>Krankheitsbehandlung|Atemwegserkrankungen|Atemwegsallergie</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>112452</Id>
+        <Name>Krankheitsbehandlung|Atemwegserkrankungen|Erkältung</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/saltdome-salztherapiegerat</Url>
+    <SefUrl>saltdome-salztherapiegerat</SefUrl>
+    <Images>
+      <DefaultFilename>OKA03-015</DefaultFilename>
+      <DefaultAlt>SaltDome Salztherapiegerät</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1761575246</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/OKA03-015.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék alapszín</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_1/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome Salztherapiegerät</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_2/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome Salztherapiegerät</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_3/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék a távirányítójával</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_4/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék kék színű megvilágítással</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_5/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék rózsaszín megvilágítással</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-de.pdf - Benutzerhandbuch</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.lymphpumpe.de/salztherapie-halotherapie-leitfaden - Salztherapie – umfassender Leitfaden</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MediMarket</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>asztma, hörgőgyulladás&amp;comma; CODP, légúti allergia, megfázás&amp;comma; nátha</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-de.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>4551</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>SaltDome-Gerät für den Einsatz in Innenräumen, das natürliches Salzmaterial nutzt, um den Charakter der Raumluft zu beeinflussen. Das kompakte Tischgerät eignet sich für Wohnbereiche, Büros und andere Innenräume. Salzpartikel werden schrittweise über einen kontrollierten mechanischen Prozess abgegeben und sorgen für eine wahrnehmbare Raumatmosphäre. Das Gerät verfügt über ein robustes Gehäuse, einen energieeffizienten Betrieb und ist für den Dauerbetrieb ausgelegt. </Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>5999133200003</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>n/a</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1198760675</Id>
+        <Sku>sa-8101</Sku>
+        <Name>Parajdi (Transsilvanien) Steinsalz, ohne Zusatzstoffe</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1198760505</Id>
+        <Sku>sa-8100</Sku>
+        <Name>Himalaya-Salz, rosa, ohne Zusatzstoffe</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>SaltDome, Salztherapiegerät, Halotherapie, Salztherapie zuhause, Halogenerator, Salzzimmer, Atemwegssymptome, allergische Rhinitis, Heuschnupfen, Asthma ergänzende Behandlung, COPD, verstopfte Nase, Schnarchen, kindliche Atemprobleme, Haustier Atemprobleme, Fernbedienung</Keywords>
+      <Description>Heimgerät für Halotherapie: erzeugt feine Salzkristalle (2–5 Mikron) in der Raumluft. Leise für den Nachtbetrieb, mit Fernbedienung und Dosierlöffel. Ideal zur ergänzenden Unterstützung der Atemwege.</Description>
+      <Title>SaltDome Salztherapiegerät | Halogenerator, Fernbedienung</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=OKA03-015, Lang=sk, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1196751750</Id>
+    <Sku>OKA03-015</Sku>
+    <CreateTime>1743412218</CreateTime>
+    <LastModTime>1795076166</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Pre objednávku</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Iba pre zdravotnícky personál</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Prezentované v partnerstve</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>SaltDome prístroj na sóterapiu</Name>
+    <Unit>db</Unit>
+    <MaximumQty>18</MaximumQty>
+    <UnitStep>1</UnitStep>
+    <AlterUnit>
+      <Qty>1</Qty>
+      <Unit>db</Unit>
+    </AlterUnit>
+    <Weight>0.58</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;SaltDome prístroj na sóterapiu je zariadenie na podporu dýchania určené na domáce použitie pri chronických ťažkostiach dýchacích ciest. Vhodné pri COPD, astme, alergiách dýchacích ciest, nádche, záťažovej astme a dokonca aj pri zmierňovaní dýchacích ťažkostí domácich zvierat (psy a mačky).&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Obsah balenia:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;SaltDome zariadenie &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Sieťový adaptér &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Lyžička na soľ &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Odmerka &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Diaľkové ovládanie &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;lekár&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Náš lekársky expert hovorí
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Sóterapia nie je akútne liečivo a neočakávajte okamžité zázraky — neberte to tak. Pri pravidelnom používaní pôsobí často „nepozorovane“: menej období nádchy, ľahšie dýchanie a pokojnejší spánok. Skúsenosti zákazníkov i výskumy ukazujú, že kľúčom je pravidelnosť — preto odporúčame SaltDome na nočné použitie. Tak sa terapia stane súčasťou denného režimu, nie ďalšou povinnosťou.“&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Reálne očakávania
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Pri pravidelnom používaní, už po niekoľkých dňoch, sa môže dostaviť efekt: menej kašľa, čistejšie dýchacie cesty, lepšie nosové dýchanie a pokojnejší spánok. Neočakávajte zázrak po jedinom použití. Nejde o liek na záchvaty: pri astmatickom záchvate SaltDome nenahrádza inhalačný liek.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Nie je to pre vás, ak
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;hľadáte okamžité zmiernenie symptómov – SaltDome najviac pomáha pri každodennom, dlhodobom používaní. Pri chronických pľúcnych ochoreniach, kde je potrebné aktívne vykašliavanie (napr. po pneumónii alebo pri ťažkých chorobách), môže byť vhodným doplnkom mechanická OPEP pomôcka &amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/aerobika-opep-device&amp;quot;&amp;gt;AerobikA OPEP&amp;lt;/a&amp;gt; — obe metódy sa môžu kombinovať.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Pred kúpou
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Sóterapia je doplnková, prírodná metóda — nenahrádza farmakologickú liečbu.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/o-mne-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;lekár, expert na zdravotnícku techniku, bloger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON (a részletes betegség-tartalmak a cluster-cikkekben) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Pri akých ťažkostiach môže SaltDome pomôcť?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-allergias-no.png&amp;quot; alt=&amp;quot;alergia&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Légové alergie, senná nádcha&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Soľný vzduch môže pomôcť čistiť nosné priechody a zmierniť opuch sliznice. Mnohí alergici uvádzajú, že pri pravidelnom používaní zahájenom 2–4 týždne pred sezónou sú príznaky miernejšie. Podrobnosti: &amp;lt;a href=&amp;quot;/senna-nadcha-soloterapia&amp;quot;&amp;gt;Senná nádcha a sóterapia&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;prehliadnutie-dieťa&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Často choré deti, opakujúca sa nádcha&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Vďaka riediacemu účinku hlienu môže pravidelné používanie pomôcť rýchlejšiemu zotaveniu a podľa štúdií prispieť aj k prevencii častých ochorení horných dýchacích ciest — obzvlášť užitočné v období návratu do škôl a škôlok.&amp;lt;sup&amp;gt;7&amp;lt;/sup&amp;gt; Podrobnosti: &amp;lt;a href=&amp;quot;/prechladnutie-soloterapia&amp;quot;&amp;gt;Nátha a sóterapia&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;astma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Astma — ako doplnková liečba&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Výskumy naznačujú priaznivé účinky sóterapie ako doplnkovej liečby pri astme, bez závažných vedľajších účinkov — aj u detí.&amp;lt;sup&amp;gt;3,6&amp;lt;/sup&amp;gt; Dôležité: pri astmatickom záchvate nenahrádza SaltDome záchranný inhalačný liek! Podrobnosti: &amp;lt;a href=&amp;quot;/astma-soterapia&amp;quot;&amp;gt;Astma a sóterapia&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;COPD a chronické ochorenia dýchacích ciest&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Soľný vzduch môže pomôcť riediť hlien a uľahčiť dýchanie; štúdie hlásia zlepšenie pľúcnych funkcií a kvality života — vždy ako doplnok k predpísanej medikácii, nie jej náhrada.&amp;lt;sup&amp;gt;2,4,5&amp;lt;/sup&amp;gt; Podrobnosti: &amp;lt;a href=&amp;quot;/copd-a-solova-terapia&amp;quot;&amp;gt;COPD a sóterapia&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arcureg-gyulladas.png&amp;quot; alt=&amp;quot;sinusitida&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Zápal prínosových dutín, upchatý nos, chrápanie&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Drobnými soľnými časticami sa môže uľahčiť rozpustenie a odchod zaschnutého hlienu aj z vedľajších nosových dutín. Ak je chrápanie spôsobené nosovou prekážkou (napr. upchatím či alergiou), voľnejšie nosové dýchanie môže znížiť chrápanie. Podrobnosti: &amp;lt;a href=&amp;quot;/zapal-prinosovych-dutin-soloterapia&amp;quot;&amp;gt;Sinusitída a sóterapia&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;/chrapanie-solna-terapia&amp;quot;&amp;gt;Chrápanie a sóterapia&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-no.png&amp;quot; alt=&amp;quot;sportovec&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Športovci a domáce zvieratá&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;U športovcov môže soľný vzduch zmierniť príznaky záťažovej astmy a podporiť regeneráciu. Pri dýchacich problémoch psov a mačiek je terapia použiteľná obdobne ako u ľudí. Podrobnosti: &amp;lt;a href=&amp;quot;/solna-terapia-sportovcov&amp;quot;&amp;gt;Sóterapia pre športovcov&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;/solova-terapia-domace-zvierata&amp;quot;&amp;gt;Sóterapia pre domáce zvieratá&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/macska.png&amp;quot; alt=&amp;quot;domáce zviera&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Házi zvieratá — respiračné problémy&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Kráty a mačky môžu mať užitočný efekt pri rovnakých princípoch použitia ako ľudia. Podrobnosti: &amp;lt;a href=&amp;quot;/solova-terapia-domace-zvierata&amp;quot;&amp;gt;Sóterapia pre domáce zvieratá&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;Ak hľadáte vedecký kontext, históriu a porovnanie metód (soľná jaskyňa, sósoba, sópipa, sólampa), nájdete to v &amp;lt;a href=&amp;quot;/soloterapia-haloterapia-dychove-zdravie&amp;quot;&amp;gt;komplexnom sprievodcovi sóterapiou&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. HATÁSMECHANIZMUS – tömörítve, a részletek a pillar-cikkben --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Ako pôsobí vdychovaný soľný vzduch?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;SaltDome ultrazvukovo rozprašuje soľný roztok a uvoľňuje 2–5 mikrónové soľné častice do vzduchu. Táto veľkosť podľa výskumov môže dosiahnuť aj dolné dýchacie cesty — je dostatočne malá na preniknutie do priedušiek a zároveň dosť veľká na to, aby sa tam ukladala.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt; Soľ na povrchu sliznice pôsobí troma hlavnými spôsobmi:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Riedenie hlienu:&amp;lt;/strong&amp;gt; ozmotický účinok soli priťahuje vodu na povrch sliznice — podobne ako keď osolíte uhorkový šalát. Hlien sa zriedi, ľahšie sa vykašle a odstráni.&amp;lt;sup&amp;gt;8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Upokojenie sliznice:&amp;lt;/strong&amp;gt; soľ môže znížiť viskozitu hlienu a podporiť obnovenie normálnej funkcie sliznice, čo je priaznivé aj pri alergiách.&amp;lt;sup&amp;gt;1,8&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Podpora riasinkového čistenia:&amp;lt;/strong&amp;gt; jemné „čistiace&amp;quot; riasinky vystierajú nečistoty a hlien z dýchacích ciest. Pri chronických ochoreniach je tento mechanizmus často oslabený — výskumy ukazujú, že sóterapia môže podporiť jeho obnovu.&amp;lt;sup&amp;gt;2&amp;lt;/sup&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO BUTTON (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Najčastejšie otázky&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Koľko času trvá, kým pocítim výsledok?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Väčšina používateľov pozoruje zmenu už po niekoľkých dňoch pravidelného nočného používania. Sóterapia nie je akútna liečba: dôležitejšia je pravidelnosť než intenzita. Dajte telu niekoľko týždňov, než vyhodnotíte účinok.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Je to bezpečné pre deti?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Áno, sóterapia je zvyčajne bezpečná aj pre deti (predstavte si milióny ľudí žijúcich pri mori). Výskumy u detí nezaznamenali závažné vedľajšie účinky a pravidelné používanie môže znížiť výskyt horných dýchacích ochorení.&amp;lt;sup&amp;gt;3,7&amp;lt;/sup&amp;gt; Pred sezónou alergií alebo pred nástupom do škôlky sa odporúča začať 2–3 týždne vopred.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ V čom sa líši SaltDome od soľnej pípy alebo sólampy?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Soľná pípa produkuje hrubé častice, ktoré pôsobia prevažne v horných dýchacích cestách. Sólampa je skôr dekorácia a neuvoľňuje terapeutické množstvo soľných častíc. SaltDome ultrazvukovo vytvára 2–5 mikrónové častice, ktoré môžu pri vdýchnutí dosiahnuť aj dolné dýchacie cesty — a ak pracuje v noci, pravidelné používanie je jednoduché bez dodatočného času či vôle.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Akú soľ používať a koľko sa jej spotrebuje?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Odporúčame výhradne bezprísadovú prírodnú kamennú soľ — jodizovaná alebo so stabilizátormi stolová soľ nie je vhodná pre dýchacie cesty. Soľ dostupná v našom e-shope je optimalizovaná pre zariadenie. Spotreba je minimálna: jedno balenie môže pri bežnom použití vystačiť na mesiace.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ako dlho a ako často ho môžem používať?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Neexistuje pevné obmedzenie, že sóterapiu možno aplikovať len niekoľko týždňov — pomyslite na ľudí žijúcich pri mori. Použitie prispôsobte potrebám rodiny: v období nádchy (jeseň–jar, návrat do školy) možno pokračovať 2–3 mesiace, pred alergickou sezónou začať 2 týždne vopred a pokračovať do konca sezóny.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;pozor&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môže nahradiť lekársku liečbu?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nie. Sóterapia je doplnková metóda, ktorá sa používa spolu s lekárskou liečbou, nie namiesto nej. Ak máte COPD, užívajte pravidelne predpísané lieky; pri astme majte po ruke záchranný inhalátor. Cieľom sóterapie je podporiť prirodzenú obranyschopnosť a zlepšiť kvalitu života.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;dôležité&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môžem ho použiť počas astmatického záchvatu?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;NIE. Pri astmatickom záchvate použite záchranný inhalátor — sóterapia slúži na prevenciu a podporu v bezpríznakových obdobiach. Pri horúčkovitom akútnom infekčnom zápale dýchacích ciest počkajte so začiatkom používania na ukončenie horúčkovitej fázy.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Pozrite si ukážku v prevádzke&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;V tomto krátkom videu predstavujem SaltDome:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;príprava soľného roztoku a naplnenie nádržky,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;umiestnenie a ovládanie diaľkovým ovládaním,&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;praktika každodenného nočného používania.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/wW91xDW2YDE&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN HASZNÁLD? (5 lépés) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Ako používať SaltDome?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Pripravte soľný roztok&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Naplnite nádržku vodou a podľa návodu pridajte 1 odmerku prírodnej kamennej soli. Zariadenie ultrazvukovo vytvára 2–5 mikrónové častice.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Umiestnite ho pri posteli&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Postavte prístroj na stabilný povrch blízko miesta, kde spíte. V rámci izby dosahuje optimálny účinok, najlepšie približne 1–1,5 m od hlavy.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Zapnite — aj diaľkovo&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Pred spaním spustite prístroj; farbu atmosférického LED svetla a prevádzku môžete ovládať diaľkovým ovládaním z postele.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Spite — prístroj pracuje&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Doporučené je 6–8 hodín nočnej prevádzky: počas spánku vdychujete jemne nasolený vzduch. Počas nádchy možno zariadenie použiť aj deň na kratšie intervaly.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Dbajte o údržbu&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Pravidelne meníte soľný roztok a čistite nádržku podľa návodu výrobcu — to je podmienka hygieny a optimálnej funkcie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 10. CSOMAG TARTALMA + KŐSÓ CROSS-SELL --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Čo nájdete v balení?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Obsah balenia SaltDome:&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; SaltDome ultrazvukový prístroj na sóterapiu&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks &amp;lt;/strong&amp;gt;sieťový adaptér&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; diaľkové ovládanie&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; odmerka&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks &amp;lt;/strong&amp;gt;meracia odmerka&amp;lt;/li&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ellenőrizd, hogy az alapcsomag tartalmaz-e induló
+ kősót és egyéb tartozékot (pl. mérőpohár) – a tényleges
+ csomagtartalom szerint egészítsd ki! --&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tip pri objednávke:&amp;lt;/strong&amp;gt; na prevádzku je potrebná prírodná, bezprísadová kamenná soľ. Pridajte do košíka &amp;lt;a href=&amp;quot;/kamenna-sol&amp;quot;&amp;gt;prírodnú, bezprísadovú kamennú soľ&amp;lt;/a&amp;gt;, aby ste mohli prístroj použiť hneď prvú noc.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pkg_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;údržba&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Údržba a čistenie&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Soľný roztok pravidelne vymieňajte a nádržku čistite podľa pokynov výrobcu. Povrch prístroja utierajte suchou alebo mierne vlhkou handričkou. Pravidelná údržba je podmienkou hygieny a rovnomerného rozprašovania.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. MŰSZAKI ADATOK – details (NINCS PropertyValue) --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technické údaje&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Model&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;SaltDome prístroj na sóterapiu&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Princíp činnosti&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ultrazvukové rozprašovanie soľného roztoku&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Veľkosť soľných častíc&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2–5 mikrónov&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Ovládanie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Na prístroji + diaľkovým ovládaním&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Osvetlenie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Prepínateľné farebné LED náladové svetlo&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Odporúčané používanie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;6–8 hodín denne, v noci počas spánku&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Prevádzka&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Tichá, určené na nočné použitie, sieťové napájanie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Spotrebný materiál&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Bezprísadová prírodná kamenná soľ&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Záruka&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;24 mesiacov&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;!-- ️ PLACEHOLDER: ha rendelkezésre áll, egészítsd ki: tartály
+ űrtartalma, zajszint (dB), teljesítményfelvétel, méretek/tömeg --&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 12. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;figyelmeztetés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kedy NEpoužívať prístroj?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Aktívna tuberkulóza
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Krvácanie z dýchacích ciest
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Ťažké zlyhanie srdca
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Akútna infekcia dýchacích ciest s vysokou teplotou – počkajte na odznenie horúčkovitej fázy
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Neliečená ťažká hypertenzia – pred použitím konzultujte s lekárom
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Ochorenie obličiek – kvôli ovplyvneniu solného metabolizmu sa odporúča lekárska konzultácia
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Zhubné ochorenie – pred použitím sa poraďte so svojim ošetrujúcim lekárom
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Neviete si rady?&amp;lt;/strong&amp;gt; Ak máte chronické ochorenie, pred začatím sóterapie sa poraďte so svojím ošetrujúcim lekárom!&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 13. ORVOSI FIGYELMEZTETÉS – NEM MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;informácia&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Dôležité informácie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;SaltDome má certifikáciu CE ako zdravotnícke zariadenie podľa európskej regulácie MDR (Medical Device Regulation).
+ &amp;lt;!-- ️ PLACEHOLDER: erősítsd meg a tényleges CE/MDR minősítést és osztályt a termék dokumentációjából; ha nem orvostechnikai eszközként forgalmazott, ezt a mondatot módosítsd! --&amp;gt; Sóterapia je doplnková metóda, ktorá sa používa spolu s lekárskou starostlivosťou, nie namiesto nej. Pri používaní sa môže dočasne zvýšiť kašeľ — ide o prejav riediaceho účinku hlienu — alebo sa pri prvých aplikáciách môže objaviť mierne podráždenie hrdla. Ak príznaky pretrvávajú alebo sa zhoršujú, skráťte čas liečby alebo prerušte používanie a konzultujte s lekárom.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Informácie tu uvedené sú orientačné. Sóterapia je doplnková metóda a nenahrádza lekársku liečbu. Pri zdravotných ťažkostiach konzultujte ošetrujúceho lekára. O správnom používaní zariadenia sa dočítate v návode na použitie.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 15. KAPCSOLÓDÓ TARTALMA – BELSŐ LINKEK (a CTA UTÁN) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Súvisiace návody a obsah&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/soloterapia-haloterapia-dychove-zdravie&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;átfogó útmutató&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Komplexný sprievodca sóterapiou — vedecké pozadie a porovnanie metód →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/haloterapia&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;kategória&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Zariadenia na sóterapiu — celá kategória →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/kamenna-sol&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/sotarto.png&amp;quot; alt=&amp;quot;kősó&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Prírodná bezprísadová kamenná soľ — doplnok pre zariadenie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/astma-soterapia&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png&amp;quot; alt=&amp;quot;astma&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Astma a sóterapia →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/copd-a-solova-terapia&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png&amp;quot; alt=&amp;quot;COPD&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;COPD a sóterapia →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/senna-nadcha-soloterapia&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/virag.png&amp;quot; alt=&amp;quot;senná nádcha&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Senná nádcha, alergia a sóterapia →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/prechladnutie-soloterapia&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png&amp;quot; alt=&amp;quot;nátha&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;Nádcha, prechladnutie a sóterapia →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 16. TUDOMÁNYOS FORRÁSOK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-citations&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Vedecké zdroje&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Klinické podklady sóterapie (haloterapie) sú podporené nasledujúcimi štúdiami a odbornými zdrojmi:&amp;lt;/p&amp;gt;
+ &amp;lt;ol class=&amp;quot;pp-citation-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;
+ Chervinskaya AV, Zilber NA (1995). &amp;lt;cite&amp;gt;Halotherapy for treatment of respiratory diseases&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Journal of Aerosol Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/10161255/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crisan-Dabija R a kol. (2022). &amp;lt;cite&amp;gt;Halotherapy for Chronic Respiratory Disorders: From the Cave to the Clinical&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Alternative Therapies in Health and Medicine&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/32827399/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Bar-Yoseph R a kol. (2017). &amp;lt;cite&amp;gt;Halotherapy as asthma treatment in children: A randomized, controlled, prospective pilot study&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Pediatric Pulmonology&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/27723955/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Meditsina Truda i Promyshlennaya Ekologiya (2018). &amp;lt;cite&amp;gt;Efficiency of controlled halotherapy in rehabilitation of patients with occupational lung diseases&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/30351691/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Rashleigh R, Smith SM, Roberts NJ (2014). &amp;lt;cite&amp;gt;A review of halotherapy for chronic obstructive pulmonary disease&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Chronic Obstructive Pulmonary Disease&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/24591823/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Crișan-Dabija R a kol. (2021). &amp;lt;cite&amp;gt;Halotherapy—An Ancient Natural Ally in the Management of Asthma: A Comprehensive Review&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;International Journal of Environmental Research and Public Health&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/34828649/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Khan MA a kol. (2012). &amp;lt;cite&amp;gt;The use of Halotherapy for the health improvement in children at institutions of general education&amp;lt;/cite&amp;gt;. &amp;lt;em&amp;gt;Voprosy Kurortologii, Fizioterapii i Lechebnoi Fizicheskoi Kultury&amp;lt;/em&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/22908472/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Semmelweis Egyetem, Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika. &amp;lt;cite&amp;gt;A sóterápia hatásai&amp;lt;/cite&amp;gt;.
+ &amp;lt;a href=&amp;quot;https://semmelweis.hu/fulorrgegeszet/betegeinknek/betegsegekrol/a-soterapia-hatasai/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;semmelweis.hu&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>444085</Id>
+        <Name>Domácna terapia|Prístroj na soľnú terapiu</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>461499</Id>
+        <Name>Liečba ochorení|Kožné ochorenia|Ekzém</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>603011</Id>
+        <Name>Liečba ochorení|Kožné ochorenia|Psoriáza</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>681409</Id>
+        <Name>Liečba ochorení|Ochorenia dýchacích ciest|Astma</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>659258</Id>
+        <Name>Liečba ochorení|Ochorenia dýchacích ciest|COPD</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>506689</Id>
+        <Name>Liečba ochorení|Ochorenia dýchacích ciest|Cystická fibróza</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>890689</Id>
+        <Name>Liečba ochorení|Ochorenia dýchacích ciest|Alergia dýchacích ciest</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>112452</Id>
+        <Name>Liečba ochorení|Ochorenia dýchacích ciest|Nádcha</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/saltdome-ultrazvukove-solne-terapeuticke-zariadenie</Url>
+    <SefUrl>saltdome-ultrazvukove-solne-terapeuticke-zariadenie</SefUrl>
+    <Images>
+      <DefaultFilename>OKA03-015</DefaultFilename>
+      <DefaultAlt>SaltDome prístroj na sóterapiu</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1761575246</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/OKA03-015.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék alapszín</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_1/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome prístroj na sóterapiu</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_2/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome prístroj na sóterapiu</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_3/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék a távirányítójával</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_4/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék kék színű megvilágítással</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_5/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék rózsaszín megvilágítással</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-sk.pdf - Návod na použitie</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.zdravezitie.sk/soloterapia-haloterapia-dychove-zdravie - Soľoterapia – komplexný sprievodca</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MediMarket</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>asztma, hörgőgyulladás&amp;comma; CODP, légúti allergia, megfázás&amp;comma; nátha</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-sk.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>4551</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>Zariadenie SaltDome určené na použitie v interiéri, ktoré využíva prírodný soľný materiál na ovplyvnenie charakteru okolitého vzduchu. Kompaktné stolové vyhotovenie je vhodné do obytných priestorov, kancelárií alebo iných vnútorných prostredí. Soľné častice sa postupne uvoľňujú prostredníctvom kontrolovaného mechanického procesu a vytvárajú rozpoznateľné prostredie v miestnosti. Zariadenie má odolné vyhotovenie, nízku spotrebu energie a je vhodné na dlhodobú prevádzku. </Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>5999133200003</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>n/a</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1198760675</Id>
+        <Sku>sa-8101</Sku>
+        <Name>Parajdská (Sedmohradsko) kamenná soľ bez prísad</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1198760505</Id>
+        <Sku>sa-8100</Sku>
+        <Name>Himalájska kamenná soľ ružová, bez prísad</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>SaltDome, sóterapia, haloterapia, soľná terapia, halogenerátor, domácu sóterapiu, dýchacie ťažkosti, alergická nádcha, senná nádcha, astma doplnok, COPD, upchatý nos, chrápanie, detské dýchacie problémy, domáce zvieratá dýchanie, diaľkové ovládanie</Keywords>
+      <Description>Domáce zariadenie na haloterapiu, ktoré uvoľňuje jemné sórészice do vzduchu. Tiché, vhodné na nočné použitie, s diaľkovým ovládaním a odmerkou. Doplnková metóda pri alergiách, nádche a ako podpora pri astme a COPD.</Description>
+      <Title>SaltDome prístroj na sóterapiu | halogenerátor, diaľkové ovládanie</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

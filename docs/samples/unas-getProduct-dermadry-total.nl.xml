@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=ddrytot-n, Lang=nl, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418950</Id>
+    <Sku>ddrytot-n</Sku>
+    <CreateTime>1743245669</CreateTime>
+    <LastModTime>1795072100</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Voor bestelling</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Uitsluitend voor medisch personeel</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Wij verkopen als zakelijke distributeur</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>DermaDry Total</Name>
+    <Unit>db</Unit>
+    <Weight>1.8</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p&amp;gt;DermaDry Total voor thuisgebruik: een kraanwater-iontoforese-apparaat ter ondersteuning van de behandeling van palmaire, plantaire en axillaire hyperhidrose. CE- en FDA-gecertificeerd.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Prijs bevat:&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;DermaDry Total apparaat &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 stuk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Netadapter &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 stuk&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Behandelbak (hand/voet) &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 stuks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kabel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 stuks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Rubberen elektroden (groot/klein) &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2-2 stuks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Siliconen net &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 stuks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Sponshoes &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 stuks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;arts&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Onze medisch deskundige zegt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Overmatig zweten veroorzaakt dagelijks veel frustratie, en veel mensen zoeken jaren naar een oplossing voordat ze ervan horen. Kraanwater-iontoforese is een van de basale behandelopties voor hyperhidrose: zonder prikken en zonder medicijnen. Het gebruikt elektrische stroom om overactieve zweetklieren tijdelijk te &amp;quot;remmen&amp;quot;. De DermaDry Total is geschikt voor thuisbehandeling van palmaire, plantaire en axillaire zweten.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische verwachting
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Iontoforese is een kuurbehandeling. Twee weken lang eenmaal daags behandelen, daarna overschakelen op 1–2 onderhoudsbehandelingen per week. Het effect is niet permanent. Zweten kan geleidelijk terugkeren; dan kan een nieuwe kuur nodig zijn. De juiste stroominstelling en behandeltijd vindt u meestal binnen enkele sessies.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Dit is niet uw apparaat als
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;U het apparaat wilt gebruiken tegen gewrichtspijn of voor medicijnafgifte: daarvoor is het dubbelwerkende IontoBravo-apparaat bedoeld, dat naast kraanwaterbehandeling ook traditionele, werkzame stof-afgevende iontoforese ondersteunt. Als het zweten plotseling is begonnen of &amp;#039;s nachts optreedt, is eerst medische diagnostiek nodig.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Voordat u bestelt
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Plotseling optredend, nachtelijk of eenzijdig zweten kan een onderliggend medisch probleem verbergen – laat dit onderzoeken door een dermatoloog of internist. In de productbeschrijving vindt u algemene adviezen over behandeltijd en frequentie. Bij twijfel, en bij chronische ziekte of medicijngebruik, overleg met uw behandelend arts voordat u start met het gebruik. NIET te gebruiken bij pacemaker of implantabele defibrillator, zwangerschap, metalen implantaat in het te behandelen gebied, hartritmestoornis, epilepsie of bij een open wond of infectie in het behandelgebied.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/over-mij-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Arts, expert medische technologie, blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK / KINEK AJÁNLOM? --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wanneer aanbevolen?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tenyer-izzadas.png&amp;quot; alt=&amp;quot;handpalm-zweten&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Als het vochtige gevoel in uw handpalm ook op het werk storend is&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ernstige palmaire transpiratie kan gênant zijn bij een handdruk, het vasthouden van papier of het gebruik van gevoelige elektronische apparaten. Voor veel mensen beperkt palmaire transpiratie het dagelijks functioneren aanzienlijk. Iontoforese is specifiek ontwikkeld en wetenschappelijk onderbouwd voor palmaire hyperhidrose – meestal treedt na 1–3 weken regelmatige behandeling een merkbare verbetering op.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/talp-izzadas.png&amp;quot; alt=&amp;quot;voet-zweten&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Als uw voeten sterk zweten – ter voorkoming van geurtjes en schimmelinfecties&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ernstige voettranspiratie kan een onaangename geur veroorzaken en de kans op schimmelinfecties vergroten. Het zweten kan zo hevig zijn dat de voet in de slipper wegglijdt. De DermaDry Total werkt bij de voetbehandeling met een maximale stroom van 25 mA – dit vermindert betrouwbaar de hoeveelheid vocht. Onderhoudsbehandelingen ’s nachts kunnen bijzonder effectief zijn.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/honalj-izzadas.png&amp;quot; alt=&amp;quot;oksel-zweten&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Heeft u een grote zweetvlek onder uw oksel?&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Axillaire hyperhidrose veroorzaakt doorweking van kleding en is in sociale situaties vaak ongemakkelijk, wat kan leiden tot verminderd zelfvertrouwen. De DermaDry Total werkt bij okselbehandelingen met een lagere stroominstelling (8 mA) – speciale elektroden zorgen voor precieze toepassing. Behandeling van oksels vergt soms meer toewijding, maar gebruikers die volhouden zien vaak positieve resultaten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;arts&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Behandeling op basis van medische aanbeveling&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Wanneer cosmetische middelen of poeders niet helpen (en vaak niet), zou een arts in eerste instantie iontoforese moeten overwegen in plaats van invasievere en veel duurdere opties (zoals botox of chirurgie). De DermaDry Total biedt een thuisuitvoerbare, niet-invasieve en kosteneffectieve alternatieve behandeling. Botuline-toxine-injecties moeten doorgaans elke 4–6 maanden worden herhaald en chirurgie kan permanente bijwerkingen hebben – iontoforese is echter langdurig inzetbaar met weinig risico.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/hordozhato-keszulek.png&amp;quot; alt=&amp;quot;onderhoud&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Onderhoudsbehandeling – voorkom terugkeer van de klachten&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het effect van iontoforese is niet permanent – na twee tot drie maanden kan het zweten weer toenemen. Daarom is het aan te raden na een intensieve kuur over te schakelen op onderhoud: eenmaal of tweemaal per week behandelen. De DermaDry Total is ideaal voor langetermijnonderhoud omdat u het apparaat thuis kunt gebruiken en de behandeling niet veel tijd kost.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_acc_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/lany-fiu.png&amp;quot; alt=&amp;quot;jongeren&amp;quot; style=&amp;quot;height: 32px; width: auto;&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Van jongeren tot volwassenen – leeftijdsonafhankelijke toepassing&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;▼&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De fabrikant raadt het apparaat aan vanaf 13 jaar. Simpelweg omdat de behandeling door een persoon uitgevoerd moet worden die het proces begrijpt en meewerkt. Voor jongere kinderen is medische consultatie vereist en is continue aanwezigheid van een ouder aanbevolen tijdens de behandeling. Iontoforese kan effectief zijn bij zowel adolescenten als volwassenen, vooral wanneer hyperhidrose psychische belasting veroorzaakt. Raadpleeg een arts over leeftijdsgeschiktheid en een persoonlijk behandelprotocol.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 5. HOGYAN MŰKÖDIK? (Hatásmechanizmus) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Hoe werkt iontoforese?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Iontoforese is een lange tijd bekende, niet-invasieve procedure. Tijdens de behandeling geleidt het apparaat een zwakke elektrische stroom via kraanwater naar het huidoppervlak. Deze stroom beïnvloedt de werking van de zweetklieren.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Het exacte werkingsmechanisme is nog onderwerp van onderzoek, maar de wetenschappelijke literatuur beschrijft meerdere processen die een rol kunnen spelen: tijdelijke afsluiting van zweetklierkanalen en een verhoging van de prikkeldrempel die zweten veroorzaakt.&amp;lt;/p&amp;gt;
+ &amp;lt;h3&amp;gt;Automatische functies van het apparaat:&amp;lt;/h3&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Polaritetswisseling tijdens de behandeling (geen handmatige omschakeling nodig)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Beveiligde stroombegrenzing&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Kinderslotfunctie (3 seconden startvertraging)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;h3&amp;gt;Wat kunnen gebruikers verwachten?&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;De effectiviteit van iontoforese hangt af van individuele factoren en de regelmaat van behandelingen. Op basis van klinische studies geldt:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Bij de eerste behandelingen is een licht tintelend gevoel mogelijk – dit is normaal&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Bij regelmatig en volgens protocol gebruik ervaart een groot deel van de gebruikers duidelijke verbetering&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Gerandomiseerde, gecontroleerde onderzoeken tonen aan dat kraanwater-iontoforese palmaire transpiratie effectief kan verminderen&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Een systematische review laat zien dat na 1–4 weken regelmatige behandeling een &amp;lt;strong&amp;gt;30–90% vermindering van zweten&amp;lt;/strong&amp;gt; mogelijk is, welke met onderhoudsbehandelingen weken tot maanden kan aanhouden&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-info-box&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;Belangrijk:&amp;lt;/strong&amp;gt; Resultaten zijn individueel. De mate van verbetering hangt af van de ernst van het zweten, de regelmaat van behandelingen en individuele gevoeligheid. Iontoforese vervangt geen medisch advies.&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 7. FAQ SZEKCIÓ – NATÍV HTML5 RADIO BUTTON ELEMEKKEL (v3.0) --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Veelgestelde vragen&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_1&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Vanaf welke leeftijd is het apparaat te gebruiken?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De fabrikant raadt het apparaat aan vanaf 13 jaar. Voor jongere leeftijden wordt medisch advies aanbevolen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_2&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Is het gebruik pijnlijk?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Tijdens de behandeling is een licht tintelend gevoel merkbaar. Als dit onaangenaam is, verlaag de stroomsterkte. Het apparaat ondersteunt geleidelijke aanpassing van de stroom.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Hoe vaak moet ik het gebruiken?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het volledige protocol staat in de bijgeleverde handleiding. Over het algemeen wordt aanbevolen dagelijks gedurende 2–3 weken één keer per dag, daarna onderhoudsbehandelingen van 1–2 keer per week. Als het zweten toeneemt, start dan een nieuwe kuur.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Is het geschikt om mee te nemen op reis? Mag het in het vliegtuig?&amp;lt;/span&amp;gt;&amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ja, het apparaat is compact en draagbaar. Controleer voor uw vlucht de actuele regels van uw luchtvaartmaatschappij voor elektronische apparaten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Wat gebeurt er als het water opraakt?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het apparaat verdampt het water niet, dus het is niet mogelijk dat het binnen een 15–20 minuten durende behandeling &amp;quot;opraakt&amp;quot;. Zonder water kan de behandeling niet starten omdat het apparaat voorzien is van circuitdetectie. Zonder voldoende water detecteert het apparaat geen correct circuit en start het de behandeling niet.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Wanneer is het resultaat zichtbaar?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Resultaten zijn individueel en afhankelijk van de ernst van het zweten. Volgens klinische onderzoeken merkt veel gebruikers na 2–3 weken behandeling een significante verbetering. Sommigen zien eerder (1–2 weken) effect, anderen later (4+ weken).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq&amp;quot; id=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;pp_faq_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt; &amp;lt;span&amp;gt;Hoe lang houdt het effect van iontoforese aan?&amp;lt;/span&amp;gt; &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het effect van een kuur iontoforese is niet permanent. Gewoonlijk kan het zweten na enkele weken tot maanden weer toenemen en dient de intensieve kuur herhaald te worden. Een onderhoudsbehandeling wordt aangeraden: na een 2–3 weekse kuur het aantal behandelingen verminderen naar 1–2 keer per week om het resultaat langer te behouden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 9. KEZELÉSI LEHETŐSÉGEK ÖSSZEHASONLÍTÁSA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Overzicht van behandelopties tegen transpiratie&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Er bestaan verschillende methoden voor de behandeling van hyperhidrose. Bespreek met uw arts welke oplossing het beste bij u past.&amp;lt;/p&amp;gt;
+ &amp;lt;table style=&amp;quot;width: 100%; border-collapse: collapse; margin: 15px 0;&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f5f5f5;&amp;quot;&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Methode&amp;lt;/th&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Kenmerken&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Antitranspiranten en zweetremmers&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Kunnen crèmes, gels, poeders of sprays zijn. Gemakkelijk verkrijgbaar, vereisen continu gebruik en kunnen huidirritatie veroorzaken&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Botuline-toxine-injecties&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Medische ingreep, periodieke herhaling nodig (meestal elke 4–6 maanden), vrij kostbaar&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f0f4ff;&amp;quot;&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;Iontoforese (DermaDry Total)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Thuis uit te voeren, niet-invasief, CE/FDA-gecertificeerd, vereist onderhoudsbehandelingen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Anticholinerge medicatie&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Onder medische supervisie, kan bijwerkingen geven (monddroogte, gezichtsstoornissen)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Chirurgische oplossingen (ETS)&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Voor ernstige gevallen, op medische indicatie, onomkeerbare ingreep. Kan compenserende transpiratie met zich meebrengen en heeft hogere risico&amp;#039;s.&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/section&amp;gt;
+ 
+
+ &amp;lt;!-- 4. VIDEÓ SZEKCIÓ --&amp;gt;
+ &amp;lt;style&amp;gt;
+ @media (max-width: 768px) {
+ .pp-video-grid { grid-template-columns: 1fr !important; }
+ }
+ &amp;lt;/style&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Videohandleiding voor het gebruik van de DermaDry Total&amp;lt;/h2&amp;gt;
+ &amp;lt;p style=&amp;quot;margin: 20px 0;&amp;quot;&amp;gt;Bekijk de video&amp;#039;s over het gebruik van het DermaDry iontoforese-apparaat:&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-grid&amp;quot; style=&amp;quot;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 10px 0;&amp;quot;&amp;gt;
+ &amp;lt;!-- Videó 1 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/f3-_GFzknkk?si=sYEgrgLSWW5sJ0X3&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;!-- Videó 2 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/AhluN4uEtVM?si=6eKHxgyGkGgRLER2&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;!-- Videó 3 --&amp;gt;
+ &amp;lt;div style=&amp;quot;position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 4px;&amp;quot;&amp;gt;
+ &amp;lt;iframe style=&amp;quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&amp;quot; src=&amp;quot;https://www.youtube.com/embed/IUECZo2t-Nc?si=WNabRlke0HinwNvv&amp;quot; title=&amp;quot;YouTube video player&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+
+
+ &amp;lt;!-- 6. HASZNÁLATI ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Gebruiksaanwijzing – kort&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Voorbereiding&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Vul de behandelbakken met lauw kraanwater (20–40°C). Controleer of er geen open wonden op de huid aanwezig zijn. Kleine beschadigingen kunt u dun insmeren met vaseline.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Instellen&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Kies het behandelprofiel (handpalm/voetzool/oksel). Begin met een lage stroomsterkte en verhoog geleidelijk tot een comfortabel niveau.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Behandeling&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Plaats uw handen of voeten in de bakken. Het apparaat doorloopt automatisch de behandeling in 15–20 minuten, inclusief polariteitswisseling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Einde&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Dep de huid droog en gebruik een hydraterende crème.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Een gedetailleerde handleiding vindt u in de bijgeleverde Hongaarse gebruiksaanwijzing en in de &amp;lt;a href=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/DermaDry-hu.pdf&amp;quot;&amp;gt;downloadbare PDF&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+
+ &amp;lt;!-- 10. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot; style=&amp;quot;margin: 20px 0;&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische gegevens&amp;lt;/h2&amp;gt;
+ &amp;lt;table style=&amp;quot;width: 100%; border-collapse: collapse; margin: 15px 0;&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr style=&amp;quot;background: #f5f5f5;&amp;quot;&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Parameter&amp;lt;/th&amp;gt;
+ &amp;lt;th style=&amp;quot;padding: 10px; border: 1px solid #ddd; text-align: left;&amp;quot;&amp;gt;Waarde&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Type stroom&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Pulserende gelijkstroom (PC)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Frequentie&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;10 kHz vierkante golf&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Werkcyclus&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;90% (vast)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. stroomsterkte – handpalm&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;15 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. stroomsterkte – voetzool&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;25 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Max. stroomsterkte – oksel&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;8 mA&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Behandelingstijd&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;15–20 minuten&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Voeding&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Netadapter (100–240V)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Certificeringen&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;CE (EU MDR), FDA 510(k), Health Canada&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;Fabrikant&amp;lt;/td&amp;gt;
+ &amp;lt;td style=&amp;quot;padding: 10px; border: 1px solid #ddd;&amp;quot;&amp;gt;DermaDry Laboratories Inc. (Canada)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 11. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Inhoud van de verpakking&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;DermaDry Total apparaat&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Netadapter&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 behandelbakken (hand/voet)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 kabels&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2–2 grote/kleine rubberen elektroden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 siliconen netten&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;2 sponshoesjes&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Gebruiksaanwijzing in het Hongaars&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 12. ELLENJAVALLATOK – MedicalDevice inline mikrodata --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalDevice&amp;quot; itemid=&amp;quot;https://www.jouwzorgwinkel.nl/dermadry-total-iontoforese-keszulek/#medicaldevice&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;Belangrijk&amp;quot; style=&amp;quot;height: 32px; width: auto; vertical-align: middle; margin-right: 8px;&amp;quot;&amp;gt;Belangrijke informatie vóór gebruik&amp;lt;/h2&amp;gt;
+
+ &amp;lt;h3&amp;gt;Wanneer NIET gebruiken?&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik het apparaat NIET als:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;U een pacemaker of geïmplanteerde defibrillator heeft&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;U zwanger bent&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;Er een metalen implantaat aanwezig is in het te behandelen gebied&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;U een hartritmestoornis heeft&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;U epilepsie heeft&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li itemprop=&amp;quot;contraindication&amp;quot; itemscope=&amp;quot;&amp;quot; itemtype=&amp;quot;https://schema.org/MedicalContraindication&amp;quot;&amp;gt;
+ &amp;lt;span itemprop=&amp;quot;name&amp;quot;&amp;gt;Er een open wond of infectie aanwezig is in het te behandelen gebied&amp;lt;/span&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Bij twijfel, raadpleeg uw behandelend arts!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+
+ &amp;lt;h3&amp;gt;Mogelijke bijwerkingen&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Tijdens de behandeling kunnen de volgende verschijnselen optreden:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Een licht tintelend gevoel (dit is normaal)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Voorbijgaande roodheid van de behandelde huid&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Zelden: kleine blaasjes bij te hoge stroominstelling&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Huiddroogheid (aanbevolen: hydrateren na de behandeling)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Als dit ongemakkelijk is, verlaag de stroomsterkte. Bij aanhoudende of ongebruikelijke symptomen stop met de behandeling en raadpleeg een arts.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 13. VÍZ MINŐSÉGI ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Over de waterkwaliteit&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Het apparaat werkt met kraanwater. De mineraalinhoud van water kan per woonplaats verschillen. Als uw kraanwater te zacht is (lage geleidbaarheid), probeer dan het volgende:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Voeg 1 theelepel zuiveringszout of keukenzout toe&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Gebruik gebotteld mineraalwater&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-warning-box&amp;quot; style=&amp;quot;background: #fff3e0; border-left: 4px solid #ff9800; padding: 12px 16px; margin: 15px 0; border-radius: 4px; display: flex; gap: 12px;&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;Waarschuwing&amp;quot; style=&amp;quot;height: 32px; width: auto; flex-shrink: 0;&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;Belangrijk:&amp;lt;/strong&amp;gt; Gebruik nooit onthard of gedestilleerd water!&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 14. TUDOMÁNYOS FORRÁSOK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-citations&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wetenschappelijke achtergrond en bronnen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De wetenschappelijke literatuur over iontoforese en relevante onderzoeken worden uitgebreid besproken in het blogartikel &amp;lt;a href=&amp;quot;/hyperhidrose-oftewel-abnormaal-zweten&amp;quot;&amp;gt;Hiperhidrózis behandelen met iontoforese&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Bronnen:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;ol class=&amp;quot;pp-citation-list&amp;quot; style=&amp;quot;margin: 1rem 0 1rem 2rem;&amp;quot;&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Stolman LP. (1987). Treatment of excess sweating of the palms by iontophoresis. &amp;lt;em&amp;gt;Arch Dermatol&amp;lt;/em&amp;gt;, 123(7):893–896. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/3606174/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Reinauer S, et al. (1993). Iontophoresis with alternating current and direct current offset (AC/DC iontophoresis). &amp;lt;em&amp;gt;Br J Dermatol&amp;lt;/em&amp;gt;, 129(2):166–169. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/7654577/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Kim DH, et al. (2017). Treatment of Palmar Hyperhidrosis with Tap Water Iontophoresis: A Randomized, Sham-Controlled Clinical Trial. &amp;lt;em&amp;gt;Ann Dermatol&amp;lt;/em&amp;gt;, 29(6):728–734. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/29200761/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Nawrocki S, Cha J. (2020). A systematic evidence-based review of treatments for primary hyperhidrosis. &amp;lt;em&amp;gt;J Drugs Dermatol&amp;lt;/em&amp;gt;, 19(12):1141–1147. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/33346434/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 1rem 0px; line-height: 1.6; font-size: 0.95rem;&amp;quot;&amp;gt;Pariser DM, Ballard A. (2014). Iontophoresis for palmar and plantar hyperhidrosis. &amp;lt;em&amp;gt;Dermatol Clin&amp;lt;/em&amp;gt;, 32(4):491–494. &amp;lt;a href=&amp;quot;https://pubmed.ncbi.nlm.nih.gov/25152342/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;PubMed&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 15. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Lees meer&amp;lt;/h2&amp;gt;
+ &amp;lt;ul style=&amp;quot;margin: 1rem 0 1rem 0; list-style: none; padding: 0;&amp;quot;&amp;gt;
+ &amp;lt;li style=&amp;quot;margin: 0.8rem 0;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;/hyperhidrose-oftewel-abnormaal-zweten&amp;quot; style=&amp;quot;color: #4a86e8; text-decoration: none; display: flex; align-items: center; gap: 10px;&amp;quot;&amp;gt;Hiperhidrózis, oftewel overmatig zweten – Uitgebreide gids&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 16. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section style=&amp;quot;margin: 2rem 0; padding-top: 2rem; border-top: 2px solid #ddd;&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;&amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;Belangrijk&amp;quot; style=&amp;quot;height: 32px; width: auto; vertical-align: middle; margin-right: 8px;&amp;quot;&amp;gt;Belangrijke mededeling&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Deze productbeschrijving is informatief en vervangt geen medisch advies. Het DermaDry iontoforese-apparaat is bedoeld als aanvulling op medische behandeling. Raadpleeg altijd een arts voor een juiste diagnose en behandelplan bij klachten. Individuele resultaten kunnen variëren.&amp;lt;/p&amp;gt;
+ &amp;lt;p style=&amp;quot;color: #666666; font-size: 0.9rem;&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Dit product is een medisch hulpmiddel met CE (EU MDR) en FDA 510(k) certificering.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>227355</Id>
+        <Name>Thuisbehandeling|Elektrische behandeling|Iontoforese</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>130562</Id>
+        <Name>Behandeling van aandoeningen|Huidziekten|Hyperhidrose</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dermadrytotal</Url>
+    <SefUrl>dermadrytotal</SefUrl>
+    <ManufacturerUrl>https://dermadry.com</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>ddrytot-n</DefaultFilename>
+      <DefaultAlt>DermaDry Total</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1766141868</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/ddrytot-n.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_1/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_2/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_3/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_4/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_5/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>6</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_6.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_6/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>7</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_7.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_7/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>8</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/ddrytot-n_altpic_8.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/ddrytot-n_altpic_8/ddrytot-n.webp?time=1766141868</SefUrl>
+        <Filename>ddrytot-n</Filename>
+        <Alt>DermaDry Total</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/DermaDry-nl.pdf - Gebruiksaanwijzing</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.jouwzorgwinkel.nl/hyperhidrose-oftewel-abnormaal-zweten - Hyperhidrose – gids over abnormaal zweten</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>Dermadry</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>Iontoforézis</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Tenyér&amp;comma; talp&amp;comma; hónalj</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/DermaDry/DermaDry-nl.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>Dermadry thuis-iontoforeseapparaat, met eenvoudige bedieningsinterface en instelbare intensiteit. Kan worden gebruikt met hand- en voetbakken en okselaccessoires. Digitale bediening, timer, veiligheidsfuncties, compact ontwerp. Werkt op netstroom. Gemakkelijk te reinigen, duurzame accessoires.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>877067000256</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>Biocare Enterprise Ltd</Value>
+      </Param>
+    </Params>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28629</Id>
+        <Name>DermaDry</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dermadry Total, iontoforeseapparaat, iontoforese met leidingwater, behandeling van hyperhidrose, overmatig zweten, zwetende handen, zwetende voeten, hyperhidrose van de oksels, apparaat tegen zweten, iontoforese thuis, behandelbak, behandeling van zweetklieren, CE medisch hulpmiddel, DermaDry</Keywords>
+      <Description>Iontoforeseapparaat met leidingwater voor thuis, bij overmatig zweten van handpalmen, voetzolen en oksels. CE-hulpmiddel met twee bakken en elektroden.</Description>
+      <Title>Dermadry Total iontoforese | handen, voeten, oksels</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

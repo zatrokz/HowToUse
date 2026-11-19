@@ -14,5 +14,6 @@
 
 ## UNAS API
 - A kulcs az `UNAS_API_KEY` környezeti változóban van; soha ne írd fájlba, chatbe vagy naplóba. A `login` tokenjét se.
-- Sikertelen hívásból óránként csak 5 engedélyezett → új hívást mindig egyetlen, kis (`LimitNum=1`) kéréssel próbálj ki először.
+- Sikertelen hívásból óránként csak 5 engedélyezett → új paraméter-kombinációt mindig egyetlen, kis (`LimitNum=1`) kéréssel próbálj ki először.
+- A tulajdonos kérése: a blokkolási szintet soha ne közelítsük meg. Hívások között legalább 3 mp szünet, hívásszámlálóval, 3 hiba után leállás. Több termék lekérését ütemezett (szünetekkel futó) szkripttel végezd.
 - A nem magyar leírások `<!HTML KOD>` előtaggal, HTML-entitásként kódolva jönnek (lásd `docs/05` 5.3).

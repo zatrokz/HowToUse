@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-112, Lang=sk, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418940</Id>
+    <Sku>010E-112</Sku>
+    <CreateTime>1743245668</CreateTime>
+    <LastModTime>1795077647</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Pre objednávku</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Iba pre zdravotnícky personál</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Prezentované v partnerstve</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>PeroBravo</Name>
+    <Unit>db</Unit>
+    <Weight>0.1</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;Selektívne stimulačné zariadenie špecializované na liečbu periférnej (napr. peroneálna alebo Bellova paréza) paralýzy. Optimalizované pre liečbu denervovaných svalov. Poskytuje aj klasickú a EMG‑triggerovanú stimuláciu.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Cena zahŕňa:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;PeroBravo zariadenie &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Elektróda 40x40mm &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kábel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Nožný spínač &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Gumená elektróda a hubica &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Elastické upevnenie &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;AA akumulátory &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Nabíjačka &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Cestovné puzdro &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 ks&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Náš odborník odporúča
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„PeroBravo je klinické zariadenie pre neurorehabilitáciu, určené špeciálne na rehabilitáciu pacientov s periférnou paralýzou. Jeho podstata je v dlhom, 1–1000 ms impulznom trvaní selektívneho prúdu: ten dokáže privodiť kontrakciu denervovaného svalu, čo klasické EMS nedokáže. Okrem toho využíva EMG‑triggerovanú stimuláciu (ETS), ktorá stavia na akútnej snahe pacienta o aktiváciu. Pri peroneálnej paralýze a Bellovej paréze je pri správnom odbornom vedení veľmi dobre využiteľný. Bližšie o rehabilitácii peroneálnej paralýzy píšem v článku: &amp;lt;a href=&amp;quot;/rehabilitacia-peronealneho-ochrnutia&amp;quot;&amp;gt;peroneálna paralýza – rehabilitácia&amp;lt;/a&amp;gt;.&amp;quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Reálne očakávania
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Regenerácia periférneho nervu trvá mesiace až niekedy roky – elektroterapia je jedným z nástrojov vedľa cvičenia. Liečba denervovaného svalu vyžaduje znalosť parametrov: nesprávny impulz alebo trvanie môže v lepšom prípade byť neúčinný. Udržať existujúcu svalovú hmotu má samo osebe hodnotu, aj keď návrat funkcie môže byť pomalý.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Keď toto NIE je váš prístroj
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Ak potrebujete liečbu centrálnej poruchy po mozgovej príhode, kde ide o obnovenie spojenia medzi neporušeným nervom a svalom, vhodnejší je DuoBravo. Ak hľadáte iba posilnenie alebo jednoduchú liečbu bolesti, technické možnosti a cena PeroBravo môžu byť nad potrebou.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.zdravezitie.sk/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Pred objednaním
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Súbežne s lekárskym alebo fyzioterapeutickým vedením sa musí začať aj nastavenie parametrov – dlhšie impulzné trvania vyžadujú prísnejšie bezpečnostné opatrenia ako klasické EMS. NEMÔŽE sa použiť pri prítomnosti pacemakeru, ICD alebo iného elektronického implantátu; pri poruchách srdcového rytmu, poškodení srdcového svalu, epilepsii, tehotenstve, aktívnom nádore v blízkosti ošetrovaného miesta, akútnom zápale, hlbokej žilovej trombóze alebo otvorenej rane. Elektródy sa nesmú klásť na prednú časť krku, lebku ani oblasť srdca. Znížená kožná citlivosť vyžaduje zvýšenú opatrnosť.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/o-mne-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;lekár, expert na zdravotnícku techniku, bloger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 4. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Pre koho je PeroBravo vhodný?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;drop foot&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak trpíte peroneálnou paralýzou (drop foot, neschopnosť zdvihnúť prednú časť chodidla)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Peroneálna paresis je ochrnutie svalstva, ktoré zdvíha prednú časť chodidla – často po operácii chrbtice, zlomenine holennej kosti, dlhodobej imobilizácii alebo pri priamom poranení nervu. Pacient „padá“ na špičku, má tzv. „kladivovú chôdzu“ a musí zdvíhať koleno vyššie, aby sa prsty nezachytili o povrch. Selektívny prúd PeroBravo môže osloviť denervované peroneálne svaly, zatiaľ čo ETS režim s nožným spínačom cielene pomáha pri nácviku chôdze.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;Bell-féle parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte Bellovu parézu (jednostranné ochrnutie tváre)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bellova paréza je náhle vzniknuté jednostranné ochrnutie lícneho nervu – často z neznámej alebo vírusovej príčiny. Pacient nedokáže pohnúť polovicou tváre: nemôže sa usmiať, zatvoriť oko alebo nafúknuť líca. Klasické EMS tu nefunguje, pretože motorická vetva 7. nervu je poškodená. Selektívny prúd PeroBravo môže cieliť denervované mimické svaly a podporiť proces obnovy. DÔLEŽITÉ: pri stimulácii tváre je kontrola lekára (neurológ, ORL) kritická a uloženie elektród musí byť veľmi presné.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/kar-nyirokodema.png&amp;quot; alt=&amp;quot;periférikus idegsérülés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak sa zotavujete z iného periférneho poranenia nervu (plexus brachialis, n. radialis atď.)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Periférne poranenia nervov vznikajú z rôznych príčin: trauma (rezné rany, zlomeniny, úrazy), kompresia (dlhodobé nepríjemné držanie), zápal alebo iné neurologické ochorenia. Najčastejšie sú n. radialis (svaly extenzory ruky), n. medianus (carpal tunnel), plexus brachialis (od ramena po ruku). Selektívne stimulačné protokoly PeroBravo (PRG 1–11, 17–18) sú optimalizované pre liečbu týchto denervovaných svalov. Zotavenie často trvá 6–12 mesiacov, pričom intenzívna domáca selektívna stimulácia môže proces podporiť.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;EMG-trigger&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak chcete aktívnu rehabilitáciu (EMG‑triggerovaný ETS)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;ETS (EMG‑triggerovaná stimulácia) je v klinickej praxi veľmi cenná: pacient sa snaží dobrovoľne aktivovať poškodený sval, prístroj zachytí aj veľmi slabú EMG aktivitu a doplní ju elektrickou stimuláciou. Takto sa nervový systém pacienta učí znova spojiť s svalovým vláknom — aktívna participácia je kľúčová pre neuroplasticitu. ETS funkcia PeroBravo je obzvlášť hodnotná v strednej až neskorej fáze rekonvalescencie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;diagnosztika&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak ste fyzioterapeut alebo odborník a potrebujete presnú diagnostiku + protokoly&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;SDC program (PRG 12 – Strength‑Duration Curve) umožňuje „mapovanie&amp;quot; denervovaného svalu: ktorá impulzná šírka si vyžaduje akú intenzitu na vyvolanie kontrakcie. Toto meranie patrí do klasickej elektrodiagnostiky a umožňuje nastaviť presné, individuálne parametre liečby. PRG 19 a 20 slúžia na uloženie individuálnych protokolov pre konkrétneho pacienta. K dispozícii sú 60‑dňové štatistiky a reálny čas pre vedenie liečebného denníka.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;izomspaszticitás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak liečite spasticitu, stuhnutosť alebo svalovú nerovnováhu&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Spasticita (svalová stuhnutosť, neúmyselné kontrakcie) je častým následkom neurologických poškodení (mŕtvica, roztrúsená skleróza, poranenie miechy). Niektoré programy PeroBravo (PRG 10, 19, 20) môžu pomôcť znižovať spasticitu a zlepšovať svalovú rovnováhu (asymetria svalového tonu). DÔLEŽITÉ: liečbu spasticity nikdy nezačínajte bez schválenia odborníka (neurológ, fyzioterapeut).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;fájdalom&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak máte chronické bolesti (kĺbové, bolesť chrbta, neuropatická)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;TENS funkcia PeroBravo (PRG 19, 20 s individuálnym nastavením) umožňuje klasickú terapiu bolesti: zápal kĺbov, chronické bolesti chrbtice, bolesť krčnej alebo driekovej oblasti, neuropatické bolesti, bolesť po zlomeninách či phantom bolesti. Prístroj môže fungovať s dvojfázovými alebo jednofázovými impulzmi. Hoci to nie je primárna indikácia, ide o užitočnú doplnkovú funkciu pre pacientov s periférnou paralýzou, ktorí často trpia aj sekundárnymi chronickými bolesťami.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-elektroterapias-kezeles.png&amp;quot; alt=&amp;quot;hosszú távú használat&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Ak plánujete intenzív, dlhodobú domácu rehabilitáciu&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Rekonvalescencia periférnej paralýzy často trvá 6–12 mesiacov alebo dlhšie. Klinická/ambulantná fyzioterapia 1–3× týždenne zvyčajne nestačí — denné domáce intenzívne sedenia sú potrebné pre maximálnu šancu na obnovu. PeroBravo je navrhnutý pre túto dlhodobú, intenzívnu domácu fázu pod dohľadom lekára alebo fyzioterapeuta. Dobíjateľné NiMH AA batérie a 60‑dňová štatistika pre klinickú dokumentáciu poskytujú bezpečný základ pre dlhodobé používanie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;20 programov rozdelených do 4 hlavných skupín&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Knižnica programov PeroBravo sleduje liečebnú cestu periférnej parézy: od ťažkej počiatočnej fázy cez zlepšovanie až po diagnostiku a individuálne nastavenia.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;súlyos parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 1–6, 17–18 – Počiatočná liečba ťažkej parézy (denervovaný sval)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;V počiatočnej fáze ťažkej periférnej paralýzy je sval úplne denervovaný — motorický nerv neposiela žiadne signály. Klasické EMS tu nefunguje. Tieto programy pracujú s dlhými (stovky milisekúnd až sekundy) impulznými šírkami v trojuholníkovom alebo trapézovom tvare, ktoré priamo oslovujú svalové vlákna. Cieľom je spomaliť svalovú atrofiu a udržať svalovú hmotu počas obnovy.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;javuló parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 7–11, 19–20 – Liečba zlepšujúcej sa parézy (čiastočne re‑innervovaný sval)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;S rastom nervovej re‑innervácie sa sval stáva čiastočne re‑innervovaným — začína prijímať aj klasické EMS signály. Tieto programy postupne skracujú impulzné šírky smerom ku klasickým EMS parametrom. PRG 10 podporuje rehabilitáciu svalov s obnovujúcou sa inerváciou, zatiaľ čo PRG 19 a 20 umožňujú individuálne nastavenia podľa odborného odporúčania.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;SDC&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 12 – SDC diagnostika (Strength‑Duration Curve)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;SDC meranie je klasická elektrodiagnostická procedúra. Odborník pri rôznych impulzných šírkach a prúdoch meria prah potrebný na viditeľnú kontrakciu. Z nameraných hodnôt vznikne krivka, ktorá charakterizuje stav denervovaného svalu. Z parametrov tejto krivky možno vypočítať optimálne terapeutické hodnoty (impulzná šírka, frekvencia, intenzita).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;járás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 13–16 – Nácvik chôdze (peroneus paresis s nožným spínačom)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Tri dedikované programy na nácvik chôdze pri drop foot. ETS režim s nožným spínačom automaticky aktivuje stimuláciu pri zdvihnutí päty — presne v momente, keď by sa fyziologicky zapojil zdvíhač chodidla. Používa dvojfázové štvorcové impulzy. Onesnenie (0–1000 ms) možno doladiť podľa individuálneho kroku pacienta.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-fajdalom.png&amp;quot; alt=&amp;quot;fájdalom + egyéni&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 19, 20 – Terapia bolesti (TENS) + individuálne programovateľné&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PRG 19 a 20 sú programy nastaviteľné podľa individuálnych potrieb — odborník ich nakonfiguruje na mieru s ohľadom na vzorec bolesti pacienta. Môžu pracovať s dvojfázovými alebo jednofázovými impulzmi. Typické použitie: zápal kĺbov, chronické bolesti chrbtice/krku/driekovej časti, neuropatické bolesti, phantom bolesti, bolesť po zlomeninách. To robí z PeroBravo multifunkčný prístroj — okrem liečby denervovaných svalov pomáha aj pri spojených bolestiach periférnej paralýzy.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;hullámformák&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Výber tvaru impulzu – trojuholník, trapéz, štvorec&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Unikátny výber tvarov impulzov PeroBravo:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Jednofázový trojuholník:&amp;lt;/strong&amp;gt; pre denervovaný sval — strmý nábeh a pokles je šetrnejší k poškodeným svalovým tkanivám. Tvar trojuholníka je nastaviteľný.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Jednofázový trapéz:&amp;lt;/strong&amp;gt; podobne šetrný, s dlhším trvaním vrcholu. Tvar trapézu je nastaviteľný.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Dvojfázový symetrický štvorcový:&amp;lt;/strong&amp;gt; pre svaly s neporušenou inerváciou, klasický EMS charakter.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Jednofázový pozitívny štvorcový:&amp;lt;/strong&amp;gt; pre obálkové impulzy, vhodné pre TENS‑typ terapie.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Polaritné zmeny sú kontinuálne. Impulzná šírka: 1 ms – 1000 ms (jednofázovo) alebo 50 µs – 350 ms (obálkové impulzy).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 8. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Často kladené otázky&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;fontos&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môžem používať prístroj s kardiostimulátorom alebo implantovaným defibrilátorom?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nie.&amp;lt;/strong&amp;gt; Kardiostimulátor, implantovaný defibrilátor (ICD) alebo akékoľvek elektronické implantáty sú &amp;lt;strong&amp;gt;absolútnou kontraindikáciou&amp;lt;/strong&amp;gt;. Selektívny stimulačný prúd — keďže je dlhší a často intenzívnejší než klasické EMS — môže výrazne rušiť činnosť implantátov. Ak máte takýto prístroj, nikdy nepoužívajte PeroBravo.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;figyelem&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Môžem ho používať sám, alebo je potrebný lekársky dohľad?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo nie je hobby prístroj pre domáce improvizácie — lekársky alebo fyzioterapeutický dohľad JE POVINNÝ:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Počiatočná diagnóza:&amp;lt;/strong&amp;gt; typ a závažnosť parézy určí len odborník.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Výber protokolu:&amp;lt;/strong&amp;gt; odborník volí vhodný program zo 20 dostupných.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;SDC meranie:&amp;lt;/strong&amp;gt; výsledky PRG 12 interpretuje odborník.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Individuálne programy (PRG 19, 20):&amp;lt;/strong&amp;gt; tieto nastavuje odborník pre pacienta.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Sledovanie priebehu:&amp;lt;/strong&amp;gt; 60‑dňová štatistika sa kontroluje na klinických návštevách.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Domáce použitie prebieha podľa protokolu nastaveného odborníkom — pacient nesmie sám meniť parametre.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Aký je rozdiel medzi selektívnym stimulačným prúdom a klasickým EMS?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Základný fyzikálny rozdiel je v impulznej šírke:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Klasické EMS (Globus, Lito línia):&amp;lt;/strong&amp;gt; krátke impulzy 50–450 µs (mikrosekundy). Aktivuje len svaly s neporušenou inerváciou — stimuluje motorické nervové vlákna, ktoré následne vyvolajú kontrakciu svalov.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Selektívny stimulačný prúd (PeroBravo):&amp;lt;/strong&amp;gt; dlhé impulzy 1–1000 ms (milisekundy) — tisícnásobne dlhšie. Priamo stimuluje svalové vlákna a obchádza poškodený motorický nerv. Preto dokáže aktivovať aj denervované svaly.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Inými slovami: ak je motorický nerv neporušený, postačí klasické EMS. Ak je motorický nerv poškodený (periférna paralýza), potrebujete selektívny prúd — napr. PeroBravo. Klasické EMS by v takom prípade nebolo účinné.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Aký je rozdiel medzi PeroBravo a DuoBravo?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Oba patria do línie MTR+ Bravo, no majú odlišné zameranie:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;PeroBravo:&amp;lt;/strong&amp;gt; 1‑kanálový, selektívny stimulačný prúd (impulzná šírka až 1–1000 ms), navrhnutý pre denervované svaly. Obsahuje nožný spínač na nácvik chôdze, SDC diagnostiku a ETS (EMG-trigger).&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;DuoBravo:&amp;lt;/strong&amp;gt; 2‑kanálový, pracuje v klasickom EMS rozsahu (mikrosekundy), stimulačný prístroj + ETS. Vhodný pre centrálne poruchy (post‑stroke) a svaly s neporušenou nervovou reguláciou, ale oslabené.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Ak ide o denervované svaly (periférna paralýza, drop foot, Bellova paréza) → PeroBravo. Ak ide o oslabené, no inervované svaly (po mŕtvici, dlhodobej nečinnosti) → DuoBravo.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Koľko času trvá zlepšenie pri drop foot alebo Bellovej paréze?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Rekonvalescencia periférnej paralýzy je komplexný proces závislý od viacerých faktorov (stupeň poškodenia nervu, vek, celkový zdravotný stav, spolupráca pacienta atď.):&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bellova paréza:&amp;lt;/strong&amp;gt; v mnohých prípadoch významné zlepšenie za 3–6 mesiacov. U niektorých pacientov môže byť proces dlhší alebo môžu pretrvávať reziduálne príznaky.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Peroneus paresis po operácii:&amp;lt;/strong&amp;gt; typicky 6–12 mesiacov, niekedy až 2 roky.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Ťažké poranenie plexus brachialis:&amp;lt;/strong&amp;gt; 12–24 mesiacov alebo dlhšie.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Intenzívna domáca selektívna stimulácia (1–2× denne, 20–30 minút) môže podporiť rekonvalescenciu. DÔLEŽITÉ: zlepšenie nie je zaručené a výsledok závisí od biologických procesov regenerácie nervu. Lekár poskytne reálnejšiu prognózu pre konkrétneho pacienta.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Ako používať nožný spínač pri nácviku chôdze?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nožný spínač sa umiestni do topánky pod pätu (alebo na iné miesto na podrážke podľa inštrukcie fyzioterapeuta). Pri kroku: keď päta dosiahne podložku a pacient sa snaží zdvihnúť prednú časť chodidla, spínač vytvorí elektrický kontakt a aktivuje stimuláciu peroneálnych svalov. Tak stimulácia nastane v správnom momente chodného cyklu.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Sú prvé nácviky vždy pod dohľadom fyzioterapeuta, ktorý nastaví umiestnenie spínača a úroveň intenzity. Doma pacient postupne zväčšuje dĺžku prechádzok. Onesnenie (0–1000 ms) je nastaviteľné — pomalším pacientom môže vyhovovať dlhšie onesnenie ako rýchlejším.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Čo je to SDC meranie (Strength‑Duration Curve)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;SDC (Strength‑Duration Curve, „krivka intenzita‑dĺžka&amp;quot;) je klasické elektrodiagnostické meranie. Postup:&amp;lt;/p&amp;gt;
+ &amp;lt;ol&amp;gt;
+ &amp;lt;li&amp;gt;Odborník pri rôznych impulzných šírkach (napr. 1 ms, 10 ms, 100 ms, 300 ms, 1000 ms) zmeria, aký prúd je potrebný na viditeľnú kontrakciu svalu.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Z nameraných hodnôt vznikne krivka.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Tvar krivky charakterizuje stav denervovaného svalu: zdravý sval má plochejší priebeh, ťažko denervovaný prudko stúpavý.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Z parametrov krivky sa dajú odvodiť optimálne terapeutické hodnoty pre PRG 19/20 individuálne programy.&amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;p&amp;gt;SDC meranie umožňuje presné nastavenie liečby pre konkrétneho pacienta — nie všeobecné protokoly, ale hodnoty prispôsobené stavu svalu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 5. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Ako používať krok za krokom?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Konzultácia s lekárom alebo fyzioterapeutom&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Používanie PeroBravo musí vždy začať s povolením lekára alebo kvalifikovaného fyzioterapeuta. Odborník určí typ a závažnosť parézy (peroneus, Bell, plexus brachialis atď.) a vyberie vhodný protokol zo 20 programov. V počiatočnej ťažkej fáze: PRG 1–6 alebo 17–18. V zlepšujúcej sa fáze: PRG 7–11 alebo 19–20. Nácvik chôdze: PRG 13–16.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;SDC meranie (Strength‑Duration Curve)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Odborník môže vykonať PRG 12 (SDC) diagnostické meranie — určí, pri akej impulznej šírke a akom prúde sa objaví kontrakcia svalu pre daného pacienta. Na základe tejto krivky je možné nastaviť individuálne parametre do PRG 19/20 programov.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Umiestnenie elektród (peroneus alebo mimické svaly)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;V balení sú 4 samolepiace elektródy 40×40 mm + 2 gumené elektródy + hubice + 2 elastické upevnenia. Pri liečbe peroneusu sa elektródy umiestňujú na vonkajšiu stranu predkolenia, nad motorický bod peroneálnych svalov. Pri stimulácii tváre je umiestnenie elektród veľmi presné (mimické motorické body) — vždy to urobí najprv odborník. V niektorých prípadoch možno gumenú elektródu použiť so zvlhčenou hubicou na vlhkej koži.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Spustenie programu + intenzita (0–60 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Na jednom kanáli nastavíte intenzitu — postupne ju zvyšujte, až kým neuvidíte viditeľnú svalovú kontrakciu. Pri denervovanom svale sa často pozoruje drobný kontrakčný pohyb (pri peroneálnej paralýze sa môže pohnúť prst alebo aj celá predná časť chodidla). Bez dostatočného prúdu denervovaný sval nereaguje. Nikdy však nepoužívajte bolestivú intenzitu — pri pocite nepríjemnosti znížte intenzitu alebo ukončite liečbu.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Použitie ETS režimu v zlepšujúcej sa fáze&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;V úplne paralyzovanom stave tento režim nemá zmysel. Začať ho treba, keď sa pacient pri zlepšovaní snaží dobrovoľne aktivovať sval. ETS deteguje tento pokus (aj veľmi slabý) a doplní ho stimuláciou. Tak prebieha aktívna terapia, čo zlepšuje neuroplasticitu. Prah citlivosti EMG nastavuje odborník.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Nácvik chôdze (pri peroneálnej paresis s nožným spínačom)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Pri drop foot používajte nožný spínač z balenia. Pri zdvihnutí päty spínač automaticky aktivuje stimuláciu — zdvíhanie prednej časti chodidla prebieha v správnom biomechanickom momente chôdze. K dispozícii sú 3 dedikované programy (PRG 13–16) optimalizované pre nácvik chôdze. Onesnenie (0–1000 ms) možno doladiť podľa krokového rytmu pacienta.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 7. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Čo obsahuje balenie?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo profesionálne balenie obsahuje nožný spínač, gumené elektródy s hubicami a dobíjateľné NiMH akumulátory.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; PeroBravo zariadenie (1‑kanálové)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 ks&amp;lt;/strong&amp;gt; 40×40 mm samolepiace elektródy&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; stimulačný kábel&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; nožný spínač (na nácvik chôdze)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 ks&amp;lt;/strong&amp;gt; gumené elektródy (opakovane použiteľné, bez gélu)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 ks&amp;lt;/strong&amp;gt; hubice (pre gumené elektródy, na zvlhčený kontakt)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 ks&amp;lt;/strong&amp;gt; elastické upevnenia (na fixáciu gumených elektród)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 ks&amp;lt;/strong&amp;gt; AA typ NiMH dobíjateľné batérie&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; nabíjačka&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; cestovné puzdro&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 ks&amp;lt;/strong&amp;gt; používateľská príručka v maďarskom jazyku&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;karbantartás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Údržba a náhradné diely&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Samolepiace elektródy:&amp;lt;/strong&amp;gt; ich priľnavosť postupne klesá po 25–30 použitiach. Náhrada v rozmere 40×40 mm je dostupná osobitne. Po použití umiestnite elektródu späť na ochrannú fóliu.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Gumené elektródy + hubice:&amp;lt;/strong&amp;gt; gumené elektródy sú opakovane použiteľné, hubice treba pravidelne čistiť. Pred použitím navlhčite hubicu fyziologickým roztokom alebo destilovanou vodou — to zabezpečí vodivý kontakt. Čistenie: opláchnuť vlažnou vodou a nechať vyschnúť na vzduchu.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;NiMH batérie:&amp;lt;/strong&amp;gt; 4× AA v balení s nabíjačkou. Navrhnuté pre 500+ úplných cyklov. Pri dlhšej nečinnosti dobíjajte každé 1–2 mesiace, aby sa predišlo hlbokému vybití. Po 3–5 rokoch môže byť potrebná výmena.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Čistenie zariadenia:&amp;lt;/strong&amp;gt; vonkajšiu časť utrite suchou alebo mierne vlhkou handričkou. Kontaktné miesta (konektory káblov, nožný spínač) utrite suchou handričkou.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;külön rendelhető&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Dostupné príslušenstvo&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo je možné doplniť o ďalšie príslušenstvo:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Náhradné sady elektród:&amp;lt;/strong&amp;gt; 40×40 mm, odporúčané vymeniť po 25–30 použití.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Rôzne veľkosti a tvary elektród:&amp;lt;/strong&amp;gt; pri liečbe tváre môžu byť vhodnejšie malé kruhové cielené elektródy pre presnú stimuláciu mimických svalov.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Náhradné hubice pre gumené elektródy:&amp;lt;/strong&amp;gt; pri opotrebení alebo z hygienických dôvodov.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Predlžovací kábel:&amp;lt;/strong&amp;gt; pre ťažšie dostupné oblasti tela.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 9. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technické údaje – podrobne&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Vlastnosť&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Hodnota&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Čo to pre vás znamená?&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Počet kanálov&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 (variabilný digitálny elektrostimulátor)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Presná liečba cieľovej oblasti (napr. peroneus, mimické svaly)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Režimy stimulácie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS, EMS/NMES, ETS (EMG-trigger), selektívny stimulačný prúd, biofeedback&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;5 rôznych režimov od denervovaných svalov po klasickú terapiu bolesti&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Počet programov&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;20 programov (11 prednastavených + 1 SDC + 3 chôdové + 5 individuálnych)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Kompletné pokrytie liečebnej cesty periférnej parézy&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Špeciál – nácvik chôdze&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;3 programy (PRG 13–16, s nožným spínačom)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Špecifické pre drop foot nácvik chôdze&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;SDC diagnostika&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;PRG 12 – Strength‑Duration Curve&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Klasické elektrodiagnostické meranie pre individuálne nastavenie protokolu&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;EMG-trigger (ETS)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Áno, zabudované&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Aktívna účasť pacienta kombinovaná so stimuláciou&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intenzita&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–60 mA&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Rozsah optimalizovaný pre denervované svaly&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frekvencia&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1–120 Hz&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Široké spektrum pre rôzne parézne protokoly&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Individuálna impulzná šírka&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 ms – 1000 ms (1000 µs – 1 000 000 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TISÍC až DESEŤ‑TISÍC‑NÁSOBNE dlhšie ako klasické EMS — pre denervované svaly&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Obálková impulzná šírka&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50 µs – 350 ms (pozitívna časť)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Dostupné aj klasické TENS/EMS charakteristiky&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Unikátne tvary impulzov&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Trojuholník a trapéz (obidva nastaviteľné)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Šetrné tvary optimalizované pre denervované svalové vlákna&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Obálkové tvary&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Dvojfázový symetrický obdĺžnik / monofázový pozitívny obdĺžnik&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Klasické TENS/EMS režimy&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Onesnenie (nácvik chôdze)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–1000 ms&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stimulácia sa aktivuje v optimálnom momente krokového cyklu&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Nožný spínač&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;V balení (na nácvik chôdze)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatická aktivácia pri zdvihu päty&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Štatistiky&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60‑dňové údaje o liečbe, detailné zaznamenávanie na kanáli&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Odborník môže skontrolovať používanie počas klinickej návštevy&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Reálny čas&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Vstavané&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Presné časové pečiatky každej liečby&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Displej&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zobrazenie tvaru impulzu, intenzity a zostávajúceho času&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Priebežná spätná väzba o stave liečby&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Spustenie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatické alebo manuálne&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Flexibilné používanie — časované alebo manuálne&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Napájanie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;4× AA NiMH dobíjateľné batérie, 1,5 V&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Vysokokapacitné, dlhá životnosť&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Nabíjačka&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Súčasť balenia&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Nie je potrebné osobitné dokupovanie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Certifikáty&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Európska zhoda a klinická kvalita&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Výrobca&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Nemecko)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Vyrobené podľa nemeckých štandardov kvality&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ 
+ 
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 10. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;figyelmeztetés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kedy NEpoužívať PeroBravo?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;V nasledujúcich situáciách môže byť selektívna stimulácia nebezpečná alebo spôsobiť vedľajšie účinky. Pretože PeroBravo pracuje s dlhšími impulznými šírkami než klasické EMS, bezpečnostné opatrenia sú prísnejšie. Ak sa na vás niektorá z nasledujúcich položiek vzťahuje, nezačínajte používať prístroj bez lekárskej konzultácie.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;Prítomnosť kardiostimulátora, implantovaného defibrilátora (ICD) alebo akéhokoľvek elektronického implantátu — selektívny prúd môže narušiť ich funkciu&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Poruchy srdcového rytmu, poškodenie srdcového svalu alebo ťažké kardiovaskulárne ochorenia&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Tehotenstvo (liečba podbruška, brucha a driekovej oblasti je počas tehotenstva prísne zakázaná)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Epilepsia alebo iné ochorenia sprevádzané záchvatmi (z dôvodu dlhších impulzných šírok vyžadovať zvýšenú opatrnosť)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Aktívne malígne ochorenie v blízkosti ošetrovaného miesta&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Akútne zápaly alebo infekcie na ošetrovanom kožnom povrchu&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Hlboká žilová trombóza alebo známa predispozícia k trombóze v ošetrovanom končatine&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Kožné poranenie, čerstvé jazvy alebo otvorené rany v ošetrovanom mieste (vyhnúť sa do zahojenia)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Umiestnenie elektród na prednú časť krku (región karotidného sinu), na lebku alebo v oblasti srdca (okrem prípadu, ak to výslovne povolí ošetrujúci lekár pri stimulácii tváre)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Znížená alebo chýbajúca kožná citlivosť v ošetrovanom mieste — okolitá strata citlivosti pri denervovanom svale môže vyžadovať vyššiu intenzitu, čo zvyšuje riziko popálenia&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Uvoľnenie alebo zápal čerstvého kovového implantátu (skrutka, platňa) v bezprostrednej blízkosti — konzultujte s lekárom&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Prítomnosť horľavých anestetických plynov (nemocničné prostredie, prítomnosť kyslíkového koncentrátora)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Deti na samostatné používanie (do 12 rokov len pod dohľadom dospelej osoby a fyzioterapeuta)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Neviete si byť istí?&amp;lt;/strong&amp;gt; Pred použitím sa vždy poraďte s ošetrujúcim lekárom, neurológom alebo fyzioterapeutom — najmä pri liečbe periférnej paralýzy, kde diagnóza a liečebný protokol musia byť bezpečne nastavené odborníkom. Podrobné informácie nájdete v článku Dr. Zátroka Zsolta o kontraindikáciách elektroterapie: &amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/elektroterapia-–-kontraindikacie&amp;quot;&amp;gt;elektroterapia – kontraindikácie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. ORVOSI FIGYELMEZTÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;információ&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Dôležité informácie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;PeroBravo je zdravotnícka pomôcka so značkou CE, Class IIa (CE 0123, podľa MDD 93/42/EEC), klinickej úrovne pre profesionálnu neurorehabilitáciu. Domáce používanie MUSÍ prebiehať pod dohľadom lekára (neurológ, rehabilitačný špecialista) alebo kvalifikovaného fyzioterapeuta. Prístroj nenahrádza lekársku diagnostiku, individuálny protokol fyzioterapeuta ani predpísanú liečbu. Slúži ako doplnok komplexnej rehabilitácie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Pri náhlych alebo zhoršujúcich sa symptómoch (nová svalová slabosť, strata citlivosti, dýchavičnosť, závraty) okamžite vyhľadajte lekársku pomoc — nové príznaky počas používania PeroBravo vyžadujú bezodkladné vyšetrenie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Pri liečbe Bellovej parézy alebo ochrnutí lícneho nervu je umiestnenie elektród obzvlášť kritické — mimické motorické body určí vždy odborník (neurológ, ORL, fyzioterapeut) pri prvej liečbe. Nikdy neumiestňujte elektródy na tvár podľa vlastného uváženia.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Rekonvalescencia periférnej paralýzy je komplexný a časovo náročný proces — intenzívne domáce používanie PeroBravo môže podporiť proces, avšak úplné zotavenie nie je zaručené. Lekár poskytne reálnu prognózu na základe individuálneho stavu pacienta.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Používajte len originálne príslušenstvo, pravidelne vymieňajte a čistite elektródy a hubice. Uchovávajte zariadenie mimo dosahu detí.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;Informácie na tejto stránke slúžia len na všeobecnú orientáciu a nenahrádzajú individuálne lekárske poradenstvo, diagnostiku alebo liečbu. Pri konkrétnych ťažkostiach sa vždy poraďte so svojím lekárom.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 12. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Súvisiace prístroje a odborné zdroje&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/duobravo-n&amp;quot;&amp;gt;DuoBravo – 2‑kanálový EMS + ETS Bravo partner (klasické EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/myobravo&amp;quot;&amp;gt;MyoBravo – Bravo línia, izomstimulátor variant →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/sinebravo&amp;quot;&amp;gt;SineBravo – čisto biofeedback (NEstimuluje) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/rehalito&amp;quot;&amp;gt;Rehalito – vstupná úroveň EMS izomstimulátora (pre inervované svaly) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.zdravezitie.sk/genesy-1500&amp;quot;&amp;gt;Genesy 1500 – Globus 4‑kanálový profi prístroj (8 typov prúdu, klasické EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/elektroterapia&amp;quot;&amp;gt;Elektrická terapia – prehľad všetkých TENS/EMS/selektívnych prúdových prístrojov →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/biofeedback-ucinny-pomocnik-pri-rehabilitacii&amp;quot;&amp;gt;Biofeedback ako účinná pomôcka v rehabilitácii (článok) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/ktora-elektroterapia-je-vhodna-pre-mna&amp;quot;&amp;gt;Ktorá elektroterapia na čo slúži? – sprievodca pre rozhodovanie →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>591982</Id>
+        <Name>Domácna terapia|Elektroterapia|Biofeedback</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>382425</Id>
+        <Name>Liečba ochorení|Príznaky A – Z|Úbytok svalovej hmoty</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>911138</Id>
+        <Name>Liečba ochorení|Neurologické ochorenia|Periférna obrna</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>807325</Id>
+        <Name>Vybavenie ordinácií|Klinická elektroliečba</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>835404</Id>
+        <Name>Domácna terapia|Elektroterapia|Selektívny stimulačný prúd</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/perobravo</Url>
+    <SefUrl>perobravo</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-112</DefaultFilename>
+      <DefaultAlt>PeroBravo</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247053</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-112.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-112/010E-112.webp?time=1743247053</SefUrl>
+        <Filename>010E-112</Filename>
+        <Alt>PeroBravo</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Hasznalati-utmutato.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.zdravezitie.sk/rehabilitacia-peronealneho-ochrnutia - Rehabilitácia peroneálneho ochrnutia</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS, EMS/NMES, ETS, Szelektív ingeráram, Biofeedback</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom, Izomkezelés, Perifériás bénulás</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value> https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/perobravo-sk.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>PeroBravo je kompaktné prenosné elektronické zariadenie s elektrickými impulzmi, vybavené viacerými pripojiteľnými výstupmi a presne nastaviteľným ovládaním. Ponúka rôzne prednastavené prevádzkové režimy a široko nastaviteľné úrovne intenzity, čo umožňuje flexibilné prispôsobenie rôznym spôsobom použitia. Prehľadný displej a intuitívne ovládacie prvky zabezpečujú jednoduchú obsluhu. Odolná konštrukcia a prenosný formát sú vhodné na použitie doma alebo v organizovanom prostredí.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279581044</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-112</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1523623641</Id>
+        <Sku>012E-113</Sku>
+        <Name>Nožný spínač pre zariadenie PeroBravo</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1523623066</Id>
+        <Sku>012E-120</Sku>
+        <Name>Súprava káblov pre prístroje Pero a DuoBravo 1,5 m, 2 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2,5 cm okrúhla TENS elektróda s ihlou, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS elektróda s ihlami 4ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5×9 cm TENS elektróda s ihlami, 4 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2,5 cm guľatá TENS elektróda s ihličkami, 10 ks/bal.</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5×10 cm samolepiaca TENS elektróda s tŕňovým konektorom, 4 ks/bal</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5 cm samoľpiaca ihlová TENS elektróda, 4 ks/balenie</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode okrúhla TENS elektróda 3,2 cm, ihlová, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5 x 5 cm TENS ihlová elektróda, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5×9 cm samolepiaca TENS elektróda s ihlou, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5×10 cm samolepiaca TENS elektróda s ihlovými konektormi, 4 ks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS elektróda 5x5cm s ihlami 4ks/ks.</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>PeroBravo, selektívny dráždivý prúd, denervovaný sval, periférna obrna, obrna peroneálneho nervu, drop foot, Bellova obrna, obrna tvárového nervu, EMG spúšťaná stimulácia, ETS prístroj, prístroj na elektroliečbu, nožný spínač, neurorehabilitácia, samolepiace elektródy</Keywords>
+      <Description>Prístroj navrhnutý pre denervovaný sval: selektívny dráždivý prúd so šírkou impulzu 1-1000 ms a EMG spúšťaná stimulácia, s nožným spínačom a taškou.</Description>
+      <Title>PeroBravo selektívny dráždivý prúd | 1-1000 ms, ETS</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

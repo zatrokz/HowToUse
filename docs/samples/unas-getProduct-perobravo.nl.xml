@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-112, Lang=nl, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418940</Id>
+    <Sku>010E-112</Sku>
+    <CreateTime>1743245668</CreateTime>
+    <LastModTime>1795077647</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Voor bestelling</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Uitsluitend voor medisch personeel</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Wij verkopen als zakelijke distributeur</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>PeroBravo</Name>
+    <Unit>db</Unit>
+    <Weight>0.1</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;Een apparaat voor selectieve stimulatiestroom, gespecialiseerd in de behandeling van perifere verlammingen (bijv. peroneus- of Bell-paralyse). Geoptimaliseerd voor de behandeling van denervate spieren (waar de motorische zenuw verloren is). Biedt zowel conventionele als EMG-getriggerde stimulatie.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Prijs bevat:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;PeroBravo apparaat &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Elektrode 40x40 mm &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kabel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Voetschakelaar &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Rubberelektrode en sponskern &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Elastische bevestiging &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;AA accu &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Acculader &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Draagtas &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Onze medische expert zegt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„De PeroBravo is een klinisch-professioneel neurorevalidatieapparaat, speciaal ontwikkeld voor de revalidatie van patiënten met perifere verlammingen. Het kernprincipe is de lange, 1–1000 ms pulsbreedte van de selectieve stimulatiestroom: daarmee kan ook een denervaat spier tot contractie gebracht worden, iets wat klassieke EMS niet kan. Daarnaast werkt het met EMG-getriggerde stimulatie (ETS) die voortbouwt op vrijwillige spieractiviteit. Bij peroneusverlamming en Bell-paralyse is het, onder professionele begeleiding, een goed inzetbaar hulpmiddel. Meer over de revalidatie van peroneusverlamming leest u in mijn artikel over &amp;lt;a href=&amp;quot;/revalidatie-van-peroneusverlamming&amp;quot;&amp;gt;de revalidatie van peroneusverlamming&amp;lt;/a&amp;gt;.&amp;quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische verwachting
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Perifere zenuwherschikking meet u in maanden, vaak in één tot twee jaar – elektrotherapie is daarbij één van de hulpmiddelen naast oefentherapie. De behandeling van denervaat spierweefsel vraagt kennis van de juiste parameters: bij een onjuist gekozen impulsvorm en -duur blijft de therapie ineffective. Het behoud van de resterende spiermassa is op zichzelf waardevol, ook als functie langzaam terugkeert.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Niet geschikt als dit uw doel is
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;Wilt u centrale verlamming na een beroerte behandelen, dan is ETS op intacte zenuw-spier verbinding de hoofdtool en daarvoor is de DuoBravo N geschikt. Als u alleen spierversterking of pijnstilling zoekt, dan is deze kennis en prijs vaak meer dan noodzakelijk.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Voordat u bestelt
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;Selectieve stimulatiestroom moet gestart worden onder leiding van een behandelend arts of fysiotherapeut, en de parameters moeten door een specialist worden vastgesteld – vanwege de langere pulsbreedte zijn de veiligheidsregels strikter dan bij klassieke EMS. NIET gebruiken bij pacemaker, ICD of enig elektronisch implantaat; hartritmestoornis, myocardschade, epilepsie, zwangerschap, actieve tumor nabij het te behandelen gebied, acute ontsteking, diepe veneuze trombose of open wond. Elektroden mogen niet op de voorzijde van de hals, de schedel of het hartgebied geplaatst worden. Bij verminderde huidsensibiliteit is extra voorzichtigheid nodig.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/over-mij-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zsolt Zátrok&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Dr. Zsolt Zátrok — Arts, expert medische technologie, blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 4. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Voor wie en waarvoor is de PeroBravo geschikt?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;drop foot&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u peroneusverlamming heeft (drop foot, onvermogen om de voet op te tillen)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Peroneusparesis is de verlamming van de spieren die de voetheffing verzorgen – typisch na herniaoperatie, scheenbeenfractuur, langdurige immobilisatie of directe zenuwschade. De patiënt „sleept&amp;quot; de voet en kan een &amp;quot;hamerloop&amp;quot; laten zien, en moet de knie hoog optillen om niet over de tenen te struikelen. De selectieve stimulatiestroom van de PeroBravo kan de denervate peroneusspieren aanspreken; de voetschakelaar-ETS-modus geeft gerichte hulp bij het herleren van lopen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;Bell-féle parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u halfzijdige aangezichtsverlamming heeft door Bell-paralyse&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bell-paralyse is een plotselinge, eenzijdige aangezichtsverlamming – vaak van onbekende (veelal virale) oorsprong. De patiënt kan niet glimlachen, de oogleden niet sluiten of de wang niet opblazen. Klassieke EMS kan dit niet behandelen omdat het motorische traject van zenuw VII beschadigd is. De selectieve stimulatiestroom van de PeroBravo kan de denervate mimische spieren targeten en het herstelproces ondersteunen. BELANGRIJK: bij stimulatie van het gezicht is medische supervisie (neuroloog, kno-arts) cruciaal en moeten elektroden zeer nauwkeurig geplaatst worden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/kar-nyirokodema.png&amp;quot; alt=&amp;quot;periférikus idegsérülés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u herstelt van andere perifere zenuwletsel (plexus brachialis, n. radialis enz.)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Perifere zenuwletsel kan door trauma (snijwond, fractuur, ongeluk), compressie (langdurige oncomfortabele houding), ontsteking of andere neurale aandoeningen ontstaan. Veelvoorkomende voorbeelden: n. radialis (extensoren van hand/vingers), n. medianus (carpale tunnelsyndroom), plexus brachialis (van schouder tot arm). De selectieve stimulatieprotocollen van de PeroBravo (PRG 1–11, 17–18) zijn geoptimaliseerd voor deze denervate spieren. Herstel duurt vaak 6–12 maanden; intensieve thuisselectieve stimulatie kan het proces ondersteunen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;EMG-trigger&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u actieve revalidatie wilt (EMG-getriggerde ETS-stimulatie)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;ETS (EMG-Triggered Stimulation) is een klinisch waardevolle revalidatiemethode: de patiënt probeert de aangedane spier vrijwillig te activeren, het apparaat detecteert zelfs zwakke activiteit en vult dit aan met elektrische stimulatie. Zo leert het zenuwstelsel opnieuw verbinding te maken met de spier — actieve participatie is essentieel voor neuroplasticiteit. De ETS-functie van de PeroBravo is vooral nuttig in het midden-tot-late herstelstadium.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;diagnosztika&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u fysiotherapeut of professional bent en precieze diagnostiek + protocollen wilt&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het SDC-programma (PRG 12 – Strength-Duration Curve) maakt het mogelijk de denervate spier specifiek te &amp;#039;mappen&amp;#039;: welke pulsduur vereist welke stroomsterkte om contractie te genereren. Deze meting is onderdeel van klassieke elektrodiagnostiek en laat nauwkeurige individualisering van behandelparameters toe. PRG 19 en 20 zijn programmeerbare, patiëntspecifieke slots. 60 dagen statistiek + real-time klok voor behandelregistratie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;izomspaszticitás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u spasticiteit, stijfheid of spieronevenwicht wilt behandelen&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Spasticiteit (spierstijfheid, onwillekeurige contracties) volgt vaak neurologisch letsel (beroerte, multiple sclerose, ruggenmergletsel). Bepaalde programma&amp;#039;s (PRG 10, 19, 20) van de PeroBravo kunnen helpen spasticiteit te verminderen en spierbalans te verbeteren. BELANGRIJK: behandeling van spastische patiënten mag NIET beginnen zonder goedkeuring van een specialist (neuroloog, fysiotherapeut).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;fájdalom&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u ook chronische pijn heeft (artrose, rugpijn, neuropathie)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De TENS-functionaliteit van de PeroBravo (PRG 19, 20 met individuele instelbaarheid) maakt klassieke pijntherapie mogelijk: artrose, chronische rug-, nek- of lumbale pijn, neuropathische pijn, pijn na fracturen en fantoompijn. De unit kan zowel biphasische als monofasische pulsen leveren. Hoewel niet het hoofddoel, is dit een nuttige aanvullende functie voor patiënten met perifere verlamming die vaak secundaire chronische pijnklachten hebben.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-elektroterapias-kezeles.png&amp;quot; alt=&amp;quot;hosszú távú használat&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u intensieve, langdurige thuisrevalidatie plant&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Herstel van perifere verlamming duurt vaak 6–12 maanden of langer. Klinische of poliklinische fysio 1–3× per week is meestal niet voldoende — dagelijkse, intensieve thuisbehandeling is nodig voor maximale herstelkansen. De PeroBravo is specifiek ontworpen voor deze langdurige, intensieve thuisrevalidatiefase onder medische/fysiotherapeutische supervisie. Herlaadbare NiMH AA-accu&amp;#039;s en 60 dagen klinische statistieken bieden een veilige basis voor langdurig gebruik.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;De 20 programma&amp;#039;s in 4 hoofdgroepen&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De PeroBravo-programmabibliotheek volgt het behandeltraject van perifere parese: van ernstige initiële fase tot verbeterende revalidatie, plus diagnostische en individuele aanpassingsopties.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;súlyos parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 1–6, 17–18 – Initiële behandeling van ernstige parese (denervaat spier)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;In de initiële fase van ernstige perifere verlamming is de spier volledig denervaat – de motorische zenuw stuurt geen signalen naar de spier. Klassieke EMS is hier ineffectief. Deze programma&amp;#039;s werken met lange (milliseconde) driehoek- of trapeziumpulsen die direct spiervezels aanspreken. Doel: vertraging van spieratrofie en behoud van spiermassa gedurende het herstel.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;javuló parézis&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 7–11, 19–20 – Behandeling van verbeterende parese (gedeeltelijk re-innervatie)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Wanneer de zenuw geleidelijk weer uitgroeit, wordt de spier gedeeltelijk re-innervatie en accepteert deze ook klassieke EMS-signalen. Deze programma&amp;#039;s verkorten geleidelijk de pulsduur en naderen de parameters van klassieke EMS. PRG 10 ondersteunt reeds enigszins intacte zenuwgestuurde spieren; PRG 19 en 20 zijn individueel programmeerbare opties ingesteld door de behandelaar.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/doktor-bacsi.png&amp;quot; alt=&amp;quot;SDC&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 12 – SDC-diagnostiek (Strength-Duration Curve)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De SDC-meting is een klassieke elektrodiagnostische procedure. De specialist meet bij verschillende pulsduren en stroomsterktes welke drempel nodig is voor een zichtbare contractie. Uit deze gegevens ontstaat een curve die de staat van de denervate spier karakteriseert. De curveparameters laten berekenen welke behandelwaarden (pulsbreedte, frequentie, intensiteit) optimaal zijn voor die patiënt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;járás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 13–16 – Herleren van lopen (peroneusparesis, met voetschakelaar)&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;3 speciale loophertrainingsprogramma&amp;#039;s voor drop foot. De voetschakelaar-ETS-modus activeert de stimulatie automatisch bij het hielcontact — precies wanneer de voetheffers fysiologisch gebruikt zouden worden tijdens de loopcyclus. Werkt met biphasische rechthoekpulsen. De vertragingstijd (0–1000 ms) is afstembaar op het individuele looppatroon.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-fajdalom.png&amp;quot; alt=&amp;quot;fájdalom + egyéni&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;PRG 19, 20 – Pijntherapie (TENS) + Individueel programmeerbaar&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;PRG 19 en 20 zijn naar individuele behoefte in te stellen programma&amp;#039;s — de behandelaar kan ze aanpassen aan het pijnpatroon van de patiënt. Werkt met biphasische of monofasische pulsen. Typische toepassingen: artrose, chronische rug-/nek-/lumbale pijn, neuropathische pijn, fantoompijn, fractuurpijn. Dit maakt de PeroBravo multifunctioneel — naast behandeling van denervate spieren kan hij ook pijnklachten bij perifere verlamming verlichten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;hullámformák&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Keuze van golfvorm — driehoek, trapezium, rechthoek&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Unieke golfvormopties van de PeroBravo:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monofasische driehoek:&amp;lt;/strong&amp;gt; voor denervaat spierweefsel — de geleidelijke stijging/daling is zachter voor kwetsbaar spierweefsel. De vorm van de driehoek is instelbaar.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monofasische trapezium:&amp;lt;/strong&amp;gt; vergelijkbaar en zacht, met langere piektijd. Trapeziumvorm instelbaar.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bifasische symmetrische rechthoek:&amp;lt;/strong&amp;gt; voor intact zenuwgestuurde spieren, klassieke EMS-karakteristiek.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Monofasische positieve rechthoek:&amp;lt;/strong&amp;gt; voor omhullende pulsen, TENS-achtige behandelingen.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Polarititeitswissel is continu variabel. Pulsbreedte: 1 ms–1000 ms (monofasisch) of 50 µs–350 ms (omhullingsgedeelte).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 8. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Veelgestelde vragen&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;fontos&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kan ik het gebruiken met een pacemaker of geïmplanteerd apparaat?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nee.&amp;lt;/strong&amp;gt; Een pacemaker, geïmplanteerde defibrillator (ICD) of enig ander elektronisch implantaat is een &amp;lt;strong&amp;gt;absolute contra-indicatie&amp;lt;/strong&amp;gt;. De selectieve stimulatiestroom — doordat deze langer en intensiever kan zijn dan klassieke EMS-pulsen — kan de werking van implantaten verstoren. Als u zo&amp;#039;n apparaat heeft, gebruik de PeroBravo onder geen enkele omstandigheid.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;figyelem&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kan ik het zelfstandig gebruiken of is medische supervisie vereist?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De PeroBravo is geen hobbythuisapparaat — medische (neuroloog, revalidatiearts) of gediplomeerde fysiotherapeutische supervisie is VERPLICHT:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Initiële diagnose:&amp;lt;/strong&amp;gt; alleen een professional kan type en ernst van de parese vaststellen.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Protocolselectie:&amp;lt;/strong&amp;gt; de juiste keuze uit 20 programma&amp;#039;s wordt door de behandelaar ingesteld.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;SDC-meting:&amp;lt;/strong&amp;gt; PRG 12 moet door een specialist geïnterpreteerd worden.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Individuele programmatie (PRG 19, 20):&amp;lt;/strong&amp;gt; deze worden door de behandelaar geconfigureerd voor de patiënt.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Voortgangsmonitoring:&amp;lt;/strong&amp;gt; 60 dagen statistieken moeten tijdens klinische controles worden beoordeeld.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Thuisgebruik vindt plaats volgens het door de behandelaar ingestelde protocol — de patiënt mag parameters niet zelfstandig wijzigen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is het verschil tussen selectieve stimulatiestroom en klassieke EMS?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het fundamentele fysische verschil zit in de pulsduur:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Klassieke EMS (Globus, Lito-lijn):&amp;lt;/strong&amp;gt; korte pulsen, 50–450 µs (microseconden). Activeert alleen spieren met intacte motorische zenuw. Stimuleert motorische zenuwvezels, wat vervolgens spiercontractie veroorzaakt.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Selectieve stimulatie (PeroBravo):&amp;lt;/strong&amp;gt; lange pulsen, 1–1000 ms (milliseconden). Duizenden malen langer. Stimuleert direct de spiervezels en omzeilt beschadigde motorische zenuwen. Daarom kan het ook denervate spieren activeren.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Met andere woorden: als de motorische zenuw intact is, volstaat klassieke EMS. Bij beschadigde motorische zenuw (perifere verlamming) is selectieve stimulatiestroom nodig — klassieke EMS zou in dat geval ineffectief zijn.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is het verschil tussen de PeroBravo en de DuoBravo?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Beide behoren tot de MTR+ Bravo-lijn, maar met verschillende profielen:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;PeroBravo:&amp;lt;/strong&amp;gt; 1-kanaals, selectieve stimulatiestroom (tot 1–1000 ms pulsduur), speciaal voor denervaat spierweefsel. Inclusief voetschakelaar voor loophertraining, SDC-diagnostiek en ETS (EMG-trigger).&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;DuoBravo:&amp;lt;/strong&amp;gt; 2-kanaals, klassiek EMS-bereik (microseconden), spierstimulator + ETS. Gericht op centraal post-stroke revalidatie en zwakke, maar intacte zenuwgestuurde spieren.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Bij denervaat spierweefsel (perifere verlamming, drop foot, Bell-paralyse) → PeroBravo. Bij intacte, maar verzwakte spieren (post-stroke, disuse-atrofie) → DuoBravo.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe lang duurt herstel bij drop foot of Bell-paralyse?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Herstel van perifere verlamming is complex en afhankelijk van vele factoren (graad van zenuwletsel, leeftijd, algemene gezondheid, therapietrouw enz.):&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bell-paralyse:&amp;lt;/strong&amp;gt; in veel gevallen is binnen 3–6 maanden aanzienlijke verbetering mogelijk. Bij sommigen duurt het langer of blijven restverschijnselen bestaan.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Peroneusparesis na operatie:&amp;lt;/strong&amp;gt; typisch 6–12 maanden herstel, soms tot 2 jaar.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Zwaar plexus brachialisletsel:&amp;lt;/strong&amp;gt; 12–24 maanden, soms langer.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Intensieve thuisselectieve stimulatie (1–2× per dag, 20–30 minuten) kan het herstel ondersteunen. BELANGRIJK: herstel is niet gegarandeerd en hangt sterk af van biologische zenuwregeneratie. De behandelend arts geeft realistische prognose voor de individuele patiënt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe gebruik ik de voetschakelaar voor loophertraining?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De voetschakelaar wordt in de schoen onder de hiel geplaatst (of op een andere voetpositie volgens instructie van de fysiotherapeut). Tijdens het stappen: wanneer de hiel het contact maakt en de patiënt de voet wil optillen, genereert de voetschakelaar elektrisch contact en activeert de stimulatie van de peroneusspier. Zo gebeurt stimulatie op het juiste moment in de loopcyclus.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Oefen eerst onder toezicht van een fysiotherapeut om positie en intensiteit in te stellen. Thuis kan de loopafstand geleidelijk worden vergroot. De vertragingstijd (0–1000 ms) kan afgestemd worden — bijvoorbeeld langzamer lopende patiënten hebben vaak een langere vertraging nodig dan snellere lopers.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_pb&amp;quot; id=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_pb_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is de SDC-meting (Strength-Duration Curve)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De SDC (Strength-Duration Curve) is een klassieke elektrodiagnostische meting. Werkwijze:&amp;lt;/p&amp;gt;
+ &amp;lt;ol&amp;gt;
+ &amp;lt;li&amp;gt;De behandelaar meet bij verschillende pulsduren (bijv. 1 ms, 10 ms, 100 ms, 300 ms, 1000 ms) welke stroomsterkte nodig is voor een zichtbare spiercontractie.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Uit de gemeten waarden wordt een curve getekend.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;De vorm van de curve karakteriseert de staat van de denervate spier: een intacte spier heeft een vlakke curve, een ernstig denervate spier een steilere curve.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Op basis van curveparameters kunnen optimale behandelwaarden voor PRG 19/20 worden ingesteld.&amp;lt;/li&amp;gt;
+ &amp;lt;/ol&amp;gt;
+ &amp;lt;p&amp;gt;De SDC-meting helpt de behandeling precies op de individuele patiënt af te stemmen — niet volgens een algemeen protocol, maar op basis van de specifieke spierconditie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 5. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Hoe gebruikt u het stap voor stap?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Medische/fysiotherapeutische consultatie&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik van de PeroBravo begint altijd met goedkeuring door een behandelend arts of een gediplomeerd fysiotherapeut. De specialist bepaalt het type en de ernst van de parese (peroneus, Bell, plexus brachialis enz.) en kiest het geschikte protocol uit de 20 programma&amp;#039;s. Initieel: PRG 1–6 of 17–18. In verbeteringsfase: PRG 7–11 of 19–20. Loophertraining: PRG 13–16.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;SDC-meting (Strength-Duration Curve)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;De specialist kan PRG 12 (SDC) uitvoeren — dit bepaalt welke pulsduur welke stroomsterkte vereist om contractie te genereren bij de specifieke patiënt. Op basis van de curve worden individuele behandelparameters ingesteld in PRG 19/20.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Elektroden plaatsen (peroneus of mimiek)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;De set bevat 4 zelfklevende 40×40 mm elektroden + 2 rubberen elektroden + sponskernen + 2 elastische fixaties. Voor peroneusbehandeling worden de elektroden aan de laterale zijde van het onderbeen geplaatst, op de motorische punten van de peroneusspier. Voor gezichtsstimulatie vereist de plaatsing precieze positionering op mimische motorische punten — dit moet eerst door een specialist worden gedaan. Rubberelektroden met vochtig gemaakte sponskern kunnen worden gebruikt op vochtige huidcontacten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Programma starten + intensiteit (0–60 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;U stelt de intensiteit in op het enkele kanaal — verhoog geleidelijk tot zichtbare spiercontractie optreedt. Bij denervate spieren ziet u vaak slechts een kleine contractiebeweging (bij peroneusverlamming kan de voet of tenen iets bewegen). Zonder voldoende stroomsterkte reageert de denervate spier niet. Gebruik NOOIT pijnlijke intensiteiten — bij ongemak verlaag of stop de behandeling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;ETS-modus (EMG-trigger) gebruiken in verbeteringsfase&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;In volledige verlamming is deze functie niet zinvol. Start ermee zodra de patiënt tijdens herstel al probeert de spier vrijwillig te activeren. De ETS-modus detecteert deze inspanning (hoe zwak ook) en vult deze aan met elektrische stimulatie. Zo verloopt de behandeling met actieve participatie, wat neuroplasticiteit bevordert. De specialist stelt de EMG-gevoeligheidsdrempel in.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Loophertraining (peroneusparesis, met voetschakelaar)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Bij drop foot gebruikt u de bijgeleverde voetschakelaar. Bij hielopzet activeert de schakelaar automatisch de stimulatie — de voetheffing vindt plaats op het juiste moment van de loopcyclus. Er zijn 3 speciale programma&amp;#039;s (PRG 13–16) geoptimaliseerd voor loophertraining. De vertragingstijd (0–1000 ms) kan worden afgestemd op het loopsnelheid van de patiënt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 7. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wat bevat de set?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;Het professionele PeroBravo-pakket bevat de voetschakelaar, rubberelektroden met sponskernen en herlaadbare NiMH-accu&amp;#039;s.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; PeroBravo apparaat (1-kanaals)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 st&amp;lt;/strong&amp;gt; 40×40 mm zelfklevende elektroden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; stimulatiekabel&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; voetschakelaar (voor loophertraining)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 st&amp;lt;/strong&amp;gt; rubberelektroden (herbruikbaar, zonder gel)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 st&amp;lt;/strong&amp;gt; sponskernen (voor rubberelektroden, voor bevochtigde contactvoering)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 st&amp;lt;/strong&amp;gt; elastische fixaties (voor bevestiging van rubberelektroden)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 st&amp;lt;/strong&amp;gt; AA NiMH herlaadbare accu&amp;#039;s&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; acculader&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; draagtas&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; gebruiksaanwijzing in het Hongaars&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;karbantartás&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Onderhoud en vervangingsartikelen&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Zelfklevende elektroden:&amp;lt;/strong&amp;gt; kleefkracht neemt na 25–30 toepassingen geleidelijk af. Vervanging in 40×40 mm formaat is apart bestelbaar. Na gebruik terug op beschermfolie plaatsen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Rubberelektroden + sponskernen:&amp;lt;/strong&amp;gt; de rubberelektrode is herbruikbaar; reinig regelmatig de sponskern. Maak de spons voor gebruik nat met fysiologische zoutoplossing of gedestilleerd water om geleiding te verzekeren. Reinigen: naspoelen met warm water en laten drogen in een geventileerde ruimte.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;NiMH-accu&amp;#039;s:&amp;lt;/strong&amp;gt; 4× AA in de set met lader. Ontworpen voor 500+ volledige cycli. Bij lange inactiviteit 1–2× per maand opladen om diepontlading te voorkomen. Na 3–5 jaar kan vervanging nodig zijn.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Apparaatreiniging:&amp;lt;/strong&amp;gt; van buiten afnemen met een droge of licht vochtig doekje. Reinig contactpunten (kabelconnectoren, voetschakelaar) met een droge doek.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_pb_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;külön rendelhető&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Los bestelbare accessoires&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De PeroBravo is uit te breiden met extra accessoires:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Reserve-elektrodensets:&amp;lt;/strong&amp;gt; 40×40 mm formaat voor vervanging na circa 25–30 toepassingen.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Verschillende vormen en maten elektroden:&amp;lt;/strong&amp;gt; voor gezichtsstimulatie kunnen kleine ronde, doelgerichte elektroden geschikter zijn voor precieze mimische stimulatie bij Bell-paralyse.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Reserve sponskernen voor rubberelektroden:&amp;lt;/strong&amp;gt; vervanging bij slijtage of om hygiënische redenen.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Verlengkabels:&amp;lt;/strong&amp;gt; voor moeilijk bereikbare lichaamsdelen.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 9. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische gegevens – in detail&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Tulajdonság&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Waarde&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Wat betekent dit voor u?&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Aantal kanalen&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 (veelzijdige, digitale elektrostimulator)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Precieze behandeling van een gericht gebied (bv. peroneus- of mimische spier)&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Stimulatiemodi&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS, EMS/NMES, ETS (EMG-trigger), selectieve stimulatiestroom, biofeedback&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;5 verschillende modi, van denervaat spierweefsel tot klassieke pijntherapie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Aantal programma&amp;#039;s&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;20 programma&amp;#039;s (11 vooraf + 1 SDC + 3 loop + 5 individueel)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Volledige dekking van het behandeltraject bij perifere parese&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Specifiek sport – loophertraining&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;3 programma&amp;#039;s (PRG 13–16, met voetschakelaar)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Drop foot-specifieke loophertraining&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;SDC-diagnostiek&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;PRG 12 – Strength-Duration Curve&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Klassieke elektrodiagnostische meting voor individuele protocolinstelling&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;EMG-trigger (ETS)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ja, ingebouwd&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Actieve participatie van de patiënt gecombineerd met stimulatie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensiteit&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–60 mA&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Gemiddeld bereik, geoptimaliseerd voor denervaat spierweefsel&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frequentie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1–120 Hz&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Breed spectrum voor verschillende pareseprotocollen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Unieke pulsbreedte&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 ms – 1000 ms (1000 µs – 1 000 000 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;DUISENDENMAAL langer dan klassieke EMS — geschikt voor denervaat spierweefsel&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Omhullingspulsbreedte&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50 µs – 350 ms (positief deel)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Klassieke TENS- en EMS-achtige bereik ook beschikbaar&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Unieke golfvormen&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Driehoek en trapezium (beide instelbaar)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zachte vormen geoptimaliseerd voor denervaat spierweefsel&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Omhullingsgolfvormen&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Bifasische symmetrische rechthoek / monofasische positieve rechthoek&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Klassieke TENS- en EMS-achtige toepassingen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Vertragingstijd (loopoefening)&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0–1000 ms&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Stimulatie wordt geactiveerd op het optimale moment van de stapcyclus&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Voetschakelaar&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Bijgesloten (voor loophertraining)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatische stimulatie bij hielopzet&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Statistieken&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60 dagen behandelgegevens, gedetailleerde kanaallogging&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Kezelaar kan gebruik tijdens klinische controle controleren&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Real-time klok&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Ingebouwd&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Precieze tijdstempels voor elke behandeling&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Display&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Weergave van pulsvorm, intensiteit, resterende tijd&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Continue feedback over de behandelingsstatus&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Start&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatisch of handmatig&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Flexibel gebruik — getimed of handmatig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Voeding&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;4× AA NiMH herlaadbare accu&amp;#039;s, 1,5 V&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Hoogcapacitaire accu&amp;#039;s met lange levensduur&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Akkulader&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Inbegrepen&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Geen aparte aankoop nodig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Certificering&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Europese conformiteit, klinische kwaliteitsborging&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Fabrikant&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Duitsland)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Gemaakt volgens Duitse kwaliteitsnormen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ 
+ 
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+
+ &amp;lt;!-- 10. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;figyelmeztetés&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wanneer NIET gebruiken?&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;In de volgende situaties kan selectieve stimulatiestroom gevaarlijk zijn of bijwerkingen veroorzaken. Omdat de PeroBravo met langere pulsduren werkt dan klassieke EMS-apparaten, zijn de veiligheidscriteria extra streng. Als één van de onderstaande situaties op u van toepassing is, begin dan niet met gebruik zonder medische consultatie.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Pacemaker, geïmplanteerde defibrillator (ICD) of enig elektronisch implantaat — selectieve stimulatie kan hun werking verstoren
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Hartritmestoornissen, myocardschade of ernstige hart- en vaatziekten
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Zwangerschap (behandeling van onderbuik, buik en lenden is gedurende de gehele zwangerschap verboden)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Epilepsie of andere aandoeningen met insulten (vanwege de lange pulsduur extra aandacht)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Actieve kwaadaardige tumor nabij het te behandelen gebied
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Acute ontsteking of infectie van de te behandelen huidregio
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Diepe veneuze trombose of bekende trombosegevoeligheid in de te behandelen ledemaat
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Huidbeschadiging, vers litteken of open wond in het te behandelen gebied (vermijden tot genezing)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Plaatsing van elektroden op de voorzijde van de hals (carotissinus-regio), op de schedel of op het hartgebied (tenzij uitdrukkelijk goedgekeurd door de behandelend arts voor gezichtsbehandeling)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Verminderde of afwezige huidsensibiliteit in het te behandelen gebied — gevoelloosheid nabij denervate spieren kan hogere intensiteit vereisen en brengt brandwondrisico met zich mee
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Vers metaalimplantaat (schroef, plaat) met losse of ontstoken omgeving — raadpleeg de behandelaar
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Aanwezigheid van brandbare anesthesiegassen (ziekenhuisomgeving, bij gebruik van zuurstofconcentrator)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Kinderen voor zelfstandig gebruik (onder 12 jaar alleen onder directe supervisie van een volwassene + fysiotherapeut)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Twijfel?&amp;lt;/strong&amp;gt; Raadpleeg altijd uw behandelend arts, neuroloog of fysiotherapeut vóór gebruik — met name bij perifere verlamming, waar diagnose en behandelprotocol veilig door een specialist moeten worden ingesteld. Gedetailleerde informatie vindt u in het artikel van Dr. Zátrok Zsolt over &amp;lt;a href=&amp;quot;/elektrische-behandeling-tens-contra-indicaties&amp;quot;&amp;gt;contra-indicaties van elektrotherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 11. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;információ&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Belangrijke informatie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;De PeroBravo is een medisch hulpmiddel met CE-certificaat, Class IIa (CE 0123, volgens MDD 93/42/EEC), een klinisch-professioneel neurorevalidatieapparaat. Thuisgebruik MOET plaatsvinden onder medische (neuroloog, revalidatiearts) of fysiotherapeutische begeleiding. Het apparaat vervangt geen medische diagnose, individuele fysiotherapeutische protocollen of voorgeschreven medicatie. Het is een aanvullend hulpmiddel binnen een complex revalidatietraject.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Bij nieuwe of verergerende symptomen (bijv. nieuwe spierzwakte, gevoelsverlies, kortademigheid, duizeligheid) neem onmiddellijk contact op met uw behandelend arts — nieuwe symptomen tijdens gebruik vereisen directe evaluatie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Bij behandeling van Bell-paralyse of aangezichtsverlamming is elektrodeplaatsing uiterst precies — motorische punten van mimische spieren moeten aanvankelijk door een specialist (neuroloog, kno-arts, fysiotherapeut) worden vastgelegd. Plaats nooit eigenhandig elektroden op het gezicht.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Herstel van perifere verlamming is complex en langdurig — intensief thuisgebruik van de PeroBravo kan ondersteunen maar garandeert geen volledig herstel. De behandelaar geeft een realistische prognose op basis van de individuele situatie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik alleen originele accessoires; vervang en reinig elektroden en sponskernen regelmatig. Houd het apparaat buiten bereik van kinderen.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;De informatie op deze pagina is algemeen en vervangt geen individuele medische advisering, diagnose of behandeling. Raadpleeg altijd uw behandelend arts bij concrete klachten.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 12. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Gerelateerde apparaten en kennisbank&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/duobravo-n&amp;quot;&amp;gt;DuoBravo – 2-kanaals EMS + ETS Bravo-lijn (klassiek EMS-bereik) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/myobravo&amp;quot;&amp;gt;MyoBravo – Bravo-lijn spierstimulator variant →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/sinebravo&amp;quot;&amp;gt;SineBravo – puur biofeedback (stimuleert NIET) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/rehalito&amp;quot;&amp;gt;Rehalito – instapniveau EMS spierstimulator (voor intact zenuwgestuurde spieren) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/genesy-1500&amp;quot;&amp;gt;Genesy 1500 – Globus 4-kanaals professioneel apparaat (8 stroomtypes, klassiek EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/elektrische-behandeling&amp;quot;&amp;gt;Elektrotherapie – overzicht van alle TENS/EMS/selectieve stimulatie-apparaten →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/biofeedback-een-effectieve-hulp-bij-revalidatie&amp;quot;&amp;gt;Biofeedback als effectieve hulp bij revalidatie (artikel) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/welke-elektrotherapie-past-bij-je&amp;quot;&amp;gt;Welk elektrotherapie-type voor welke indicatie? – beslissingsgids →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>591982</Id>
+        <Name>Thuisbehandeling|Elektrische behandeling|Biofeedback</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>382425</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Afname van spiermassa</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>911138</Id>
+        <Name>Behandeling van aandoeningen|Neurologische aandoeningen|Perifere verlamming</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>807325</Id>
+        <Name>Uitrusting voor medische praktijken|Klinische elektrotherapie</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>835404</Id>
+        <Name>Thuisbehandeling|Elektrische behandeling|Selectieve stroomstimulatie</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/perobravo</Url>
+    <SefUrl>perobravo</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-112</DefaultFilename>
+      <DefaultAlt>PeroBravo</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247053</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-112.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-112/010E-112.webp?time=1743247053</SefUrl>
+        <Filename>010E-112</Filename>
+        <Alt>PeroBravo</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Instruction-for-Use.pdf - Gebruiksaanwijzing</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.jouwzorgwinkel.nl/revalidatie-van-peroneusverlamming - Revalidatie van peroneusverlamming</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS, EMS/NMES, ETS, Szelektív ingeráram, Biofeedback</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom, Izomkezelés, Perifériás bénulás</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/PeroBravo/PeroBravo-Instruction-for-Use.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>De PeroBravo is een compact en draagbaar elektronisch apparaat met elektrische impulsen, ontworpen met meerdere aansluitbare uitgangen en nauwkeurig instelbare werking. Het systeem beschikt over diverse vooraf ingestelde werkmodi en breed instelbare intensiteitsniveaus, waardoor flexibele configuratie mogelijk is voor uiteenlopende gebruikssituaties. Het duidelijke display en de intuïtieve bediening zorgen voor eenvoudige instelling en gebruik.</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279581044</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-112</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1523623641</Id>
+        <Sku>012E-113</Sku>
+        <Name>Voetschakelaar voor PeroBravo-apparaat</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1523623066</Id>
+        <Sku>012E-120</Sku>
+        <Name>Kabelset voor Pero- en DuoBravo-apparaten 1,5 m, 2 stuks</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2,5 cm ronde TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9 cm TENS-elektrode met pinnen 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2,5 cm ronde TENS-elektrode met pin, 10 stuks/pak</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm TENS-elektroden met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3,2 cm ronde TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5 cm TENS-elektrode met pin, 4 st./pak</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9 cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10 cm TENS-elektrode, 2 mm pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS-elektrode 5x5 cm met pinnen 4 st./set</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30619</Id>
+        <Name>1 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>PeroBravo, selectieve prikkelstroom, gedenerveerde spier, perifere verlamming, peroneusverlamming, klapvoet, Bellse parese, aangezichtsverlamming, EMG-getriggerde stimulatie, ETS apparaat, elektrotherapieapparaat, voetschakelaar, neurorevalidatie, zelfklevende elektroden</Keywords>
+      <Description>Apparaat voor gedenerveerde spieren: selectieve prikkelstroom met een pulsbreedte van 1 tot 1000 ms en EMG-getriggerde stimulatie, met voetschakelaar.</Description>
+      <Title>PeroBravo selectieve prikkelstroom | 1-1000 ms, ETS</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

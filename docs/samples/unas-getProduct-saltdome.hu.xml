@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=OKA03-015, Lang=hu, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1196751750</Id>
+    <Sku>OKA03-015</Sku>
+    <CreateTime>1743412218</CreateTime>
+    <LastModTime>1795076166</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Rendelésre</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Csak eü. szakember vásárolhatja</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Üzletkötőként forgalmazzuk</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>SaltDome sóterápiás készülék</Name>
+    <Unit>db</Unit>
+    <MaximumQty>18</MaximumQty>
+    <UnitStep>1</UnitStep>
+    <AlterUnit>
+      <Qty>1</Qty>
+      <Unit>db</Unit>
+    </AlterUnit>
+    <Weight>0.58</Weight>
+    <Description>
+      <Short>&lt;p class="pp-product-summary"&gt;A SaltDome sóterápiás készülék a krónikus légúti panaszok otthoni kezelésére ajánlott légzéstámogató eszköz. Alkalmazható COPD, asztma, légúti allergia, nátha, terheléses asztma, sőt házi kedvencek -kutyák és macskák- légzési panaszainak enyhítésére.&lt;/p&gt;
+&lt;div class="pp-price-includes"&gt;
+ &lt;span class="pp-price-includes__label"&gt;Ár tartalma:&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Saltdome készülék &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Hálózati tápegység &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Só-adagolókanál &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Mérőpohár &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+ &lt;span class="pp-price-includes__chip"&gt;Távirányító &lt;span class="pp-price-includes__chip-qty"&gt;1 db&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;article class="pp-wrapper"&gt;
+
+
+ &lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&gt;
+ &lt;aside class="pp-trust-box"&gt;
+ &lt;div class="pp-trust-box-header"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png" alt="Dr. Zátrok Zsolt" class="pp-doctor-photo"&gt;
+ &lt;div&gt;
+ &lt;span class="pp-trust-badge"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png" alt="orvos" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Orvosszakértőnk mondja
+ &lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;blockquote class="pp-doctor-quote"&gt;
+ &lt;p&gt;&lt;em&gt;„A sóterápia nem akut gyógyszer, és nem hoz látványos, azonnali változást – ne ilyet várj tőle. Ha rendszeresen alkalmazod, »észrevétlenül« hat: azt veszed észre, hogy ritkulnak a náthás időszakok, könnyebb a légzés, pihentetőbb az alvás. A kulcs a rendszeresség – ezért javaslom az éjszakai, alvás közbeni használatot: így nem külön feladat lesz, hanem beépül a napi rutinba. A &lt;span style="color: rgb(74, 134, 232);"&gt;&lt;strong&gt;SaltDome sóterápiás készülék&lt;/strong&gt;&lt;/span&gt; erre a célra a családi alapeszköz. A sóterápia bármely életkorban alkalmazható - gondolj arra, hogy a tengerparti sós levegőn milyen sokan élnek. Sőt... a cicád, kutyusod légúti problémáira is kiváló.”&lt;/em&gt;&lt;/p&gt;
+ &lt;/blockquote&gt;
+
+ &lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&gt;
+ &lt;dl class="pp-trust-facts" style="margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;"&gt;
+
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Reális elvárás
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;Rendszeres, minimum néhány napnyi használat után jelentkezhet a hatás. kevesebb köhögés, tisztább légutak, szabadabb orrlégzés, nyugodtabb alvás. Egyetlen alkalmazástól ne várj csodát. Rohamoldó szerepe nincs: asztmás rohamban az inhalátort nem helyettesíti.&lt;/dd&gt;
+
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;
+ &lt;img src="https://www.medimarket.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Nem ez a te készüléked, ha
+ &lt;/dt&gt;
+ &lt;dd style="margin:0 0 12px;line-height:1.55;color:#333;"&gt;azonnali tünetenyhítést keresel – a SaltDome a folyamatos, mindennapi használatban erős. Ha krónikus tüdőbetegség (pl. COPD, cisztás fibrózis, tüdőgyulladás után) a légúti váladékot kell aktívan felköhögtetni, akkor az &lt;a href="https://www.medimarket.hu/aerobika-opep-device"&gt;AerobikA OPEP&lt;/a&gt; további kiegészítő eszköz lehet – a kettő jól megfér egymás mellett.&lt;/dd&gt;
+
+ &lt;dt style="margin: 0px 0px 3px; font-weight: 700; color: rgb(0, 85, 165); font-size: 0.95em;"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png" alt="" style="height:22px;width:auto;vertical-align:middle;margin-right:6px;"&gt;Mielőtt megrendeled
+ &lt;/dt&gt;
+ &lt;dd style="margin:0;line-height:1.55;color:#333;"&gt;A sóterápia kiegészítő, természetes módszer – a gyógyszeres kezelést nem váltja ki. &lt;/dd&gt;
+
+ &lt;/dl&gt;
+
+ &lt;footer&gt;
+ &lt;p&gt;&lt;strong&gt;– &lt;a href="https://www.medimarket.hu/rolam-dr-zatrok-zsolt"&gt;Dr. Zátrok Zsolt&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+ &lt;em&gt;Orvos, orvostechnológiai szakértő, blogger&lt;/em&gt;
+ &lt;/p&gt;
+ &lt;/footer&gt;
+ &lt;/aside&gt;
+
+ &lt;!-- 3. CÉLCSOPORTOK – AKKORDEON (a részletes betegség-tartalmak a cluster-cikkekben) --&gt;
+ &lt;section class="pp-target-segments"&gt;
+ &lt;h2 class="pp-headline"&gt;Milyen panaszoknál segíthet a SaltDome?&lt;/h2&gt;
+ &lt;div class="pp-accordion"&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-allergias-no.png" alt="allergia" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Légúti allergia, szénanátha&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A sós levegő segíthet tisztítani az orrjáratokat és mérsékelni a nyálkahártya duzzanatát. Sok allergiás arról számol be, hogy a szezon előtt 2–4 héttel elkezdett rendszeres használat mellett enyhébbek a tünetei. Részletek: &lt;a href="https://www.medimarket.hu/szenanatha-allergia-soterapia"&gt;Szénanátha és sóterápia&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_2" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_2" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png" alt="nátha, gyerek" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Gyakran megfázó gyerekek, visszatérő nátha&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A váladékoldó hatás segítheti a gyorsabb felépülést, a rendszeres használat pedig a kutatások szerint a megelőzésben is szerepet játszhat – óvodás- és iskoláskorban, ahol a fertőzések gyorsan terjednek, ez különösen értékes.&lt;sup&gt;7&lt;/sup&gt; Részletek: &lt;a href="https://www.medimarket.hu/natha-megfazas-soterapia"&gt;Nátha és sóterápia&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_3" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_3" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png" alt="asztma" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Asztma – kiegészítő kezelésként&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A kutatások szerint a sóterápia kiegészítő kezelésként kedvező hatású lehet asztmában, mellékhatások nélkül – gyerekeknél is.&lt;sup&gt;3,6&lt;/sup&gt; Fontos: asztmás roham esetén nem helyettesíti a rohamoldó inhalátort! Részletek: &lt;a href="https://www.medimarket.hu/asztma-soterapia"&gt;Asztma és sóterápia&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_4" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_4" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png" alt="COPD" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;COPD és krónikus légúti betegségek&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A sós levegő segíthet a váladék oldásában és a légzés könnyítésében; a kutatások a légzésfunkció és az életminőség javulásáról számolnak be – a gyógyszeres kezelés kiegészítéseként, soha nem helyette.&lt;sup&gt;2,4,5&lt;/sup&gt; Részletek: &lt;a href="https://www.medimarket.hu/copd-betegseg-es-soterapia"&gt;COPD és sóterápia&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_5" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_5" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/arcureg-gyulladas.png" alt="arcüreg" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Arcüreggyulladás, orrdugulás, horkolás&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Az apró sórészecskék a melléküregekbe is bejuthatnak, segítve a váladék oldódását és távozását. Ha a horkolás orreredetű (orrdugulás, allergia okozza), a szabadabb orrlégzés a horkolást is mérsékelheti. Részletek: &lt;a href="https://www.medimarket.hu/arcureggyulladas-sinusitis-soterapia"&gt;Arcüreggyulladás és sóterápia&lt;/a&gt;, &lt;a href="https://www.medimarket.hu/horkolas-soterapia"&gt;Horkolás és sóterápia&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_6" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_6" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-no.png" alt="háziállat" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Sportolók - terheléses asztma&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;&lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Sportolóknál a sós levegő megelőzheti a terheléses asztma tüneteit és támogathatja a regenerációt. Részletek: &lt;a href="https://www.medimarket.hu/soterapia-sportoloknak"&gt;Sóterápia sportolóknak&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_7" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_7" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/macska.png" alt="háziállat" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;Háziállatok légúti panaszai&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;&lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;Kutyák és macskák légúti panaszainál ugyanúgy alkalmazható, mint embereknél. Részletek:&lt;a href="https://www.medimarket.hu/soterapia-haziallatok"&gt;Sóterápia háziállatoknak&lt;/a&gt;.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;p&gt;Ha a sóterápia tudományos hátterét, történetét és a módszerek (sóbarlang, sószoba, sópipa, sólámpa) részletes összehasonlítását keresed, azt a &lt;a href="https://www.medimarket.hu/soterapia-haloterapia-utmutato"&gt;Sóterápia átfogó útmutatóban&lt;/a&gt; gyűjtöttük össze.&lt;/p&gt;
+ &lt;/section&gt;
+ &lt;!-- 5. HATÁSMECHANIZMUS – tömörítve, a részletek a pillar-cikkben --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan hat a belélegzett sós levegő?&lt;/h2&gt;
+ &lt;p&gt;A SaltDome ultrahanggal porlasztja a sóoldatot, és 2–5 mikron méretű sórészecskéket juttat a levegőbe. Ez a méret az, ami a kutatások szerint az alsó légutakba is lejut – elég kicsi ahhoz, hogy a hörgőkig érjen, de elég nagy ahhoz, hogy ott le is rakódjon.&lt;sup&gt;8&lt;/sup&gt; A nyálkahártyára tapadó só három módon fejtheti ki a hatását:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Váladékoldás:&lt;/strong&gt; a só ozmotikus hatása vizet vonz a nyálkahártya felszínére – mint amikor az uborkasalátát megsózod. A váladék felhígul, könnyebben kiköhöghető, kiüríthető.&lt;sup&gt;8&lt;/sup&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;A nyálkahártya nyugtatása:&lt;/strong&gt; a sórészecskék hozzájárulhatnak a nyálka viszkozitásának csökkentéséhez és a normális nyálkahártya-működés helyreállásához, ami allergiás panaszoknál is kedvező lehet.&lt;sup&gt;1,8&lt;/sup&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;A csillószőrök működésének támogatása:&lt;/strong&gt; a légutakat borító apró csillószőrök „söprik" kifelé a szennyeződéseket és a váladékot. Krónikus légúti betegségekben ez a működés lelassul – a sóterápia a kutatások szerint segítheti a helyreállását.&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+ &lt;!-- 7. FAQ – RADIO BUTTON (NINCS MIKRODATA) --&gt;
+ &lt;section class="pp-faq-section"&gt;
+ &lt;h2 class="pp-headline"&gt;Gyakran ismételt kérdések&lt;/h2&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_1" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_1" class="pp-faq-label"&gt;
+ Mennyi idő alatt várható eredmény?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A legtöbb felhasználó már néhány napos rendszeres, éjszakai használat után tapasztal változást. A sóterápia nem akut kezelés: a rendszeresség fontosabb, mint az intenzitás. Adj a szervezetednek néhány hetet, mielőtt ítéletet mondasz.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_2" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_2" class="pp-faq-label"&gt;
+ Biztonságos-e gyerekeknek?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Igen, a sóterápia gyermekek számára is biztonságos (gondolj arra, hogy a tengerpartok mentén emberek milliárdjai élnek). A kutatások gyerekeknél sem találtak mellékhatást, és a rendszeres alkalmazás a felső légúti megbetegedések ritkulásához is hozzájárulhat.&lt;sup&gt;3,7&lt;/sup&gt; Allergiaszezon vagy óvodakezdés előtt érdemes 2–3 héttel korábban elkezdeni a használatot.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_3" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_3" class="pp-faq-label"&gt;
+ Miben más a SaltDome, mint a sópipa vagy a sólámpa?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;A sópipa durva sószemcséi csak a felső légutakba jutnak el, így főképp a szájüreg, garat problémáinél van hatása. A sólámpa dekorációnak kiváló, de egészségre nem gyakorolhat érdemi hatást (nem bocsát ki sórészecskéket). A SaltDome ultrahangos porlasztása 2–5 mikronos részecskéket állít elő, amelyek belégzéssel az alsó légutakba is lejuthatnak – és ha éjszaka, alvás közben működik, a rendszeres használat sem igényel külön időt vagy akaraterőt.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_4" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_4" class="pp-faq-label"&gt;
+ Milyen sót használjak, és mennyit fogyaszt?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Kizárólag adalékmentes, természetes kősót javaslunk – a jódozott vagy csomósodásgátlóval kezelt asztali só nem jó a légutaknak. A &lt;a href="https://www.medimarket.hu/koso-termeszetes-adalekmentes"&gt;webáruházban kapható kősó&lt;/a&gt; a készülékhez optimalizált. A fogyasztás minimális: egy tégely hónapokra elegendő napi használat mellett is.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_5" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_5" class="pp-faq-label"&gt;
+ Meddig és milyen gyakran használható?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Nincs olyan szabály, hogy a sóterápia csak néhány hétig alkalmazható – gondolj a tengerparton élő emberek százmillióira. A használatot érdemes a család helyzetéhez igazítani: náthás időszakokban (őszi-tavaszi hónapok, iskolakezdés) akár 2–3 hónapon át folyamatosan, allergiaszezon előtt 2 héttel elkezdve, a szezon végéig.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-warning"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_6" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_6" class="pp-faq-label pp-faq-label-warning pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png" alt="figyelem" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Helyettesítheti az orvosi kezelést?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;Nem. A sóterápia kiegészítő módszer, amely az orvosi kezelés &lt;em&gt;mellett&lt;/em&gt; alkalmazható, nem helyette. Ha COPD-d van, szedd rendszeresen a felírt gyógyszereidet; ha asztmád van, tartsd kéznél a rohamoldó inhalátorodat. A sóterápia célja a szervezet természetes védekezésének támogatása és az életminőség javítása.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="pp-faq-item pp-faq-danger"&gt;
+ &lt;input type="radio" name="pp_faq" id="pp_faq_7" class="pp-faq-radio"&gt;
+ &lt;label for="pp_faq_7" class="pp-faq-label pp-faq-label-danger pp-faq-label-with-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="fontos" style="height:20px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Használhatom asztmás roham alatt?
+ &lt;/label&gt;
+ &lt;div class="pp-faq-body"&gt;
+ &lt;p&gt;NEM. Asztmás roham esetén a rohamoldó inhalátort kell használni – a sóterápia a megelőzésre és a tünetmentes időszakok támogatására való. Lázas, akut légúti fertőzés idején is várd meg a lázas időszak végét a használat megkezdésével.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 4. VIDEÓS ÚTMUTATÓ --&gt;
+ &lt;section class="pp-video-container"&gt;
+ &lt;h2 class="pp-headline"&gt;Nézd meg működés közben&lt;/h2&gt;
+ &lt;div class="pp-video-content-flex"&gt;
+ &lt;div class="pp-video-description"&gt;
+ &lt;p&gt;Ebben a rövid filmben a SaltDome készüléket mutatom be:&lt;/p&gt;
+ &lt;ul&gt;
+ &lt;li&gt;a sóoldat elkészítése és a tartály feltöltése,&lt;/li&gt;
+ &lt;li&gt;az elhelyezés és a távirányítós vezérlés,&lt;/li&gt;
+ &lt;li&gt;a mindennapi, éjszakai használat gyakorlata.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-video-iframe-wrap"&gt;
+ &lt;div class="pp-video-responsive-inner"&gt;
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wW91xDW2YDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" __gcrchildframeremotetoken="ec36968eb271be24c5b42714d053dc6d"&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 6. HOGYAN HASZNÁLD? (5 lépés) --&gt;
+ &lt;section class="pp-how-it-works"&gt;
+ &lt;h2 class="pp-headline"&gt;Hogyan használd a SaltDome-ot?&lt;/h2&gt;
+ &lt;div class="pp-steps-container"&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;1&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Készítsd el a sóoldatot&lt;/h3&gt;
+ &lt;p&gt;Töltsd fel a tartályt vízzel és keverj el benne 1 adagolkanálnyi természetes kősót, a használati útmutató szerint. A készülék ultrahangos porlasztással állít elő 2–5 mikronos részecskéket.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;2&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Helyezd az ágyad közelébe&lt;/h3&gt;
+ &lt;p&gt;A készüléket az alvóhelyedtől nem messze, stabil felületre tedd. Egy hálószobányi légtérben fejti ki a hatását. A leghatékonyabb, ha a fejedtől egy, max. másfél méter távolságban üzemel.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;3&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Kapcsold be – akár a távirányítóval&lt;/h3&gt;
+ &lt;p&gt;Elalvás előtt indítsd el; a hangulat-LED színét és a működést az ágyból, a távirányítóval is vezérelheted.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;4&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Aludj – a készülék dolgozik&lt;/h3&gt;
+ &lt;p&gt;A napi 6–8 órás éjszakai használat ajánlott: egész éjjel finoman sós levegőt lélegzel be, észrevétlenül. Náthás időszakban napközben, rövidebb ideig is bevetheted.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="pp-step"&gt;
+ &lt;span class="pp-step-number"&gt;5&lt;/span&gt;
+ &lt;div class="pp-step-content"&gt;
+ &lt;h3&gt;Tartsd karban&lt;/h3&gt;
+ &lt;p&gt;Cseréld rendszeresen a sóoldatot és tisztítsd a tartályt a gyártói útmutató szerint – ez a higiénia és a hatékony működés feltétele.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 10. CSOMAG TARTALMA + KŐSÓ CROSS-SELL --&gt;
+ &lt;section&gt;
+ &lt;h2 class="pp-headline"&gt;Mit kapsz a csomagban?&lt;/h2&gt;
+ &lt;p&gt;A SaltDome csomag tartalma:&lt;/p&gt;
+ &lt;ul class="pp-package-list"&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; SaltDome ultrahangos sóterápiás készülék&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db &lt;/strong&gt;hálózati adapter&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; távirányító&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db&lt;/strong&gt; adagolókanál&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;1 db &lt;/strong&gt;mérőpohár&lt;/li&gt;
+ &lt;!-- ️ PLACEHOLDER: ellenőrizd, hogy az alapcsomag tartalmaz-e induló
+ kősót és egyéb tartozékot (pl. mérőpohár) – a tényleges
+ csomagtartalom szerint egészítsd ki! --&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Tipp a rendeléshez:&lt;/strong&gt; a készülék működéséhez adalékmentes, természetes kősó szükséges. Tedd a kosárba egy mozdulattal a &lt;a href="https://www.medimarket.hu/koso-termeszetes-adalekmentes"&gt;természetes, adalékmentes kősót&lt;/a&gt; is – így az első estétől kezdve használhatod a készüléket.&lt;/p&gt;
+ &lt;div class="pp-accordion" style="margin-top: 25px;"&gt;
+ &lt;div class="pp-accordion-item"&gt;
+ &lt;input type="checkbox" id="pp_acc_pkg_1" class="pp-accordion-checkbox"&gt;
+ &lt;label for="pp_acc_pkg_1" class="pp-accordion-label"&gt;
+ &lt;span class="pp-accordion-icon"&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png" alt="karbantartás" style="height:32px;width:auto;vertical-align:middle;"&gt;
+ &lt;/span&gt;&lt;span class="pp-accordion-title"&gt;Karbantartás és tisztítás&lt;/span&gt;&lt;span class="pp-accordion-arrow"&gt;&lt;/span&gt;
+ &lt;/label&gt;
+ &lt;div class="pp-accordion-content"&gt;
+ &lt;p&gt;A sóoldatot rendszeresen cseréld, a tartályt a gyártói útmutató szerint tisztítsd. A készülék külsejét száraz vagy enyhén nedves törlővel kezeld. A rendszeres karbantartás a higiénia és az egyenletes porlasztás feltétele.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 11. MŰSZAKI ADATOK – details (NINCS PropertyValue) --&gt;
+ &lt;details open=""&gt;
+ &lt;summary&gt;
+ &lt;h2 class="pp-headline" style="display: inline;"&gt;Műszaki adatok&lt;/h2&gt;
+ &lt;/summary&gt;
+ &lt;table class="pp-specs-table"&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Modell&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;SaltDome sóterápiás készülék&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Működési elv&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Ultrahangos sóoldat-porlasztás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Sórészecske-méret&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2–5 mikron&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Vezérlés&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Készüléken + távirányítóval&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Megvilágítás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Váltható színű hangulat-LED&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Ajánlott használat&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Napi 6–8 óra, éjszaka, alvás közben&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Működés&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Halk, éjszakai használatra tervezve, hálózati tápellátás&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Szükséges fogyóanyag&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Adalékmentes, természetes kősó&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Jótállás&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;24 hónap&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;!-- ️ PLACEHOLDER: ha rendelkezésre áll, egészítsd ki: tartály
+ űrtartalma, zajszint (dB), teljesítményfelvétel, méretek/tömeg --&gt;
+ &lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;/details&gt;
+
+ &lt;!-- 12. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&gt;
+ &lt;section class="pp-contraindication-list"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png" alt="figyelmeztetés" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Mikor NE használd a készüléket?
+ &lt;/h3&gt;
+ &lt;ul&gt;
+ &lt;li&gt;
+ Aktív tuberkulózis
+ &lt;/li&gt;
+ &lt;li&gt;
+ Légúti vérzés
+ &lt;/li&gt;
+ &lt;li&gt;
+ Súlyos szívelégtelenség
+ &lt;/li&gt;
+ &lt;li&gt;
+ Akut légúti fertőzés magas lázzal – várd meg a lázas időszak végét
+ &lt;/li&gt;
+ &lt;li&gt;
+ Kezeletlen, súlyos magas vérnyomás – előzetesen egyeztess orvosoddal
+ &lt;/li&gt;
+ &lt;li&gt;
+ Vesebetegség – a só-anyagcsere érintettsége miatt konzultáció javasolt
+ &lt;/li&gt;
+ &lt;li&gt;
+ Rosszindulatú daganat – előzetesen beszélj kezelőorvosoddal
+ &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt;&lt;strong&gt;Bizonytalan vagy?&lt;/strong&gt; Ha krónikus betegségben szenvedsz, a sóterápia megkezdése előtt konzultálj kezelőorvosoddal!&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 13. ORVOSI FIGYELMEZTETÉS – NEM MIKRODATA --&gt;
+ &lt;section class="pp-medical-warning"&gt;
+ &lt;h3&gt;
+ &lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="információ" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;
+ Fontos tudnivalók
+ &lt;/h3&gt;
+ &lt;p&gt;A sóterápia kiegészítő kezelés, amely az orvosi ellátás mellett alkalmazható, nem helyette. A használat során előfordulhat a köhögés átmeneti fokozódása – ez a váladékoldó hatás jele –, illetve az első alkalmakkor enyhe torokirritáció. Ha a tünetek tartósak vagy erősödnek, csökkentsd a kezelési időt vagy szüneteltesd a használatot, és konzultálj orvossal.
+ &lt;/p&gt;
+ &lt;p class="pp-disclaimer"&gt;&lt;em&gt;Az itt szereplő információk tájékoztató jellegűek. A sóterápia kiegészítő módszer, amely nem helyettesíti az orvosi kezelést. Panaszok esetén konzultálj kezelőorvosoddal. A készülék megfelelő használatáról a használati útmutatóban tájékozódhatsz.&lt;/em&gt;&lt;/p&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 15. KAPCSOLÓDÓ TARTALMAK – BELSŐ LINKEK (a CTA UTÁN) --&gt;
+ &lt;section class="pp-related-links"&gt;
+ &lt;h2 class="pp-headline"&gt;Kapcsolódó útmutatók és tartalmak&lt;/h2&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/soterapia-haloterapia-utmutato"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png" alt="átfogó útmutató" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Sóterápia átfogó útmutató – tudományos háttér és módszerek →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/soterapias-keszulek"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png" alt="kategória" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Sóterápiás készülékek – teljes kategória →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/koso-termeszetes-adalekmentes"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/sotarto.png" alt="kősó" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Természetes, adalékmentes kősó a készülékhez →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/asztma-soterapia"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tusszento-arc.png" alt="asztma" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Asztma és sóterápia →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/copd-betegseg-es-soterapia"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/tudo.png" alt="COPD" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;COPD és sóterápia →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/szenanatha-allergia-soterapia"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/virag.png" alt="szénanátha" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Szénanátha, allergia és sóterápia →&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.medimarket.hu/natha-megfazas-soterapia"&gt;&lt;img src="https://shop.unas.hu/shop_ordered/21500/pic/emotic/nathas-kisfiu.png" alt="nátha" style="height:32px;width:auto;vertical-align:middle;margin-right:5px;"&gt;Nátha, megfázás és sóterápia →&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/section&gt;
+
+ &lt;!-- 16. TUDOMÁNYOS FORRÁSOK --&gt;
+ &lt;section class="pp-citations"&gt;
+ &lt;h2 class="pp-headline"&gt;Tudományos források&lt;/h2&gt;
+ &lt;p&gt;A sóterápia (haloterápia) klinikai hátterét az alábbi vizsgálatok és szakmai források támasztják alá:&lt;/p&gt;
+ &lt;ol class="pp-citation-list"&gt;
+ &lt;li&gt;
+ Chervinskaya AV, Zilber NA (1995). &lt;cite&gt;Halotherapy for treatment of respiratory diseases&lt;/cite&gt;. &lt;em&gt;Journal of Aerosol Medicine&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/10161255/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Crisan-Dabija R és munkatársai (2022). &lt;cite&gt;Halotherapy for Chronic Respiratory Disorders: From the Cave to the Clinical&lt;/cite&gt;. &lt;em&gt;Alternative Therapies in Health and Medicine&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/32827399/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Bar-Yoseph R és munkatársai (2017). &lt;cite&gt;Halotherapy as asthma treatment in children: A randomized, controlled, prospective pilot study&lt;/cite&gt;. &lt;em&gt;Pediatric Pulmonology&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/27723955/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Meditsina Truda i Promyshlennaya Ekologiya (2018). &lt;cite&gt;Efficiency of controlled halotherapy in rehabilitation of patients with occupational lung diseases&lt;/cite&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/30351691/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Rashleigh R, Smith SM, Roberts NJ (2014). &lt;cite&gt;A review of halotherapy for chronic obstructive pulmonary disease&lt;/cite&gt;. &lt;em&gt;International Journal of Chronic Obstructive Pulmonary Disease&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/24591823/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Crișan-Dabija R és munkatársai (2021). &lt;cite&gt;Halotherapy—An Ancient Natural Ally in the Management of Asthma: A Comprehensive Review&lt;/cite&gt;. &lt;em&gt;International Journal of Environmental Research and Public Health&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/34828649/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Khan MA és munkatársai (2012). &lt;cite&gt;The use of Halotherapy for the health improvement in children at institutions of general education&lt;/cite&gt;. &lt;em&gt;Voprosy Kurortologii, Fizioterapii i Lechebnoi Fizicheskoi Kultury&lt;/em&gt;.
+ &lt;a href="https://pubmed.ncbi.nlm.nih.gov/22908472/" target="_blank" rel="noopener"&gt;PubMed&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ Semmelweis Egyetem, Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika. &lt;cite&gt;A sóterápia hatásai&lt;/cite&gt;.
+ &lt;a href="https://semmelweis.hu/fulorrgegeszet/betegeinknek/betegsegekrol/a-soterapia-hatasai/" target="_blank" rel="noopener"&gt;semmelweis.hu&lt;/a&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/section&gt;
+
+&lt;/article&gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>444085</Id>
+        <Name>Kezelőeszközök otthonra|Sóterápiás készülék</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>461499</Id>
+        <Name>Betegség kezelés|Bőrbetegségek|Ekcéma</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>603011</Id>
+        <Name>Betegség kezelés|Bőrbetegségek|Psoriasis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>681409</Id>
+        <Name>Betegség kezelés|Légúti betegségek|Asztma</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>659258</Id>
+        <Name>Betegség kezelés|Légúti betegségek|COPD</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>506689</Id>
+        <Name>Betegség kezelés|Légúti betegségek|Cisztás fibrózis</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>890689</Id>
+        <Name>Betegség kezelés|Légúti betegségek|Légúti allergia</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>112452</Id>
+        <Name>Betegség kezelés|Légúti betegségek|Nátha</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/saltdome-soterapias-keszulek</Url>
+    <SefUrl>saltdome-soterapias-keszulek</SefUrl>
+    <Images>
+      <DefaultFilename>OKA03-015</DefaultFilename>
+      <DefaultAlt>SaltDome sóterápiás készülék</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1761575246</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/OKA03-015.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék alapszín</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>1</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_1.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_1/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome sóterápiás készülék</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>2</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_2.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_2/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>SaltDome sóterápiás készülék</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>3</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_3.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_3/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék a távirányítójával</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>4</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_4.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_4/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék kék színű megvilágítással</Alt>
+      </Image>
+      <Image>
+        <Type>alt</Type>
+        <Id>5</Id>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_altpic/OKA03-015_altpic_5.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/OKA03-015_altpic_5/OKA03-015.webp?time=1761575246</SefUrl>
+        <Filename>OKA03-015</Filename>
+        <Alt>Saltdome sóterápiás készülék rózsaszín megvilágítással</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-hu.pdf - Használati útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.medimarket.hu/soterapia-haloterapia-utmutato - Sóterápia átfogó útmutató</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>n/a</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>asztma, hörgőgyulladás&amp;comma; CODP, légúti allergia, megfázás&amp;comma; nátha</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Saltdome/SaltDome-hu.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>4551</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>A SaltDome készülék beltéri használatra készült, természetes sóanyag alkalmazásával. Kompakt, asztali kialakítása jól illeszkedik otthoni terekbe, irodákba vagy más belső helyiségekbe. A só finom részecskéi egy szabályozott mechanikus folyamat során fokozatosan jutnak a levegőbe, így alakítva a helyiség jellegét. A készülék strapabíró burkolattal rendelkezik, energiahatékony működésre lett tervezve, és folyamatos használatra is alkalmas. Egyszerű kezelése rugalmas elhelyezést tesz lehetővé. </Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>5999133200003</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>n/a</Value>
+      </Param>
+    </Params>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1198760675</Id>
+        <Sku>sa-8101</Sku>
+        <Name>Parajdi (Erdély) kősó adalékmentes</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1198760505</Id>
+        <Sku>sa-8100</Sku>
+        <Name>Himalájai kősó rózsaszínű adalékmentes</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <Stickers>
+      <Sticker>
+        <Id>24515</Id>
+        <Name>Népszerű!</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>SaltDome, sóterápiás készülék, haloterápia, sóterápia otthon, halogenerátor, szobai sóbarlang, légúti panasz, allergiás nátha, szénanátha, asztma kiegészítő kezelés, COPD, orrdugulás, horkolás, gyermek légúti panasz, háziállat légzés, távirányító</Keywords>
+      <Description>Otthoni sóterápiás eszköz, amely apró sórészecskéket juttat a szoba levegőjébe: csendes, éjszakai használatra való, távirányítóval és adagolókanállal.</Description>
+      <Title>SaltDome sóterápiás készülék | ultrahangos porlasztó</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>

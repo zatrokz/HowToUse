@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNAS getProduct válasz, Sku=010E-200, Lang=nl, ContentType=full, 2026-11-19. ANONIMIZÁLT: Prices, Stocks, Statistics, History,
+     Export, CrossSale/UpSale, pont- és kedvezménymezők, Datas, Marketing-csoportú paraméterek eltávolítva. -->
+<Products>
+  <Product>
+    <State>live</State>
+    <Id>1195418915</Id>
+    <Sku>010E-200</Sku>
+    <CreateTime>1743245666</CreateTime>
+    <LastModTime>1794912144</LastModTime>
+    <Statuses>
+      <Status>
+        <Type>base</Type>
+        <Value>1</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>1</Id>
+        <Name>Voor bestelling</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>2</Id>
+        <Name>Uitsluitend voor medisch personeel</Name>
+        <Value>0</Value>
+      </Status>
+      <Status>
+        <Type>plus</Type>
+        <Id>3</Id>
+        <Name>Wij verkopen als zakelijke distributeur</Name>
+        <Value>0</Value>
+      </Status>
+    </Statuses>
+    <NoList>0</NoList>
+    <Explicit>0</Explicit>
+    <Name>Dolito</Name>
+    <Unit>db</Unit>
+    <Weight>0.4</Weight>
+    <Description>
+      <Short>&lt;!HTML KOD&gt;&amp;lt;p class=&amp;quot;pp-product-summary&amp;quot;&amp;gt;TENS-apparaat gespecialiseerd in pijnbehandeling&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;pp-price-includes&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__label&amp;quot;&amp;gt;Inbegrepen in de prijs:&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Dolito apparaat &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;Kabel &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;2 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;40×40 mm TENS-elektrode &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;4 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-price-includes__chip&amp;quot;&amp;gt;9 V batterij &amp;lt;span class=&amp;quot;pp-price-includes__chip-qty&amp;quot;&amp;gt;1 st&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/div&amp;gt;</Short>
+      <ShortIsHtml>1</ShortIsHtml>
+      <Long>&lt;!HTML KOD&gt;&amp;lt;article class=&amp;quot;pp-wrapper&amp;quot;&amp;gt;
+ &amp;lt;!-- 2. TRUST BOX – Dr. Zátrok (NINCS MIKRODATA) --&amp;gt;
+ &amp;lt;aside class=&amp;quot;pp-trust-box&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-trust-box-header&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/infografika/Dr-Zatrok-Zsolt-photo-500x500.png&amp;quot; alt=&amp;quot;Dr. Zátrok Zsolt&amp;quot; class=&amp;quot;pp-doctor-photo&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-trust-badge&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.medimarket.hu/shop_ordered/21500/pic/emotic/orvos.png&amp;quot; alt=&amp;quot;orvos&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Onze medisch expert zegt
+ &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;blockquote class=&amp;quot;pp-doctor-quote&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;„Ik raad de Dolito aan voor mensen die een eenvoudige, betaalbare, medicijnvrije manier zoeken om pijn thuis te verlichten. De zes protocollen omvatten de belangrijkste TENS-methoden: continu en gemoduleerd TENS voor de klassieke pijnverlichting, Burst en HAN (Dense-Disperse) richten zich op het endorfinesysteem – laatstgenoemden kunnen nuttig zijn bij chronische en spiergerelateerde klachten. Belangrijk om te weten: de Dolito is ALLEEN een TENS-apparaat. Het verschil tussen de methoden beschrijf ik hier: &amp;lt;a href=&amp;quot;/welke-elektrotherapie-past-bij-je&amp;quot;&amp;gt;welke elektrotherapie waarvoor geschikt is&amp;lt;/a&amp;gt;.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/blockquote&amp;gt;
+
+ &amp;lt;!-- 2b. STRUKTURÁLT KIVONAT – elvárás, kizárás, konzultáció --&amp;gt;
+ &amp;lt;dl class=&amp;quot;pp-trust-facts&amp;quot; style=&amp;quot;margin:16px 0 0;padding:14px 18px;background:#f4f8fc;border-left:4px solid #0055a5;border-radius:6px;&amp;quot;&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;doel&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Realistische verwachting
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;TENS werkt op het verminderen van het gevoel van pijn; het verhelpt de oorzaak niet. De werking is gebonden aan de sessie – het effect houdt aan tijdens de behandeling en doorgaans nog enkele uren daarna – daarom moet u bij chronische klachten rekenen op dagelijks, herhaald gebruik. Correcte elektrodeplaatsing en instelling van de intensiteit vergen oefening: de eerste paar sessies zijn leerzaam, beoordeel het apparaat daar niet alleen op.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://www.jouwzorgwinkel.nl/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;waarschuwing&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Dit apparaat is niet geschikt voor u als
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0 0 12px;line-height:1.55;color:#333;&amp;quot;&amp;gt;u spieren wilt versterken, een sterk verschrompelde spier wilt herstellen of incontinentie met sondes wilt behandelen: daarvoor zijn EMS- of sondaprogramma&amp;#039;s nodig en de Dolito heeft die niet. Als u al die functies nodig heeft, overweeg dan een multifunctioneel apparaat.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;dt style=&amp;quot;margin:0 0 3px;font-weight:700;color:#0055a5;font-size:0.95em;&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tens-elektroda.png&amp;quot; alt=&amp;quot;TENS-elektrode&amp;quot; style=&amp;quot;height:22px;width:auto;vertical-align:middle;margin-right:6px;&amp;quot;&amp;gt;Voordat u bestelt
+ &amp;lt;/dt&amp;gt;
+ &amp;lt;dd style=&amp;quot;margin:0;line-height:1.55;color:#333;&amp;quot;&amp;gt;In de productbeschrijving vindt u algemene adviezen over programmakeuze, elektrodeplaatsing en behandelingsduur. De ideale instelling voor uw klacht kan alleen een arts of fysiotherapeut geven die uw situatie kent. MAG NIET gebruikt worden bij pacemaker, geïmplanteerde defibrillator (ICD) of ander actief implantaat – alleen met toestemming van uw cardioloog. Elektroden mogen niet op de voorzijde van de hals, het hoofd, rond de ogen of de slapen geplaatst worden en er mag geen stroom door de borstholte geleid worden. Gebruik tijdens de zwangerschap wordt afgeraden; bij kanker, als het behandelde gebied betrokken is, eerst oncologische consultatie. Bij nieuwe of verergerende pijn eerst medische diagnostiek.&amp;lt;/dd&amp;gt;
+
+ &amp;lt;/dl&amp;gt;
+
+ &amp;lt;footer&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;– &amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/over-mij-dr-zatrok-zsolt&amp;quot;&amp;gt;Dr. Zátrok Zsolt&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+ &amp;lt;em&amp;gt;Dr. Zsolt Zátrok — Arts, expert medische technologie, blogger&amp;lt;/em&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/footer&amp;gt;
+ &amp;lt;/aside&amp;gt;
+
+ &amp;lt;!-- 3. CÉLCSOPORTOK – AKKORDEON --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-target-segments&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Is de Dolito geschikt voor mijn klacht?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/terd-gyulladas.png&amp;quot; alt=&amp;quot;gewrichts- of peesklachten&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u gewrichts- of peesklachten heeft (artrose, tendinitis)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Ontstekingsklachten van het gewricht (artritis), slijtage (artrose) en peesontstekingen (tendinitis) gaan vaak gepaard met chronische pijn die met TENS zonder medicijnen verlicht kan worden. De Dolito in de Gemoduleerde modus (Programma 01) of HAN (Programma 04) is geoptimaliseerd voor chronische klachten – behandel sessies van 30 minuten, 1–2 keer per dag. Pijnvermindering kan al tijdens de behandeling optreden en blijft meestal na de stimulatie aanhouden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/derek-taji-fajdalom.png&amp;quot; alt=&amp;quot;zittend werk&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u zittend werk doet en ’s avonds nek- of rugpijn hebt&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Nek- en lage rugklachten zijn veelvoorkomende klachten bij zittend werk. De Dolito Continu (Programma 02 – 110 Hz, 30 min) geeft snelle verlichting bij acute plots optredende pijn, de Gemoduleerde modus is geschikt voor chronische, terugkerende klachten. U kunt de Dolito tijdens of na het werk thuis gebruiken – hij is met een riemclip draagbaar, en u kunt gerust TV kijken of lezen tijdens de behandeling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/inkontinencia.png&amp;quot; alt=&amp;quot;menstruatiepijn&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u menstruatiepijn heeft&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Primaire dysmenorroe (menstruatiekrampen) veroorzaakt bij veel jonge en middelbare leeftijd vrouwen hevige pijn en het verlangen naar medicijnvrije behandeling. De Dolito in Continu of Gemoduleerd met elektroden op de onderbuik kan krampen verminderen. De 9V-batterij en compacte afmetingen zijn een plus: het past in uw zak of tas en is discreet te gebruiken, ook op het werk. BELANGRIJK: tijdens zwangerschap NIET gebruiken.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/futo-szemely.png&amp;quot; alt=&amp;quot;spierpijn na sport&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u spierpijn heeft na training of lichamelijk werk&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bij spierpijn, kramp of pijn na inspanning kan de Dolito Burst (Programma 03) het endorfinesysteem activeren en zo pijn verlichten. Het Work/Rest (Programma 05) programma kan ook lichte spieractivering geven – ritme van 10 seconden stimulatie + 20 seconden rust. Dit vervangt geen Globus EMS-apparaten voor krachttraining, maar is geschikt voor zachte heractivering van herstellende spieren.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/arc-elektromos-kezeles.png&amp;quot; alt=&amp;quot;zenuwpijn&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u pijn van zenuwletsel heeft (neuralgie, ischias)&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Neuralgieën (zenuwpijn), ischias, wortel-symptomen en soms fantoompijn kunnen reageren op TENS. De Gemoduleerde en HAN-programma&amp;#039;s van de Dolito zijn bijzonder geschikt voor het verlichten van deze chronische pijnsoorten. BELANGRIJK: de oorzaak van zenuwpijn moet altijd door een medisch specialist worden vastgesteld – behandel uzelf niet zelfstandig bij nieuwe of verergerende klachten.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;betaalbare instap&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u op zoek bent naar een betaalbaar instapmodel&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Veel patiënten overwegen na een behandeling bij de huisarts of fysiotherapeut een apparaat voor thuisgebruik en willen niet direct een grote investering. De Dolito biedt goede prijs-kwaliteit voor deze doelgroep: Duitse MTR+ kwaliteit, 10 jaar levensduur, klassieke 6 programma&amp;#039;s en een eenvoudige bediening. Het wil niet alles tegelijk zijn, en dat is juist een voordeel – wie alleen TENS-pijnverlichting zoekt, betaalt niet voor onnodige functies.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_7&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/mutet.png&amp;quot; alt=&amp;quot;na breuk of operatie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als u pijn na een breuk of operatie heeft&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Na het verwijderen van een gipsverband bij botbreuk of na kleinere operaties (bv. meniscusingreep, peesreconstructie) kan TENS een medicijnvrije optie bieden voor pijnverlichting. De Dolito Continu is geoptimaliseerd voor acute, hevige klachten; de Gemoduleerde modus voor de langdurige postoperatieve fase. BELANGRIJK: start TENS na breuk of operatie alleen met goedkeuring van uw behandelend arts of fysiotherapeut – plaats nooit elektroden op een verse wond of litteken! Wacht minimaal 5–7 dagen na operatie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_8&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;samenwerking met behandelaar&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;Als uw fysiotherapeut of behandelend arts thuis-TENS adviseert&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Uw fysiotherapeut of behandelend arts kan een individueel protocol voor u instellen (PC06-programma), dat opgeslagen en op elk moment opnieuw opgeroepen kan worden.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 5. PROGRAM-CSOPORTOK --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;De 6 programma&amp;#039;s in detail&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De Dolito biedt 6 vooraf geprogrammeerde behandelmodi plus één volledig aanpasbaar programma. Elk programma is geoptimaliseerd voor een ander type pijn.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;gemoduleerd&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 01 – Gemoduleerd (MOD): voor chronische pijn&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequentie:&amp;lt;/strong&amp;gt; 70-110 Hz variabel. &amp;lt;strong&amp;gt;Pulsbreedte:&amp;lt;/strong&amp;gt; 200-100 µs variabel. &amp;lt;strong&amp;gt;Duur:&amp;lt;/strong&amp;gt; 30 minuten.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Door continu veranderende parameters raakt het zenuwstelsel NIET gewend aan de elektrische prikkel – dit is vooral een voordeel bij chronische, langdurige pijn. De behandeling blijft ook op langere termijn effectief. Typische toepassing: chronische lage rug-, nekpijn, artritis, neuralgie.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/celpont.png&amp;quot; alt=&amp;quot;continu&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 02 – Continu (CONT, traditionele TENS): voor acute pijn&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequentie:&amp;lt;/strong&amp;gt; 110 Hz constant. &amp;lt;strong&amp;gt;Pulsbreedte:&amp;lt;/strong&amp;gt; 175 µs. &amp;lt;strong&amp;gt;Duur:&amp;lt;/strong&amp;gt; 30 minuten.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;De klassieke TENS-behandeling. Hoge frequentie, continue stimulatie blokkeert volgens de Gate-Control theorie de doorgang van pijnsignalen naar de hersenen. Typische toepassingen: plots optredende spierkramp, acute lage rugpijn, spierpijn, postoperatieve pijn. Snelle verlichting tijdens de behandeling.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog3&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/impulzus-forma.png&amp;quot; alt=&amp;quot;burst&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 03 – Burst: endorfinevrijgave&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequentie:&amp;lt;/strong&amp;gt; 80 Hz. &amp;lt;strong&amp;gt;Pulsbreedte:&amp;lt;/strong&amp;gt; 150 µs. &amp;lt;strong&amp;gt;Duur:&amp;lt;/strong&amp;gt; 30 minuten. &amp;lt;strong&amp;gt;Ritme:&amp;lt;/strong&amp;gt; groepen van 9 pulsen, twee keer per seconde.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Burst (geclusterde) stimulatie kan specifiek de endorfine-afgifte stimuleren, waardoor het lichaam zijn eigen morfineachtige pijnstillende stoffen aanmaakt. Typische toepassing: chronische pijn wanneer klassieke TENS onvoldoende werkt. De werking bouwt zich langzamer op, maar is vaak langduriger.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog4&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/frekvencia.png&amp;quot; alt=&amp;quot;HAN&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 04 – HAN (Dense-Disperse): HAN-modus&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequentie:&amp;lt;/strong&amp;gt; 100/2 Hz afwisselend (Dense-Disperse). &amp;lt;strong&amp;gt;Pulsbreedte:&amp;lt;/strong&amp;gt; 200/350 µs. &amp;lt;strong&amp;gt;Duur:&amp;lt;/strong&amp;gt; 30 minuten. &amp;lt;strong&amp;gt;Ritme:&amp;lt;/strong&amp;gt; afwisseling van hoge en lage frequentie in 3-3 seconden cycli.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Een verfijnde methode ontwikkeld door professor Han, die verschillende typen opioïden kan activeren – zowel enkefaline als dynorfine systemen. Typische toepassing: moeilijk behandelbare chronische pijn waarbij klassieke TENS en Burst onvoldoende verlichting gaven. Een van de meer geavanceerde endorfine-activerende TENS-modi.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog5&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/izmos-kar.png&amp;quot; alt=&amp;quot;spierversterking&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 05 – Work/Rest (Contractie/Pauze): lichte spierversterking&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Frequentie:&amp;lt;/strong&amp;gt; 50 Hz. &amp;lt;strong&amp;gt;Pulsbreedte:&amp;lt;/strong&amp;gt; 300 µs. &amp;lt;strong&amp;gt;Duur:&amp;lt;/strong&amp;gt; 20 minuten. &amp;lt;strong&amp;gt;Ritme:&amp;lt;/strong&amp;gt; 10 seconden actief + 20 seconden rust per cyclus.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Hoewel de Dolito duidelijk als TENS-apparaat gepositioneerd is, kan dit programma ook lichte spierversterking geven. Typische toepassing: zachte reactivatie van langdurig inactieve spieren, herstel, het voorzichtig versterken van zwakke maar verder intacte spieren. BELANGRIJK: de spierversterkende mogelijkheden van de Dolito zijn NIET vergelijkbaar met die van speciale Globus EMS-apparaten – dit is meer aanvullend dan primair gericht op krachttraining.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_prog6&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/nyitott-konyv.png&amp;quot; alt=&amp;quot;individueel&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Programma 06 – PC06 (Individueel): volledige aanpassing&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Het PC06-programma stelt alle parameters individueel in: behandelingsduur 1-599 minuten, frequentie 1-150 Hz, pulsbreedte 50-350 µs, modulatievorm vrij te kiezen. Dit is bedoeld voor specifieke protocollen die door een behandelend arts of fysiotherapeut zijn gedefinieerd. Met 60 dagen geheugen + STIM LOCK kan de specialist een persoonlijk protocol instellen en vergrendelen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 7. FAQ – RADIO --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-faq-section&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Veelgestelde vragen&amp;lt;/h2&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-danger&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_1&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-danger pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;belangrijk&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kan ik het gebruiken met een pacemaker of geïmplanteerd implantaat?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nee.&amp;lt;/strong&amp;gt; Een pacemaker, geïmplanteerde defibrillator (ICD) of elk elektronisch implantaat is een &amp;lt;strong&amp;gt;absolute contra-indicatie&amp;lt;/strong&amp;gt;. TENS-pulsen kunnen de werking van het implantaat verstoren en levensgevaarlijk zijn. Als u zo&amp;#039;n apparaat heeft, gebruik de Dolito onder geen enkele omstandigheid – ook niet op uw ledematen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item pp-faq-warning&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_2&amp;quot; class=&amp;quot;pp-faq-label pp-faq-label-warning pp-faq-label-with-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/figyelmeztetes.png&amp;quot; alt=&amp;quot;let op&amp;quot; style=&amp;quot;height:20px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Kan ik het gebruiken tijdens de zwangerschap?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Tijdens de zwangerschap – zeker in het eerste trimester – wordt het gebruik van TENS niet aanbevolen. Behandeling van onderbuik, buik en lage rug is gedurende de hele zwangerschap verboden. Tijdens de bevalling bestaan op sommige klinieken speciale obstetrische TENS-protocollen, maar die worden door professionals toegepast. Bij twijfel raadpleeg uw gynaecoloog of verloskundige.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_3&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is het verschil tussen de Dolito en instapmodellen van Globus (Elite SII, Genesy SII)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Belangrijke verschillen:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Dolito (MTR+, Duitsland):&amp;lt;/strong&amp;gt; PUUR TENS-apparaat. 6 programma&amp;#039;s. 2 kanalen. 9V batterij. Alleen pijnverlichting (en lichte spieractivatie met Programma 5). Instapprijs.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elite SII (Globus, Italië):&amp;lt;/strong&amp;gt; Multifunctioneel (TENS + EMS/NMES). 100 programma&amp;#039;s. 2 kanalen. Oplaadbaar. Gericht op sport, bodyshaping en pijnbestrijding.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Genesy SII (Globus, Italië):&amp;lt;/strong&amp;gt; Multifunctioneel, met focus op de bekkenbodem. Ook geschikt voor sondale incontinentiebehandeling. Oplaadbaar.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Als u uitsluitend pijnverlichting zoekt en een eenvoudige, betaalbare instapper wilt → Dolito. Als EMS voor sport, bodyshaping of sondale incontinentiebehandeling belangrijk is → Elite SII of Genesy SII.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_4&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Wat is in de praktijk het verschil tussen de 4 TENS-programma&amp;#039;s (Gemoduleerd, Continu, Burst, HAN)?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Kort gezegd:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Continu (Programma 02):&amp;lt;/strong&amp;gt; de klassieke &amp;quot;snelle werking&amp;quot; TENS. Gebruik bij acute pijn – bv. plotselinge rugpijn of spierkramp. Effect voelbaar tijdens de behandeling.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Gemoduleerd (Programma 01):&amp;lt;/strong&amp;gt; door continu veranderende parameters wordt gewenning tegengegaan. Voor chronische pijn – bv. terugkerende nek- of gewrichtspijn.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Burst (Programma 03):&amp;lt;/strong&amp;gt; kan het endorfinesysteem activeren – uw lichaam produceert eigen pijnstillers. Werking bouwt langzamer op maar is langduriger. Voor chronische pijn en langdurig gebruik.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HAN (Programma 04):&amp;lt;/strong&amp;gt; het meest verfijnde endorfine-activerende programma met afwisseling van hoge en lage frequenties. Voor moeilijk behandelbare chronische pijn wanneer klassieke TENS niet volstaat.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Algemene aanbeveling: begin met Continu (snel effect) en bij chronische klacht wissel naar Gemoduleerd → Burst → HAN om te zien wat het beste bij u werkt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_5&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe vaak mag ik het gebruiken?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;TENS is medicijnvrij en doorgaans goed te verdragen. Typische protocollen:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Acute pijn:&amp;lt;/strong&amp;gt; 15–30 minuten, 2–3 keer per dag, afhankelijk van de klacht.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Chronische pijn:&amp;lt;/strong&amp;gt; 30–45 minuten, 1–2 keer per dag, voor langdurig gebruik.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Spierversterking (Work/Rest):&amp;lt;/strong&amp;gt; 20–30 minuten, 1 keer per dag.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Menstruatiepijn:&amp;lt;/strong&amp;gt; tijdens de krampfase, naar behoefte.&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik het apparaat nooit tijdens het autorijden of bij werkzaamheden die volledige aandacht vereisen. Bij nieuwe of verergerende klachten raadpleeg uw behandelend arts – TENS vervangt geen diagnostiek.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_6&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoe plaatst u de elektroden bij rugpijn?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Bij lumbale (lage rug) pijn is een typische plaatsing: vier 40×40 mm elektroden rondom het pijngebied. Kanaal 1: twee elektroden aan weerszijden van de wervelkolom ter hoogte van de lage rug (ongeveer L3–L4). Kanaal 2: twee elektroden hoger en lager rond het pijngebied. Plaats nooit een elektrode direct op de wervelkolom. Gedetailleerde plaatsingsafbeeldingen staan in de gebruiksaanwijzing. Bij twijfel raadpleeg een fysiotherapeut.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-faq-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;radio&amp;quot; name=&amp;quot;pp_faq_dol&amp;quot; id=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-radio&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_faq_dol_7&amp;quot; class=&amp;quot;pp-faq-label&amp;quot;&amp;gt;
+ Hoelang gaat een 9V-batterij mee?
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-faq-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;Een kwaliteits-9V-batterij (6LR61/6AM6) levert ongeveer 12 uur bedrijfstijd bij 20 mA belasting. Dat betekent bij dagelijks 30 minuten gebruik circa 3–4 weken intensief gebruik. Bij lagere intensiteit (bv. 10–15 mA) kan dit 6 weken of langer zijn. Tip: gebruik een goede alkalinebatterij, bewaar niet in de vriezer en haal de batterij eruit als u het apparaat langere tijd niet gebruikt.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;
+
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 4. VIDEÓS ÚTMUTATÓ --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-video-container&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Demonstratie en gebruiksvideo&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De onderstaande video toont de Dolito en de basis van het gebruik.&amp;lt;/p&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-video-content-flex&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-description&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Dolito apparaat demonstratie&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Algemene presentatie van de Dolito TENS, overzicht van de 6 programma&amp;#039;s, elektrodenplaatsing en basisgebruik. Praktijkvoorbeeld van de Duitse MTR+ kwaliteit.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-iframe-wrap&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-video-responsive-inner&amp;quot;&amp;gt;
+ &amp;lt;iframe width=&amp;quot;560&amp;quot; height=&amp;quot;315&amp;quot; src=&amp;quot;https://www.youtube.com/embed/PfvLpBD6mco?si=fydkHs0uozyS4PVc&amp;quot; title=&amp;quot;Dolito TENS apparaat demonstratie&amp;quot; frameborder=&amp;quot;0&amp;quot; allow=&amp;quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&amp;quot; referrerpolicy=&amp;quot;strict-origin-when-cross-origin&amp;quot; allowfullscreen=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;!-- 6. HOGYAN MŰKÖDIK? – LÉPÉSEK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-how-it-works&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Hoe gebruikt u het stap voor stap?&amp;lt;/h2&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-steps-container&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;1&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Plaats de 9V-batterij&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Het apparaat werkt op een 9V (6LR61 of 6AM6) batterij – één batterij geeft ongeveer 12 uur bedrijfstijd bij 20 mA belasting, wat bij dagelijks 30 minuten gebruik meerdere weken betekent. GEEN oplaadbare accu, geen netadapter – batterij wisselen en klaar.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;2&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Kies het programma&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;U kiest uit 6 programma&amp;#039;s op het grote LCD: Gemoduleerd (chronische pijn), Continu (acuut), Burst (endorfine), HAN (Dense-Disperse chronisch), Work/Rest (spieractivatie) of PC06 (individueel). Het display toont frequentie, pulsbreedte en resterende tijd.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;3&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Plak de vier 40×40 mm elektroden&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;In de doos zitten vier 40×40 mm zelfklevende TENS-elektroden – doorgaans twee elektroden per kanaal, rondom het pijngebied of langs het zenuwpad geplaatst. Zorg dat de huid schoon en droog is – crèmes, olie of zweet verminderen de hechting.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;4&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Starten + intensiteitsinstelling (0–80 mA)&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Het apparaat detecteert automatisch als een elektrode losschiet of de kabel beschadigd is en stopt de behandeling. De intensiteit stelt u per kanaal in van 0–80 mA – verhoog langzaam totdat u een aangenaam tintelend gevoel voelt. Het mag GEEN pijn doen. Na één minuut wordt de verhogingsfunctie automatisch vergrendeld om per ongeluk te hoge stimulatie te voorkomen.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;5&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;Draagbaar met riemclip of zittend gebruiken&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Met een gewicht van 150 g en de riemclip kunt u het apparaat dragen tijdens werk, huishouding of wandelen – u hoeft niet stil te zitten. De automatische timer stopt aan het einde van de ingestelde tijd (meestal 20–30 minuten). Met PC06 kunt u zelfs behandelingen tot 9 uur 59 minuten uitvoeren (bijv. hele nacht voor chronische klachten – alleen na overleg met een behandelend arts).&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-step&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-step-number&amp;quot;&amp;gt;6&amp;lt;/span&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-step-content&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;60 dagen geheugen + gegevensoverdracht naar arts&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;Het apparaat registreert elke behandeling met datum, duur en type. Binnen 60 dagen kan uw behandelend arts of fysiotherapeut deze gegevens opvragen om de behandelfrequentie te controleren en het protocol te optimaliseren. Dit is een zeldzame functie in deze prijsklasse.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;amp;lt;
+ &amp;lt;!-- 9. CSOMAG TARTALMA --&amp;gt;
+ &amp;lt;section&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Wat zit er in de verpakking?&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;De basisverpakking van de Dolito – alle accessoires om direct te kunnen starten.&amp;lt;/p&amp;gt;
+ &amp;lt;ul class=&amp;quot;pp-package-list&amp;quot;&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; Dolito TENS-apparaat (2-kanaals)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;2 st&amp;lt;/strong&amp;gt; stimulatiekabels (1 per kanaal)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;4 st&amp;lt;/strong&amp;gt; 40×40 mm zelfklevende TENS-elektroden&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; 9V-batterij (6LR61/6AM6)&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;1 st&amp;lt;/strong&amp;gt; Nederlandstalige gebruiksaanwijzing&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;Riemclip voor draagbaar gebruik (aan de achterzijde van het apparaat)&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion&amp;quot; style=&amp;quot;margin-top: 25px;&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg1&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szerszamos-lada.png&amp;quot; alt=&amp;quot;onderhoud&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Onderhoud en verbruiksartikelen&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Zelfklevende elektroden:&amp;lt;/strong&amp;gt; de hechting neemt na 25–30 toepassingen geleidelijk af. Reserve-elektroden in 40×40 mm zijn apart te bestellen. Plaats na gebruik de elektroden op de beschermfolie terug. Tip: plak op schone, ontharende huid en verwijder ze voorzichtig bij de hoekjes in plaats van rukkerig.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;9V-batterij:&amp;lt;/strong&amp;gt; ongeveer 12 uur bedrijf bij 20 mA. Haal de batterij eruit bij langere niet-gebruikperiodes om lekkage te voorkomen. Gebruik alleen originele of kwalitatieve 6LR61/6AM6 alkalinebatterijen.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Reinigen van het apparaat:&amp;lt;/strong&amp;gt; buitenzijde met een droge of licht vochtig doekje. Gebruik geen alcohol op elektroden – dat beschadigt de kleeflaag.&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;pp-accordion-item&amp;quot;&amp;gt;
+ &amp;lt;input type=&amp;quot;checkbox&amp;quot; id=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-checkbox&amp;quot;&amp;gt;
+ &amp;lt;label for=&amp;quot;pp_acc_dol_pkg2&amp;quot; class=&amp;quot;pp-accordion-label&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;pp-accordion-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/szonda.png&amp;quot; alt=&amp;quot;apart verkrijgbaar&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;&amp;quot;&amp;gt;
+ &amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-title&amp;quot;&amp;gt;Apart verkrijgbare accessoires&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;pp-accordion-arrow&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;/label&amp;gt;
+ &amp;lt;div class=&amp;quot;pp-accordion-content&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;De Dolito kan worden uitgebreid met diverse accessoires:&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Reserve-elektrodensets:&amp;lt;/strong&amp;gt; 40×40 mm, voor vervanging na 25–30 toepassingen.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elektroden in verschillende maten:&amp;lt;/strong&amp;gt; soms is een grotere elektrode (50×50 mm) handiger bij bv. grote rugvlakken.&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Elektrodengel:&amp;lt;/strong&amp;gt; voor gevoelige huid of langdurig gebruik om hechting te verbeteren (meestal niet nodig bij zelfklevende elektroden).&amp;lt;/li&amp;gt;
+
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 10. MŰSZAKI ADATOK --&amp;gt;
+ &amp;lt;details open=&amp;quot;&amp;quot;&amp;gt;
+ &amp;lt;summary&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot; style=&amp;quot;display: inline;&amp;quot;&amp;gt;Technische specificaties – in detail&amp;lt;/h2&amp;gt;
+ &amp;lt;/summary&amp;gt;
+ &amp;lt;table class=&amp;quot;pp-specs-table&amp;quot;&amp;gt;
+ &amp;lt;thead&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;th&amp;gt;Eigenschap&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Waarde&amp;lt;/th&amp;gt;
+ &amp;lt;th&amp;gt;Wat betekent het voor u?&amp;lt;/th&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;/thead&amp;gt;
+ &amp;lt;tbody&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Aantal kanalen&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;2 (onafhankelijk, geïsoleerd)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;U kunt twee verschillende gebieden tegelijk behandelen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Type stroom&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;TENS (alleen)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zuiver pijnverlichting – geen EMS-trainer&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Aantal programma&amp;#039;s&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;6 programma&amp;#039;s (5 vooraf + 1 individueel PC06)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Belangrijke TENS-protocollen gedekt, ook individuele aanpassing mogelijk&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensiteit&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;0-80 mA (bij 500 Ω belasting)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Per kanaal instelbaar, van zwak tot middelmatig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Frequentie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1-150 Hz (Burst: 35-150 Hz)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zowel lage (endorfine) als hoge (pijnblokkade) frequenties mogelijk&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Pulsbreedte&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;50-350 µs (Burst: 50-200 µs)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Afstembaar van dunne huid tot grotere spiergroepen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Golfvorm&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Asymmetrische, biphasische rechthoekgolf&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Gelijke signaalkwaliteit, effectieve stimulatie&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Behandeltijd&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;1 minuut – 9 uur 59 minuten (PC06 individueel)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Zowel korte acute als lange chronische protocollen mogelijk&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Geheugen&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;60 dagen gedetailleerd geheugen&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Behandelend arts of fysiotherapeut kan het gebruik controleren&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Programmakeuzebeveiliging&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;STIM LOCK functie&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Een specialist kan een individueel protocol instellen en vergrendelen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Intensiteitsvergrendeling&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatische vergrendeling na 1 minuut&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Voorkomt per ongeluk overmatig verhogen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Stroomonderbrekingsdetectie&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Automatische uitschakeling&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Als een elektrode losraakt of een kabel beschadigd raakt, stopt de behandeling&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Afmetingen apparaat&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;11,7 × 6,6 × 3,3 cm&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Past in de zak, draagbaar met riemclip&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Gewicht&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;150 g (incl. batterij)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Discreet, draagbaar – niet opzichtig&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Beschermingsklasse&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;IP20&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Voor gebruik binnenshuis onder normale omstandigheden&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Voeding&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;9V-batterij (6LR61 / 6AM6)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;GEEN oplaadbare accu – simpel batterijwissel&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Batterijduur&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;~12 uur (bij 20 mA)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Bij dagelijks 30 minuten gebruik circa 3–4 weken intensief gebruik&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Verwachte levensduur&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;10 jaar&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Langdurige betrouwbaarheid&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Display&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Groot LCD, gedetailleerde informatie&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Duidelijke weergave van frequentie, pulsbreedte en resterende tijd&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Certificaat&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;CE 0123; Class IIa; ISO 13485:2021; MDD 93/42/EEC&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Europese conformiteit, kwaliteitsborging&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+ &amp;lt;tr&amp;gt;
+ &amp;lt;td&amp;gt;&amp;lt;strong&amp;gt;Fabrikant&amp;lt;/strong&amp;gt;&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;MTR+ Vertriebs GmbH (Duitsland)&amp;lt;/td&amp;gt;
+ &amp;lt;td&amp;gt;Gemaakt volgens Duitse kwaliteitsnormen&amp;lt;/td&amp;gt;
+ &amp;lt;/tr&amp;gt;
+
+ &amp;lt;/tbody&amp;gt;
+ &amp;lt;/table&amp;gt;
+ &amp;lt;/details&amp;gt;
+ &amp;lt;!-- 11. ELLENJAVALLATOK – MedicalDevice MIKRODATA --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-contraindication-list&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/tiltas.png&amp;quot; alt=&amp;quot;waarschuwing&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Wanneer mag u de Dolito NIET gebruiken?
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;In de volgende situaties kan TENS gevaarlijk zijn of bijwerkingen veroorzaken. Als één van deze op u van toepassing is, begin dan niet met het apparaat zonder consult met uw behandelend arts.&amp;lt;/p&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;
+ Draag van pacemaker, geïmplanteerde defibrillator (ICD) of elk elektronisch implantaat – TENS-pulsen kunnen hun werking verstoren
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Hartritmestoornis, hartspierschade of ernstige cardiovasculaire aandoeningen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Zwangerschap (vooral in het eerste trimester; behandeling van onderbuik, buik en lage rug is gedurende de hele zwangerschap verboden)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Epilepsie of andere neurologische aandoeningen met aanvallen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Actieve kwaadaardige tumor in de buurt van het te behandelen gebied
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Koorts of acute ontstekingsprocessen
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Beschadigde, geïrriteerde of open wond op het te behandelen gebied
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Plaatsing van elektroden op het hoofd, de voorzijde van de hals (carotis sinus) of het hartgebied – VERBODEN
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Verminderde of afwezige huidsensibiliteit op het te behandelen gebied (bv. neuropathie door diabetes)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ In de buurt van metalen implantaten – alleen met toestemming van de behandelend arts
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Bij nikkel- of andere metaalallergie – let goed op huidreacties
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Tijdens het rijden of het bedienen van zware machines – nooit
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;
+ Kinderen voor zelfstandig gebruik (onder 12 jaar alleen onder toezicht van een volwassene en met fysiotherapeutische instructie)
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Weet u het niet zeker?&amp;lt;/strong&amp;gt; Raadpleeg altijd uw behandelend arts of fysiotherapeut vóór gebruik – vooral bij chronische ziekten, medicatie of enige geïmplanteerde medische apparatuur. Details kunt u vinden in het artikel van Dr. Zátrok Zsolt over contra-indicaties van elektrotherapie: &amp;lt;a href=&amp;quot;/elektrische-behandeling-tens-contra-indicaties&amp;quot;&amp;gt;over de contra-indicaties van elektrotherapie&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 12. ORVOSI FIGYELMEZTETÉS --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-medical-warning&amp;quot;&amp;gt;
+ &amp;lt;h3&amp;gt;
+ &amp;lt;img src=&amp;quot;https://shop.unas.hu/shop_ordered/21500/pic/emotic/professzor.png&amp;quot; alt=&amp;quot;informatie&amp;quot; style=&amp;quot;height:32px;width:auto;vertical-align:middle;margin-right:5px;&amp;quot;&amp;gt;
+ Belangrijke informatie
+ &amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;De Dolito is een medisch hulpmiddel met CE-certificaat, klasse IIa (CE 0123, conform MDD 93/42/EEC), geschikt voor zelfstandig gebruik thuis. Gebruik vervangt echter nooit een medische diagnose, een door een specialist opgesteld fysiotherapeutisch protocol of voorgeschreven medicatie. Het apparaat is bedoeld als aanvullend hulpmiddel naast bestaande therapie.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Bij nieuwe of verergerende klachten (bv. aanhoudende pijn, gevoelloosheid, zwakte) raadpleeg altijd uw behandelend arts – TENS mag geen symptomen &amp;quot;onderdrukken&amp;quot; die op een ernstiger aandoening kunnen wijzen. Bij chronische pijn moet de oorzaak worden vastgesteld voordat u regelmatig met TENS behandelt.&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;Gebruik alleen originele accessoires, vervang elektroden regelmatig (na 25–30 gebruikssessies) en let bij nikkelallergie extra op huidreacties. Bewaar het apparaat altijd buiten bereik van kinderen.&amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;pp-disclaimer&amp;quot;&amp;gt;&amp;lt;em&amp;gt;De informatie op deze pagina is algemeen van aard en vervangt geen persoonlijk medisch advies, diagnose of behandeling. Raadpleeg altijd uw behandelend arts bij concrete klachten.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;!-- 13. KAPCSOLÓDÓ TARTALMAK --&amp;gt;
+ &amp;lt;section class=&amp;quot;pp-related-links&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;pp-headline&amp;quot;&amp;gt;Gerelateerde apparaten en achtergrondinformatie&amp;lt;/h2&amp;gt;
+ &amp;lt;ul&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/rehalito&amp;quot;&amp;gt;Rehalito – multifunctionele Lito-lijn maatgenoot →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/myolito&amp;quot;&amp;gt;Myolito – spierstimulator uit de Lito-lijn →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/elite-s2&amp;quot;&amp;gt;Elite SII – Globus 2-kanaals multifunctionele instapper (TENS + EMS) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://www.jouwzorgwinkel.nl/genesy-s2&amp;quot;&amp;gt;Genesy SII – Globus 2-kanaals bekkenbodemgerichte instapper →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/elektrische-behandeling&amp;quot;&amp;gt;Elektrotherapie – overzicht van alle TENS/EMS-apparaten →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/tens-behandeling-pijnverlichting-zonder-medicatie&amp;quot;&amp;gt;TENS-behandeling – pijnverlichting thuis zonder medicatie (artikel) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/pijnstillende-impulsen&amp;quot;&amp;gt;Uitleg van TENS-programma&amp;#039;s (artikel) →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;/welke-elektrotherapie-past-bij-je&amp;quot;&amp;gt;Welke elektrotherapie waarvoor geschikt is? – besluitvormingsgids →&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/section&amp;gt;
+&amp;lt;/article&amp;gt;</Long>
+      <LongIsHtml>1</LongIsHtml>
+    </Description>
+    <Categories>
+      <Category>
+        <Type>base</Type>
+        <Id>359646</Id>
+        <Name>Thuisbehandeling|Elektrische behandeling|TENS-apparaat</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>310566</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Lage rugpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>514818</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Rugpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>138992</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Kniepijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>495333</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Schouderpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>866833</Id>
+        <Name>Behandeling van aandoeningen|Musculoskeletale aandoeningen|Artrose</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>469599</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Polspijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>170701</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Enkelpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>346851</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Nekpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>411340</Id>
+        <Name>Behandeling van aandoeningen|Symptomen A-Z|Pijn|Elleboogpijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>724489</Id>
+        <Name>Behandeling van aandoeningen|Pijnbehandeling</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>680692</Id>
+        <Name>Behandeling van aandoeningen|Musculoskeletale aandoeningen|Lumbago</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>154789</Id>
+        <Name>Behandeling van aandoeningen|Musculoskeletale aandoeningen|Ischias</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>292982</Id>
+        <Name>Behandeling van aandoeningen|Musculoskeletale aandoeningen|Fibromyalgie</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>915226</Id>
+        <Name>Behandeling van aandoeningen|Női egészség|Menstruatiepijn</Name>
+      </Category>
+      <Category>
+        <Type>alt</Type>
+        <Id>975903</Id>
+        <Name>Behandeling van aandoeningen|Női egészség|Endometriózis</Name>
+      </Category>
+    </Categories>
+    <Url>https://www.medimarket.hu/dolito</Url>
+    <SefUrl>dolito</SefUrl>
+    <ManufacturerUrl>https://www.mtrplus.com/en/</ManufacturerUrl>
+    <Images>
+      <DefaultFilename>010E-200</DefaultFilename>
+      <DefaultAlt>Dolito</DefaultAlt>
+      <OG>1</OG>
+      <LastModTime>1743247050</LastModTime>
+      <Image>
+        <Type>base</Type>
+        <Url>
+          <Medium>https://www.medimarket.hu/shop_ordered/21500/shop_pic/010E-200.jpg</Medium>
+        </Url>
+        <SefUrl>https://www.medimarket.hu/img/21500/010E-200/010E-200.webp?time=1743247050</SefUrl>
+        <Filename>010E-200</Filename>
+        <Alt>Dolito</Alt>
+      </Image>
+    </Images>
+    <Variants>
+		</Variants>
+    <NotVisibleInLanguage>
+      <Language>German</Language>
+    </NotVisibleInLanguage>
+    <Params>
+      <Param>
+        <Id>7756951</Id>
+        <Type>link_text</Type>
+        <Name>Letölthető</Name>
+        <Group>Letölthető tartalmak</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Instruction-for-Use.pdf - Gebruiksaanwijzing</Value>
+      </Param>
+      <Param>
+        <Id>7764156</Id>
+        <Type>link_text</Type>
+        <Name>Cikk ajánló</Name>
+        <Group>Blog-hivatkozás</Group>
+        <Value>https://www.jouwzorgwinkel.nl/tens-behandeling-pijnverlichting-zonder-medicatie - Medicijnvrije pijnverlichting</Value>
+      </Param>
+      <Param>
+        <Id>7655416</Id>
+        <Type>text</Type>
+        <Name>Brand</Name>
+        <Group>Product details</Group>
+        <Value>MTR+</Value>
+      </Param>
+      <Param>
+        <Id>7764681</Id>
+        <Type>date</Type>
+        <Name>Mikorra érkezhet?</Name>
+        <Group>Product details</Group>
+        <Value>1.5|day_except_weekend_and_holidays</Value>
+      </Param>
+      <Param>
+        <Id>6826474</Id>
+        <Type>enummore</Type>
+        <Name>Stimulációs módok</Name>
+        <Group>Elektroterápiás mód</Group>
+        <Value>TENS</Value>
+      </Param>
+      <Param>
+        <Id>6826894</Id>
+        <Type>enummore</Type>
+        <Name>Javaslat</Name>
+        <Group>Elektroterápia - Sóterápia</Group>
+        <Value>Fájdalom</Value>
+      </Param>
+      <Param>
+        <Id>6830004</Id>
+        <Type>text</Type>
+        <Name>user-manual-url</Name>
+        <Group>Használati útmutató</Group>
+        <Value>https://shop.unas.hu/shop_ordered/21500/pic/User-manual/Dolito/Dolito-Instruction-for-Use.pdf</Value>
+      </Param>
+      <Param>
+        <Id>7655161</Id>
+        <Type>text</Type>
+        <Name>google_product_category</Name>
+        <Group>Product details</Group>
+        <Value>8541</Value>
+      </Param>
+      <Param>
+        <Id>7885851</Id>
+        <Type>enum</Type>
+        <Name>product_type</Name>
+        <Group>Product details</Group>
+        <Value>main</Value>
+      </Param>
+      <Param>
+        <Id>7776181</Id>
+        <Type>text</Type>
+        <Name>google_product_feed Export Description</Name>
+        <Value>De Dolito is een compact en draagbaar apparaat met elektrische impulsen, uitgevoerd met een tweekanaals ontwerp en afzonderlijk aansluitbare uitgangen. Het toestel beschikt over meerdere vooraf ingestelde programma’s en instelbare intensiteitsniveaus, waardoor flexibel gebruik mogelijk is. Het duidelijke display en de eenvoudige bedieningsknoppen zorgen voor gebruiksgemak. Dankzij het compacte formaat en de werking op batterijen is het geschikt voor gebruik thuis of onderweg. Het product wordt a</Value>
+      </Param>
+      <Param>
+        <Id>6769964</Id>
+        <Type>text</Type>
+        <Name>EAN kód</Name>
+        <Group>EAN kód</Group>
+        <Value>04260279580825</Value>
+      </Param>
+      <Param>
+        <Id>8610131</Id>
+        <Type>text</Type>
+        <Name>Gyártó</Name>
+        <Group>Manufacturer</Group>
+        <Value>MTR+ Vertriebs GmbH</Value>
+      </Param>
+      <Param>
+        <Id>8680696</Id>
+        <Type>text</Type>
+        <Name>mpn</Name>
+        <Group>MPN</Group>
+        <Value>010E-200</Value>
+      </Param>
+    </Params>
+    <AdditionalDatas>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/p&amp;gt;</Content>
+      </AdditionalData>
+      <AdditionalData>
+        <Id />
+        <Title> </Title>
+        <Content>&lt;!HTML KOD&gt;</Content>
+      </AdditionalData>
+    </AdditionalDatas>
+    <AdditionalProducts>
+      <AdditionalProduct>
+        <Id>1195419445</Id>
+        <Sku>E-TRALKN</Sku>
+        <Name>TensCare Knee Pain-elektrode voor kniebehandeling</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1196752255</Id>
+        <Sku>E-TRALBA</Sku>
+        <Name>TensCare Back Pain elektroden voor behandeling van onderrug en rug</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332634</Id>
+        <Sku>KM406-M</Sku>
+        <Name>Set handschoenelektroden</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332849</Id>
+        <Sku>KM407</Sku>
+        <Name>Sokken-elektrodepaar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419440</Id>
+        <Sku>E-TRALNE</Sku>
+        <Name>TensCare Neck Pain elektroden voor nekbehandeling</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418705</Id>
+        <Sku>895220</Sku>
+        <Name>PALS 5x5cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419210</Id>
+        <Sku>UF2020</Sku>
+        <Name>UltraStim 5x5cm TENS-elektroden met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195418710</Id>
+        <Sku>VTX5050</Sku>
+        <Name>ValueTrode X TENS-elektrode 5x5 cm met pinnen 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419155</Id>
+        <Sku>895240</Sku>
+        <Name>PALS 5x9 cm TENS-elektrode met pinnen 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419215</Id>
+        <Sku>UF2040</Sku>
+        <Name>UltraStim 5x10cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419150</Id>
+        <Sku>VTX50100</Sku>
+        <Name>ValueTrode X 5x10 cm TENS-elektrode, 2 mm pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419170</Id>
+        <Sku>J10R00</Sku>
+        <Name>PALS 2,5 cm ronde TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419195</Id>
+        <Sku>CF3200</Sku>
+        <Name>ValueTrode 3,2 cm ronde TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419280</Id>
+        <Sku>CF5000</Sku>
+        <Name>ValueTrode 5 cm ronde TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419190</Id>
+        <Sku>CF5050</Sku>
+        <Name>ValueTrode 5x5 cm TENS-elektrode met pin, 4 st./pak</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419185</Id>
+        <Sku>CF5090</Sku>
+        <Name>ValueTrode 5x9 cm TENS-elektrode met pin, 4 st./set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419435</Id>
+        <Sku>E-CM25</Sku>
+        <Name>TensCare 2,5 cm ronde TENS-elektrode met pin, 10 stuks/pak</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419405</Id>
+        <Sku>E-CR50100</Sku>
+        <Name>Cool Relief 5x10 cm TENS-elektrode, pin-aansluiting, 4 stuks/verpakking</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1195419400</Id>
+        <Sku>E-CR5050</Sku>
+        <Name>Cool Relief 5x5cm TENS-elektrode met pin, 4 st/pak</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332719</Id>
+        <Sku>SR4550</Sku>
+        <Name>Rubberelektrode 45x50 mm met pinnenaansluiting</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332704</Id>
+        <Sku>S-7000-6x2</Sku>
+        <Name>Sponshoes (1 paar) voor 45x50 mm rubberelektroden</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332809</Id>
+        <Sku>SR5090</Sku>
+        <Name>Rubberen elektrode 45x90 mm, 2 mm pinconnector</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332814</Id>
+        <Sku>S-7000-5x2</Sku>
+        <Name>Sponshoes (1 paar) voor rubberelektroden 45 x 90 mm</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332819</Id>
+        <Sku>sca-670001</Sku>
+        <Name>Elastische band 5 x 50 cm, 2 stuks, wit</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332644</Id>
+        <Sku>EG260</Sku>
+        <Name>ContiGel contactgel 260 g</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332874</Id>
+        <Sku>KM408</Sku>
+        <Name>Polselektrode set</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332879</Id>
+        <Sku>KM409</Sku>
+        <Name>Elleboog-elektrodepaar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332884</Id>
+        <Sku>KM410</Sku>
+        <Name>Knie-elektrodepaar</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207310449</Id>
+        <Sku>G0439</Sku>
+        <Name>Y-kabel voor elektrostimulator, pin-aansluiting</Name>
+      </AdditionalProduct>
+      <AdditionalProduct>
+        <Id>1207332699</Id>
+        <Sku>012E-012</Sku>
+        <Name>Kabelset voor MTR-stimulatoren 1 m</Name>
+      </AdditionalProduct>
+    </AdditionalProducts>
+    <SimilarProducts>
+      <SimilarProduct>
+        <Id>1196751675</Id>
+        <Sku>G3552</Sku>
+        <Name>Elite SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418895</Id>
+        <Sku>G3725</Sku>
+        <Name>Genesy SII</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418755</Id>
+        <Sku>010E-004</Sku>
+        <Name>MyoBravo</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418935</Id>
+        <Sku>010E-205</Sku>
+        <Name>Myolito</Name>
+      </SimilarProduct>
+      <SimilarProduct>
+        <Id>1195418740</Id>
+        <Sku>K-UNIPRO</Sku>
+        <Name>UniPro</Name>
+      </SimilarProduct>
+    </SimilarProducts>
+    <Stickers>
+      <Sticker>
+        <Id>26059</Id>
+        <Name>CE-MDR</Name>
+      </Sticker>
+      <Sticker>
+        <Id>28609</Id>
+        <Name>MTR Plus</Name>
+      </Sticker>
+      <Sticker>
+        <Id>30624</Id>
+        <Name>2 csatorna</Name>
+      </Sticker>
+    </Stickers>
+    <PackageProduct>no</PackageProduct>
+    <Meta>
+      <Keywords>Dolito, Dolito TENS, TENS-apparaat, apparaat voor pijnverlichting, elektrotherapie, medicijnvrije pijnverlichting, Burst-modus, HAN Dense-Disperse, TENS voor thuis, lage rugpijn, nekklachten, gewrichtspijn, artrose, peesschedeontsteking, elektroden 40x40 mm</Keywords>
+      <Description>Met zes TENS-protocollen, waaronder Burst en HAN, kan de Dolito thuis helpen bij pijnverlichting. Inclusief 2 kabels, 4 elektroden 40x40 mm en 9V-batterij.</Description>
+      <Title>Dolito TENS-apparaat | 6 pijnverlichtende protocollen</Title>
+      <Robots>index, follow</Robots>
+    </Meta>
+  </Product>
+</Products>
