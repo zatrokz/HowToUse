@@ -2,6 +2,15 @@
 
 Formátum: [Keep a Changelog](https://keepachangelog.com/hu/1.0.0/), verziózás: [SemVer](https://semver.org/lang/hu/).
 
+## [0.2.1] – 2026-11-19
+
+### Módosítva
+- Döntési napló: UNAS API-hozzáférés megvan; a kompatibilis kiegészítők és a kockázat/ellenjavallat adatok
+  forrása az UNAS; szakmai jóváhagyó Dr. Zátrok Zsolt.
+- UNAS integráció: mezőleképezés bővítve (csatolt termékek, ellenjavallat-szekció), új 5.8 fejezet az API-kulcs kezeléséről.
+- Admin felület: jóváhagyó szerepkör nevesítve.
+- `CLAUDE.md`: a felhasználó laikus, lépésről lépésre útmutatók.
+
 ## [0.2.0] – 2026-11-19
 
 ### Hozzáadva

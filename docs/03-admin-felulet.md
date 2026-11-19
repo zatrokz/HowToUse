@@ -11,7 +11,7 @@ ismertető hozzáadása, kiegészítő hozzárendelése **10 percen belül**, fe
 |-----------|-------|
 | **Adminisztrátor** | Minden; nyelvek, felhasználók, UNAS-szinkron beállításai, témakörök |
 | **Szerkesztő** | Készülékek/kiegészítők tartalmainak szerkesztése, videók hozzárendelése, piszkozat mentése, jóváhagyásra küldés |
-| **Szakmai jóváhagyó** | Tartalmak jóváhagyása és publikálása (kötelező a `risks` témakörnél) |
+| **Szakmai jóváhagyó** (Dr. Zátrok Zsolt) | Tartalmak jóváhagyása és publikálása (kötelező a `risks` témakörnél és minden orvosi tartalomnál) |
 | **Fordító** | Csak a hozzárendelt nyelv(ek) szöveges mezőinek szerkesztése |
 | **Megtekintő** | Olvasás, előnézet (pl. ügyfélszolgálat) |
 

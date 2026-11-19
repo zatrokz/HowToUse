@@ -1,6 +1,6 @@
 # 05 – UNAS integráció
 
-> Verzió: 0.1.0 · Dátum: 2026-11-19 · Állapot: tervezet – **az API-mezőnevek ellenőrzendők** (lásd 5.7)
+> Verzió: 0.2.1 · Dátum: 2026-11-19 · Állapot: tervezet – API-hozzáférés megvan, **mezőnevek a mintaválaszból véglegesítendők** (5.7)
 
 ## 5.1 Cél
 A terméktörzs (név, leírás, képek, kategória, alaptartozékok, kapcsolódó termékek, paraméterek)
@@ -28,7 +28,8 @@ A terméktörzs (név, leírás, képek, kategória, alaptartozékok, kapcsolód
 | Categories (base + alt) | Product.categories[] | csak az adminban „appban látható"-nak jelölt kategóriák |
 | Statuses / aktív | Product.unas_status | inaktív termék → appban automatikusan `hidden` figyelmeztetéssel |
 | Params („Terméktípus", „Kompatibilis készülék", …) | product_type javaslat, Compatibility(source=unas_param) | paraméter-névleképezés konfigurálható az adminban |
-| Kapcsolódó termékek | Compatibility(source=unas_related, accepted=false) | javaslat, szerkesztő fogadja el |
+| Csatolt / kapcsolódó termékek (kompatibilis kiegészítők) | Compatibility(source=unas_related, accepted=true) | az UNAS-ban karbantartott kapcsolat az irányadó; az adminban a funkció-szöveg és a típus (alaptartozék/opcionális/fogyóanyag) egészül ki |
+| Leírás „Kockázatok / Ellenjavallatok” szekciója (MedicalContraindication mikrodata) | ContentItem(topic=risks, kind=article, status=published) | a Medimarket-leírásokban strukturált, Dr. Zátrok Zsolt által validált tartalom; importáláskor kinyerjük, forrás-megjelöléssel |
 | Url | Product.unas_url | |
 
 ## 5.4 Szinkron-stratégia
@@ -48,8 +49,16 @@ Ha az UNAS áruház többnyelvű, a nyelvi változatok külön lekérhetők (nye
 ha nem, az UNAS csak `hu` forrás, a többi nyelv az adminban készül (gépi fordítás-javaslat + jóváhagyás, 06. fejezet).
 
 ## 5.7 Ellenőrzendő pontok (a fejlesztés első hetében)
-1. Van-e API-hozzáférés az előfizetésben; API-kulcs generálása tesztkörnyezetben.
+1. ~~Van-e API-hozzáférés~~ – van; a tulajdonos generálja a kulcsot (lásd 5.8).
 2. A `getProduct` tényleges XML-sémája (mezőnevek), különösen: **kapcsolódó/hozzárendelt termékek** – ha az API nem adja vissza, alternatíva: dedikált UNAS-paraméter („Kompatibilis készülék: SKU-lista") vagy kézi kapcsolás az adminban.
 3. Alaptartozékok forrása: szerepelnek-e strukturáltan (paraméter / kapcsolódó termék) vagy csak a leírás szövegében → ha csak szövegben, az adminban kézi lista.
 4. Hívásszám-korlát és a `TimeStart` delta pontos viselkedése.
 5. Többnyelvű mezők elérhetősége.
+
+## 5.8 Az API-kulcs kezelése
+- A kulcs **titok**: soha nem kerül a repóba, chatüzenetbe vagy dokumentumba. Tárolás: a fejlesztői felhő-környezet
+  beállításaiban környezeti változóként (`UNAS_API_KEY`), éles üzemben a szerver titokkezelőjében.
+- Az UNAS-nál a kulcsot a `login` hívás XML-törzsében küldjük, a válasz egy időkorlátos token; a többi hívás a tokent használja.
+- Ajánlott külön kulcs tesztre és élesre; a kulcs az UNAS adminban bármikor visszavonható és újragenerálható.
+- Első használat: `getProduct` mintaválasz lementése `docs/samples/` alá **anonimizálva** (ár, készlet nélkül), ebből
+  véglegesítjük az 5.3 mezőleképezést.

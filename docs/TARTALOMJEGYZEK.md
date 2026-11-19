@@ -1,6 +1,6 @@
 # Részletes tartalomjegyzék
 
-> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.2.0, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
+> Generált fejezetlista a `docs/` dokumentumaiból (verzió 0.2.1, 2026-11-19). Újragenerálás: `scripts/toc.sh`.
 
 - [README](../README.md)
 - [CHANGELOG](../CHANGELOG.md)
@@ -47,6 +47,7 @@
 - 5.5 Képek
 - 5.6 Többnyelvű UNAS-tartalom
 - 5.7 Ellenőrzendő pontok (a fejlesztés első hetében)
+- 5.8 Az API-kulcs kezelése
 
 ## [06 – Többnyelvűség](06-tobbnyelvuseg.md)
 - 6.1 Elvek
